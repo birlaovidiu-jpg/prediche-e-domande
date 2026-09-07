@@ -1,0 +1,8 @@
+# I file già compilati sono grossi (13 MB l'uno) e si rifanno con costruisci.py.
+# Quello pronto da usare sta fra le «Releases» qui su GitHub.
+Prediche_e_Domande_v*.html
+
+# roba di macOS e di lavoro
+.DS_Store
+*.pdf
+lez_*.txt
