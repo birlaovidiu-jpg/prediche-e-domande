@@ -283,11 +283,12 @@ it on the main thread froze the page).
 
 ## ⚠️ Gotchas / Traps
 
-- **THE DATA LIVES IN A TEMPORARY FOLDER.** `costruisci.py` line 4 reads
-  `/private/tmp/claude-501/-Users-ovidio-Desktop-ovidiu-claude/445a7a6a-.../scratchpad`
-  (70 MB of JSON). That path is session-specific and can be wiped at any time; a new
-  session gets a different one. **The build will fail.** Copy the JSON into the project
-  (e.g. `dati/`) and change `SCR` — but ask Ovidiu before touching his folder.
+- **The data now lives in the repo** (`dati/`, ~15 MB) and `costruisci.py` looks there
+  first. The old temporary-scratchpad paths are still in the list as a fallback, but the
+  build no longer depends on them. Fixed 7 September 2026.
+- **The project is a git repo**, pushed to the **private** GitHub repository
+  `birlaovidiu-jpg/prediche-e-domande`. Built HTML files are git-ignored; the finished
+  build is attached to a **Release** (`gh release create vX.Y "Prediche_e_Domande_vX.Y.html"`).
 - **Ovidiu's standing rule (memory `regole-lavoro-ovidiu.md`):** do *exactly* what he
   asks, nothing else. No unrequested buttons, sections, texts or "improvements". If you
   spot a defect, tell him in words and wait. Never delete his files.
