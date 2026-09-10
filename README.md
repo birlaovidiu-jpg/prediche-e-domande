@@ -5,12 +5,16 @@ Serve per condurre le riunioni di chiesa: quiz biblici, cantici, prediche,
 poesie, esperienze, la Bibbia, alba e tramonto e i lezionari della Scuola
 del Sabato con le annotazioni.
 
-## Come si scarica il programma pronto
+## Il programma si apre da qui
 
-Vai su **Releases** (colonna a destra) e scarica il file `.html` più recente.
-Aprilo con Safari o Chrome. Non serve installare niente.
+### 👉 https://birlaovidiu-jpg.github.io/prediche-e-domande/
 
-Sull'iPad: aprilo una volta, poi **Condividi → Aggiungi alla schermata Home**.
+Sull'iPad e sull'iPhone: apri il link con Safari, poi **Condividi → Aggiungi
+alla schermata Home**. Da quel momento si apre come un'applicazione, a tutto
+schermo, e **funziona anche senza internet**: la prima volta se lo tiene tutto
+da parte. Quando esce una versione nuova la prende da sola e te lo dice.
+
+Se preferisci il file da tenere sul computer, sta fra le **Releases**.
 
 ## Che cosa c'è dentro
 
@@ -33,6 +37,7 @@ e si ricompila.
 ```bash
 python3 costruisci.py 7.8        # scrive Prediche_e_Domande_v7.8.html
 python3 -m http.server 8796      # per provarlo nel browser
+python3 pubblica.py 7.8          # lo mette sul sito qui sopra
 ```
 
 - `sorgenti/*.js` — il programma, diviso in pezzi. Vengono uniti **in un solo

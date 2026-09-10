@@ -565,6 +565,25 @@ async function avvio(){
     if(ids.length) await riprendiAllegati(ids);
   }catch(e){}
   $('#verProg').textContent='versione '+VER;
+  /* quando il programma sta su un indirizzo internet (non aperto da file),
+     lascio in guardia il «service worker»: dopo la prima volta si apre
+     subito e funziona anche senza rete */
+  try{
+    if(location.protocol==='https:'){
+      /* sul sito uso il manifesto vero, non quello scritto dentro alla pagina:
+         così l'iPad la prende per un'applicazione e non per un sito */
+      const m=document.querySelector('link[rel="manifest"]');
+      if(m) m.href='manifest.json';
+    }
+    if('serviceWorker' in navigator && location.protocol==='https:'){
+      navigator.serviceWorker.register('sw.js').catch(()=>{});
+      let primo=!navigator.serviceWorker.controller;
+      navigator.serviceWorker.addEventListener('controllerchange',()=>{
+        if(!primo) avvisa('C\'è una versione nuova: chiudi e riapri il programma','ok');
+        primo=false;
+      });
+    }
+  }catch(e){}
   $('#ham').onclick=()=>document.body.classList.toggle('menu');
   $('#velo').onclick=()=>document.body.classList.remove('menu');
   $('#btCerca').onclick=cercaOvunque;
