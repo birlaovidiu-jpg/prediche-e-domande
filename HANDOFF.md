@@ -1,317 +1,234 @@
 # Handoff — Prediche e Domande (SDARM)
 
-> Updated 6 September 2026, 23:30 — resume in a new Claude Code session.
-> **Reply to Ovidiu in Italian, simple, no jargon.** He is not a programmer.
+> Updated 11 September 2026 — resume in a new Claude Code session.
+> **Reply to Ovidiu in Italian, plainly, no jargon.** He is not a programmer.
+> Current delivered version: **v7.8**.
 
 ---
 
 ## 🎯 Goal
 
-One self-contained HTML file (~10.5 MB, no internet needed) that Ovidiu — an SDARM
-church officer who works in Italian and Romanian on Mac/iPad/iPhone — uses to run
-church meetings: Bible quizzes, hymns, sermons, poems, testimonies, a Bible reader,
-sunrise/sunset, and a Sabbath-School lesson reader with PDF-style annotation.
-Everything projects to a second screen. "Done" = he can run a whole meeting from it
-on the iPad without touching anything else.
-
-Current delivered version: **v7.3** (`Prediche_e_Domande_v7.3.html`, ~12 MB).
-
-### What v7.3 added
-- **10,000 questions** (5,000 it + 5,000 ro, 2,500 per difficulty level, all 66 books).
-  New ones are machine-built from the Bible text by `genera_domande.py` with four
-  self-verifying shapes (which book · what the reference says · complete the verse · which chapter).
-- **«Chi ha detto» 2,909 → 4,816**: `chd9.py` (wider speech verbs, inverted subject,
-  multi-sentence splitting, partial discourses kept) + `salmi.py` (psalms whose
-  superscription names the author). **He asked for +3,000; +1,907 is what strict
-  attribution allows** — the rest would need pronoun guessing, which he forbade.
-- Per-language totals on the home tiles and above both sections (`strisciaLingue`).
-- Tapping a verse now projects the **whole chapter** starting on that verse.
-- Lesson reader: PDF canvas at **3×** (was 1.5–2×), notes layers at 2×, alive-page
-  radius computed from a 190 MB canvas budget (`fittezza`, `raggioVivo`).
-- Highlight/underline **stops mid-line** at the word (`paroleDiRiga` splits pdf.js text
-  items into words by proportional width).
-- Cross-language notes finally work — see memory `appunti-lezionari-due-lingue`.
-- Sabbath-school page fits an iPad without scrolling (`body.sab-fissa`).
-- Sky-panel backlight follows the sky colour continuously (`CIELO_FASI`, `luciCielo`).
-- Moon always drawn: true azimuth (clamped to the edge when off-panel), real phase,
-  size equal to the sun and varying with its real distance; below the horizon it sits
-  on the horizon line, dimmed.
-- Sermons: full screen (`body.pred-fissa`), **one** toolbar, «Dove ho predicato» in the bar,
-  Word-like editing, images stored in IndexedDB (`data-all`, `risolviImmagini`),
-  per-language text (`annot(i).testi[lg]`) sharing one sheet style, list defaults to Romanian.
-- Projection composer: «Prendi tutti: Versetto / Testo …» (`scegliTipo`).
-- Hymn backing track: play button in projection and regia (`bottoneBase`), never automatic.
-- **`costruisci.py` now searches a LIST of data folders** and fails with a clear message.
-
-### Still open after v7.3
-- His sermon `.pages` files are **not on the Mac any more** (iCloud evicted them), so
-  «make the sermons identical to my files» could not be done. He must download
-  `Predici` / `Predici Ovidiu` from iCloud first.
-- The 150 hymn mp3 (625 MB in `~/Desktop/ovidiu/chiesa/inni/`) cannot be embedded.
+One self-contained HTML file (~13 MB, no internet needed) that Ovidiu — an SDARM
+church officer working in Italian and Romanian on Mac/iPad/iPhone — uses to run
+church meetings: Bible quizzes, hymns, sermons, poems, experiences, a Bible
+reader, sunrise/sunset, and a Sabbath-School lesson reader with PDF-style
+annotation. Everything projects to a second screen.
+"Done" = he can run a whole meeting from it on the iPad.
 
 ---
 
-## 📍 Current State
+## 📍 Where everything lives
 
-**Working:**
-- **Build**: `python3 costruisci.py <version>` assembles `sorgenti/*.js` + `stile.css` +
-  `guscio.html` + JSON data into `Prediche_e_Domande_v<version>.html`.
-- **Self-tests**: `autoTest()` in the browser console — **195 checks, all passing**.
-- **Domande bibliche** — 5111 questions (IT+RO), book / Old-New Testament / difficulty
-  filters, projection, PDF, PowerPoint, "quiz a sorpresa".
-- **Chi ha detto?** — 2909 phrases rebuilt from the embedded Bible text with strict
-  speaker rules (see Failed Attempts). 3 difficulty levels, OT/NT, "with 3 answers"
-  or "answer only" presentation modes.
-- **Bibbia** — 3 versions embedded (LND it, Cornilescu ro, KJV en), gzip+base64,
-  book/chapter/verse grid.
-- **Cantici** — 1549 hymns in 4 collections; Ovidiu's own collection is exactly 84
-  (68 from his `Cântări.pdf` + 16 from `~/Desktop/cantari ovidiu/*.pages`).
-  Projection has no "Strofa/Ritornello" labels; each written line stays on one screen
-  line; music file can be attached from inside the hymn window.
-- **Prediche / Poesie / Esperienze / Scuola del Sabato / Bibbia / Dati e copie / Guida**.
-- **Home** — no hero box; large tiles; live sun/moon panel (real astronomy, updates
-  every 20 s and on returning to the app), horizon line sitting exactly on top of the
-  sunset bar, backlight coloured by the current sky.
-- **Lesson reader** (`6d_lettore.js`) — continuous scrolling with 2 mm page gap, pinch
-  zoom, left toolbar with labels, highlighter (true colours, one-line band, adjustable
-  transparency), underline (separate colour + thickness), pen, text notes (movable,
-  resizable, font + size + colour, voice dictation), eraser, selection-eraser,
-  undo/redo, note list, page colour (11 tints), lesson index, "Sabato" button.
-- **Cross-language notes** — annotations are keyed by *Sabbath date + weekday + page
-  offset*, so what you write on the Italian lezionario appears on the Romanian one of
-  the same quarter and vice versa.
+| | |
+|---|---|
+| Project | `/Users/ovidio/Desktop/ovidiu/claude/prediche e domande/` |
+| GitHub | **public** repo `birlaovidiu-jpg/prediche-e-domande` |
+| Live app | https://birlaovidiu-jpg.github.io/prediche-e-domande/ (branch `gh-pages`) |
+| Build | `python3 costruisci.py 7.9` → `Prediche_e_Domande_v7.9.html` |
+| Publish | `python3 pubblica.py 7.9` — builds + updates the site (uses a git worktree, never touches the working tree) |
+| Test server | `python3 -m http.server 8796`, then `…v7.9.html?nc=1` (the `?nc=` avoids a stale cache — this cost a long false-alarm debugging session once) |
+| Self-tests | open in a browser, run `autoTest()` in the console — **216 checks, `falliti` must be empty** |
 
-**Not working / not started:**
-- **Giochi** (games, 500 crosswords with 3 difficulty levels, Bible games for young
-  people) — asked for twice, never started. He postponed them to finish the lezionario.
-- **Libri** (Ellen White / Uriah Smith / Jones & Waggoner library) — he chose "books in
-  a folder next to the HTML" (`libri/indice.js` loaded via injected `<script>` tags,
-  because `fetch` is blocked on `file://`). Never built.
-- **"Libri e giochi" as a separate home category** — asked for, blocked by the two above.
-- **Working Policy** fully translated IT+RO + a "Finanze" button — asked for long ago.
-  `estraiwp.html` (pdf.js position-aware extractor) was written but **never run**.
-  The PDF states "no part may be reproduced without written permission" — flagged to him.
-- **Chi ha detto** is at 2909, he asked for "at least 3000". Getting the last ~90 would
-  require loosening the attribution rules, which he forbade ("no margin of error").
+**The data is now inside the repo** (`dati/`, ~15 MB). The old temporary-scratchpad
+paths are still in `costruisci.py`'s `CARTELLE` list as a fallback, but the old
+scratchpad has already been wiped once — do not rely on it.
 
 ---
 
-## 📁 Relevant Files
+## ✅ Current state — what works
 
-| File | Role / Status |
-|------|--------------|
-| `costruisci.py` | Build script. **Line 4 `SCR=` points at a temporary scratchpad — see Gotchas.** |
-| `sorgenti/1_nucleo.js` | State, IndexedDB, `apri()` modal, navigation, `MESI`, `vai()` |
-| `sorgenti/2_proiezione.js` | Projection engine, slides, regia, ESC button, text fitting |
-| `sorgenti/3_domande.js` | Bible questions view + filters |
-| `sorgenti/4_cantici.js` | Hymns, music attachment, projection slides |
-| `sorgenti/5_prediche.js` | Sermons, rich-text editor, `FAMIGLIE` font stacks |
-| `sorgenti/6c_sabato.js` | Lezionari: language/year/quarter detection, lesson & day detection, next-Sabbath logic, index |
-| `sorgenti/6d_lettore.js` | **PDF reader** — the most edited file. Annotations, tools, undo, canvas lifecycle |
-| `sorgenti/6e_sole.js` | Sun/moon astronomy, sky drawing, home panel |
-| `sorgenti/6f_bibbia.js` | Embedded Bibles, reference parsing |
-| `sorgenti/6g_chihadetto.js` | "Chi ha detto?" view |
-| `sorgenti/7b/7c/7d_*.js` | PPTX writer, PDF writer, sermon PDF |
-| `sorgenti/8_home_dati_guida.js` | Home tiles, data/backup, guide |
-| `sorgenti/9_avvio.js` | **157 self-tests** (`autoTest`) + boot |
-| `sorgenti/stile.css` | All CSS (~64 KB) |
-| `Prediche_e_Domande_v7.2.html` | Last delivered build |
-
-Data JSON (**outside the project**, see Gotchas):
-`chihadetto.json`, `cantici_v3.json`, `domande_finali.json`, `bibbia.json`,
-`prediche_finali.json`, `poesie_finali.json`, `esperienze_finali.json`,
-`localita.json`, `icone.json`, `logopulito.json`.
+- **Domande bibliche** — 10.000 (5.000 it + 5.000 ro), 2.500 per each of 4 difficulty
+  levels, all 66 books. The ~4.900 new ones are machine-built from the Bible text by
+  `dati/`-fed generators with four self-verifying shapes (which book · what the
+  reference says · complete the verse · which chapter).
+- **Chi ha detto?** — 4.816 phrases, speaker verified on the text.
+- **Memoria delle presentazioni** — what he has already presented never comes back until
+  the pool is exhausted; remembered forever (`stato.viste`, 7-char hashes of the text, so
+  it survives rebuilds). Round counter + "Ricomincia il giro" button.
+- **Per-language totals** on the home tiles and above both sections.
+- **Bibbia** — 3 versions embedded (LND it, Cornilescu ro, KJV en). Tapping a verse projects
+  the **whole chapter** starting there, so forward/back works.
+- **Cantici** — 1.549 in 4 collections; backing-track play button in projection and regia,
+  never automatic.
+- **Prediche** — 62, extracted from his `.pages` files **with their formatting** (colours,
+  fonts, sizes, bold, italic) by the IWA parser. Full-screen sheet, **one** toolbar,
+  Word-like editing, images, pinch zoom, custom **🎞 Diapositive** (PowerPoint-like) that
+  can be placed anywhere in the sermon, trash button, total in the top bar.
+  New sermon → metadata dialog, then straight into the full-page white sheet in edit mode.
+- **Esperienze** — 183 so far (77 `vera` + 106 `racconto`). Two filter buttons, a badge on
+  every one, and a notice in the reader saying which it is. They open in the **same
+  full-page sheet as the sermons**.
+- **Scuola del Sabato** — page fits an iPad without scrolling; annotations cross between the
+  Italian and Romanian editions **onto the same words** (see below); highlighter and
+  underline stop **at the letter**; PDF rendered at 3× density.
+- **Home** — clean blue logo in the top bar, sky panel whose backlight follows the real sky
+  colour continuously, moon always visible in its true direction with its real phase and
+  the day's real apparent size.
+- **Web app** — service worker (`sorgenti/sw.js`, version baked in at publish time) caches
+  the whole program; opens instantly and offline after the first visit, and tells him when
+  a new version is ready.
 
 ---
 
-## ❌ Failed Attempts
+## 🧩 The hard part: cross-language annotations
 
-### IntersectionObserver for lazy page rendering
-- **What:** used an `IntersectionObserver` to draw PDF pages as they scrolled into view.
-- **Why it failed:** after freeing a far-away page's canvas, the observer does not fire
-  again for an element whose intersection state has not *changed*, so pages that were
-  freed while still on screen stayed blank forever.
-- **Fix:** a `scroll` listener on `#letArea` + a 350 ms interval safety net that compares
-  `scrollTop` (`aggiornaVista()`), and `liberaLontane()` never frees a visible page.
+Three failed designs before this worked. The current one, in `6d_lettore.js`:
+
+1. **Group** = `t<year>-<quarter>`, taken from the **median Sabbath date** of the detected
+   lessons — not from the year printed on the cover, which the two editions write differently.
+2. **`schemaGruppo(l)`** decides *how* to write an address, looking at **all** lezionari of
+   that quarter at once, so both editions necessarily agree:
+   - dates only if **every** edition has them (`completaDate()` fills gaps by counting
+     7 days per lesson from any one known date);
+   - weekdays only if **every** edition detects them, and only the weekday numbers in the
+     **intersection** (`giorniComuni`) — otherwise the Italian, which doesn't print
+     "Sabato" on the lesson page, would count pages from a different origin;
+   - otherwise the lesson's **ordinal**, normalised to 13 if the editions count a different
+     number of lessons.
+3. **The key is the DAY, not the page** (`chiaveNota` returns `S<date>G<k>` with no page
+   offset). The same sentence can be on page 87 in Italian and page 88 in Romanian.
+4. **Every mark stores a text anchor** (`ancoraDa`): which paragraph *of the whole day*
+   (paragraphs are stitched back together across page breaks when the previous one doesn't
+   end in sentence punctuation), **which sentence**, and the character offsets inside that
+   sentence. `rettDaAncora` maps it back onto the other edition's own words.
+   Sentence-level is the key: proportional mapping over a whole paragraph drifts by a line.
+5. `rettDi(a,n)` returns the rectangles for the current page: from the anchor when there is
+   one (so the mark follows the text onto whatever page holds it), otherwise from `a.off`
+   (the page offset within the day) for marks with no text under them — empty answer lines,
+   pen strokes, text notes.
+
+Verified with real PDFs: highlighting *«Come Fratello maggiore della nostra razza, Egli
+conosce le necessità di coloro che…»* in Italian lands exactly on *«Ca Frate mai mare al
+neamului nostru, El cunoaște nevoile celor care…»* in Romanian, across a page break.
+
+---
+
+## 📁 Files
+
+| File | Role |
+|------|------|
+| `costruisci.py` | Build. `CARTELLE` lists where to find data; `dati/` first. |
+| `pubblica.py` | Build + publish to GitHub Pages. Uses a **git worktree** — an earlier version used `git stash` and left the repo on an orphan branch. |
+| `sorgenti/1_nucleo.js` | State, IndexedDB, `apri()`, navigation, **presentation memory** (`chiaveVista`, `pescaNuove`, `segnaViste`), `contaLingue`/`strisciaLingue` |
+| `sorgenti/2_proiezione.js` | Projection, slides, regia, `p-img` slide type, hymn backing track (`BASE_MU`) |
+| `sorgenti/3_domande.js` | Questions view + filters (two rows incl. search) |
+| `sorgenti/4_cantici.js` | Hymns |
+| `sorgenti/5_prediche.js` | **Sermons + the shared full-page sheet** (experiences use it too via `trovaPredica` falling through to `tutteEsperienze`), custom slides, pinch zoom |
+| `sorgenti/6_esperienze.js` | Experiences list, `vera`/`racconto` filter |
+| `sorgenti/6c_sabato.js` | Lezionari: language/year/quarter/lesson/day detection, `completaDate`, compact page |
+| `sorgenti/6d_lettore.js` | **PDF reader** — the most delicate file. Annotations, anchors, tools, undo, canvas lifecycle |
+| `sorgenti/6e_sole.js` | Astronomy, continuous sky colours (`CIELO_FASI`), moon |
+| `sorgenti/6f_bibbia.js` | Bibles, reference parsing |
+| `sorgenti/6g_chihadetto.js` | "Chi ha detto?" |
+| `sorgenti/7b/7c/7d_*.js` | PPTX, PDF, sermon PDF |
+| `sorgenti/8_home_dati_guida.js` | Home tiles, data/backup (incl. restoring removed sermons/experiences), guide |
+| `sorgenti/9_avvio.js` | **216 self-tests** + boot + service-worker registration |
+| `sorgenti/sw.js` | Service worker template (`__VER__` replaced at publish) |
+| `sorgenti/stile.css` | All CSS (~75 KB) |
+| `dati/` | Bible, questions, hymns, sermons, experiences, pdf.js, icons |
+
+---
+
+## ❌ Failed attempts — do not repeat
+
+### Annotations keyed by page position
+Marks landed at the same *place on the sheet* in the other language, not on the same words.
+He sent photos proving it. → text anchors, see above.
+
+### Anchoring proportionally over the whole paragraph
+An 824-character paragraph drifts 40–80 characters between translations — a whole clause.
+The Italian «Il Suo stesso esempio…» landed on the Romanian «El știe că solii…».
+→ anchor **per sentence**.
+
+### Anchoring per page
+The same paragraph is cut by the page break at different points in the two editions, so the
+paragraph on "page 87" is not the same paragraph. → stitch paragraphs across the day's pages,
+and key annotations by day.
+
+### Word-level highlight selection
+He asked for letter precision. Snapping to whole words also dragged in one extra word at each
+end. → clip the band at the finger's exact X, clamped to the row's text extent.
+
+### `git stash` inside `pubblica.py`
+Left the repo checked out on an orphan branch with the work stashed. → `git worktree`.
+
+### `IntersectionObserver` for lazy page rendering
+After freeing a canvas the observer does not fire again for an element whose intersection
+state has not *changed*, so pages stayed blank. → scroll listener + 350 ms interval safety net;
+`liberaLontane` never frees a visible page.
 
 ### Rendering every page's canvas at once
-- **What:** in scroll mode, created 3 canvases per page for all 94 pages.
-- **Why it failed:** iOS/iPadOS has a hard total-canvas-memory limit and silently
-  returns **blank canvases** past it. Ovidiu saw "only the cover, all other pages white".
-- **Fix:** keep only pages within ±3 of the current one; free the rest (`width=height=1`).
+iOS silently returns **blank canvases** past a total-canvas-memory limit. → keep only pages
+within `raggioVivo()` (computed from a 190 MB budget at the current density) and free the rest.
 
 ### `scrollIntoView({behavior:'smooth'})`
-- **What:** used to jump to a lesson from the index.
-- **Why it failed:** over long distances inside the scroller it simply did not move; the
-  page counter changed but the view stayed put.
-- **Fix:** `portaAPagina(n)` computes the delta with `getBoundingClientRect()` and sets
-  `area.scrollTop` directly.
+Did not move over long distances inside the scroller. → `portaAPagina(n)` sets `scrollTop`.
 
-### Highlighter drawn with `globalAlpha` on the notes canvas
-- **What:** filled the line rectangles with `globalAlpha = 0.38`.
-- **Why it failed:** (a) colours came out washed and shifted — "i colori devono essere
-  veri"; (b) overlapping rectangles between consecutive lines darkened, which looked
-  like a line drawn under the text.
-- **Fix:** a dedicated `.let-evid` canvas with CSS `mix-blend-mode: multiply` (real
-  marker behaviour), all rectangles of one annotation filled in a **single** `fill(Path2D)`.
+### Highlighter drawn with `globalAlpha`
+Washed colours and darkening overlaps. → dedicated `.let-evid` canvas with
+`mix-blend-mode: multiply`, all rectangles of one mark filled in a **single** `fill(Path2D)`.
 
-### Highlight band geometry
-- **What:** first `y0-0.004 … +0.008`, then `y0-10% … height×1.34`.
-- **Why it failed:** the band overflowed into the neighbouring lines, so several lines
-  merged into one block. He complained twice.
-- **Fix:** `y0 + 14% … height × 1.06` — exactly one line tall, text vertically centred.
+### Duplicate top-level `const` across source files
+All files are concatenated into ONE script — `SyntaxError: Identifier has already been
+declared` kills the **entire app** silently. Happened with `MESI`, `COL_EVID`, `BASE`.
+**Always grep `sorgenti/` before adding a global.**
 
-### Underline position
-- **What:** drawn at the text box bottom (= the baseline), then at +20 % of line height.
-- **Why it failed:** at the baseline it cut through descenders (g, p, q); at +20 % it was
-  visibly too far below.
-- **Fix:** `+6 %` of the line height (min 1 px).
-
-### Note key based on the lesson number
-- **What:** `L<lessonNumber>G<weekday>+<offset>` as the shared-annotation key.
-- **Why it failed:** the Italian and Romanian editions **number the lessons differently**
-  (his files: Italian "12. Il privilegio della preghiera" vs Romanian "11. Privilegiul
-  rugăciunii" — same lesson, same Sabbath). Notes never met.
-- **Fix:** key on the **Sabbath date**: `S2026-09-12G0+0`. `chiaveVecchia()` migrates
-  notes saved under the old key on first read.
-
-### Weekday detection by full name only
-- **What:** looked for "domenica"/"duminică" in the first 170 characters of the page.
-- **Why it failed:** the Italian lezionario writes the day abbreviated and far down the
-  page: "Dom, 6 Set". No day found → different key from the Romanian one.
-- **Fix:** full name *or* abbreviation (dom/lun/mar/mer/gio/ven/sab, dum/lun/mar/mie/joi/
-  vin/sam) followed by a day number, searched in the whole page, with word boundaries so
-  "mar" does not match "Marco".
+### Lookbehind regex `(?<=…)`
+Unsupported by older iPad Safari → parse error → whole app dead. It slipped back in twice.
 
 ### Quarter detection by first month name found
-- **What:** searched month names inside the accent- and space-stripped text.
-- **Why it failed:** Romanian **"mai"** means "more" and appears everywhere ("mai
-  strânsă"), so *Umblând cu Isus* (July–September) was filed under April–June and did not
-  show up in the Lug–Set box.
-- **Fix:** look for the month **range** first ("IULIE - SEPTEMBRIE"), then single whole
-  words skipping "mai". Already-saved lezionari are re-checked once by
-  `ricontrollaTrimestri()` (skipped if the user set the quarter by hand).
+Romanian **"mai"** means "more". → look for the month **range** first, then whole words
+skipping "mai".
 
-### Text-note box wider than the text
-- **What:** `.let-tx` had `white-space: pre-wrap`.
-- **Why it failed:** the whitespace between `</span>` and the handle `<span>`s in the
-  template was rendered, inflating the box.
-- **Fix:** `white-space: normal` on `.let-tx`, `pre-wrap` on `.tx-corpo`, no whitespace
-  in the template.
+### Weekday detection by full name only
+The Italian lezionario writes "Dom, 6 Set". → full name *or* abbreviation followed by a day
+number, with word boundaries so "mar" does not match "Marco".
 
-### `.let-testi` overlay capturing pointer events
-- **Why it failed:** with the text tool active, tapping an empty area hit the overlay and
-  nothing happened.
-- **Fix:** `pointer-events: none` on the layer, `auto` on the `.let-tx` children.
-
-### Tap-to-hide the toolbars
-- **What:** `nudo()` was called from `letGiu()` on the notes canvas.
-- **Why it failed:** with the hand tool the notes canvas has `pointer-events: none`, so
-  the tap never arrived. Ovidiu reported "the buttons don't work".
-- **Fix:** a document-level `click` handler that ignores the toolbars and calls `nudo()`.
-
-### Duplicate top-level `const` names across source files
-- **What:** added `MESI` in `6c_sabato.js` and `COL_EVID` in `6d_lettore.js`.
-- **Why it failed:** all files are concatenated into ONE script — `SyntaxError:
-  Identifier has already been declared` kills the **entire app** silently.
-- **Fix:** renamed to `MESI_LEZ`, `COL_EVID_LEZ`. **Always grep before adding a global.**
-
-### Lookbehind regex `(?<=...)`
-- **Why it failed:** unsupported by older Safari (iPad) → parse error → whole app dead.
-  It slipped back in twice. Avoid entirely.
-
-### "Chi ha detto?" extraction by nearest name
-- **What:** the original 3534 phrases were attributed to whatever name was near the quote.
-- **Why it failed:** ~1 in 10 wrong (Nicodemus→Jesus, Ahimelech→David, a demon→God), plus
-  fragments that were not speech at all.
-- **Fix:** rebuilt from the Bible text: the name must be the **subject** of the speech
-  verb, only one proper name in the introduction, nested "Così dice l'Eterno" ends the
-  span, and the two translations must agree. 58 phrases hand-checked, all correct.
-
-### Julian day truncation in `calcolaSole`
-- **Why it failed:** `Math.floor(JD)` returned the *previous* day, so after sunrise the
-  panel still showed "ALBA … fra 0 min".
-- **Fix:** build the day number from the local calendar date via `Date.UTC(y,m,d)`.
+### Positional sermon ids (`'p'+i`)
+Changing the sermon list moved his annotations onto the wrong sermons. → ids are now
+`'pr'+numero` (from the filename), with a one-time migration table `_MAPPR` applied by
+`spostaAppuntiPrediche()`.
 
 ---
 
-## ✅ Working Solutions
+## ➡️ Next steps (in his order)
 
-- **One build script, many small source files.** Never edit the generated HTML.
-- **`autoTest()`** — 157 checks. Run it after every build:
-  open the file and evaluate `autoTest()` in the console; `falliti` must be empty.
-- **Local server for testing**: `python3 -m http.server 8796` inside the project folder,
-  then open `http://localhost:8796/Prediche_e_Domande_vX.Y.html?v=N` (the `?v=` avoids
-  the browser cache, which caused a long false-alarm debugging session).
-- **Test the UI with real clicks**, not by calling functions from the console. Two real
-  bugs (tap-to-hide, index navigation) were invisible to function-level testing.
-- **Synthetic lezionari for testing**: build a text file and convert with
-  `cupsfilter -i text/plain in.txt > out.pdf` — produces a real PDF with a text layer.
-- **Annotations keyed by Sabbath date** — language- and numbering-independent.
-
----
-
-## 🔧 Dependencies & Setup
-
-```bash
-cd "/Users/ovidio/Desktop/ovidiu/claude/prediche e domande"
-python3 costruisci.py 7.3          # writes Prediche_e_Domande_v7.3.html
-python3 -m http.server 8796        # for testing in the browser
-```
-
-No third-party libraries. pdf.js is embedded in the HTML shell; its worker is stored as
-`<script id="pdfWorkerSrc" type="text/js-worker">` and started from a Blob URL (running
-it on the main thread froze the page).
+1. **Esperienze → 500**: he wants **200 `vera` + 300 `racconto`**. Now at 77 + 106.
+   Write them in `<scratchpad>/esp/g*.json` (racconti) and `v*.json` (vere), then
+   `python3 _unisci.py` writes `dati/esperienze_500.json`. Each entry needs
+   `tit, lg, tipo, rif, testo` and >420 characters; duplicates are keyed by (lg, title).
+   **He was told and accepted** that the `racconto` ones are written by me — keep them free
+   of invented named real people, and keep the `vera` ones factually checkable.
+2. **Translate the 52 Romanian sermons into Italian**, preserving colours/italics/layout.
+   They become separate entries in the list (the in-sermon language switch was removed).
+3. **Giochi** — at least 300, replacing "Quiz a sorpresa" on the home: maxims/phrases with a
+   spiritual reflection, crosswords, tic-tac-toe and more.
 
 ---
 
-## ➡️ Next Steps
+## ⚠️ Gotchas
 
-1. **Save the data JSON inside the project** — see the first Gotcha. Without it the
-   build cannot run in a new session. Ask Ovidiu first (he decides about his folders).
-2. **Giochi** — he asked twice: 500 crosswords with 3 difficulty levels and Bible games
-   for young people, in their own home category together with the books.
-3. **Libri** — folder-based library (`libri/indice.js` + `<script>` injection, because
-   `fetch` is blocked on `file://`), then the "Libri e giochi" home category.
-4. **Working Policy** translated IT+RO with a "Finanze" button — run `estraiwp.html`
-   first; re-flag the copyright notice before doing the work.
-5. Wait for his feedback on v7.2 (bigger flags, cross-language notes). If notes still do
-   not cross, ask him to open the **Indice** on both lezionari and check whether one of
-   the two lists is empty — that is the fastest diagnostic.
-
----
-
-## ⚠️ Gotchas / Traps
-
-- **The data now lives in the repo** (`dati/`, ~15 MB) and `costruisci.py` looks there
-  first. The old temporary-scratchpad paths are still in the list as a fallback, but the
-  build no longer depends on them. Fixed 7 September 2026.
-- **The project is a git repo**, pushed to the **private** GitHub repository
-  `birlaovidiu-jpg/prediche-e-domande`. Built HTML files are git-ignored; the finished
-  build is attached to a **Release** (`gh release create vX.Y "Prediche_e_Domande_vX.Y.html"`).
-- **Ovidiu's standing rule (memory `regole-lavoro-ovidiu.md`):** do *exactly* what he
-  asks, nothing else. No unrequested buttons, sections, texts or "improvements". If you
-  spot a defect, tell him in words and wait. Never delete his files.
+- **Ovidiu's standing rule** (memory `regole-lavoro-ovidiu`): do *exactly* what he asks,
+  nothing else. No unrequested buttons, sections or "improvements". If you spot a defect,
+  tell him in words and wait. Never delete his files.
 - Reply **in Italian**, plainly. Never use his real data (names, churches) in examples.
 - Every message is a precise list of requests — do all of them, one build, one delivery.
-- **Before adding any top-level `const`/`function`, grep `sorgenti/` for the name.**
+- He sends new requests **while you are still working**. Keep a list; don't drop the earlier ones.
+- **Before adding any top-level `const`/`function`, grep `sorgenti/`.**
 - No lookbehind regex, no `??=`/`.at()`/`structuredClone` in our own code (old iPad Safari).
-- The browser preview pane used for testing is often `document.hidden` → `requestAnimation
-  Frame` and programmatic scroll events do not fire. Do not mistake that for a real bug.
-- Delete the test PDFs from the project folder before delivering (`lez_*.pdf`, `cop.pdf`).
-- Deliver with `SendUserFile`; he opens the HTML on the iPad.
-
----
-
-## 💬 Notes
-
-- His Italian and Romanian lezionari are often **different quarters**; annotations only
-  cross between editions of the *same* year+quarter. He was told.
-- Highlight rectangles transfer to the other language at the same relative position:
-  since the two editions are typeset differently they may land on slightly different
-  words. Text notes and pen strokes transfer exactly. He was told.
-- Sun and moon are drawn much larger than life so they are visible in the small panel;
-  their *positions* are real (moon phase within 24 minutes on five known eclipses).
-- Open question never answered: 14 phrases with "lo" instead of "Io" and ~660 with
-  half-open quotation marks in the *old* "Chi ha detto?" data — superseded by the
-  rebuild, but worth re-checking if he reports odd punctuation.
+- `[hidden]` loses to `display:flex` — use `.x[hidden]{display:none!important}`.
+- The browser preview pane used for testing is often `document.hidden` → `requestAnimationFrame`
+  and programmatic scroll events do not fire. Do not mistake that for a real bug.
+- Delete test PDFs from the project folder before delivering (`lez_*.pdf`, `anc_*.pdf`, `sp_*.pdf`).
+- Deliver with `SendUserFile`, and publish with `pubblica.py` so the iPad link updates.
+- His sermon `.pages` files are in `/Users/ovidio/Desktop/predici/` (61 files, `<numero>-<titolo>.pages`).
+  Apple Pages is **not installed**: they are read by the IWA parser now kept in
+  `strumenti/` (`iwa.py` → Snappy, `iwa2.py` → protobuf walker, `estrai_predica.py` → styles
+  to HTML, `tutte_prediche.py` → the whole folder).
+- **The question and «Chi ha detto» generators were lost** when a temporary scratchpad was
+  wiped. The *output* is safe in `dati/domande_10000.json` and `dati/chihadetto_nuovo.json`;
+  only the scripts are gone. The method is written up in the section above — rewrite them if
+  more are needed. `strumenti/` is there so this does not happen again.
+- The repo is **public** and contains the three Bible translations. He was warned about the
+  copyright and chose to publish anyway. If a takedown ever arrives, build a public version
+  without the Bibles.
