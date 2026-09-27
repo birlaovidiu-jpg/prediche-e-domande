@@ -1,0 +1,484 @@
+# Viaggi della Genesi (oltre ad «Abrahamo verso Canaan», che sta in viaggi.json)
+
+= abramo_egitto | 🐪 | Abrahamo scende in Egitto | Avraam coboară în Egipt | 1 12:10
+@ betel | 1 12:8
+it: Abrahamo piantò la tenda fra Bethel e Ai e costruì un altare all'Eterno.
+ro: Avram și-a întins cortul între Betel și Ai și a zidit un altar Domnului.
+@ negev | 1 12:9
+it: Abrahamo continuò a spostarsi verso il Neghev, di accampamento in accampamento.
+ro: Avram și-a urmat drumul, mergând spre miazăzi.
+? domanda | 1 12:10
+qi: Perché Abrahamo lasciò il paese e scese in Egitto?
+qr: De ce a părăsit Avram țara și s-a coborât în Egipt?
+ai: Perché nel paese c'era una grave carestia | Perché il Faraone lo aveva chiamato | Per comprare bestiame | Per sfuggire ai re dell'oriente
+ar: Pentru că în țară era o foamete mare | Pentru că Faraon îl chemase | Ca să cumpere vite | Ca să scape de împărații de la răsărit
+@ egitto | 1 12:15
+it: I principi del Faraone videro Sara e la portarono nella casa del Faraone.
+ro: Dregătorii lui Faraon au văzut-o pe Sarai și au dus-o în casa lui Faraon.
+? evento | 1 12:13
+qi: Che cosa chiese Abrahamo a Sara prima di entrare in Egitto?
+qr: Ce i-a cerut Avram lui Sarai înainte de a intra în Egipt?
+ai: Di dire che era sua sorella | Di restare nel deserto | Di nascondersi in una tenda | Di parlare lei al Faraone
+ar: Să spună că este sora lui | Să rămână în pustie | Să se ascundă într-un cort | Să vorbească ea cu Faraon
+@ negev | 1 13:1 | il Neghev, al ritorno | ținutul de miazăzi, la întoarcere
+it: Dopo le piaghe mandate sul Faraone, Abrahamo risalì dall'Egitto con Sara, con Lot e con tutto quello che aveva.
+ro: După urgiile trimise asupra lui Faraon, Avram s-a suit din Egipt cu Sarai, cu Lot și cu tot ce avea.
+? domanda | 1 12:17
+qi: Che cosa fece l'Eterno al Faraone a motivo di Sara?
+qr: Ce i-a făcut Domnul lui Faraon din pricina lui Sarai?
+ai: Lo colpì con grandi piaghe, lui e la sua casa | Gli parlò in sogno | Lo rese cieco | Mandò le rane nel paese
+ar: L-a lovit cu mari urgii, pe el și casa lui | I-a vorbit în vis | L-a orbit | A trimis broaște în țară
+@ betel | 1 13:4 | Bethel, di nuovo | Betel, din nou
+it: Abrahamo tornò al luogo dove prima aveva costruito l'altare e lì invocò il nome dell'Eterno.
+ro: Avram s-a întors la locul unde zidise altarul la început și a chemat acolo Numele Domnului.
+? ordina | 1 13:4
+qi: Metti in ordine il viaggio di Abrahamo.
+qr: Pune în ordine călătoria lui Avram.
+ai: L'altare fra Bethel e Ai | La carestia nel paese | Sara nella casa del Faraone | Il ritorno all'altare di Bethel
+ar: Altarul dintre Betel și Ai | Foametea din țară | Sarai în casa lui Faraon | Întoarcerea la altarul de la Betel
+
+= lot_sceglie | ⛺ | Abrahamo e Lot si separano | Avraam și Lot se despart | 1 13:8
+@ betel | 1 13:7
+it: I pastori del bestiame di Abrahamo litigavano con i pastori del bestiame di Lot.
+ro: S-a iscat o ceartă între păzitorii turmelor lui Avram și păzitorii turmelor lui Lot.
+@ sodoma | 1 13:11 | la pianura del Giordano, verso Sodoma | câmpia Iordanului, spre Sodoma
+it: Lot scelse per sé tutta la pianura del Giordano, ben irrigata, e piantò le tende fino a Sodoma.
+ro: Lot și-a ales toată câmpia Iordanului, bine udată, și și-a întins corturile până la Sodoma.
+? domanda | 1 13:9
+qi: Che cosa disse Abrahamo a Lot per evitare la lite?
+qr: Ce i-a spus Avram lui Lot ca să nu fie ceartă?
+ai: «Se tu vai a sinistra, io andrò a destra» | «Torna nel paese di Haran» | «Dividiamo il bestiame a metà» | «Decida il re di Sodoma»
+ar: „Dacă apuci tu la stânga, eu voi apuca la dreapta” | „Întoarce-te în țara Haran” | „Să împărțim vitele în două” | „Să hotărască împăratul Sodomei”
+@ mamre | 1 13:18
+it: Abrahamo andò ad abitare alle querce di Mamre, a Hebron, e lì costruì un altare all'Eterno.
+ro: Avram a venit și a locuit la stejarii lui Mamre, lângă Hebron, și a zidit acolo un altar Domnului.
+? evento | 1 13:16
+qi: A che cosa paragonò Dio la discendenza di Abrahamo dopo la partenza di Lot?
+qr: Cu ce a asemănat Dumnezeu sămânța lui Avram după plecarea lui Lot?
+ai: Alla polvere della terra | Alle foglie degli alberi | Ai pesci del mare | Ai granelli d'orzo
+ar: Cu pulberea pământului | Cu frunzele copacilor | Cu peștii mării | Cu boabele de orz
+
+= abramo_libera_lot | ⚔️ | Abrahamo libera Lot | Avraam îl eliberează pe Lot | 1 14:14
+@ mamre | 1 14:13
+it: Un fuggiasco venne ad annunciare ad Abrahamo che Lot era stato fatto prigioniero dai re dell'oriente.
+ro: Un fugar a venit să-i dea de știre lui Avram că Lot fusese luat prins de împărații de la răsărit.
+@ dan | 1 14:14
+it: Abrahamo armò i suoi servi e inseguì i nemici fino a Dan.
+ro: Avram și-a înarmat slugile și a urmărit pe vrăjmași până la Dan.
+? domanda | 1 14:14
+qi: Quanti servi addestrati, nati in casa sua, armò Abrahamo?
+qr: Câți robi deprinși la luptă, născuți în casa lui, a înarmat Avram?
+ai: 318 | 70 | 1000 | 12
+ar: 318 | 70 | 1000 | 12
+@ hobah | 1 14:15
+it: Di notte Abrahamo li attaccò, li sconfisse e li inseguì fino a Hobah, a nord di Damasco.
+ro: Noaptea s-a aruncat asupra lor, i-a bătut și i-a urmărit până la Hoba, la stânga Damascului.
+? evento | 1 14:16
+qi: Che cosa riportò indietro Abrahamo dopo la vittoria?
+qr: Ce a adus înapoi Avram după biruință?
+ai: Lot, i suoi beni, le donne e il popolo | Soltanto le pecore | L'oro del re di Elam | Nulla, perché i nemici fuggirono
+ar: Pe Lot, averile lui, femeile și poporul | Numai oile | Aurul împăratului Elamului | Nimic, căci vrăjmașii fugiseră
+@ gerusalemme | 1 14:18 | Salem | Salem
+it: Melchisedek, re di Salem e sacerdote del Dio Altissimo, portò pane e vino e benedisse Abrahamo.
+ro: Melhisedec, împăratul Salemului, preot al Dumnezeului Celui Preaînalt, a adus pâine și vin și l-a binecuvântat pe Avram.
+? personaggio | 1 14:18
+qi: Quale re e sacerdote benedisse Abrahamo portandogli pane e vino?
+qr: Care împărat și preot l-a binecuvântat pe Avram aducându-i pâine și vin?
+ai: Melchisedek | Abimelek | Kedorlaomer | Il re di Sodoma
+ar: Melhisedec | Abimelec | Chedorlaomer | Împăratul Sodomei
+@ mamre | 1 14:20 | di nuovo a Mamre | înapoi la Mamre
+it: Abrahamo diede a Melchisedek la decima di ogni cosa e non volle nulla dal re di Sodoma.
+ro: Avram i-a dat lui Melhisedec zeciuială din toate și n-a vrut să ia nimic de la împăratul Sodomei.
+? domanda | 1 14:20
+qi: Che cosa diede Abrahamo a Melchisedek?
+qr: Ce i-a dat Avram lui Melhisedec?
+ai: La decima di ogni cosa | Un anello d'oro | Metà del bottino | Un agnello senza difetto
+ar: Zeciuială din toate | Un inel de aur | Jumătate din pradă | Un miel fără cusur
+
+= agar_deserto | 💧 | Agar nel deserto | Agar în pustie | 1 16:7
+@ mamre | 1 16:6
+it: Sara trattò duramente Agar, la sua serva egiziana, e Agar fuggì da lei.
+ro: Sarai s-a purtat rău cu Agar, roaba ei egipteancă, și Agar a fugit de la ea.
+@ beerlahairoi | 1 16:14
+it: L'Angelo dell'Eterno trovò Agar presso una sorgente sulla via di Shur e le disse di tornare.
+ro: Îngerul Domnului a găsit-o pe Agar lângă un izvor, pe drumul spre Șur, și i-a spus să se întoarcă.
+? domanda | 1 16:11
+qi: Come doveva chiamarsi il figlio di Agar, secondo l'Angelo?
+qr: Cum trebuia să se numească fiul Agarei, după cuvântul îngerului?
+ai: Ismaele | Isacco | Esaù | Madian
+ar: Ismael | Isaac | Esau | Madian
+@ beerseba | 1 21:14
+it: Anni dopo, Abrahamo mandò via Agar con il ragazzo, un pane e un otre d'acqua; lei vagò nel deserto di Beer-Sceba.
+ro: După mulți ani, Avraam a trimis-o pe Agar cu copilul, cu pâine și un burduf cu apă; ea a rătăcit prin pustia Beer-Șeba.
+? evento | 1 21:19
+qi: Che cosa vide Agar quando Dio le aprì gli occhi?
+qr: Ce a văzut Agar când i-a deschis Dumnezeu ochii?
+ai: Un pozzo d'acqua | Una carovana di mercanti | Un angelo con una spada | Un albero di datteri
+ar: O fântână cu apă | O ceată de negustori | Un înger cu o sabie | Un finic
+@ paran | 1 21:21
+it: Ismaele crebbe nel deserto di Paran, divenne un tiratore d'arco e sua madre gli prese una moglie egiziana.
+ro: Ismael a crescut în pustia Paran, a ajuns un bun trăgător cu arcul, iar mama lui i-a luat o nevastă din Egipt.
+? domanda | 1 21:20
+qi: Che cosa divenne Ismaele crescendo nel deserto?
+qr: Ce a ajuns Ismael crescând în pustie?
+ai: Un tiratore d'arco | Un pastore di pecore | Un vasaio | Un re di Madian
+ar: Un bun trăgător cu arcul | Un păstor de oi | Un olar | Un împărat al Madianului
+
+= lot_fugge | 🔥 | Lot fugge da Sodoma | Lot fuge din Sodoma | 1 19:15
+@ mamre | 1 18:1
+it: Presso le querce di Mamre, tre uomini visitarono Abrahamo; poi egli intercedette per Sodoma.
+ro: La stejarii lui Mamre, trei oameni l-au vizitat pe Avraam; apoi el s-a rugat pentru Sodoma.
+@ sodoma | 1 19:1
+it: I due angeli arrivarono a Sodoma la sera, mentre Lot sedeva alla porta della città.
+ro: Cei doi îngeri au ajuns la Sodoma seara, pe când Lot ședea la poarta cetății.
+? domanda | 1 18:32
+qi: Per quanti giusti Dio disse ad Abrahamo che non avrebbe distrutto Sodoma, alla fine della sua preghiera?
+qr: Pentru câți oameni neprihăniți a zis Dumnezeu că nu va nimici Sodoma, la sfârșitul rugăciunii lui Avraam?
+ai: 10 | 50 | 30 | 100
+ar: 10 | 50 | 30 | 100
+@ tsoar | 1 19:22
+it: Lot chiese di potersi rifugiare in una piccola città: per questo fu chiamata Tsoar.
+ro: Lot a cerut să se poată adăposti într-o cetate mică: de aceea i s-a pus numele Țoar.
+? evento | 1 19:26
+qi: Che cosa accadde alla moglie di Lot, che si voltò a guardare indietro?
+qr: Ce s-a întâmplat cu nevasta lui Lot, care s-a uitat înapoi?
+ai: Diventò una statua di sale | Si perse nel deserto | Tornò a Sodoma | Cadde in un pozzo
+ar: S-a prefăcut într-un stâlp de sare | S-a rătăcit în pustie | S-a întors în Sodoma | A căzut într-o fântână
+@ caverna_lot | 1 19:30
+it: Lot ebbe paura di restare a Tsoar e andò ad abitare in una caverna sulle montagne con le sue due figlie.
+ro: Lui Lot i-a fost frică să rămână în Țoar și s-a dus să locuiască într-o peșteră din munte, cu cele două fete ale lui.
+? ordina | 1 19:30
+qi: Metti in ordine la fuga di Lot.
+qr: Pune în ordine fuga lui Lot.
+ai: Gli angeli arrivano a Sodoma | Gli angeli prendono Lot per mano | Lot si rifugia a Tsoar | Lot va ad abitare in una caverna
+ar: Îngerii ajung la Sodoma | Îngerii îl apucă pe Lot de mână | Lot se adăpostește în Țoar | Lot se duce să locuiască într-o peșteră
+
+= moriah | 🐏 | Il sacrificio sul monte Moriah | Jertfa de pe muntele Moria | 1 22:2
+@ beerseba | 1 22:3
+it: Abrahamo si alzò di buon mattino, sellò l'asino, spaccò la legna e partì con Isacco e due servi.
+ro: Avraam s-a sculat dis-de-dimineață, și-a pus samarul pe măgar, a tăiat lemne și a plecat cu Isaac și cu doi slujitori.
+@ moriah | 1 22:4
+it: Il terzo giorno Abrahamo vide da lontano il luogo; Isacco portava la legna, Abrahamo il fuoco e il coltello.
+ro: A treia zi Avraam a văzut locul de departe; Isaac ducea lemnele, iar Avraam focul și cuțitul.
+? domanda | 1 22:7
+qi: Che cosa chiese Isacco a suo padre lungo la salita?
+qr: Ce l-a întrebat Isaac pe tatăl său pe drum?
+ai: «Dov'è l'agnello per l'olocausto?» | «Quanto manca alla cima?» | «Perché i servi sono rimasti indietro?» | «Chi ci aspetta sul monte?»
+ar: „Unde este mielul pentru arderea de tot?” | „Cât mai este până sus?” | „De ce au rămas slujitorii în urmă?” | „Cine ne așteaptă pe munte?”
+@ moriah | 1 22:13 | la cima del monte | vârful muntelui
+it: L'Angelo dell'Eterno fermò la mano di Abrahamo; dietro di lui c'era un montone impigliato per le corna in un cespuglio.
+ro: Îngerul Domnului a oprit mâna lui Avraam; înapoia lui era un berbec încurcat cu coarnele într-un tufiș.
+? puzzle | 1 22:2
+qi: Ricomponi il nome del paese dove Dio mandò Abrahamo con Isacco.
+qr: Refă numele ținutului unde Dumnezeu l-a trimis pe Avraam cu Isaac.
+ai: MORIAH
+ar: MORIA
+@ beerseba | 1 22:19 | di nuovo a Beer-Sceba | înapoi la Beer-Șeba
+it: Abrahamo tornò dai suoi servi e insieme andarono a Beer-Sceba, dove Abrahamo abitava.
+ro: Avraam s-a întors la slujitorii lui și s-au dus împreună la Beer-Șeba, unde locuia Avraam.
+? evento | 1 22:14
+qi: Come chiamò Abrahamo quel luogo?
+qr: Ce nume a dat Avraam locului aceluia?
+ai: Jehovah Jireh («l'Eterno provvederà») | Bethel («la casa di Dio») | Beer-Sceba («il pozzo del giuramento») | Mahanaim («l'accampamento di Dio»)
+ar: „Domnul va purta de grijă” | „Casa lui Dumnezeu” | „Fântâna jurământului” | „Tabăra lui Dumnezeu”
+
+= sposa_isacco | 💍 | Una sposa per Isacco | O nevastă pentru Isaac | 1 24:10
+@ beerseba | 1 24:4
+it: Abrahamo mandò il suo servo più anziano a cercare una moglie per Isacco nel suo paese, fra i suoi parenti.
+ro: Avraam l-a trimis pe cel mai bătrân slujitor al casei lui să caute o nevastă pentru Isaac în țara lui, între rudele lui.
+@ nahor | 1 24:11
+it: Il servo arrivò con dieci cammelli alla città di Nahor e li fece riposare vicino al pozzo, verso sera.
+ro: Robul a ajuns cu zece cămile în cetatea lui Nahor și le-a făcut să se odihnească lângă fântână, spre seară.
+? evento | 1 24:14
+qi: Quale segno chiese il servo a Dio presso il pozzo?
+qr: Ce semn a cerut robul lui Dumnezeu la fântână?
+ai: Che la ragazza giusta desse da bere anche ai cammelli | Che piovesse sulla città | Che la ragazza portasse un vaso d'oro | Che un pastore gli indicasse la casa
+ar: Ca fata potrivită să adape și cămilele | Să plouă peste cetate | Ca fata să aducă un vas de aur | Ca un păstor să-i arate casa
+@ nahor | 1 24:58 | la casa di Bethuel | casa lui Betuel
+it: Rebecca, chiamata dalla famiglia, rispose che sarebbe partita con quell'uomo.
+ro: Rebeca, întrebată de familia ei, a răspuns că va pleca împreună cu omul acela.
+? personaggio | 1 24:29
+qi: Chi era il fratello di Rebecca che corse incontro al servo?
+qr: Cine era fratele Rebecăi, care a alergat la robul lui Avraam?
+ai: Labano | Nahor | Bethuel | Lot
+ar: Laban | Nahor | Betuel | Lot
+@ beerlahairoi | 1 24:63
+it: Isacco era uscito nei campi verso sera a meditare, quando vide arrivare i cammelli.
+ro: Isaac ieșise spre seară la câmp să se gândească, când a văzut venind cămilele.
+? ordina | 1 24:67
+qi: Metti in ordine la storia di Rebecca.
+qr: Pune în ordine istoria Rebecăi.
+ai: Il servo prega vicino al pozzo | Rebecca dà da bere ai cammelli | Rebecca decide di partire | Isacco la porta nella tenda di Sara
+ar: Robul se roagă lângă fântână | Rebeca adapă cămilele | Rebeca hotărăște să plece | Isaac o duce în cortul Sarei
+
+= isacco_pozzi | 🪣 | Isacco e i pozzi | Isaac și fântânile | 1 26:1
+@ beerlahairoi | 1 25:11
+it: Dopo la morte di Abrahamo, Isacco abitava presso il pozzo di Lahai-Roi.
+ro: După moartea lui Avraam, Isaac locuia lângă fântâna Lahai-Roi.
+@ gerar | 1 26:6
+it: A causa della carestia Isacco andò a Gherar, da Abimelek re dei Filistei, e seminò in quel paese.
+ro: Din pricina foametei, Isaac s-a dus la Gherar, la Abimelec, împăratul filistenilor, și a semănat în țara aceea.
+? domanda | 1 26:12
+qi: Quanto raccolse Isacco quell'anno a Gherar?
+qr: Cât a cules Isaac în anul acela în Gherar?
+ai: Il centuplo | Il doppio | Nulla, per la siccità | Sette volte tanto
+ar: Însutit | Îndoit | Nimic, din pricina secetei | De șapte ori mai mult
+@ gerar | 1 26:21 | la valle di Gherar | valea Gherarului
+it: I servi di Isacco scavarono pozzi, ma i pastori di Gherar litigavano: «L'acqua è nostra».
+ro: Slujitorii lui Isaac au săpat fântâni, dar păstorii din Gherar se certau: „Apa este a noastră”.
+? evento | 1 26:20
+qi: Come chiamò Isacco il primo pozzo conteso, «Esek»?
+qr: Ce înseamnă numele primei fântâni pentru care s-au certat, „Esec”?
+ai: Contesa | Allargamento | Giuramento | Abbondanza
+ar: Ceartă | Lărgime | Jurământ | Belșug
+@ rehobot | 1 26:22
+it: Scavarono un altro pozzo e per quello non ci fu contesa: Isacco lo chiamò Rehoboth.
+ro: Au săpat o altă fântână, pentru care nu s-au mai certat: Isaac i-a pus numele Rehobot.
+? puzzle | 1 26:22
+qi: Ricomponi il nome del pozzo senza contesa: «ora l'Eterno ci ha messi al largo».
+qr: Refă numele fântânii fără ceartă: „acum Domnul ne-a pus la larg”.
+ai: REHOBOTH
+ar: REHOBOT
+@ beerseba | 1 26:25
+it: A Beer-Sceba l'Eterno gli apparve di notte; Isacco costruì un altare e fece alleanza con Abimelek.
+ro: La Beer-Șeba, Domnul i s-a arătat noaptea; Isaac a zidit un altar și a făcut legământ cu Abimelec.
+? domanda | 1 26:24
+qi: Che cosa disse l'Eterno a Isacco quella notte a Beer-Sceba?
+qr: Ce i-a spus Domnul lui Isaac în noaptea aceea la Beer-Șeba?
+ai: «Non temere, perché io sono con te» | «Scendi in Egitto» | «Torna a Haran» | «Costruisci una città»
+ar: „Nu te teme, căci Eu sunt cu tine” | „Coboară-te în Egipt” | „Întoarce-te la Haran” | „Zidește o cetate”
+
+= giacobbe_fugge | 🪜 | Giacobbe fugge verso Haran | Iacov fuge spre Haran | 1 28:10
+@ beerseba | 1 28:10
+it: Giacobbe partì da Beer-Sceba e si diresse verso Haran, per sfuggire all'ira di Esaù.
+ro: Iacov a plecat din Beer-Șeba și s-a dus spre Haran, ca să scape de mânia lui Esau.
+@ betel | 1 28:12
+it: Dormendo con una pietra sotto il capo, Giacobbe sognò una scala che arrivava fino al cielo.
+ro: Dormind cu o piatră căpătâi, Iacov a visat o scară care ajungea până la cer.
+? evento | 1 28:12
+qi: Chi saliva e scendeva sulla scala del sogno di Giacobbe?
+qr: Cine se suia și se cobora pe scara din visul lui Iacov?
+ai: Gli angeli di Dio | I suoi fratelli | Degli uccelli | Dei pastori
+ar: Îngerii lui Dumnezeu | Frații lui | Niște păsări | Niște păstori
+@ betel | 1 28:19 | Bethel, la pietra | Betel, piatra
+it: Al mattino Giacobbe eresse la pietra come una stele e vi versò sopra dell'olio.
+ro: Dimineața, Iacov a pus piatra ca stâlp de aducere aminte și a turnat untdelemn pe ea.
+? luogo | 1 28:19
+qi: Come si chiamava prima la città a cui Giacobbe diede il nome Bethel?
+qr: Cum se numea mai înainte cetatea căreia Iacov i-a pus numele Betel?
+ai: Luz | Ai | Sichem | Salem
+ar: Luz | Ai | Sihem | Salem
+@ haran | 1 29:10
+it: Vicino a Haran, presso un pozzo, Giacobbe incontrò Rachele che portava le pecore di suo padre.
+ro: Lângă Haran, la o fântână, Iacov a întâlnit-o pe Rahela, care venea cu oile tatălui ei.
+? domanda | 1 29:20
+qi: Quanti anni servì Giacobbe per Rachele, che gli parvero pochi giorni?
+qr: Câți ani a slujit Iacov pentru Rahela, care i s-au părut câteva zile?
+ai: 7 | 3 | 14 | 20
+ar: 7 | 3 | 14 | 20
+
+= giacobbe_torna | 🤼 | Giacobbe torna in Canaan | Iacov se întoarce în Canaan | 1 31:17
+@ haran | 1 31:17
+it: Giacobbe fece salire figli e mogli sui cammelli e partì con tutto il bestiame verso Canaan.
+ro: Iacov și-a pus copiii și nevestele pe cămile și a plecat cu toate turmele spre Canaan.
+@ mizpagalaad | 1 31:49
+it: Labano lo raggiunse sui monti di Galaad; fecero un'alleanza e innalzarono un mucchio di pietre.
+ro: Laban l-a ajuns în muntele Galaadului; au făcut legământ și au ridicat o movilă de pietre.
+? domanda | 1 31:19
+qi: Che cosa aveva preso Rachele dalla casa di suo padre?
+qr: Ce luase Rahela din casa tatălui ei?
+ai: Gli idoli di famiglia | Un sacco d'argento | Il mantello di Labano | Le chiavi del pozzo
+ar: Idolii tatălui ei | Un sac de argint | Mantaua lui Laban | Cheile fântânii
+@ mahanaim | 1 32:2
+it: Mentre Giacobbe proseguiva, gli angeli di Dio gli vennero incontro.
+ro: Pe când își vedea Iacov de drum, l-au întâlnit îngerii lui Dumnezeu.
+? puzzle | 1 32:2
+qi: Ricomponi il nome che Giacobbe diede al luogo: «l'accampamento di Dio».
+qr: Refă numele pe care Iacov l-a dat locului: „Tabăra lui Dumnezeu”.
+ai: MAHANAIM
+ar: MAHANAIM
+@ penuel | 1 32:30
+it: Presso il torrente Jabbok, Giacobbe lottò tutta la notte con un uomo fino allo spuntar dell'alba.
+ro: Lângă vadul Iabocului, Iacov s-a luptat toată noaptea cu un om, până la revărsatul zorilor.
+? evento | 1 32:28
+qi: Quale nome nuovo ricevette Giacobbe dopo la lotta?
+qr: Ce nume nou a primit Iacov după luptă?
+ai: Israele | Abrahamo | Beniamino | Edom
+ar: Israel | Avraam | Beniamin | Edom
+@ succoth | 1 33:17
+it: Dopo l'incontro pacifico con Esaù, Giacobbe costruì una casa e delle capanne per il bestiame.
+ro: După ce s-a împăcat cu Esau, Iacov și-a zidit o casă și a făcut colibe pentru vite.
+? luogo | 1 33:17
+qi: Come fu chiamato il luogo dove Giacobbe fece le capanne per il bestiame?
+qr: Cum a fost numit locul unde Iacov a făcut colibe pentru vite?
+ai: Sukkoth | Peniel | Mahanaim | Galeed
+ar: Sucot | Peniel | Mahanaim | Galed
+@ sichem | 1 33:19
+it: Giacobbe comprò il pezzo di campo dove aveva piantato la tenda e vi eresse un altare.
+ro: Iacov a cumpărat bucata de ogor unde își întinsese cortul și a ridicat acolo un altar.
+? domanda | 1 33:19
+qi: Per quanti pezzi di denaro comprò Giacobbe il campo vicino a Sichem?
+qr: Cu câți bani a cumpărat Iacov ogorul de lângă Sihem?
+ai: 100 | 30 | 400 | 20
+ar: 100 | 30 | 400 | 20
+
+= giacobbe_hebron | 🌳 | Da Sichem a Hebron | De la Sihem la Hebron | 1 35:1
+@ sichem | 1 35:4
+it: Prima di partire, la famiglia di Giacobbe gli consegnò gli dèi stranieri, ed egli li sotterrò sotto la quercia vicino a Sichem.
+ro: Înainte de plecare, familia lui Iacov i-a dat dumnezeii străini, iar el i-a îngropat sub stejarul de lângă Sihem.
+@ betel | 1 35:7
+it: A Bethel Giacobbe costruì un altare, e Dio gli confermò il nome di Israele.
+ro: La Betel, Iacov a zidit un altar, iar Dumnezeu i-a întărit numele de Israel.
+? personaggio | 1 35:8
+qi: Chi morì a Bethel e fu sepolta sotto la «quercia del pianto»?
+qr: Cine a murit la Betel și a fost îngropată sub „stejarul plângerii”?
+ai: Debora, la balia di Rebecca | Lea | Rachele | Dina
+ar: Debora, doica Rebecăi | Lea | Rahela | Dina
+@ efrata | 1 35:19
+it: Sulla via di Efrata Rachele morì dando alla luce il suo secondo figlio.
+ro: Pe drumul spre Efrata, Rahela a murit când a născut pe al doilea fiu al ei.
+? domanda | 1 35:18
+qi: Come chiamò Giacobbe il figlio nato quel giorno?
+qr: Ce nume i-a dat Iacov fiului născut în ziua aceea?
+ai: Beniamino | Giuseppe | Ruben | Levi
+ar: Beniamin | Iosif | Ruben | Levi
+@ migdaleder | 1 35:21
+it: Israele ripartì e piantò la tenda al di là della torre di Eder.
+ro: Israel a plecat și și-a întins cortul dincolo de Migdal-Eder.
+? puzzle | 1 35:20
+qi: Ricomponi il nome della moglie amata che Giacobbe seppellì lungo la strada.
+qr: Refă numele nevestei iubite pe care Iacov a îngropat-o lângă drum.
+ai: RACHELE
+ar: RAHELA
+@ mamre | 1 35:27
+it: Giacobbe arrivò da suo padre Isacco a Mamre, cioè Hebron; Isacco morì vecchio e sazio di giorni.
+ro: Iacov a ajuns la tatăl său Isaac, la Mamre, adică Hebron; Isaac a murit bătrân și sătul de zile.
+? domanda | 1 35:28
+qi: Quanti anni visse Isacco?
+qr: Câți ani a trăit Isaac?
+ai: 180 | 120 | 175 | 147
+ar: 180 | 120 | 175 | 147
+
+= giuseppe_venduto | 🧥 | Giuseppe cerca i suoi fratelli | Iosif își caută frații | 1 37:14
+@ ebron | 1 37:14
+it: Giacobbe mandò Giuseppe dalla valle di Hebron a vedere come stavano i fratelli e le greggi.
+ro: Iacov l-a trimis pe Iosif din valea Hebronului să vadă ce fac frații lui și turmele.
+@ sichem | 1 37:15
+it: Un uomo trovò Giuseppe che vagava per la campagna e gli disse che i fratelli erano andati oltre.
+ro: Un om l-a găsit pe Iosif rătăcind pe câmp și i-a spus că frații lui plecaseră mai departe.
+? domanda | 1 37:3
+qi: Che cosa aveva fatto Giacobbe per Giuseppe, suscitando la gelosia dei fratelli?
+qr: Ce îi făcuse Iacov lui Iosif, de au ajuns frații lui să-l pizmuiască?
+ai: Una veste lunga dai colori vivaci | Un anello d'oro | Una tenda tutta sua | Una spada di bronzo
+ar: O haină pestriță | Un inel de aur | Un cort numai al lui | O sabie de aramă
+@ dotan | 1 37:28
+it: A Dothan i fratelli lo gettarono in una cisterna vuota e poi lo vendettero ai mercanti Ismaeliti.
+ro: La Dotan, frații l-au aruncat într-o groapă goală și apoi l-au vândut negustorilor ismaeliți.
+? domanda | 1 37:28
+qi: Per quanti sicli d'argento fu venduto Giuseppe?
+qr: Cu câți arginți a fost vândut Iosif?
+ai: 20 | 30 | 50 | 10
+ar: 20 | 30 | 50 | 10
+@ egitto | 1 37:36
+it: In Egitto Giuseppe fu venduto a un ufficiale del Faraone, capitano delle guardie.
+ro: În Egipt, Iosif a fost vândut unui dregător al lui Faraon, căpetenia străjerilor.
+? personaggio | 1 37:36
+qi: A chi fu venduto Giuseppe in Egitto?
+qr: Cui a fost vândut Iosif în Egipt?
+ai: Potifar | Faraone | Il capo dei coppieri | Il sacerdote di On
+ar: Potifar | Faraon | Mai-marele paharnicilor | Preotul din On
+
+= fratelli_giuseppe | 🌾 | I fratelli di Giuseppe in Egitto | Frații lui Iosif în Egipt | 1 42:3
+@ ebron | 1 42:2
+it: Durante la carestia Giacobbe sentì che in Egitto c'era grano e vi mandò i suoi figli.
+ro: În vremea foametei, Iacov a auzit că în Egipt era grâu și și-a trimis fiii acolo.
+@ egitto | 1 42:6
+it: I fratelli si prostrarono davanti a Giuseppe senza riconoscerlo; lui li riconobbe.
+ro: Frații s-au plecat înaintea lui Iosif fără să-l recunoască; el i-a recunoscut.
+? domanda | 1 42:4
+qi: Quale fratello Giacobbe non lasciò partire la prima volta?
+qr: Pe care dintre frați nu l-a lăsat Iacov să plece prima dată?
+ai: Beniamino | Giuda | Ruben | Simeone
+ar: Beniamin | Iuda | Ruben | Simeon
+@ ebron | 1 42:35 | Canaan, al ritorno | Canaan, la întoarcere
+it: Tornati in Canaan, i fratelli trovarono ciascuno il proprio denaro nel sacco e si spaventarono.
+ro: Întorși în Canaan, frații și-au găsit fiecare banii în sac și s-au înspăimântat.
+? personaggio | 1 42:24
+qi: Quale fratello Giuseppe tenne legato in Egitto?
+qr: Pe care frate l-a ținut Iosif legat în Egipt?
+ai: Simeone | Ruben | Giuda | Levi
+ar: Simeon | Ruben | Iuda | Levi
+@ egitto | 1 45:3 | Egitto, di nuovo | Egipt, din nou
+it: Alla seconda visita Giuseppe si fece riconoscere: «Io sono Giuseppe; mio padre vive ancora?».
+ro: La a doua venire, Iosif s-a făcut cunoscut: „Eu sunt Iosif! Mai trăiește tatăl meu?”
+? evento | 1 44:2
+qi: Che cosa fece mettere Giuseppe nel sacco di Beniamino?
+qr: Ce a pus Iosif să se pună în sacul lui Beniamin?
+ai: La sua coppa d'argento | Un anello d'oro | Una veste nuova | Una lettera
+ar: Paharul lui de argint | Un inel de aur | O haină nouă | O scrisoare
+@ ebron | 1 45:27 | Canaan, la buona notizia | Canaan, vestea cea bună
+it: Quando vide i carri mandati da Giuseppe, lo spirito di Giacobbe si ravvivò.
+ro: Când a văzut carele trimise de Iosif, duhul lui Iacov a înviat.
+? ordina | 1 45:27
+qi: Metti in ordine i viaggi dei fratelli.
+qr: Pune în ordine călătoriile fraților.
+ai: I fratelli scendono a comprare grano | Simeone resta in Egitto | Beniamino scende con loro | Giuseppe si fa riconoscere
+ar: Frații se coboară să cumpere grâu | Simeon rămâne în Egipt | Beniamin se coboară cu ei | Iosif se face cunoscut
+
+= giacobbe_egitto | 🐑 | Giacobbe scende in Egitto | Iacov se coboară în Egipt | 1 46:1
+@ ebron | 1 46:1
+it: Israele partì con tutto quello che aveva per andare da Giuseppe in Egitto.
+ro: Israel a plecat cu tot ce avea, ca să se ducă la Iosif în Egipt.
+@ beerseba | 1 46:3
+it: A Beer-Sceba Israele offrì sacrifici, e Dio gli parlò in una visione notturna.
+ro: La Beer-Șeba, Israel a adus jertfe, iar Dumnezeu i-a vorbit într-o vedenie de noapte.
+? domanda | 1 46:3
+qi: Che cosa promise Dio a Giacobbe a Beer-Sceba?
+qr: Ce i-a făgăduit Dumnezeu lui Iacov la Beer-Șeba?
+ai: Di fare di lui in Egitto una grande nazione | Di dargli un regno in Egitto | Di non farlo più viaggiare | Di dargli un altro figlio
+ar: Că va face din el în Egipt un neam mare | Că îi va da o împărăție în Egipt | Că nu va mai călători | Că îi va da încă un fiu
+@ gosen | 1 46:29
+it: Giuseppe andò incontro a suo padre in Goscen e pianse a lungo sul suo collo.
+ro: Iosif a ieșit în întâmpinarea tatălui său în Gosen și a plâns multă vreme pe gâtul lui.
+? domanda | 1 46:27
+qi: Quante persone della famiglia di Giacobbe erano in Egitto in tutto?
+qr: Câte suflete din casa lui Iacov au fost în Egipt cu totul?
+ai: 70 | 12 | 40 | 120
+ar: 70 | 12 | 40 | 120
+@ egitto | 1 47:7 | la reggia del Faraone | curtea lui Faraon
+it: Giuseppe presentò suo padre al Faraone, e Giacobbe benedisse il Faraone.
+ro: Iosif l-a înfățișat pe tatăl său lui Faraon, iar Iacov l-a binecuvântat pe Faraon.
+? domanda | 1 47:9
+qi: Quanti anni disse di avere Giacobbe davanti al Faraone?
+qr: Câți ani a spus Iacov că are, înaintea lui Faraon?
+ai: 130 | 100 | 147 | 175
+ar: 130 | 100 | 147 | 175
+
+= funerale_giacobbe | ⚱️ | Il funerale di Giacobbe | Îngroparea lui Iacov | 1 50:7
+@ gosen | 1 50:3
+it: Gli Egiziani piansero Giacobbe settanta giorni; poi Giuseppe chiese al Faraone di andare a seppellire suo padre.
+ro: Egiptenii l-au plâns pe Iacov șaptezeci de zile; apoi Iosif i-a cerut lui Faraon să se ducă să-și îngroape tatăl.
+@ atad | 1 50:10
+it: All'aia di Atad, oltre il Giordano, fecero un grande lamento per sette giorni.
+ro: La aria lui Atad, dincolo de Iordan, au făcut o mare plângere timp de șapte zile.
+? evento | 1 50:11
+qi: Come chiamarono i Cananei quel luogo, vedendo il lutto degli Egiziani?
+qr: Cum au numit canaaniții locul acela, când au văzut jalea egiptenilor?
+ai: Abel-Mitsraim | Bethel | Mahanaim | Beer-Sceba
+ar: Abel-Mițraim | Betel | Mahanaim | Beer-Șeba
+@ macpela | 1 50:13
+it: I figli portarono Giacobbe nel paese di Canaan e lo seppellirono nella grotta di Makpelah.
+ro: Fiii lui l-au dus în țara Canaan și l-au îngropat în peștera Macpela.
+? personaggio | 1 50:13
+qi: Da chi aveva comprato Abrahamo il campo con la grotta di Makpelah?
+qr: De la cine cumpărase Avraam ogorul cu peștera Macpela?
+ai: Da Efron l'Ittita | Da Abimelek | Da Melchisedek | Da Hamor
+ar: De la Efron hetitul | De la Abimelec | De la Melhisedec | De la Hamor
+@ egitto | 1 50:14 | ritorno in Egitto | întoarcerea în Egipt
+it: Giuseppe tornò in Egitto e rassicurò i fratelli: Dio aveva cambiato il male in bene.
+ro: Iosif s-a întors în Egipt și i-a liniștit pe frații lui: Dumnezeu schimbase răul în bine.
+? domanda | 1 50:20
+qi: Che cosa disse Giuseppe ai fratelli dopo la morte del padre?
+qr: Ce le-a spus Iosif fraților după moartea tatălui lor?
+ai: «Voi avevate pensato del male, ma Dio ha pensato di farlo servire al bene» | «Ora vi punirò» | «Tornate in Canaan» | «Non vi conosco più»
+ar: „Voi v-ați gândit să-mi faceți rău, dar Dumnezeu a schimbat răul în bine” | „Acum vă voi pedepsi” | „Întoarceți-vă în Canaan” | „Nu vă mai cunosc”

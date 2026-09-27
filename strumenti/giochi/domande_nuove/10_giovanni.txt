@@ -1,0 +1,151 @@
+# Domande nuove — Vangelo di Giovanni
+nt|1|43 1:1
+IT|Che cosa c'era nel principio, secondo il Vangelo di Giovanni?|La Parola|La luce|Il tempio|La legge|«Nel principio era la Parola, la Parola era presso Dio e la Parola era Dio».
+RO|Ce era la început, după Evanghelia lui Ioan?|Cuvântul|Lumina|Templul|Legea|„La început era Cuvântul, și Cuvântul era cu Dumnezeu, și Cuvântul era Dumnezeu.”
+nt|2|43 1:29
+IT|Come chiamò Giovanni Battista Gesù vedendolo venire verso di lui?|L'Agnello di Dio che toglie il peccato del mondo|Il leone di Giuda|Il re d'Israele|Il nuovo Mosè|«Ecco l'Agnello di Dio, che toglie il peccato del mondo!».
+RO|Cum L-a numit Ioan Botezătorul pe Isus când L-a văzut venind spre el?|Mielul lui Dumnezeu, care ridică păcatul lumii|Leul din Iuda|Împăratul lui Israel|Noul Moise|„Iată Mielul lui Dumnezeu, care ridică păcatul lumii!”
+personaggi|2|43 1:40-41
+IT|Chi portò suo fratello Simone da Gesù dicendo: «Abbiamo trovato il Messia»?|Andrea|Filippo|Giovanni|Natanaele|Andrea trovò per primo suo fratello Simone e gli disse: «Abbiamo trovato il Messia».
+RO|Cine l-a adus pe fratele său Simon la Isus, zicând: „Noi am găsit pe Mesia”?|Andrei|Filip|Ioan|Natanael|Andrei l-a găsit întâi pe fratele său Simon și i-a zis: „Noi am găsit pe Mesia.”
+personaggi|2|43 1:46
+IT|Chi chiese: «Può venire qualcosa di buono da Nazaret?»|Natanaele|Tommaso|Nicodemo|Pietro|Natanaele gli disse: «Può venire qualcosa di buono da Nazaret?». Filippo gli rispose: «Vieni e vedi».
+RO|Cine a întrebat: „Poate ieși ceva bun din Nazaret?”|Natanael|Toma|Nicodim|Petru|Natanael i-a zis: „Poate ieși ceva bun din Nazaret?” Filip i-a răspuns: „Vino și vezi!”
+personaggi|3|43 1:48
+IT|Sotto quale albero Gesù aveva visto Natanaele prima che Filippo lo chiamasse?|Sotto il fico|Sotto l'olivo|Sotto la palma|Sotto il sicomoro|«Prima che Filippo ti chiamasse, quando eri sotto il fico, io ti ho visto».
+RO|Sub ce copac îl văzuse Isus pe Natanael înainte să-l cheme Filip?|Sub smochin|Sub măslin|Sub finic|Sub dud|„Mai înainte ca să te cheme Filip, când erai sub smochin, te-am văzut.”
+miracoli|1|43 2:9
+IT|In che cosa Gesù trasformò l'acqua alle nozze di Cana?|In vino|In latte|In olio|In miele|Il maestro di tavola assaggiò l'acqua che era diventata vino.
+RO|În ce a prefăcut Isus apa la nunta din Cana?|În vin|În lapte|În untdelemn|În miere|Mai-marele ospățului a gustat apa făcută vin.
+miracoli|3|43 2:6
+IT|Quante giare di pietra c'erano alle nozze di Cana?|Sei|Dodici|Tre|Sette|C'erano là sei giare di pietra per la purificazione dei Giudei.
+RO|Câte vase de piatră pentru curățire erau la nunta din Cana?|Șase|Douăsprezece|Trei|Șapte|Erau acolo șase vase de piatră, puse după obiceiul de curățire al iudeilor.
+nt|2|43 2:19
+IT|Quale tempio disse Gesù che avrebbe fatto risorgere in tre giorni?|Il tempio del suo corpo|Il tempio di Salomone|Un nuovo tempio d'oro|Il tabernacolo di Mosè|«Distruggete questo tempio e in tre giorni lo farò risorgere». Egli parlava del tempio del suo corpo.
+RO|Ce templu a spus Isus că-l va ridica în trei zile?|Templul trupului Său|Templul lui Solomon|Un templu nou de aur|Cortul lui Moise|„Stricați templul acesta, și în trei zile îl voi ridica.” El vorbea despre templul trupului Său.
+personaggi|1|43 3:1-2
+IT|Quale capo dei Giudei andò da Gesù di notte?|Nicodemo|Giuseppe d'Arimatea|Gamaliele|Caiafa|Nicodemo, un capo dei Giudei, venne di notte da Gesù.
+RO|Ce fruntaș al iudeilor a venit la Isus noaptea?|Nicodim|Iosif din Arimateea|Gamaliel|Caiafa|Nicodim, un fruntaș al iudeilor, a venit la Isus noaptea.
+nt|2|43 3:3
+IT|Che cosa disse Gesù a Nicodemo che è necessario per vedere il regno di Dio?|Nascere di nuovo|Osservare tutta la legge|Essere figlio di Abrahamo|Digiunare molto|«Se uno non è nato di nuovo, non può vedere il regno di Dio».
+RO|Ce i-a spus Isus lui Nicodim că trebuie ca să vezi Împărăția lui Dumnezeu?|Să te naști din nou|Să păzești toată legea|Să fii fiu al lui Avraam|Să postești mult|„Dacă un om nu se naște din nou, nu poate vedea Împărăția lui Dumnezeu.”
+nt|2|43 3:14
+IT|A che cosa paragonò Gesù il suo essere innalzato, parlando con Nicodemo?|Al serpente innalzato da Mosè nel deserto|All'arca di Noè|Alla scala di Giacobbe|Alla colonna di fuoco|«Come Mosè innalzò il serpente nel deserto, così bisogna che il Figlio dell'uomo sia innalzato».
+RO|Cu ce a asemănat Isus înălțarea Lui, vorbind cu Nicodim?|Cu șarpele înălțat de Moise în pustie|Cu corabia lui Noe|Cu scara lui Iacov|Cu stâlpul de foc|„Și, după cum a înălțat Moise șarpele în pustie, tot așa trebuie să fie înălțat și Fiul omului.”
+luoghi|2|43 4:6
+IT|Presso quale pozzo Gesù parlò con la donna samaritana?|Il pozzo di Giacobbe|Il pozzo di Abrahamo|Il pozzo di Betlemme|La piscina di Siloe|C'era là il pozzo di Giacobbe; Gesù, stanco del cammino, si sedette presso il pozzo.
+RO|Lângă ce fântână a vorbit Isus cu femeia samariteancă?|Fântâna lui Iacov|Fântâna lui Avraam|Fântâna din Betleem|Scăldătoarea Siloamului|Acolo era fântâna lui Iacov; Isus, obosit de drum, ședea lângă fântână.
+nt|2|43 4:14
+IT|Che cosa promise Gesù alla samaritana per chi beve dell'acqua che egli dà?|Non avrà mai più sete|Diventerà ricco|Non morirà mai di fame|Vedrà gli angeli|«Chi beve dell'acqua che io gli darò non avrà mai più sete in eterno».
+RO|Ce i-a promis Isus samaritencei despre cel ce bea din apa pe care o dă El?|În veac nu-i va fi sete|Se va îmbogăți|Nu va muri de foame|Va vedea îngerii|„Oricui va bea din apa pe care i-o voi da Eu, în veac nu-i va fi sete.”
+nt|3|43 4:24
+IT|Come devono adorare Dio i veri adoratori, secondo Gesù?|In spirito e verità|Solo a Gerusalemme|Solo sul monte Garizim|Con molti sacrifici|«Dio è Spirito, e quelli che l'adorano, bisogna che l'adorino in spirito e verità».
+RO|Cum trebuie să se închine lui Dumnezeu adevărații închinători, după Isus?|În duh și în adevăr|Numai la Ierusalim|Numai pe muntele Garizim|Cu multe jertfe|„Dumnezeu este Duh; și cine se închină Lui trebuie să I se închine în duh și în adevăr.”
+miracoli|3|43 5:5
+IT|Da quanti anni era infermo l'uomo guarito da Gesù alla piscina di Betesda?|Trentotto|Dodici|Quaranta|Diciotto|C'era là un uomo che da trentotto anni era infermo.
+RO|De câți ani era bolnav omul vindecat de Isus la scăldătoarea Betesda?|Treizeci și opt|Doisprezece|Patruzeci|Optsprezece|Acolo era un om bolnav de treizeci și opt de ani.
+miracoli|2|43 6:9
+IT|Chi aveva i cinque pani d'orzo e i due pesci, secondo Giovanni?|Un ragazzo|Andrea|Pietro|Una vedova|«C'è qui un ragazzo che ha cinque pani d'orzo e due pesci».
+RO|Cine avea cele cinci pâini de orz și cei doi pești, după Ioan?|Un băiețaș|Andrei|Petru|O văduvă|„Este aici un băiețaș care are cinci pâini de orz și doi pești.”
+nt|1|43 6:35
+IT|Quale di queste affermazioni fece Gesù su di sé in Giovanni 6?|«Io sono il pane della vita»|«Io sono la vite»|«Io sono la porta»|«Io sono la luce del mondo»|«Io sono il pane della vita; chi viene a me non avrà più fame».
+RO|Care din aceste cuvinte le-a spus Isus despre Sine în Ioan 6?|„Eu sunt Pâinea vieții”|„Eu sunt Vița”|„Eu sunt Ușa”|„Eu sunt Lumina lumii”|„Eu sunt Pâinea vieții. Cine vine la Mine nu va flămânzi niciodată.”
+nt|3|43 6:68
+IT|Chi disse: «Signore, da chi andremmo? Tu hai parole di vita eterna»?|Simon Pietro|Giovanni|Tommaso|Filippo|Simon Pietro gli rispose: «Signore, da chi andremmo? Tu hai parole di vita eterna».
+RO|Cine a zis: „Doamne, la cine să ne ducem? Tu ai cuvintele vieții veșnice”?|Simon Petru|Ioan|Toma|Filip|Simon Petru I-a răspuns: „Doamne, la cine să ne ducem? Tu ai cuvintele vieții veșnice.”
+nt|2|43 8:12
+IT|Che cosa disse Gesù di sé in Giovanni 8:12?|«Io sono la luce del mondo»|«Io sono il buon pastore»|«Io sono la risurrezione»|«Io sono il pane della vita»|«Io sono la luce del mondo; chi mi segue non camminerà nelle tenebre».
+RO|Ce a spus Isus despre Sine în Ioan 8:12?|„Eu sunt Lumina lumii”|„Eu sunt Păstorul cel bun”|„Eu sunt învierea”|„Eu sunt Pâinea vieții”|„Eu sunt Lumina lumii; cine Mă urmează pe Mine nu va umbla în întuneric.”
+nt|2|43 8:32
+IT|Che cosa vi farà liberi, secondo Gesù in Giovanni 8?|La verità|La legge|Il denaro|La spada|«Conoscerete la verità e la verità vi farà liberi».
+RO|Ce vă va face slobozi, după Isus în Ioan 8?|Adevărul|Legea|Banii|Sabia|„Veți cunoaște adevărul, și adevărul vă va face slobozi.”
+miracoli|2|43 9:7
+IT|In quale piscina Gesù mandò a lavarsi il cieco nato?|La piscina di Siloe|La piscina di Betesda|Il Giordano|Il pozzo di Giacobbe|«Va', lavati nella piscina di Siloe». Egli andò, si lavò e tornò che ci vedeva.
+RO|La ce scăldătoare l-a trimis Isus să se spele pe orbul din naștere?|Scăldătoarea Siloamului|Scăldătoarea Betesda|Iordanul|Fântâna lui Iacov|„Du-te de te spală în scăldătoarea Siloamului.” El s-a dus, s-a spălat și s-a întors văzând bine.
+miracoli|3|43 9:6
+IT|Con che cosa Gesù unse gli occhi del cieco nato?|Con fango fatto con la saliva|Con olio|Con acqua del Giordano|Con miele|Gesù sputò in terra, fece del fango con la saliva e ne spalmò gli occhi del cieco.
+RO|Cu ce i-a uns Isus ochii orbului din naștere?|Cu tină făcută cu scuipat|Cu untdelemn|Cu apă din Iordan|Cu miere|Isus a scuipat pe pământ, a făcut tină din scuipat și a uns ochii orbului cu tina aceasta.
+nt|2|43 10:11
+IT|Che cosa fa il buon pastore per le sue pecore, secondo Gesù?|Dà la sua vita|Le vende|Le conta ogni giorno|Le lascia libere|«Io sono il buon pastore; il buon pastore dà la sua vita per le pecore».
+RO|Ce face Păstorul cel bun pentru oile Sale, după Isus?|Își dă viața|Le vinde|Le numără în fiecare zi|Le lasă libere|„Eu sunt Păstorul cel bun. Păstorul cel bun își dă viața pentru oi.”
+luoghi|2|43 11:1
+IT|Da quale villaggio era Lazzaro, fratello di Marta e Maria?|Betania|Emmaus|Nain|Cana|C'era un malato, Lazzaro di Betania, del villaggio di Maria e di sua sorella Marta.
+RO|Din ce sat era Lazăr, fratele Martei și al Mariei?|Betania|Emaus|Nain|Cana|Era un om bolnav, Lazăr din Betania, satul Mariei și al Martei, sora ei.
+miracoli|2|43 11:39
+IT|Da quanti giorni Lazzaro era nel sepolcro quando Gesù arrivò?|Quattro|Tre|Due|Sette|Marta disse: «Signore, egli puzza già, perché è morto da quattro giorni».
+RO|De câte zile era Lazăr în mormânt când a sosit Isus?|Patru|Trei|Două|Șapte|Marta I-a zis: „Doamne, miroase greu, căci este mort de patru zile.”
+nt|1|43 11:35
+IT|Qual è il versetto più corto della Bibbia, detto di Gesù davanti alla tomba di Lazzaro?|«Gesù pianse»|«Gesù vide»|«Gesù parlò»|«Gesù pregò»|Davanti alla tomba dell'amico Lazzaro, Gesù pianse.
+RO|Care este versetul cel mai scurt din Biblie, spus despre Isus la mormântul lui Lazăr?|„Isus plângea”|„Isus vedea”|„Isus vorbea”|„Isus Se ruga”|Înaintea mormântului prietenului Său Lazăr, Isus plângea.
+nt|2|43 11:25
+IT|Che cosa disse Gesù a Marta prima di risuscitare Lazzaro?|«Io sono la risurrezione e la vita»|«Io sono la via»|«Io sono la porta»|«Io sono il pane»|«Io sono la risurrezione e la vita; chi crede in me, anche se muore, vivrà».
+RO|Ce i-a spus Isus Martei înainte să-l învie pe Lazăr?|„Eu sunt învierea și viața”|„Eu sunt calea”|„Eu sunt ușa”|„Eu sunt pâinea”|„Eu sunt învierea și viața. Cine crede în Mine, chiar dacă ar fi murit, va trăi.”
+personaggi|3|43 12:3
+IT|Con quale profumo prezioso Maria di Betania unse i piedi di Gesù?|Nardo puro|Mirra|Incenso|Balsamo di Galaad|Maria prese una libbra d'olio profumato di nardo puro, di gran valore, e unse i piedi di Gesù.
+RO|Cu ce mir scump i-a uns Maria din Betania picioarele lui Isus?|Mir de nard curat|Smirnă|Tămâie|Balsam din Galaad|Maria a luat un litru cu mir de nard curat, de mare preț, și a uns picioarele lui Isus.
+personaggi|3|43 12:5
+IT|Per quanto disse Giuda che si sarebbe potuto vendere il profumo di Maria?|Trecento denari|Trenta sicli|Cento denari|Mille denari|«Perché non si è venduto quest'olio profumato per trecento denari e non si è dato ai poveri?».
+RO|Pe cât a zis Iuda că s-ar fi putut vinde mirul Mariei?|Trei sute de lei|Treizeci de arginți|O sută de lei|O mie de lei|„De ce nu s-a vândut mirul acesta cu trei sute de lei și să se fi dat săracilor?”
+nt|2|43 13:5
+IT|Che cosa fece Gesù ai discepoli durante la cena, versando acqua in un catino?|Lavò loro i piedi|Lavò loro le mani|Li benedisse|Diede loro da bere|Gesù versò dell'acqua in una bacinella e cominciò a lavare i piedi dei discepoli.
+RO|Ce le-a făcut Isus ucenicilor la cină, turnând apă într-un lighean?|Le-a spălat picioarele|Le-a spălat mâinile|I-a binecuvântat|Le-a dat să bea|Isus a turnat apă într-un vas și a început să spele picioarele ucenicilor.
+nt|2|43 13:34
+IT|Quale comandamento nuovo diede Gesù ai discepoli?|Che si amino gli uni gli altri come lui li ha amati|Che osservino le feste|Che non mangino con i peccatori|Che vadano al tempio ogni giorno|«Vi do un nuovo comandamento: che vi amiate gli uni gli altri; come io vi ho amati».
+RO|Ce poruncă nouă le-a dat Isus ucenicilor?|Să se iubească unii pe alții cum i-a iubit El|Să păzească sărbătorile|Să nu mănânce cu păcătoșii|Să meargă zilnic la templu|„Vă dau o poruncă nouă: să vă iubiți unii pe alții; cum v-am iubit Eu.”
+nt|1|43 14:6
+IT|Che cosa rispose Gesù a Tommaso: «Io sono…»?|«La via, la verità e la vita»|«Il pane della vita»|«La vite vera»|«Il buon pastore»|«Io sono la via, la verità e la vita; nessuno viene al Padre se non per mezzo di me».
+RO|Ce i-a răspuns Isus lui Toma: „Eu sunt…”?|„Calea, adevărul și viața”|„Pâinea vieții”|„Vița adevărată”|„Păstorul cel bun”|„Eu sunt Calea, Adevărul și Viața. Nimeni nu vine la Tatăl decât prin Mine.”
+profezie|2|43 14:3
+IT|Che cosa promise Gesù dopo essere andato a preparare un luogo per i discepoli?|«Tornerò e vi accoglierò presso di me»|«Vi manderò una lettera»|«Vi aspetterò a Gerusalemme»|«Costruirò un tempio»|«Quando sarò andato e vi avrò preparato un luogo, tornerò e vi accoglierò presso di me».
+RO|Ce a promis Isus după ce Se va duce să le pregătească un loc ucenicilor?|„Mă voi întoarce și vă voi lua cu Mine”|„Vă voi trimite o scrisoare”|„Vă voi aștepta la Ierusalim”|„Voi zidi un templu”|„După ce Mă voi duce și vă voi pregăti un loc, Mă voi întoarce și vă voi lua cu Mine.”
+nt|2|43 15:5
+IT|Che cosa sono i discepoli, se Gesù è la vite?|I tralci|Le radici|I frutti|Le foglie|«Io sono la vite, voi siete i tralci; chi dimora in me e io in lui, porta molto frutto».
+RO|Ce sunt ucenicii, dacă Isus este Vița?|Mlădițele|Rădăcinile|Roadele|Frunzele|„Eu sunt Vița, voi sunteți mlădițele. Cine rămâne în Mine și în cine rămân Eu aduce multă roadă.”
+nt|3|43 15:13
+IT|Qual è l'amore più grande, secondo Gesù in Giovanni 15?|Dare la propria vita per i propri amici|Dare tutti i beni ai poveri|Perdonare i nemici|Pregare per gli altri|«Nessuno ha amore più grande di quello di dare la sua vita per i suoi amici».
+RO|Care este dragostea cea mai mare, după Isus în Ioan 15?|Să-ți dai viața pentru prietenii tăi|Să dai toată averea săracilor|Să ierți pe vrăjmași|Să te rogi pentru alții|„Nu este mai mare dragoste decât să-și dea cineva viața pentru prietenii săi.”
+personaggi|2|43 18:10
+IT|Qual era il nome del servo del sommo sacerdote ferito all'orecchio destro da Pietro?|Malco|Barabba|Anna|Cornelio|Simon Pietro colpì il servo del sommo sacerdote e gli tagliò l'orecchio destro; quel servo si chiamava Malco.
+RO|Cum se numea robul marelui preot căruia Petru i-a tăiat urechea?|Malhu|Baraba|Ana|Corneliu|Simon Petru a lovit pe robul marelui preot și i-a tăiat urechea dreaptă; robul acela se numea Malhu.
+personaggi|3|43 18:13
+IT|Da chi fu condotto Gesù per primo dopo l'arresto, secondo Giovanni?|Da Anna, suocero di Caiafa|Da Pilato|Da Erode|Dal centurione|Lo condussero prima da Anna, perché era suocero di Caiafa, sommo sacerdote in quell'anno.
+RO|La cine a fost dus Isus mai întâi după prindere, după Ioan?|La Ana, socrul lui Caiafa|La Pilat|La Irod|La sutaș|L-au dus întâi la Ana, căci era socrul lui Caiafa, care era mare preot în anul acela.
+personaggi|2|43 18:38
+IT|Chi chiese a Gesù: «Che cos'è la verità?»|Pilato|Caiafa|Erode|Anna|Pilato gli disse: «Che cos'è la verità?».
+RO|Cine L-a întrebat pe Isus: „Ce este adevărul?”|Pilat|Caiafa|Irod|Ana|Pilat I-a zis: „Ce este adevărul?”
+nt|3|43 19:20
+IT|In quante lingue era scritto il titolo sulla croce di Gesù?|Tre|Una|Due|Quattro|Il titolo era scritto in ebraico, in greco e in latino.
+RO|În câte limbi era scrisă vina lui Isus pe cruce?|Trei|Una|Două|Patru|Scrierea era în evreiește, grecește și latinește.
+personaggi|2|43 19:26
+IT|A quale discepolo Gesù affidò sua madre dalla croce?|Al discepolo che egli amava|A Pietro|A Giacomo|A Tommaso|Gesù disse a sua madre: «Donna, ecco tuo figlio!», poi disse al discepolo: «Ecco tua madre!».
+RO|Cărui ucenic i-a încredințat Isus pe mama Sa de pe cruce?|Ucenicului pe care-l iubea|Lui Petru|Lui Iacov|Lui Toma|Isus a zis mamei Sale: „Femeie, iată fiul tău!” Apoi a zis ucenicului: „Iată mama ta!”
+nt|2|43 19:30
+IT|Quali furono le ultime parole di Gesù sulla croce, secondo Giovanni?|«È compiuto»|«Padre, perdona loro»|«Ho sete»|«Oggi sarai con me»|Quando Gesù ebbe preso l'aceto, disse: «È compiuto!», e, chinato il capo, rese lo spirito.
+RO|Care au fost ultimele cuvinte ale lui Isus pe cruce, după Ioan?|„S-a isprăvit!”|„Tată, iartă-i”|„Mi-e sete”|„Astăzi vei fi cu Mine”|Când a luat Isus oțetul, a zis: „S-a isprăvit!” Apoi Și-a plecat capul și Și-a dat duhul.
+personaggi|3|43 19:39
+IT|Chi portò circa cento libbre di mirra e aloe per la sepoltura di Gesù?|Nicodemo|Giuseppe d'Arimatea|Pietro|Maria Maddalena|Nicodemo portò una mistura di mirra e d'aloe di circa cento libbre.
+RO|Cine a adus o amestecătură de smirnă și aloe de aproape o sută de litri pentru îngroparea lui Isus?|Nicodim|Iosif din Arimateea|Petru|Maria Magdalena|Nicodim a adus o amestecătură de smirnă și de aloe, cam la o sută de litri.
+personaggi|2|43 20:16
+IT|Chi riconobbe Gesù risorto quando egli la chiamò per nome presso il sepolcro?|Maria Maddalena|Marta|Salome|Maria di Betania|Gesù le disse: «Maria!». Ella, voltatasi, gli disse: «Rabbunì!», che vuol dire Maestro.
+RO|Cine L-a cunoscut pe Isus cel înviat când a chemat-o pe nume la mormânt?|Maria Magdalena|Marta|Salomeea|Maria din Betania|Isus i-a zis: „Marie!” Ea s-a întors și I-a zis: „Rabuni!”, adică: „Învățătorule!”
+personaggi|1|43 20:24-25
+IT|Quale discepolo disse che non avrebbe creduto se non avesse visto il segno dei chiodi?|Tommaso|Pietro|Filippo|Matteo|Tommaso disse: «Se non vedo nelle sue mani il segno dei chiodi… io non crederò».
+RO|Care ucenic a zis că nu va crede dacă nu va vedea semnul cuielor?|Toma|Petru|Filip|Matei|Toma a zis: „Dacă nu voi vedea în mâinile Lui semnul cuielor… nu voi crede.”
+nt|2|43 20:28
+IT|Che cosa esclamò Tommaso quando vide Gesù risorto?|«Signor mio e Dio mio!»|«Maestro buono!»|«Figlio di Davide!»|«Osanna!»|Tommaso gli rispose: «Signor mio e Dio mio!».
+RO|Ce a exclamat Toma când L-a văzut pe Isus cel înviat?|„Domnul meu și Dumnezeul meu!”|„Învățătorule bun!”|„Fiul lui David!”|„Osana!”|Toma I-a răspuns: „Domnul meu și Dumnezeul meu!”
+miracoli|3|43 21:11
+IT|Quanti grossi pesci c'erano nella rete dopo la pesca miracolosa di Giovanni 21?|Centocinquantatré|Cento|Duecento|Settanta|La rete era piena di centocinquantatré grossi pesci, e non si strappò.
+RO|Câți pești mari erau în mreajă după pescuirea minunată din Ioan 21?|O sută cincizeci și trei|O sută|Două sute|Șaptezeci|Mreaja era plină cu o sută cincizeci și trei de pești mari, și nu s-a rupt.
+personaggi|2|43 21:17
+IT|Quante volte Gesù chiese a Pietro: «Mi ami?» dopo la risurrezione?|Tre|Una|Due|Sette|Gli disse per la terza volta: «Simone di Giona, mi ami?». Pietro fu rattristato.
+RO|De câte ori l-a întrebat Isus pe Petru: „Mă iubești?” după înviere?|De trei ori|O dată|De două ori|De șapte ori|I-a zis a treia oară: „Simone, fiul lui Iona, Mă iubești?” Petru s-a întristat.
+luoghi|4|43 5:2
+IT|Quanti portici aveva la piscina di Betesda?|Cinque|Tre|Sette|Quattro|A Gerusalemme, vicino alla porta delle Pecore, c'è una piscina, chiamata in ebraico Betesda, che ha cinque portici.
+RO|Câte pridvoare avea scăldătoarea Betesda?|Cinci|Trei|Șapte|Patru|În Ierusalim, lângă poarta oilor, este o scăldătoare numită în evreiește Betesda, care are cinci pridvoare.
+luoghi|4|43 4:5
+IT|Presso quale città della Samaria si trovava il pozzo di Giacobbe?|Sichar|Samaria|Sichem|Tirtsah|Giunse a una città della Samaria chiamata Sichar, vicino al podere che Giacobbe aveva dato a suo figlio Giuseppe.
+RO|Lângă ce cetate din Samaria era fântâna lui Iacov?|Sihar|Samaria|Sihem|Tirța|A ajuns lângă o cetate din Samaria, numită Sihar, aproape de ogorul pe care-l dăduse Iacov fiului său Iosif.
+nt|4|43 21:25
+IT|Che cosa dice Giovanni alla fine del suo vangelo sulle cose fatte da Gesù?|Che il mondo non potrebbe contenere i libri se fossero scritte tutte|Che le ha scritte tutte|Che non le ricordava più|Che le scrisse Pietro|Se si scrivessero ad una ad una, penso che il mondo stesso non potrebbe contenere i libri che se ne scriverebbero.
+RO|Ce spune Ioan la sfârșitul Evangheliei despre lucrurile făcute de Isus?|Că lumea n-ar putea cuprinde cărțile dacă s-ar scrie toate|Că le-a scris pe toate|Că nu și le mai amintea|Că le-a scris Petru|Dacă s-ar scrie cu de-amănuntul, cred că nici chiar lumea aceasta n-ar putea cuprinde cărțile care s-ar scrie.

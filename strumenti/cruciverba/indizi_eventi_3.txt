@@ -1,0 +1,44 @@
+# Altri avvenimenti, idee, mestieri, gruppi e popoli della Bibbia (seconda serie). Tipi e (avvenimenti, idee, persone in generale) e t (popoli).
+# RISPOSTA IT|RISPOSTA RO|livello 1-3|libro|tipo|indizio italiano|indizio rumeno
+MESSIA|MESIA|1|43|e|L'Unto atteso da Israele|Unsul așteptat de Israel
+EMMANUELE|EMANUEL|2|23|e|Il nome che significa «Dio con noi»|Numele care înseamnă «Dumnezeu este cu noi»
+ALLELUIA|ALELUIA|2|66|e|Il grido di lode: «Lodate il Signore!»|Strigătul de laudă: «Lăudați pe Domnul!»
+AMEN|AMIN|1|19|e|La parola con cui si conclude la preghiera: «Così sia»|Cuvântul cu care se încheie rugăciunea: «Așa să fie»
+OSANNA|OSANA|2|40|e|Il grido della folla quando Gesù entrò a Gerusalemme|Strigătul mulțimii când a intrat Isus în Ierusalim
+PURIM|PURIM|3|17|e|La festa che ricorda la liberazione degli ebrei ai tempi di Ester|Sărbătoarea care amintește izbăvirea evreilor pe vremea Esterei
+SCEOL||2|1|e|Il luogo dei morti nell'Antico Testamento|
+GEENNA||3|40|e|La valle di Hinnom, usata da Gesù come immagine del giudizio finale|
+PACE|PACE|1|43|e|Il dono che Gesù lasciò ai discepoli e che non è come quello del mondo|Darul lăsat de Isus ucenicilor, care nu este ca cel pe care îl dă lumea
+GIOIA|BUCURIE|1|49|e|Il secondo frutto dello Spirito, dopo l'amore|Al doilea rod al Duhului, după dragoste
+AMORE|DRAGOSTE|1|49|e|Il primo frutto dello Spirito|Primul rod al Duhului
+LEGGE|LEGEA|1|2|e|Ciò che Dio diede a Mosè sul monte Sinai|Ceea ce a dat Dumnezeu lui Moise pe muntele Sinai
+SALMO|PSALM|1|19|e|Un canto della Bibbia, come quelli attribuiti a Davide|Un cântec din Biblie, ca cele atribuite lui David
+GIUSTIZIA|NEPRIHANIRE|2|40|e|Ciò di cui hanno fame e sete i beati, secondo Gesù|Ceea ce au foame și sete cei fericiți, după Isus
+SAGGEZZA|INTELEPCIUNE|2|11|e|Ciò che Salomone chiese a Dio invece di ricchezze e lunga vita|Ceea ce a cerut Solomon de la Dumnezeu în loc de bogății și viață lungă
+TESTIMONE|MARTOR|2|44|e|Chi racconta ciò che ha visto: Gesù disse ai discepoli «mi sarete testimoni»|Cel care spune ce a văzut: Isus a zis ucenicilor «Îmi veți fi martori»
+MARTIRE|MUCENIC|2|44|e|Chi muore per la propria fede, come Stefano|Cel care moare pentru credința lui, ca Ștefan
+SINEDRIO|SINEDRIU|2|44|e|Il consiglio supremo dei giudei che giudicò Gesù|Sfatul suprem al iudeilor care a judecat pe Isus
+PRETORIO|PRETORIU|3|41|e|Il palazzo del governatore dove i soldati schernirono Gesù|Palatul dregătorului unde au batjocorit soldații pe Isus
+TRIBU|SEMINTIA|2|1|e|Una delle dodici parti di Israele, come Giuda o Levi|Una dintre cele douăsprezece părți ale lui Israel, ca Iuda sau Levi
+SOGNO|VIS|2|1|e|Ciò che Giuseppe e Daniele sapevano interpretare|Ceea ce știau să tâlcuiască Iosif și Daniel
+MAGI|MAGI|1|40|e|I sapienti d'Oriente che seguirono la stella fino a Betlemme|Înțelepții din Răsărit care au urmat steaua până la Betleem
+ANGELO|INGER|1|1|e|Il messaggero di Dio, come Gabriele e Michele|Trimisul lui Dumnezeu, ca Gavril și Mihail
+DEMONIO|DEMON|2|41|e|Lo spirito impuro che Gesù scacciò dall'uomo di Gerasa|Duhul necurat pe care l-a scos Isus din omul din Gherasa
+VEDOVA|VADUVA|1|41|e|La donna che mise due spiccioli nel tesoro del tempio|Femeia care a pus doi bănuți în vistieria Templului
+ORFANO|ORFAN|2|5|e|Il bambino senza padre che la legge di Dio ordina di proteggere|Copilul fără tată pe care Legea lui Dumnezeu poruncește să-l ocrotim
+STRANIERO|STRAIN|2|3|e|Chi vive in un paese non suo: la legge chiedeva di amarlo come se stessi|Cel care locuiește într-o țară care nu e a lui: Legea cerea să-l iubim ca pe noi înșine
+SCHIAVO|ROB|2|57|e|Ciò che era Onesimo, fuggito dal suo padrone, prima di tornare da Filemone|Ceea ce era Onisim, fugit de la stăpânul lui, înainte să se întoarcă la Filimon
+PESCATORE|PESCAR|1|40|e|Il mestiere di Pietro e Andrea prima di seguire Gesù|Meseria lui Petru și Andrei înainte de a urma pe Isus
+FALEGNAME|DULGHER|1|41|e|Il mestiere di Giuseppe di Nazaret|Meseria lui Iosif din Nazaret
+MEDICO|DOCTOR|2|51|e|Il mestiere di Luca, l'amato compagno di Paolo|Meseria lui Luca, tovarășul preaiubit al lui Pavel
+HIVVEI|HEVITII|3|1|t|Antico popolo di Canaan, come gli abitanti di Gabaon che ingannarono Giosuè|Vechi popor din Canaan, ca locuitorii Gabaonului care au înșelat pe Iosua
+PEREZEI|FEREZITII|3|1|t|Antico popolo di Canaan fra quelli da scacciare davanti a Israele|Vechi popor din Canaan printre cele de izgonit dinaintea lui Israel
+ETIOPI||3|14|t|Il popolo africano sconfitto da Asa con l'aiuto di Dio|
+MEDI|MEZI|3|27|t|Il popolo che con i Persiani prese Babilonia|Poporul care, împreună cu perșii, a luat Babilonul
+SIRI|SIRIENII|2|10|t|Il popolo di Aram, con capitale Damasco|Poporul Aramului, cu capitala la Damasc
+RUBENITI|RUBENITII|3|4|t|I discendenti del primogenito di Giacobbe|Urmașii întâiului născut al lui Iacov
+GADITI|GADITII|3|4|t|I discendenti di Gad, stabiliti a est del Giordano|Urmașii lui Gad, așezați la est de Iordan
+BENIAMINITI|BENIAMITII|3|7|t|I discendenti dell'ultimo figlio di Giacobbe, quasi sterminati per il crimine di Ghibeah|Urmașii ultimului fiu al lui Iacov, aproape nimiciți pentru fapta de la Ghibea
+REFAIM|REFAIM|3|1|t|Antichi giganti che abitavano a est del Giordano|Uriași străvechi care locuiau la est de Iordan
+ISMAELITI|ISMAELITII|3|1|t|I discendenti di Ismaele, mercanti a cui fu venduto Giuseppe|Urmașii lui Ismael, negustorii cărora le-a fost vândut Iosif
+CRETESI|CRETANII|3|56|t|Gli abitanti di Creta, definiti da un loro profeta «sempre bugiardi»|Locuitorii Cretei, numiți de un prooroc al lor «mincinoși»

@@ -1,0 +1,151 @@
+# Domande nuove — Atti degli apostoli
+nt|2|44 1:3
+IT|Per quanti giorni Gesù si mostrò ai discepoli dopo la risurrezione, secondo gli Atti?|Quaranta|Tre|Sette|Cinquanta|Egli si mostrò loro vivente, facendosi vedere per quaranta giorni e parlando del regno di Dio.
+RO|Câte zile li S-a arătat Isus ucenicilor după înviere, după Faptele apostolilor?|Patruzeci|Trei|Șapte|Cincizeci|Li S-a arătat viu timp de patruzeci de zile și a vorbit cu ei despre lucrurile privitoare la Împărăția lui Dumnezeu.
+profezie|2|44 1:11
+IT|Che cosa dissero i due uomini in bianco ai discepoli dopo l'ascensione?|Che Gesù tornerà nello stesso modo in cui lo hanno visto andare in cielo|Che Gesù non tornerà più|Che dovevano tornare in Galilea|Che dovevano costruire un tempio|«Questo Gesù, che è stato portato in cielo, ritornerà nella stessa maniera in cui l'avete visto andare in cielo».
+RO|Ce le-au spus ucenicilor cei doi bărbați îmbrăcați în alb după înălțare?|Că Isus va veni în același fel cum L-au văzut mergând la cer|Că Isus nu Se va mai întoarce|Că trebuie să se întoarcă în Galileea|Că trebuie să zidească un templu|„Acest Isus, care S-a înălțat la cer, va veni în același fel cum L-ați văzut mergând la cer.”
+personaggi|2|44 1:26
+IT|Chi fu scelto a sorte per prendere il posto di Giuda fra gli apostoli?|Mattia|Barnaba|Stefano|Sila|Tirarono a sorte, e la sorte cadde su Mattia, che fu aggiunto agli undici apostoli.
+RO|Cine a fost ales prin sorți să ia locul lui Iuda între apostoli?|Matia|Barnaba|Ștefan|Sila|Au tras la sorți, și sorțul a căzut pe Matia, care a fost numărat împreună cu cei unsprezece apostoli.
+miracoli|1|44 2:3
+IT|Che cosa apparve sopra i discepoli nel giorno della Pentecoste?|Lingue come di fuoco|Una colomba|Una nuvola|Una stella|Apparvero loro delle lingue come di fuoco, che si dividevano e se ne posò una su ciascuno di loro.
+RO|Ce s-a arătat deasupra ucenicilor în ziua Cincizecimii?|Limbi ca de foc|Un porumbel|Un nor|O stea|Li s-au arătat niște limbi ca de foc, care s-au împărțit și s-au așezat câte una pe fiecare din ei.
+nt|2|44 2:41
+IT|Quante persone furono battezzate dopo la predicazione di Pietro a Pentecoste?|Circa tremila|Circa cinquemila|Centoventi|Settanta|Quelli che accolsero la sua parola furono battezzati; e in quel giorno furono aggiunte circa tremila persone.
+RO|Câți oameni au fost botezați după predica lui Petru la Cincizecime?|Aproape trei mii|Aproape cinci mii|O sută douăzeci|Șaptezeci|Cei ce au primit propovăduirea lui au fost botezați; și în ziua aceea s-au adăugat aproape trei mii de suflete.
+miracoli|2|44 3:2
+IT|Presso quale porta del tempio stava lo zoppo guarito da Pietro e Giovanni?|La porta detta Bella|La porta delle Pecore|La porta d'Oro|La porta dei Pesci|Lo mettevano ogni giorno alla porta del tempio detta Bella, perché chiedesse l'elemosina.
+RO|La ce poartă a templului stătea ologul vindecat de Petru și Ioan?|Poarta numită „Frumoasă”|Poarta oilor|Poarta de aur|Poarta peștilor|Îl puneau în fiecare zi la poarta templului numită „Frumoasă”, ca să ceară milostenie.
+miracoli|1|44 3:6
+IT|Che cosa disse Pietro allo zoppo che chiedeva l'elemosina?|«Argento e oro non ne ho, ma quello che ho te lo do»|«Torna domani»|«Chiedilo a Giovanni»|«Non ho tempo»|«Argento e oro non ne ho, ma quello che ho te lo do: nel nome di Gesù Cristo il Nazareno, alzati e cammina!».
+RO|Ce i-a spus Petru ologului care cerea milostenie?|„Argint și aur n-am, dar ce am îți dau”|„Vino mâine”|„Cere-i lui Ioan”|„N-am timp”|„Argint și aur n-am, dar ce am, îți dau: în Numele lui Isus Hristos din Nazaret, scoală-te și umblă!”
+personaggi|2|44 5:1
+IT|Quale coppia mentì agli apostoli sul prezzo di un campo venduto?|Anania e Saffira|Aquila e Priscilla|Zaccaria ed Elisabetta|Andronico e Giunia|Un uomo di nome Anania, con Saffira sua moglie, vendette una proprietà e trattenne parte del prezzo.
+RO|Ce pereche i-a mințit pe apostoli despre prețul unui ogor vândut?|Anania și Safira|Acuila și Priscila|Zaharia și Elisabeta|Andronic și Iunia|Un om numit Anania, împreună cu nevasta sa Safira, a vândut un ogor și a oprit o parte din preț.
+personaggi|3|44 5:34
+IT|Quale dottore della legge consigliò al sinedrio di lasciar stare gli apostoli?|Gamaliele|Nicodemo|Caiafa|Anna|Un fariseo di nome Gamaliele, dottore della legge onorato da tutto il popolo, si alzò nel sinedrio.
+RO|Ce învățător al legii a sfătuit Soborul să-i lase în pace pe apostoli?|Gamaliel|Nicodim|Caiafa|Ana|Un fariseu numit Gamaliel, învățător al legii, prețuit de tot norodul, s-a sculat în Sobor.
+personaggi|2|44 6:3-5
+IT|Quanti uomini furono scelti per il servizio delle mense nella chiesa di Gerusalemme?|Sette|Dodici|Tre|Settanta|Scelsero Stefano, uomo pieno di fede e di Spirito Santo, e Filippo, Procoro, Nicanore, Timone, Parmena e Nicola: sette.
+RO|Câți bărbați au fost aleși pentru slujba meselor în biserica din Ierusalim?|Șapte|Doisprezece|Trei|Șaptezeci|Au ales pe Ștefan, om plin de credință și de Duhul Sfânt, pe Filip, Prohor, Nicanor, Timon, Parmena și Nicolae: șapte.
+personaggi|2|44 7:56
+IT|Che cosa vide Stefano mentre stava per essere lapidato?|I cieli aperti e il Figlio dell'uomo alla destra di Dio|Un angelo con la spada|Mosè ed Elia|Una scala verso il cielo|«Ecco, io vedo i cieli aperti e il Figlio dell'uomo in piedi alla destra di Dio».
+RO|Ce a văzut Ștefan pe când era gata să fie ucis cu pietre?|Cerurile deschise și pe Fiul omului la dreapta lui Dumnezeu|Un înger cu sabia|Pe Moise și Ilie|O scară spre cer|„Iată, văd cerurile deschise și pe Fiul omului stând în picioare la dreapta lui Dumnezeu.”
+personaggi|2|44 7:58
+IT|Ai piedi di quale giovane i testimoni deposero le vesti durante la lapidazione di Stefano?|Saulo|Timoteo|Marco|Barnaba|I testimoni deposero le loro vesti ai piedi di un giovane chiamato Saulo.
+RO|La picioarele cărui tânăr și-au pus martorii hainele când l-au ucis pe Ștefan cu pietre?|Saul|Timotei|Marcu|Barnaba|Martorii și-au pus hainele la picioarele unui tânăr numit Saul.
+personaggi|3|44 8:9
+IT|Quale mago di Samaria volle comprare con il denaro il potere dello Spirito?|Simone|Elima|Bar-Gesù|Sceva|Un uomo di nome Simone esercitava la magia nella città e stupiva il popolo di Samaria.
+RO|Ce vrăjitor din Samaria a vrut să cumpere cu bani puterea Duhului?|Simon|Elima|Bar-Isus|Sceva|Un om numit Simon, care se îndeletnicea cu vrăjitoria, uimea pe poporul Samariei.
+personaggi|2|44 8:27
+IT|Chi stava leggendo il profeta Isaia sul carro quando Filippo lo raggiunse?|Un eunuco etiope, ministro della regina Candace|Cornelio|Un sacerdote del tempio|Un mercante di Damasco|Un Etiope, eunuco, alto funzionario di Candace, regina degli Etiopi, sedeva sul carro e leggeva il profeta Isaia.
+RO|Cine citea din prorocul Isaia în car când l-a ajuns Filip?|Un famen etiopian, dregătorul împărătesei Candace|Corneliu|Un preot al templului|Un negustor din Damasc|Un famen etiopian, dregător mare al Candacei, împărăteasa etiopienilor, ședea în car și citea pe prorocul Isaia.
+miracoli|1|44 9:3
+IT|Che cosa avvolse Saulo sulla via di Damasco?|Una luce dal cielo|Una nuvola scura|Un fuoco|Una tempesta di sabbia|Mentre si avvicinava a Damasco, all'improvviso una luce dal cielo gli sfolgorò intorno.
+RO|Ce l-a învăluit pe Saul pe drumul Damascului?|O lumină din cer|Un nor întunecat|Un foc|O furtună de nisip|Pe când se apropia de Damasc, deodată a strălucit o lumină din cer în jurul lui.
+nt|2|44 9:4
+IT|Che cosa disse la voce a Saulo caduto a terra?|«Saulo, Saulo, perché mi perseguiti?»|«Alzati e va' a Gerusalemme»|«Tu sarai re»|«Torna indietro»|Udì una voce che gli diceva: «Saulo, Saulo, perché mi perseguiti?».
+RO|Ce i-a spus glasul lui Saul căzut la pământ?|„Saule, Saule, pentru ce Mă prigonești?”|„Scoală-te și du-te la Ierusalim”|„Tu vei fi împărat”|„Întoarce-te”|A auzit un glas care-i zicea: „Saule, Saule, pentru ce Mă prigonești?”
+luoghi|3|44 9:11
+IT|In quale strada di Damasco si trovava Saulo quando Anania andò da lui?|Nella via detta Diritta|Nella via del tempio|Nella via Maggiore|Nella via dei Mercanti|«Va' nella via detta Diritta e cerca in casa di Giuda un uomo di Tarso chiamato Saulo».
+RO|Pe ce stradă din Damasc se afla Saul când s-a dus Anania la el?|Pe ulița numită „Dreaptă”|Pe ulița templului|Pe ulița cea mare|Pe ulița negustorilor|„Du-te pe ulița care se cheamă „Dreaptă” și caută în casa lui Iuda pe unul numit Saul, un om din Tars.”
+personaggi|3|44 9:25
+IT|Come fuggì Saulo da Damasco quando i Giudei volevano ucciderlo?|Calato dalle mura in una cesta|Travestito da soldato|Su una nave|Con un carro di notte|I discepoli lo presero di notte e lo calarono giù dalle mura in una cesta.
+RO|Cum a scăpat Saul din Damasc când iudeii voiau să-l omoare?|Coborât de pe zid într-o coșniță|Deghizat în ostaș|Cu o corabie|Cu un car noaptea|Ucenicii l-au luat noaptea și l-au coborât prin zid, într-o coșniță.
+miracoli|2|44 9:36
+IT|Quale discepola di Ioppe, piena di opere buone, Pietro risuscitò?|Tabitha, cioè Gazzella|Lidia|Priscilla|Febe|A Ioppe c'era una discepola di nome Tabitha, che tradotto vuol dire Gazzella; faceva molte opere buone.
+RO|Ce ucenică din Iafo, plină de fapte bune, a înviat-o Petru?|Tabita, adică Căprioara|Lidia|Priscila|Fivi|În Iafo era o ucenică numită Tabita, care, tălmăcit, înseamnă Căprioară; făcea multe fapte bune.
+personaggi|2|44 10:1
+IT|Quale centurione della coorte Italiana fu il primo pagano a ricevere lo Spirito con la sua casa?|Cornelio|Giulio|Claudio Lisia|Publio|A Cesarea c'era un uomo chiamato Cornelio, centurione della coorte detta Italiana.
+RO|Ce sutaș din ceata italiană a fost primul păgân care a primit Duhul împreună cu casa lui?|Corneliu|Iuliu|Claudiu Lisias|Publius|În Cezareea era un om numit Corneliu, sutaș în ceata numită „italiana”.
+at|3|44 10:11
+IT|Che cosa vide Pietro scendere dal cielo nella visione a Ioppe?|Un grande lenzuolo con ogni sorta di animali|Una scala|Un carro di fuoco|Una colomba|Vide il cielo aperto e scendere un oggetto simile a un grande lenzuolo, con dentro ogni sorta di quadrupedi e rettili.
+RO|Ce a văzut Petru coborându-se din cer în vedenia de la Iafo?|O față mare de masă cu tot felul de dobitoace|O scară|Un car de foc|Un porumbel|A văzut cerul deschis și un vas ca o față de masă mare, în care erau tot felul de dobitoace și târâtoare.
+personaggi|2|44 11:22
+IT|Chi mandò la chiesa di Gerusalemme ad Antiochia, quando seppe che molti si erano convertiti?|Barnaba|Pietro|Giacomo|Sila|La notizia giunse alla chiesa di Gerusalemme, che mandò Barnaba fino ad Antiochia.
+RO|Pe cine a trimis biserica din Ierusalim la Antiohia, când a aflat că mulți se întorseseră la Domnul?|Pe Barnaba|Pe Petru|Pe Iacov|Pe Sila|Vestea a ajuns la biserica din Ierusalim, și au trimis pe Barnaba până la Antiohia.
+miracoli|2|44 12:7
+IT|Chi liberò Pietro dalla prigione mentre dormiva fra due soldati?|Un angelo del Signore|Giovanni|Il carceriere|Un terremoto|Un angelo del Signore sopraggiunse, destò Pietro e le catene gli caddero dalle mani.
+RO|Cine l-a scos pe Petru din temniță pe când dormea între doi ostași?|Un înger al Domnului|Ioan|Temnicerul|Un cutremur|Un înger al Domnului a venit, l-a trezit pe Petru, și lanțurile i-au căzut de pe mâini.
+personaggi|3|44 12:13
+IT|Quale serva riconobbe la voce di Pietro alla porta e non gli aprì per la gioia?|Rode|Lidia|Febe|Damaris|Una serva di nome Rode riconobbe la voce di Pietro e per la gioia non aprì la porta, ma corse dentro ad annunziarlo.
+RO|Ce slujnică a cunoscut glasul lui Petru la ușă și de bucurie nu i-a deschis?|Roda|Lidia|Fivi|Damaris|O slujnică numită Roda a cunoscut glasul lui Petru și, de bucurie, n-a deschis ușa, ci a alergat înăuntru să spună.
+miracoli|3|44 13:8-11
+IT|Quale mago Paolo rese cieco temporaneamente a Cipro?|Elima|Simone|Sceva|Demetrio|«Ecco, la mano del Signore è su di te: sarai cieco». Elima il mago cercava di distogliere il proconsole dalla fede.
+RO|Ce vrăjitor l-a orbit Pavel pentru o vreme în Cipru?|Elima|Simon|Sceva|Dimitrie|„Iată, mâna Domnului este peste tine: vei fi orb.” Elima, vrăjitorul, căuta să abată pe dregător de la credință.
+luoghi|3|44 14:8-12
+IT|In quale città la folla chiamò Barnaba Giove e Paolo Mercurio?|Listra|Derbe|Iconio|Perge|A Listra la folla, vedendo il miracolo, chiamava Barnaba Giove e Paolo Mercurio.
+RO|În ce cetate mulțimea l-a numit pe Barnaba Jupiter și pe Pavel Mercur?|Listra|Derbe|Iconia|Perga|La Listra, mulțimea, văzând minunea, îl numea pe Barnaba Jupiter și pe Pavel Mercur.
+personaggi|3|44 15:39
+IT|Per chi Paolo e Barnaba si separarono dopo un forte disaccordo?|Per Giovanni Marco|Per Timoteo|Per Sila|Per Tito|Barnaba voleva prendere con sé Giovanni detto Marco; nacque un'aspra contesa e si separarono.
+RO|Din pricina cui s-au despărțit Pavel și Barnaba după o neînțelegere aprinsă?|A lui Ioan Marcu|A lui Timotei|A lui Sila|A lui Tit|Barnaba voia să-l ia cu ei pe Ioan, zis și Marcu; s-a iscat o neînțelegere și s-au despărțit.
+personaggi|2|44 16:1
+IT|Quale giovane discepolo di Listra, figlio di una donna giudea credente, si unì a Paolo?|Timoteo|Tito|Sila|Luca|Là c'era un discepolo di nome Timoteo, figlio di una donna giudea credente e di padre greco.
+RO|Ce ucenic tânăr din Listra, fiul unei iudeice credincioase, s-a alăturat lui Pavel?|Timotei|Tit|Sila|Luca|Acolo era un ucenic numit Timotei, fiul unei femei iudeice credincioase și al unui tată grec.
+at|3|44 16:9
+IT|Chi vide Paolo in visione, che lo pregava di passare in Macedonia?|Un uomo macedone|Un angelo|Pietro|Timoteo|Paolo ebbe di notte una visione: un uomo macedone lo pregava: «Passa in Macedonia e soccorrici».
+RO|Pe cine a văzut Pavel în vedenie, rugându-l să treacă în Macedonia?|Un om din Macedonia|Un înger|Pe Petru|Pe Timotei|Pavel a avut noaptea o vedenie: un macedonean îl ruga: „Treci în Macedonia și ajută-ne!”
+personaggi|2|44 16:14
+IT|Quale commerciante di porpora di Tiatira si convertì a Filippi?|Lidia|Priscilla|Damaris|Febe|Una donna di nome Lidia, commerciante di porpora, della città di Tiatira, ascoltava; il Signore le aprì il cuore.
+RO|Ce negustoreasă de purpură din Tiatira s-a întors la Domnul în Filipi?|Lidia|Priscila|Damaris|Fivi|O femeie numită Lidia, negustoreasă de purpură, din cetatea Tiatira, asculta; Domnul i-a deschis inima.
+miracoli|2|44 16:25
+IT|Che cosa facevano Paolo e Sila a mezzanotte nella prigione di Filippi?|Pregavano e cantavano inni a Dio|Dormivano|Scavavano un tunnel|Si lamentavano|Verso mezzanotte Paolo e Sila pregavano e cantavano inni a Dio, e i prigionieri li ascoltavano.
+RO|Ce făceau Pavel și Sila la miezul nopții în temnița din Filipi?|Se rugau și cântau laude lui Dumnezeu|Dormeau|Săpau un tunel|Se văitau|Pe la miezul nopții, Pavel și Sila se rugau și cântau cântări de laudă lui Dumnezeu.
+nt|2|44 16:31
+IT|Che cosa risposero Paolo e Sila al carceriere che chiese: «Che devo fare per essere salvato?»|«Credi nel Signore Gesù»|«Liberaci»|«Offri un sacrificio»|«Va' al tempio»|«Credi nel Signore Gesù Cristo e sarai salvato tu e la tua casa».
+RO|Ce i-au răspuns Pavel și Sila temnicerului care a întrebat: „Ce trebuie să fac ca să fiu mântuit?”|„Crede în Domnul Isus”|„Dă-ne drumul”|„Adu o jertfă”|„Du-te la templu”|„Crede în Domnul Isus Hristos, și vei fi mântuit tu și casa ta.”
+luoghi|3|44 17:10-11
+IT|In quale città gli abitanti esaminavano ogni giorno le Scritture per vedere se le cose stavano così?|Berea|Tessalonica|Atene|Corinto|I Giudei di Berea ricevettero la parola con ogni premura, esaminando ogni giorno le Scritture.
+RO|În ce cetate locuitorii cercetau Scripturile în fiecare zi ca să vadă dacă ce li se spunea este așa?|Bereea|Tesalonic|Atena|Corint|Iudeii din Bereea au primit Cuvântul cu toată râvna și cercetau Scripturile în fiecare zi.
+luoghi|2|44 17:23
+IT|Quale iscrizione vide Paolo su un altare ad Atene?|«Al dio sconosciuto»|«Al dio della guerra»|«Al re dei re»|«Al dio del mare»|Passando, Paolo trovò anche un altare su cui era scritto: «Al dio sconosciuto».
+RO|Ce inscripție a văzut Pavel pe un altar în Atena?|„Unui Dumnezeu necunoscut”|„Dumnezeului războiului”|„Împăratului împăraților”|„Dumnezeului mării”|Pe când treceam, am găsit un altar pe care era scris: „Unui Dumnezeu necunoscut!”
+personaggi|3|44 18:2
+IT|Da dove erano arrivati a Corinto Aquila e Priscilla, a causa dell'editto di Claudio?|Dall'Italia|Dall'Egitto|Da Efeso|Da Gerusalemme|Paolo trovò un Giudeo di nome Aquila, venuto di recente dall'Italia con Priscilla, sua moglie, perché Claudio aveva ordinato ai Giudei di lasciare Roma.
+RO|De unde veniseră Acuila și Priscila la Corint, din pricina poruncii lui Claudiu?|Din Italia|Din Egipt|Din Efes|Din Ierusalim|Pavel a găsit un iudeu numit Acuila, venit de curând din Italia împreună cu nevasta sa Priscila, pentru că Claudiu poruncise ca toți iudeii să iasă din Roma.
+personaggi|3|44 18:24
+IT|Quale giudeo di Alessandria, uomo eloquente e potente nelle Scritture, giunse a Efeso?|Apollo|Aquila|Sostene|Crispo|Giunse a Efeso un Giudeo di nome Apollo, nativo di Alessandria, uomo eloquente e potente nelle Scritture.
+RO|Ce iudeu din Alexandria, om elocvent și tare în Scripturi, a venit la Efes?|Apolo|Acuila|Sosten|Crisp|A venit la Efes un iudeu numit Apolo, de neam din Alexandria, om elocvent și tare în Scripturi.
+personaggi|3|44 19:24
+IT|Quale orefice di Efeso sollevò un tumulto contro Paolo?|Demetrio|Alessandro|Gaio|Aristarco|Un orefice chiamato Demetrio, che faceva tempietti d'argento, procurava non poco guadagno agli artigiani.
+RO|Ce argintar din Efes a stârnit o răscoală împotriva lui Pavel?|Dimitrie|Alexandru|Gaiu|Aristarh|Un argintar numit Dimitrie, care făcea temple de argint, aducea meșteșugarilor un câștig mare.
+miracoli|3|44 20:9
+IT|Quale giovane cadde dal terzo piano mentre Paolo predicava a lungo di notte?|Eutico|Timoteo|Trofimo|Gaio|Un giovane di nome Eutico, seduto sulla finestra, preso da un sonno profondo, cadde dal terzo piano.
+RO|Ce tânăr a căzut de la catul al treilea pe când Pavel vorbea mult în noapte?|Eutih|Timotei|Trofim|Gaiu|Un tânăr numit Eutih, care ședea pe fereastră, a adormit adânc și a căzut de la catul al treilea.
+personaggi|3|44 21:10
+IT|Quale profeta legò i propri piedi e mani con la cintura di Paolo per annunziargli la prigionia?|Agabo|Sila|Filippo|Barnaba|Scese dalla Giudea un profeta di nome Agabo; prese la cintura di Paolo e si legò i piedi e le mani.
+RO|Ce proroc și-a legat picioarele și mâinile cu brâul lui Pavel, ca să-i vestească întemnițarea?|Agab|Sila|Filip|Barnaba|S-a pogorât din Iudeea un proroc numit Agab; a luat brâul lui Pavel și și-a legat picioarele și mâinile.
+personaggi|3|44 23:16
+IT|Chi scoprì il complotto dei Giudei per uccidere Paolo e avvertì il comandante?|Il figlio della sorella di Paolo|Luca|Timoteo|Un soldato romano|Il figlio della sorella di Paolo, venuto a sapere del complotto, andò nella fortezza e lo riferì a Paolo.
+RO|Cine a aflat de uneltirea iudeilor de a-l omorî pe Pavel și l-a înștiințat pe căpitan?|Fiul surorii lui Pavel|Luca|Timotei|Un ostaș roman|Fiul surorii lui Pavel a auzit de pândă, a venit în cetățuie și i-a spus lui Pavel.
+personaggi|3|44 24:25
+IT|Quale governatore ebbe paura quando Paolo parlò di giustizia, temperanza e giudizio futuro?|Felice|Festo|Agrippa|Pilato|Felice, spaventato, rispose: «Per ora va'; quando ne avrò l'occasione ti manderò a chiamare».
+RO|Ce dregător s-a înfricoșat când Pavel a vorbit despre neprihănire, înfrânare și judecata viitoare?|Felix|Festus|Agripa|Pilat|Felix, îngrozit, a zis: „De data aceasta du-te; când voi mai avea prilej, te voi chema.”
+personaggi|2|44 26:28
+IT|Quale re disse a Paolo: «Per poco non mi persuadi a diventare cristiano»?|Agrippa|Felice|Festo|Erode Antipa|Agrippa disse a Paolo: «Per poco non mi persuadi a diventare cristiano».
+RO|Ce împărat i-a spus lui Pavel: „Curând ai să mă îndupleci să mă fac creștin”?|Agripa|Felix|Festus|Irod Antipa|Agripa i-a zis lui Pavel: „Curând ai să mă îndupleci să mă fac creștin!”
+luoghi|2|44 28:1
+IT|Su quale isola naufragò Paolo durante il viaggio verso Roma?|Malta|Cipro|Creta|Sicilia|Scampati dal naufragio, riconoscemmo che l'isola si chiamava Malta.
+RO|Pe ce insulă a naufragiat Pavel în drum spre Roma?|Malta|Cipru|Creta|Sicilia|După ce am scăpat, am aflat că ostrovul se numea Malta.
+miracoli|2|44 28:3
+IT|Quale animale morse la mano di Paolo a Malta senza fargli alcun male?|Una vipera|Uno scorpione|Un cane|Un lupo|Una vipera, sentito il calore, uscì fuori e gli si attaccò alla mano; ma egli la scosse nel fuoco e non ne ebbe alcun male.
+RO|Ce viețuitoare l-a mușcat pe Pavel de mână în Malta, fără să-i facă vreun rău?|O năpârcă|Un scorpion|Un câine|Un lup|O năpârcă a ieșit din pricina căldurii și s-a apucat de mâna lui; dar el a scuturat-o în foc și n-a pățit niciun rău.
+personaggi|3|44 28:8
+IT|Il padre di quale uomo principale di Malta Paolo guarì dalla febbre?|Publio|Giulio|Cornelio|Sergio Paolo|Il padre di Publio era a letto con febbre e dissenteria; Paolo pregò, gli impose le mani e lo guarì.
+RO|Tatăl cărui fruntaș din Malta l-a vindecat Pavel de friguri?|Publius|Iuliu|Corneliu|Sergius Paulus|Tatăl lui Publius zăcea bolnav de friguri și de urdinare; Pavel s-a rugat, și-a pus mâinile peste el și l-a vindecat.
+nt|3|44 28:30
+IT|Per quanto tempo Paolo rimase a Roma in una casa presa in affitto, predicando?|Due anni interi|Sei mesi|Dieci anni|Quaranta giorni|Paolo rimase due anni interi in una casa presa in affitto e riceveva tutti quelli che venivano a trovarlo.
+RO|Cât timp a rămas Pavel la Roma într-o casă închiriată, propovăduind?|Doi ani întregi|Șase luni|Zece ani|Patruzeci de zile|Pavel a locuit doi ani întregi într-o casă închiriată și primea pe toți care veneau să-l vadă.
+personaggi|4|44 4:36
+IT|Quale soprannome diedero gli apostoli a Giuseppe, levita di Cipro, che significa «figlio di consolazione»?|Barnaba|Barsabba|Marco|Giusto|Giuseppe, soprannominato dagli apostoli Barnaba, che tradotto significa «figlio di consolazione».
+RO|Ce nume i-au dat apostolii lui Iosif, levitul din Cipru, care înseamnă „fiul mângâierii”?|Barnaba|Barsaba|Marcu|Iust|Iosif, numit de apostoli Barnaba, care, tălmăcit, înseamnă „fiul mângâierii”.
+personaggi|4|44 9:33
+IT|Come si chiamava il paralitico di Lidda, a letto da otto anni, guarito da Pietro?|Enea|Eutico|Publio|Tabitha|A Lidda Pietro trovò un uomo di nome Enea, paralitico, che giaceva a letto da otto anni.
+RO|Cum se numea slăbănogul din Lida, care zăcea de opt ani, vindecat de Petru?|Enea|Eutih|Publius|Tabita|La Lida, Petru a găsit un om numit Enea, care zăcea de opt ani în pat, fiind slăbănog.
+luoghi|4|44 17:34
+IT|Quale membro dell'Areopago credette dopo la predicazione di Paolo ad Atene?|Dionisio|Demetrio|Erasto|Gallione|Alcuni uomini credettero, tra i quali anche Dionisio l'areopagita e una donna di nome Damaris.
+RO|Ce membru al Areopagului a crezut după predica lui Pavel la Atena?|Dionisie|Dimitrie|Erast|Galion|Câțiva oameni au crezut, între care și Dionisie Areopagitul și o femeie numită Damaris.
+personaggi|4|44 19:14
+IT|Quanti figli del sommo sacerdote giudeo Sceva provarono a scacciare demoni nel nome di Gesù?|Sette|Due|Tre|Dodici|C'erano sette figli di un certo Sceva, sommo sacerdote giudeo, che facevano questo.
+RO|Câți fii ai marelui preot iudeu Sceva au încercat să scoată draci în Numele lui Isus?|Șapte|Doi|Trei|Doisprezece|Cei ce făceau lucrul acesta erau șapte fii ai lui Sceva, un preot mai de seamă al iudeilor.

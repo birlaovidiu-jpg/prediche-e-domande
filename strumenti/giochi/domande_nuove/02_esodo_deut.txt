@@ -1,0 +1,259 @@
+# Domande nuove — Esodo, Levitico, Numeri, Deuteronomio
+personaggi|2|2 1:15
+IT|Come si chiamavano le due levatrici ebree che non ubbidirono al Faraone?|Scifra e Puah|Miriam e Jokebed|Tsipporah e Agar|Anna e Peninna|Le levatrici Scifra e Puah temettero Dio e lasciarono in vita i bambini.
+RO|Cum se numeau cele două moașe evreice care nu l-au ascultat pe Faraon?|Șifra și Pua|Maria și Iochebed|Sefora și Agar|Ana și Penina|Moașele Șifra și Pua s-au temut de Dumnezeu și au lăsat băieții în viață.
+personaggi|1|2 2:3
+IT|In che cosa la madre di Mosè mise il bambino sul Nilo?|In un canestro di giunchi|In una barca di legno|In una cesta di vimini d'oro|In un otre|Prese un canestro di giunchi, lo spalmò di bitume e di pece e vi mise dentro il bambino.
+RO|În ce l-a pus mama lui Moise pe copil pe Nil?|Într-un sicriaș de papură|Într-o barcă de lemn|Într-un coș de aur|Într-un burduf|A luat un sicriaș de papură, l-a uns cu smoală și a pus copilul în el.
+personaggi|1|2 2:5
+IT|Chi trovò il piccolo Mosè nel canestro?|La figlia del Faraone|La moglie del Faraone|Una serva ebrea|Miriam|La figlia del Faraone scese al fiume per lavarsi e vide il canestro fra i giunchi.
+RO|Cine l-a găsit pe micul Moise în sicriaș?|Fata lui Faraon|Nevasta lui Faraon|O roabă evreică|Maria|Fata lui Faraon s-a pogorât la râu să se scalde și a văzut sicriașul în mijlocul trestiilor.
+personaggi|2|2 2:10
+IT|Perché la figlia del Faraone chiamò il bambino Mosè?|Perché lo aveva tirato fuori dalle acque|Perché era bello|Perché era ebreo|Perché piangeva|Lo chiamò Mosè dicendo: «Io l'ho tratto dalle acque».
+RO|De ce i-a pus fata lui Faraon copilului numele Moise?|Pentru că îl scosese din apă|Pentru că era frumos|Pentru că era evreu|Pentru că plângea|I-a pus numele Moise, „căci”, a zis ea, „l-am scos din apă”.
+luoghi|2|2 2:15
+IT|In quale paese fuggì Mosè dopo aver ucciso l'egiziano?|Madian|Canaan|Edom|Moab|Mosè fuggì dalla presenza del Faraone e si fermò nel paese di Madian.
+RO|În ce țară a fugit Moise după ce l-a omorât pe egiptean?|Madian|Canaan|Edom|Moab|Moise a fugit dinaintea lui Faraon și a locuit în țara Madian.
+personaggi|2|2 2:21
+IT|Chi diventò la moglie di Mosè?|Sefora|Miriam|Scifra|Elisheba|Il sacerdote di Madian diede a Mosè sua figlia Sefora.
+RO|Cine a ajuns nevasta lui Moise?|Sefora|Maria|Șifra|Elișeba|Preotul din Madian i-a dat lui Moise de nevastă pe fata sa, Sefora.
+miracoli|1|2 3:2
+IT|In che cosa apparve l'angelo dell'Eterno a Mosè?|In una fiamma di fuoco in mezzo a un roveto|In una nuvola|In un sogno di notte|In una colonna di fumo|Il roveto ardeva nel fuoco, ma non si consumava.
+RO|În ce i S-a arătat Îngerul Domnului lui Moise?|Într-o flacără de foc din mijlocul unui rug|Într-un nor|Într-un vis de noapte|Într-un stâlp de fum|Rugul era tot un foc, și rugul nu se mistuia.
+at|2|2 3:5
+IT|Perché Dio disse a Mosè di togliersi i sandali?|Perché il luogo era terra santa|Perché erano sporchi|Perché doveva correre|Perché faceva caldo|«Togliti i sandali dai piedi, perché il luogo sul quale stai è terra santa».
+RO|De ce i-a spus Dumnezeu lui Moise să-și scoată încălțămintea?|Pentru că locul era pământ sfânt|Pentru că era murdară|Pentru că trebuia să alerge|Pentru că era cald|„Scoate-ți încălțămintea din picioare, căci locul pe care calci este un pământ sfânt.”
+at|2|2 3:14
+IT|Come si presentò Dio a Mosè quando Mosè gli chiese il suo nome?|«IO SONO COLUI CHE SONO»|«Il Dio degli eserciti»|«Il Re d'Israele»|«Il Pastore»|Dio disse a Mosè: «IO SONO COLUI CHE SONO».
+RO|Cum S-a descoperit Dumnezeu lui Moise când Moise L-a întrebat de nume?|„Eu sunt Cel ce sunt”|„Dumnezeul oștirilor”|„Împăratul lui Israel”|„Păstorul”|Dumnezeu i-a zis lui Moise: „Eu sunt Cel ce sunt.”
+miracoli|2|2 4:3
+IT|In che cosa si trasformò il bastone di Mosè quando lo gettò a terra?|In un serpente|In un albero|In una spada|In un fiume|Mosè gettò il bastone in terra ed esso divenne un serpente.
+RO|În ce s-a prefăcut toiagul lui Moise când l-a aruncat la pământ?|Într-un șarpe|Într-un copac|Într-o sabie|Într-un râu|Moise a aruncat toiagul la pământ și s-a prefăcut într-un șarpe.
+miracoli|3|2 4:6
+IT|Che cosa accadde alla mano di Mosè quando la mise in seno la prima volta?|Diventò lebbrosa, bianca come la neve|Diventò di fuoco|Sparì|Diventò d'oro|La mano era lebbrosa, bianca come la neve; rimessa in seno tornò sana.
+RO|Ce s-a întâmplat cu mâna lui Moise când a băgat-o în sân prima dată?|S-a umplut de lepră, albă ca zăpada|S-a făcut de foc|A dispărut|S-a făcut de aur|Mâna era plină de lepră, albă ca zăpada; băgată din nou în sân, s-a vindecat.
+personaggi|1|2 4:14
+IT|Chi Dio mandò ad aiutare Mosè a parlare?|Aaronne, suo fratello|Giosuè|Jethro|Caleb|Dio disse: «Non c'è forse Aaronne, tuo fratello? Io so che parla bene».
+RO|Pe cine a trimis Dumnezeu să-l ajute pe Moise să vorbească?|Pe fratele său Aaron|Pe Iosua|Pe Ietro|Pe Caleb|Dumnezeu a zis: „Nu este Aaron, fratele tău? Știu că el are ușurință la vorbire.”
+at|2|2 5:7
+IT|Che cosa il Faraone smise di dare agli Israeliti per fare i mattoni?|La paglia|L'argilla|L'acqua|Il fuoco|«Non date più la paglia al popolo per fare i mattoni; vadano a cercarsela».
+RO|Ce a încetat Faraon să le mai dea israeliților pentru cărămizi?|Paiele|Lutul|Apa|Focul|„Să nu mai dați poporului paie ca să facă cărămizi; să se ducă să-și strângă singuri.”
+miracoli|2|2 7:12
+IT|Che cosa fece il bastone di Aaronne, diventato serpente, ai bastoni dei maghi?|Li ingoiò|Li bruciò|Li spezzò|Li trasformò in pietra|I maghi gettarono i loro bastoni, che divennero serpenti, ma il bastone di Aaronne ingoiò i loro bastoni.
+RO|Ce a făcut toiagul lui Aaron, prefăcut în șarpe, cu toiegele vrăjitorilor?|Le-a înghițit|Le-a ars|Le-a rupt|Le-a prefăcut în piatră|Vrăjitorii și-au aruncat toiegele, care s-au făcut șerpi, dar toiagul lui Aaron le-a înghițit.
+miracoli|2|2 8:6
+IT|Quale fu la seconda piaga d'Egitto?|Le rane|Le zanzare|La grandine|La peste del bestiame|Aaronne stese la mano sulle acque e salirono le rane, che coprirono il paese.
+RO|Care a fost a doua urgie a Egiptului?|Broaștele|Țânțarii|Grindina|Ciuma vitelor|Aaron și-a întins mâna peste ape și s-au suit broaștele, care au acoperit țara.
+miracoli|3|2 8:16-19
+IT|Dopo quale piaga i maghi dissero al Faraone: «Questo è il dito di Dio»?|Le zanzare|Le rane|Il sangue|Le mosche|I maghi non riuscirono a produrre le zanzare e riconobbero il dito di Dio.
+RO|După ce urgie au zis vrăjitorii lui Faraon: „Aici este degetul lui Dumnezeu”?|Păduchii|Broaștele|Sângele|Muștele|Vrăjitorii n-au putut face păduchi și au recunoscut degetul lui Dumnezeu.
+miracoli|2|2 10:22
+IT|Per quanti giorni ci furono dense tenebre in tutto l'Egitto?|Tre|Uno|Sette|Quaranta|Ci furono dense tenebre in tutto il paese d'Egitto per tre giorni.
+RO|Câte zile a fost întuneric beznă în toată țara Egiptului?|Trei|Una|Șapte|Patruzeci|A fost întuneric beznă în toată țara Egiptului, timp de trei zile.
+miracoli|1|2 12:29
+IT|Quale fu l'ultima piaga d'Egitto?|La morte dei primogeniti|Le tenebre|La grandine|Le locuste|A mezzanotte l'Eterno colpì tutti i primogeniti nel paese d'Egitto.
+RO|Care a fost ultima urgie a Egiptului?|Moartea întâilor născuți|Întunericul|Grindina|Lăcustele|La miezul nopții, Domnul a lovit pe toți întâii născuți din țara Egiptului.
+at|1|2 12:7
+IT|Dove gli Israeliti dovevano mettere il sangue dell'agnello pasquale?|Sui due stipiti e sull'architrave della porta|Sul tetto|Sull'altare|Sulle loro vesti|Il sangue sugli stipiti e sull'architrave era il segno perché l'Eterno passasse oltre.
+RO|Unde trebuiau israeliții să pună sângele mielului de Paște?|Pe cei doi stâlpi și pe pragul de sus al ușii|Pe acoperiș|Pe altar|Pe haine|Sângele pe stâlpi și pe pragul de sus era semnul ca Domnul să treacă pe deasupra.
+at|2|2 12:8
+IT|Con che cosa si doveva mangiare l'agnello pasquale?|Con pane senza lievito ed erbe amare|Con miele e latte|Con vino e olive|Con pane lievitato|Dovevano mangiarne la carne arrostita al fuoco, con pane senza lievito ed erbe amare.
+RO|Cu ce trebuia mâncat mielul de Paște?|Cu azimi și cu verdețuri amare|Cu miere și lapte|Cu vin și măsline|Cu pâine dospită|Trebuiau să-i mănânce carnea friptă la foc, cu azimi și cu verdețuri amare.
+at|3|2 12:40
+IT|Quanti anni durò il soggiorno degli Israeliti in Egitto?|Quattrocentotrent'anni|Quattrocento|Duecentoquindici|Settanta|Il tempo che i figli d'Israele abitarono in Egitto fu di quattrocentotrent'anni.
+RO|Cât a ținut șederea israeliților în Egipt?|Patru sute treizeci de ani|Patru sute de ani|Două sute cincisprezece ani|Șaptezeci de ani|Șederea copiilor lui Israel în Egipt a fost de patru sute treizeci de ani.
+miracoli|1|2 13:21
+IT|Come guidava l'Eterno il popolo di notte nel deserto?|Con una colonna di fuoco|Con una stella|Con un angelo con la torcia|Con la luna|Di giorno in una colonna di nuvola e di notte in una colonna di fuoco.
+RO|Cum călăuzea Domnul poporul noaptea în pustie?|Printr-un stâlp de foc|Printr-o stea|Printr-un înger cu o făclie|Prin lună|Ziua într-un stâlp de nor, iar noaptea într-un stâlp de foc.
+personaggi|3|2 13:19
+IT|Le ossa di chi Mosè portò con sé uscendo dall'Egitto?|Di Giuseppe|Di Giacobbe|Di Abrahamo|Di Levi|Mosè prese con sé le ossa di Giuseppe, come Giuseppe aveva fatto giurare.
+RO|Oasele cui le-a luat Moise cu el la ieșirea din Egipt?|Ale lui Iosif|Ale lui Iacov|Ale lui Avraam|Ale lui Levi|Moise a luat cu el oasele lui Iosif, cum îi jurase Iosif pe copiii lui Israel.
+miracoli|1|2 14:21
+IT|Che cosa usò l'Eterno per dividere il Mar Rosso?|Un forte vento orientale|Un terremoto|Un fulmine|Il sole|L'Eterno fece ritirare il mare con un forte vento orientale per tutta la notte.
+RO|Ce a folosit Domnul ca să despartă Marea Roșie?|Un vânt puternic de la răsărit|Un cutremur|Un trăsnet|Soarele|Domnul a tras marea înapoi cu un vânt puternic de la răsărit, toată noaptea.
+personaggi|2|2 15:20
+IT|Quale profetessa, sorella di Aaronne, guidò le donne nel canto dopo il Mar Rosso?|Miriam|Debora|Hulda|Anna|Miriam prese in mano il tamburello e tutte le donne la seguirono danzando.
+RO|Ce proorociță, sora lui Aaron, a condus femeile în cântare după Marea Roșie?|Maria|Debora|Hulda|Ana|Maria a luat în mână o timpină, și toate femeile au ieșit după ea jucând.
+luoghi|2|2 15:23
+IT|In quale luogo le acque erano amare e l'Eterno le rese dolci?|Mara|Elim|Refidim|Kadesh|A Mara non potevano bere le acque perché erano amare.
+RO|În ce loc apele erau amare, iar Domnul le-a făcut dulci?|Mara|Elim|Refidim|Cades|La Mara n-au putut bea apa, pentru că era amară.
+luoghi|3|2 15:27
+IT|In quale luogo c'erano dodici sorgenti d'acqua e settanta palme?|Elim|Mara|Refidim|Hazeroth|Giunsero a Elim, dov'erano dodici sorgenti d'acqua e settanta palme.
+RO|În ce loc erau douăsprezece izvoare de apă și șaptezeci de finici?|Elim|Mara|Refidim|Hațerot|Au ajuns la Elim, unde erau douăsprezece izvoare de apă și șaptezeci de finici.
+miracoli|1|2 16:31
+IT|Come si chiamava il cibo che Dio fece scendere dal cielo nel deserto?|La manna|Il pane di orzo|Il miele|Le quaglie|La casa d'Israele chiamò quel pane manna; era come seme di coriandolo e aveva il gusto di focaccia col miele.
+RO|Cum se numea hrana pe care a trimis-o Dumnezeu din cer în pustie?|Mana|Pâinea de orz|Mierea|Prepelițele|Casa lui Israel a numit hrana aceea mană; era ca sămânța de coriandru și avea gust de turtă cu miere.
+at|2|2 16:22
+IT|Nel sesto giorno, quanta manna raccoglievano gli Israeliti?|Il doppio|Nulla|La metà|La stessa quantità|Il sesto giorno raccoglievano pane doppio, perché il sabato non ne cadeva.
+RO|În ziua a șasea, câtă mană strângeau israeliții?|Îndoit|Nimic|Jumătate|Tot atâta|În ziua a șasea strângeau hrană îndoită, pentru că în Sabat nu cădea.
+miracoli|2|2 16:13
+IT|Quali uccelli Dio mandò la sera agli Israeliti per mangiare carne?|Le quaglie|Le colombe|I passeri|Le tortore|La sera salirono le quaglie e coprirono l'accampamento.
+RO|Ce păsări a trimis Dumnezeu seara israeliților, ca să aibă carne?|Prepelițe|Porumbei|Vrăbii|Turturele|Seara au venit prepelițe și au acoperit tabăra.
+miracoli|2|2 17:6
+IT|Che cosa fece Mosè per far uscire acqua dalla roccia a Horeb?|Percosse la roccia con il bastone|Parlò alla roccia|Pregò in ginocchio|Vi versò dell'olio|«Tu percuoterai la roccia, e ne uscirà dell'acqua perché il popolo beva».
+RO|Ce a făcut Moise ca să iasă apă din stânca de la Horeb?|A lovit stânca cu toiagul|A vorbit stâncii|S-a rugat în genunchi|A turnat untdelemn pe ea|„Vei lovi stânca, și va țâșni apă din ea, și poporul va bea.”
+at|3|2 17:15
+IT|Come chiamò Mosè l'altare costruito dopo la vittoria su Amalek?|L'Eterno è la mia bandiera|L'Eterno provvederà|L'Eterno è pace|Ebenezer|Mosè costruì un altare e lo chiamò «L'Eterno è la mia bandiera».
+RO|Cum a numit Moise altarul zidit după biruința asupra lui Amalec?|Domnul, steagul meu|Domnul va purta de grijă|Domnul este pacea|Ebenezer|Moise a zidit un altar și l-a numit „Domnul, steagul meu”.
+personaggi|3|2 18:21-24
+IT|Chi consigliò a Mosè di scegliere capi per giudicare il popolo?|Jethro, suo suocero|Aaronne|Giosuè|Hur|Il suocero di Mosè gli consigliò di scegliere uomini capaci come capi di migliaia, di centinaia, di cinquantine e di decine.
+RO|Cine l-a sfătuit pe Moise să aleagă căpetenii care să judece poporul?|Ietro, socrul său|Aaron|Iosua|Hur|Socrul lui Moise l-a sfătuit să aleagă oameni destoinici drept căpetenii peste o mie, peste o sută, peste cincizeci și peste zece.
+at|1|2 20:3
+IT|Che cosa dice il primo comandamento?|Non avere altri dèi davanti a me|Onora tuo padre e tua madre|Non uccidere|Ricordati del giorno di sabato|«Non avrai altri dèi davanti a me».
+RO|Ce spune prima poruncă?|Să nu ai alți dumnezei afară de Mine|Cinstește pe tatăl tău și pe mama ta|Să nu ucizi|Adu-ți aminte de ziua de odihnă|„Să nu ai alți dumnezei afară de Mine.”
+at|2|2 20:12
+IT|Quale comandamento ha una promessa di lunga vita?|Onora tuo padre e tua madre|Non rubare|Non uccidere|Non desiderare|«Onora tuo padre e tua madre, affinché i tuoi giorni siano prolungati».
+RO|Care poruncă are o făgăduință de viață lungă?|Cinstește pe tatăl tău și pe mama ta|Să nu furi|Să nu ucizi|Să nu poftești|„Cinstește pe tatăl tău și pe mama ta, pentru ca să ți se lungească zilele.”
+at|2|2 20:11
+IT|Quale motivo dà il quarto comandamento per osservare il sabato?|In sei giorni l'Eterno fece il cielo e la terra, e il settimo si riposò|L'uscita dall'Egitto|La caduta della manna|La vittoria sui nemici|«In sei giorni l'Eterno fece i cieli e la terra… e si riposò il settimo giorno».
+RO|Ce motiv dă porunca a patra pentru păzirea Sabatului?|În șase zile a făcut Domnul cerurile și pământul și în ziua a șaptea S-a odihnit|Ieșirea din Egipt|Căderea manei|Biruința asupra vrăjmașilor|„În șase zile a făcut Domnul cerurile, pământul… iar în ziua a șaptea S-a odihnit.”
+at|1|2 24:12
+IT|Su che cosa Dio scrisse i dieci comandamenti?|Su tavole di pietra|Su un rotolo di pergamena|Su tavolette d'argilla|Su lamine d'oro|Dio disse: «Ti darò le tavole di pietra, la legge e i comandamenti che ho scritto».
+RO|Pe ce a scris Dumnezeu cele zece porunci?|Pe table de piatră|Pe un sul de pergament|Pe tăblițe de lut|Pe foi de aur|Dumnezeu a zis: „Îți voi da niște table de piatră, cu legea și poruncile pe care le-am scris.”
+at|2|2 24:18
+IT|Quanti giorni e notti restò Mosè sul monte?|Quaranta|Sette|Tre|Settanta|Mosè entrò in mezzo alla nuvola e rimase sul monte quaranta giorni e quaranta notti.
+RO|Câte zile și nopți a rămas Moise pe munte?|Patruzeci|Șapte|Trei|Șaptezeci|Moise a intrat în mijlocul norului și a rămas pe munte patruzeci de zile și patruzeci de nopți.
+at|2|2 25:10
+IT|Di quale legno era fatta l'arca del patto?|Di legno d'acacia|Di legno di cedro|Di legno di gofer|Di legno d'ulivo|«Faranno dunque un'arca di legno d'acacia».
+RO|Din ce lemn era făcut chivotul legământului?|Din lemn de salcâm|Din lemn de cedru|Din lemn de gofer|Din lemn de măslin|„Să facă un chivot din lemn de salcâm.”
+at|3|2 25:18
+IT|Quali figure d'oro stavano alle estremità del propiziatorio?|Due cherubini|Due leoni|Due aquile|Due tori|Farai due cherubini d'oro alle due estremità del propiziatorio.
+RO|Ce chipuri de aur erau la cele două capete ale capacului ispășirii?|Doi heruvimi|Doi lei|Doi vulturi|Doi tauri|Să faci doi heruvimi de aur la cele două capete ale capacului ispășirii.
+at|2|2 25:31
+IT|Di che cosa era fatto il candelabro del santuario?|D'oro puro|D'argento|Di bronzo|Di legno ricoperto di rame|Il candelabro doveva essere d'oro puro, lavorato al martello.
+RO|Din ce era făcut sfeșnicul sanctuarului?|Din aur curat|Din argint|Din aramă|Din lemn acoperit cu aramă|Sfeșnicul trebuia făcut din aur curat, lucrat cu ciocanul.
+at|3|2 25:37
+IT|Quante lampade aveva il candelabro del tabernacolo?|Sette|Dodici|Tre|Dieci|Farai le sue lampade, in numero di sette.
+RO|Câte candele avea sfeșnicul cortului?|Șapte|Douăsprezece|Trei|Zece|Să-i faci șapte candele.
+personaggi|3|2 31:2
+IT|Chi fu riempito dello Spirito di Dio per lavorare l'oro, l'argento e il bronzo del tabernacolo?|Betsaleel|Oholiab|Hur|Eleazar|Dio chiamò per nome Betsaleel, della tribù di Giuda, e lo riempì dello Spirito di Dio.
+RO|Cine a fost umplut cu Duhul lui Dumnezeu ca să lucreze aurul, argintul și arama cortului?|Bețaleel|Oholiab|Hur|Eleazar|Dumnezeu l-a ales pe Bețaleel, din seminția lui Iuda, și l-a umplut cu Duhul lui Dumnezeu.
+at|1|2 32:4
+IT|Quale idolo fece Aaronne mentre Mosè era sul monte?|Un vitello d'oro|Un serpente di bronzo|Una statua di Baal|Un toro d'argento|Aaronne fuse l'oro e ne fece un vitello di metallo fuso.
+RO|Ce idol a făcut Aaron pe când Moise era pe munte?|Un vițel de aur|Un șarpe de aramă|Un chip al lui Baal|Un taur de argint|Aaron a topit aurul și a făcut din el un vițel turnat.
+personaggi|2|2 32:19
+IT|Che cosa fece Mosè con le tavole quando vide il vitello d'oro?|Le gettò e le spezzò ai piedi del monte|Le nascose nella tenda|Le diede ad Aaronne|Le lesse al popolo|L'ira di Mosè si accese; gettò le tavole e le spezzò ai piedi del monte.
+RO|Ce a făcut Moise cu tablele când a văzut vițelul de aur?|Le-a aruncat și le-a sfărâmat de poalele muntelui|Le-a ascuns în cort|I le-a dat lui Aaron|Le-a citit poporului|Moise s-a aprins de mânie, a aruncat tablele și le-a sfărâmat de poalele muntelui.
+personaggi|3|2 32:26
+IT|Quale tribù si schierò con Mosè dicendo di essere «per l'Eterno»?|Levi|Giuda|Beniamino|Ruben|Tutti i figli di Levi si radunarono presso Mosè.
+RO|Ce seminție s-a strâns la Moise, spunând că este „pentru Domnul”?|Levi|Iuda|Beniamin|Ruben|Toți fiii lui Levi s-au strâns la el.
+miracoli|2|2 34:29
+IT|Che cosa notarono gli Israeliti sul volto di Mosè quando scese dal monte?|Che risplendeva|Che era invecchiato|Che era ferito|Che era triste|Mosè non sapeva che la pelle del suo volto era diventata raggiante.
+RO|Ce au văzut israeliții pe fața lui Moise când s-a pogorât de pe munte?|Că strălucea|Că îmbătrânise|Că era rănit|Că era trist|Moise nu știa că pielea feței lui strălucea.
+at|2|3 10:1
+IT|Quali due figli di Aaronne offrirono un fuoco estraneo davanti all'Eterno?|Nadab e Abihu|Eleazar e Ithamar|Ofni e Fineas|Korah e Dathan|Nadab e Abihu offrirono un fuoco estraneo, e un fuoco uscì dalla presenza dell'Eterno e li divorò.
+RO|Care doi fii ai lui Aaron au adus înaintea Domnului un foc străin?|Nadab și Abihu|Eleazar și Itamar|Hofni și Fineas|Core și Datan|Nadab și Abihu au adus foc străin, și a ieșit un foc dinaintea Domnului și i-a mistuit.
+at|2|3 11:3
+IT|Secondo la legge, quali animali terrestri si potevano mangiare?|Quelli con l'unghia spartita che ruminano|Tutti quelli con quattro zampe|Solo quelli senza pelo|Quelli che vivono nei campi|Si potevano mangiare gli animali che hanno l'unghia spartita, il piede diviso e ruminano.
+RO|După Lege, ce animale de pe uscat se puteau mânca?|Cele cu copita despicată care rumegă|Toate cele cu patru picioare|Doar cele fără păr|Cele care trăiesc la câmp|Se puteau mânca dobitoacele care au copita despicată, unghia despărțită și rumegă.
+at|3|3 11:9
+IT|Quali animali acquatici erano permessi come cibo?|Quelli con pinne e squame|Tutti i pesci|Solo i molluschi|Quelli del fiume Giordano|Potete mangiare tutti quelli che hanno pinne e squame, nel mare o nei fiumi.
+RO|Ce viețuitoare din ape erau îngăduite ca hrană?|Cele cu înotătoare și solzi|Toți peștii|Doar scoicile|Cele din Iordan|Să mâncați tot ce are înotătoare și solzi, în mări și în râuri.
+at|3|3 16:8
+IT|Nel giorno delle espiazioni, quanti capri si sceglievano?|Due|Uno|Sette|Dodici|Aaronne gettava le sorti sui due capri: uno per l'Eterno e l'altro per Azazel.
+RO|În ziua ispășirii, câți țapi erau aleși?|Doi|Unul|Șapte|Doisprezece|Aaron trăgea la sorți pentru cei doi țapi: unul pentru Domnul și altul pentru Azazel.
+at|2|3 19:18
+IT|Dove si trova per la prima volta il comando «Ama il tuo prossimo come te stesso»?|Nel Levitico|Nel vangelo di Matteo|Nei Proverbi|Nel Deuteronomio|«Ama il tuo prossimo come te stesso. Io sono l'Eterno» è già nel Levitico.
+RO|Unde apare prima dată porunca „Să iubești pe aproapele tău ca pe tine însuți”?|În Levitic|În Evanghelia după Matei|În Proverbe|În Deuteronom|„Să iubești pe aproapele tău ca pe tine însuți. Eu sunt Domnul” se află deja în Levitic.
+at|3|3 25:10
+IT|Ogni quanti anni si celebrava il giubileo?|Cinquanta|Sette|Quaranta|Cento|«Santificherete il cinquantesimo anno… Sarà per voi un giubileo».
+RO|La câți ani se ținea anul de veselie (jubileul)?|Cincizeci|Șapte|Patruzeci|O sută|„Să sfințiți al cincizecilea an… Acesta să fie pentru voi anul de veselie.”
+at|2|3 25:4
+IT|Che cosa doveva fare la terra nel settimo anno?|Riposarsi: non si seminava|Dare il doppio del raccolto|Essere venduta|Essere data ai leviti|Il settimo anno sarà un sabato di completo riposo per la terra.
+RO|Ce trebuia să facă pământul în al șaptelea an?|Să se odihnească: nu se semăna|Să dea rod îndoit|Să fie vândut|Să fie dat leviților|Al șaptelea an să fie un Sabat, un timp de odihnă pentru pământ.
+at|2|4 6:24
+IT|Con quali parole comincia la benedizione sacerdotale di Aaronne?|«L'Eterno ti benedica e ti custodisca»|«Pace a voi»|«Ascolta, Israele»|«Grazia e pace»|«L'Eterno ti benedica e ti custodisca! L'Eterno faccia risplendere il suo volto su di te».
+RO|Cu ce cuvinte începe binecuvântarea preoțească a lui Aaron?|„Domnul să te binecuvânteze și să te păzească”|„Pace vouă”|„Ascultă, Israele”|„Har și pace”|„Domnul să te binecuvânteze și să te păzească! Domnul să facă să lumineze fața Lui peste tine.”
+personaggi|3|4 12:1
+IT|Chi parlò contro Mosè a causa della donna etiope che aveva sposato?|Miriam e Aaronne|Korah e Dathan|Giosuè e Caleb|Nadab e Abihu|Miriam e Aaronne parlarono contro Mosè, e Miriam divenne lebbrosa.
+RO|Cine a vorbit împotriva lui Moise din pricina femeii etiopiene cu care se căsătorise?|Maria și Aaron|Core și Datan|Iosua și Caleb|Nadab și Abihu|Maria și Aaron au vorbit împotriva lui Moise, iar Maria s-a umplut de lepră.
+at|2|4 13:2
+IT|Quanti uomini mandò Mosè a esplorare il paese di Canaan?|Dodici|Due|Sette|Settanta|Mosè mandò un uomo per ogni tribù: dodici esploratori.
+RO|Câți oameni a trimis Moise să iscodească țara Canaan?|Doisprezece|Doi|Șapte|Șaptezeci|Moise a trimis câte un om din fiecare seminție: doisprezece iscoade.
+luoghi|3|4 13:23
+IT|Nella valle di Eshkol, che cosa portarono gli esploratori su una stanga in due?|Un grappolo d'uva|Un vitello|Un'anfora d'olio|Una spada di un gigante|Tagliarono un tralcio con un grappolo d'uva e lo portarono in due con una stanga.
+RO|În valea Eșcol, ce au dus iscoadele pe o prăjină, câte doi?|Un ciorchine de struguri|Un vițel|Un vas cu untdelemn|Sabia unui uriaș|Au tăiat o ramură de viță cu un ciorchine de struguri și au dus-o câte doi cu o prăjină.
+personaggi|3|4 14:24
+IT|Di quale esploratore Dio disse che «ha avuto un altro spirito» e lo ha seguito pienamente?|Caleb|Giosuè|Shammua|Igal|«Il mio servo Caleb, poiché ha avuto un altro spirito e mi ha seguito pienamente, io lo farò entrare nel paese».
+RO|Despre care iscoadă a zis Dumnezeu că „a fost însuflețit de un alt duh” și L-a urmat în totul?|Caleb|Iosua|Șamua|Igal|„Robul Meu Caleb, fiindcă a fost însuflețit de un alt duh și M-a urmat în totul, îl voi duce în țara aceasta.”
+at|2|4 14:34
+IT|Per quanti anni Israele dovette vagare nel deserto per la sua incredulità?|Quaranta|Sette|Settanta|Dodici|Per ogni giorno di esplorazione, un anno: quarant'anni nel deserto.
+RO|Câți ani a trebuit Israel să rătăcească prin pustie din pricina necredinței?|Patruzeci|Șapte|Șaptezeci|Doisprezece|Pentru fiecare zi de iscodire, câte un an: patruzeci de ani în pustie.
+personaggi|2|4 16:32
+IT|Chi fu inghiottito dalla terra insieme alla sua gente per la ribellione contro Mosè?|Kore|Balaam|Akan|Nadab|La terra spalancò la sua bocca e inghiottì tutta la gente che parteggiava per Kore.
+RO|Cine a fost înghițit de pământ împreună cu oamenii lui pentru răzvrătirea împotriva lui Moise?|Core|Balaam|Acan|Nadab|Pământul și-a deschis gura și i-a înghițit, cu toți oamenii lui Core.
+miracoli|2|4 17:8
+IT|Quale verga fiorì e produsse mandorle nella tenda della testimonianza?|La verga di Aaronne|La verga di Mosè|La verga di Giosuè|La verga di Korah|La verga di Aaronne per la casa di Levi aveva germogliato e prodotto mandorle mature.
+RO|Ce toiag a înverzit și a făcut migdale în cortul mărturiei?|Toiagul lui Aaron|Toiagul lui Moise|Toiagul lui Iosua|Toiagul lui Core|Toiagul lui Aaron, pentru casa lui Levi, înfrunzise și făcuse migdale coapte.
+at|3|4 20:11
+IT|Perché Mosè non poté entrare nella Terra Promessa?|Perché a Meribah percosse la roccia invece di parlarle|Perché era troppo vecchio|Perché costruì un altare sbagliato|Perché ebbe paura dei giganti|Dio gli aveva detto di parlare alla roccia; Mosè la percosse due volte e non diede gloria a Dio.
+RO|De ce n-a putut intra Moise în țara făgăduită?|Pentru că la Meriba a lovit stânca în loc să-i vorbească|Pentru că era prea bătrân|Pentru că a zidit un altar greșit|Pentru că s-a temut de uriași|Dumnezeu îi spusese să vorbească stâncii; Moise a lovit-o de două ori și nu L-a sfințit pe Dumnezeu.
+luoghi|3|4 20:1
+IT|In quale luogo morì e fu sepolta Miriam?|A Kadesh|A Mara|Sul monte Hor|A Elim|Il popolo si fermò a Kadesh; là morì Miriam e là fu sepolta.
+RO|În ce loc a murit și a fost îngropată Maria, sora lui Moise?|La Cades|La Mara|Pe muntele Hor|La Elim|Poporul s-a oprit la Cades; acolo a murit Maria și acolo a fost îngropată.
+miracoli|1|4 21:9
+IT|Che cosa fece Mosè perché chi era morso dai serpenti potesse guarire?|Un serpente di bronzo su un'asta|Un altare di pietre|Una medicina d'erbe|Un bastone d'oro|Chiunque guardava il serpente di bronzo restava in vita.
+RO|Ce a făcut Moise ca cei mușcați de șerpi să se vindece?|Un șarpe de aramă pe o prăjină|Un altar de pietre|Un leac din ierburi|Un toiag de aur|Oricine se uita la șarpele de aramă rămânea cu viață.
+personaggi|1|4 22:28
+IT|Quale profeta fu rimproverato dalla sua asina, che parlò?|Balaam|Eliseo|Giona|Samuele|L'Eterno aprì la bocca dell'asina, che disse a Balaam: «Che ti ho fatto?».
+RO|Ce proroc a fost mustrat de măgărița lui, care a vorbit?|Balaam|Elisei|Iona|Samuel|Domnul a deschis gura măgăriței, care a zis lui Balaam: „Ce ți-am făcut?”
+personaggi|3|4 22:5
+IT|Quale re di Moab chiamò Balaam per maledire Israele?|Balak|Eglon|Mesha|Sihon|Balak, figlio di Tsippor, re di Moab, mandò a chiamare Balaam.
+RO|Ce împărat al Moabului l-a chemat pe Balaam ca să blesteme pe Israel?|Balac|Eglon|Meșa|Sihon|Balac, fiul lui Țipor, împăratul Moabului, a trimis soli la Balaam.
+profezie|3|4 24:17
+IT|Nella profezia di Balaam, che cosa sarebbe spuntata da Giacobbe?|Una stella|Una vite|Una torre|Una fonte|«Una stella spunta da Giacobbe e uno scettro sorge da Israele».
+RO|În proorocia lui Balaam, ce avea să răsară din Iacov?|O stea|O viță|Un turn|Un izvor|„O stea răsare din Iacov, un toiag de cârmuire se ridică din Israel.”
+personaggi|4|4 27:1
+IT|Quante erano le figlie di Tselofehad che chiesero un'eredità?|Cinque|Tre|Sette|Due|Le figlie di Tselofehad erano Mahlah, Noah, Hoglah, Milkah e Tirtsah: cinque.
+RO|Câte erau fiicele lui Țelofhad care au cerut o moștenire?|Cinci|Trei|Șapte|Două|Fetele lui Țelofhad erau Mahla, Noa, Hogla, Milca și Tirța: cinci.
+personaggi|2|4 27:18
+IT|Chi Dio indicò come successore di Mosè?|Giosuè|Caleb|Eleazar|Fineas|L'Eterno disse: «Prendi Giosuè, figlio di Nun, uomo in cui è lo Spirito, e posa la tua mano su di lui».
+RO|Pe cine a arătat Dumnezeu ca urmaș al lui Moise?|Pe Iosua|Pe Caleb|Pe Eleazar|Pe Fineas|Domnul a zis: „Ia-l pe Iosua, fiul lui Nun, om în care este Duhul, și pune-ți mâna peste el.”
+luoghi|3|4 35:6
+IT|Quante città di rifugio dovevano essere date ai leviti?|Sei|Dodici|Tre|Quarantotto|Delle città dei leviti, sei dovevano essere città di rifugio per l'omicida involontario.
+RO|Câte cetăți de scăpare trebuiau date leviților?|Șase|Douăsprezece|Trei|Patruzeci și opt|Dintre cetățile leviților, șase trebuiau să fie cetăți de scăpare pentru ucigașul fără voie.
+at|1|5 6:4
+IT|Con quali parole comincia lo «Shemà», la preghiera di Israele?|«Ascolta, Israele»|«Padre nostro»|«Beato l'uomo»|«Nel principio»|«Ascolta, Israele: l'Eterno, il nostro Dio, è l'unico Eterno».
+RO|Cu ce cuvinte începe „Șema”, rugăciunea lui Israel?|„Ascultă, Israele”|„Tatăl nostru”|„Ferice de omul”|„La început”|„Ascultă, Israele! Domnul, Dumnezeul nostru, este singurul Domn.”
+at|2|5 6:5
+IT|Con che cosa bisogna amare l'Eterno, secondo il Deuteronomio?|Con tutto il cuore, l'anima e la forza|Con le offerte|Con i digiuni|Con le parole|«Amerai l'Eterno, il tuo Dio, con tutto il tuo cuore, con tutta l'anima tua e con tutta la tua forza».
+RO|Cu ce trebuie iubit Domnul, după Deuteronom?|Cu toată inima, cu tot sufletul și cu toată puterea|Cu daruri|Cu posturi|Cu vorbe|„Să iubești pe Domnul, Dumnezeul tău, cu toată inima ta, cu tot sufletul tău și cu toată puterea ta.”
+at|2|5 8:3
+IT|Secondo il Deuteronomio, di che cosa non vive soltanto l'uomo?|Di pane|D'acqua|Di vino|Di carne|L'uomo non vive di pane soltanto, ma di ogni parola che esce dalla bocca dell'Eterno.
+RO|După Deuteronom, din ce nu trăiește omul numai?|Din pâine|Din apă|Din vin|Din carne|Omul nu trăiește numai cu pâine, ci cu orice lucru care iese din gura Domnului.
+at|3|5 8:4
+IT|Che cosa non si logorò addosso agli Israeliti durante i quarant'anni nel deserto?|Le loro vesti|Le loro tende|I loro carri|Le loro spade|«La tua veste non ti si è logorata addosso e il tuo piede non si è gonfiato in questi quarant'anni».
+RO|Ce nu li s-a învechit israeliților în cei patruzeci de ani de pustie?|Hainele|Corturile|Carele|Săbiile|„Haina nu ți s-a învechit pe tine, și piciorul nu ți s-a umflat, în acești patruzeci de ani.”
+profezie|3|5 18:15
+IT|Chi promise Mosè che Dio avrebbe suscitato in mezzo al popolo?|Un profeta come lui|Un re come Davide|Un sacerdote come Aaronne|Un giudice come Gedeone|«L'Eterno, il tuo Dio, susciterà per te un profeta come me»: una promessa del Messia.
+RO|Pe cine a spus Moise că va ridica Dumnezeu din mijlocul poporului?|Un proroc ca el|Un împărat ca David|Un preot ca Aaron|Un judecător ca Ghedeon|„Domnul, Dumnezeul tău, îți va ridica un proroc ca mine”: o făgăduință despre Mesia.
+at|3|5 30:19
+IT|Che cosa pose Mosè davanti al popolo, dicendo: «Scegli dunque la vita»?|La vita e la morte, la benedizione e la maledizione|L'oro e l'argento|La guerra e la pace|L'Egitto e Canaan|«Io ho posto davanti a te la vita e la morte, la benedizione e la maledizione; scegli dunque la vita».
+RO|Ce a pus Moise înaintea poporului, zicând: „Alege viața”?|Viața și moartea, binecuvântarea și blestemul|Aurul și argintul|Războiul și pacea|Egiptul și Canaanul|„Ți-am pus înainte viața și moartea, binecuvântarea și blestemul. Alege viața.”
+personaggi|3|5 34:9
+IT|Di che cosa fu pieno Giosuè, perché Mosè aveva posto le mani su di lui?|Dello spirito di sapienza|Di forza fisica|Di ricchezze|Di paura|Giosuè era pieno dello spirito di sapienza, perché Mosè aveva posto le mani su di lui.
+RO|De ce era plin Iosua, pentru că Moise își pusese mâinile peste el?|De duhul înțelepciunii|De putere trupească|De bogății|De frică|Iosua era plin de duhul înțelepciunii, căci Moise își pusese mâinile peste el.
+at|3|5 34:8
+IT|Per quanti giorni gli Israeliti piansero Mosè nelle pianure di Moab?|Trenta|Sette|Quaranta|Tre|I figli d'Israele piansero Mosè nelle pianure di Moab per trenta giorni.
+RO|Câte zile l-au plâns israeliții pe Moise în câmpiile Moabului?|Treizeci|Șapte|Patruzeci|Trei|Copiii lui Israel l-au plâns pe Moise în câmpiile Moabului treizeci de zile.
+profeti|3|5 34:10
+IT|Che cosa dice la Scrittura di Mosè alla fine del Deuteronomio?|Che non sorse più un profeta come lui, che l'Eterno conosceva faccia a faccia|Che fu il più forte guerriero|Che fu il primo re d'Israele|Che scrisse tutti i Salmi|Non è più sorto in Israele un profeta simile a Mosè, con cui l'Eterno trattava faccia a faccia.
+RO|Ce spune Scriptura despre Moise la sfârșitul Deuteronomului?|Că nu s-a mai ridicat un proroc ca el, pe care Domnul să-l fi cunoscut față în față|Că a fost cel mai puternic războinic|Că a fost primul împărat al lui Israel|Că a scris toți Psalmii|În Israel nu s-a mai ridicat proroc ca Moise, pe care Domnul să-l fi cunoscut față în față.
+personaggi|4|2 6:23
+IT|Come si chiamava la moglie di Aaronne?|Elisceba|Miriam|Jokebed|Sefora|Aaronne prese in moglie Elisceba, figlia di Amminadab, sorella di Nahshon.
+RO|Cum se numea nevasta lui Aaron?|Elișeba|Maria|Iochebed|Sefora|Aaron a luat de nevastă pe Elișeba, fata lui Aminadab, sora lui Nahșon.
+personaggi|4|2 2:22
+IT|Come si chiamava il primo figlio di Mosè?|Ghershom|Eliezer|Nadab|Ghershon|Mosè lo chiamò Ghershom, perché disse: «Sono uno straniero in terra straniera».
+RO|Cum se numea primul fiu al lui Moise?|Gherșom|Eliezer|Nadab|Gherșon|Moise i-a pus numele Gherșom, căci zicea: „Locuiesc într-o țară străină.”
+at|4|2 28:30
+IT|Come si chiamavano gli oggetti messi nel pettorale del sommo sacerdote per conoscere la volontà di Dio?|Urim e Thummim|Efod e Mitra|Teraphim|Sheol e Abaddon|Metterai nel pettorale del giudizio l'Urim e il Thummim, che saranno sul cuore di Aaronne.
+RO|Cum se numeau lucrurile puse în pieptarul marelui preot pentru a afla voia lui Dumnezeu?|Urim și Tumim|Efod și Mitră|Terafim|Șeol și Abadon|Să pui în pieptarul judecății Urim și Tumim, ca să fie pe inima lui Aaron.
+at|4|3 23:34
+IT|In quale mese iniziava la festa delle Capanne?|Il settimo|Il primo|Il terzo|Il dodicesimo|Il quindicesimo giorno del settimo mese era la festa delle Capanne, per sette giorni.
+RO|În ce lună începea sărbătoarea Corturilor?|A șaptea|Prima|A treia|A douăsprezecea|În ziua a cincisprezecea a lunii a șaptea era sărbătoarea Corturilor, șapte zile.
+personaggi|4|4 25:11
+IT|Quale nipote di Aaronne fermò la piaga a Sittim con il suo zelo?|Fineas|Eleazar|Ithamar|Nadab|Fineas, figlio di Eleazar, allontanò l'ira di Dio con il suo zelo.
+RO|Ce nepot al lui Aaron a oprit urgia de la Sitim prin râvna lui?|Fineas|Eleazar|Itamar|Nadab|Fineas, fiul lui Eleazar, a abătut mânia lui Dumnezeu prin râvna lui.
+luoghi|4|4 33:38
+IT|In quale anno dopo l'uscita dall'Egitto morì Aaronne?|Nel quarantesimo|Nel ventesimo|Nel trentesimo|Nel decimo|Aaronne morì sul monte Hor nel quarantesimo anno dopo l'uscita dei figli d'Israele dall'Egitto.
+RO|În al câtelea an după ieșirea din Egipt a murit Aaron?|În al patruzecilea|În al douăzecilea|În al treizecilea|În al zecelea|Aaron a murit pe muntele Hor, în al patruzecilea an după ieșirea copiilor lui Israel din Egipt.

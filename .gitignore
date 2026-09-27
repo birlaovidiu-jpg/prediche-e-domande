@@ -6,3 +6,7 @@ Prediche_e_Domande_v*.html
 .DS_Store
 *.pdf
 lez_*.txt
+
+# lo zip con tutti i pdf dei lezionari, scaricato da "Dati e copie" per
+# darlo in pasto a pubblica.py — vedi lì
+Lezionari PDF.zip

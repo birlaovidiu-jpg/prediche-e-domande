@@ -1,0 +1,199 @@
+# Domande nuove — 1 e 2 Re, 1 e 2 Cronache
+re|2|11 1:39
+IT|Chi unse Salomone re a Ghihon?|Il sacerdote Tsadok|Il profeta Samuele|Il profeta Gad|Il sacerdote Abiathar|Il sacerdote Tsadok prese il corno dell'olio dal tabernacolo e unse Salomone.
+RO|Cine l-a uns pe Solomon împărat la Ghihon?|Preotul Țadoc|Prorocul Samuel|Prorocul Gad|Preotul Abiatar|Preotul Țadoc a luat cornul cu untdelemn din cort și l-a uns pe Solomon.
+re|1|11 3:9
+IT|Che cosa chiese Salomone a Dio a Gabaon?|Un cuore intelligente per giudicare il popolo|Ricchezze|Una lunga vita|La morte dei nemici|«Da' dunque al tuo servo un cuore intelligente, perché possa amministrare la giustizia per il tuo popolo».
+RO|Ce i-a cerut Solomon lui Dumnezeu la Gabaon?|O inimă pricepută ca să judece poporul|Bogății|O viață lungă|Moartea vrăjmașilor|„Dă dar robului Tău o inimă pricepută, ca să judece pe poporul Tău.”
+re|2|11 3:25
+IT|Che cosa ordinò Salomone per scoprire la vera madre del bambino?|Di dividere il bambino in due con la spada|Di chiedere agli anziani|Di gettare le sorti|Di aspettare sette giorni|«Tagliate in due il bambino vivo»: la vera madre supplicò che non lo uccidessero.
+RO|Ce a poruncit Solomon ca să afle cine este adevărata mamă a copilului?|Să taie copilul în două cu sabia|Să-i întrebe pe bătrâni|Să tragă la sorți|Să aștepte șapte zile|„Tăiați în două copilul care trăiește”: adevărata mamă s-a rugat să nu-l omoare.
+re|3|11 4:32
+IT|Quanti proverbi pronunciò Salomone?|Tremila|Mille|Settecento|Diecimila|Salomone pronunciò tremila proverbi e i suoi cantici furono millecinque.
+RO|Câte pilde a rostit Solomon?|Trei mii|O mie|Șapte sute|Zece mii|Solomon a rostit trei mii de pilde, iar cântările lui au fost în număr de o mie cinci.
+re|2|11 5:6
+IT|Quale legno chiese Salomone a Hiram, re di Tiro, per il tempio?|I cedri del Libano|L'acacia del deserto|Il legno d'ulivo di Galaad|Il sicomoro|«Ordina dunque che si taglino per me dei cedri del Libano».
+RO|Ce lemn i-a cerut Solomon lui Hiram, împăratul Tirului, pentru templu?|Cedri din Liban|Salcâm din pustie|Lemn de măslin din Galaad|Sicomor|„Poruncește acum să mi se taie cedri din Liban.”
+re|2|11 6:38
+IT|Quanti anni impiegò Salomone per costruire il tempio?|Sette|Tredici|Tre|Quaranta|Salomone impiegò sette anni per costruirlo.
+RO|Câți ani a lucrat Solomon la zidirea templului?|Șapte|Treisprezece|Trei|Patruzeci|Solomon l-a zidit în șapte ani.
+re|2|11 7:1
+IT|Quanti anni impiegò Salomone per costruire il suo palazzo?|Tredici|Sette|Venti|Tre|Salomone costruì il suo palazzo in tredici anni.
+RO|Câți ani a lucrat Solomon la casa lui?|Treisprezece|Șapte|Douăzeci|Trei|Solomon și-a zidit casa în treisprezece ani.
+at|2|11 8:10
+IT|Che cosa riempì il tempio quando i sacerdoti uscirono dal luogo santo?|La nuvola|Il fumo dell'incenso|Una luce azzurra|L'acqua|Quando i sacerdoti uscirono, la nuvola riempì la casa dell'Eterno.
+RO|Ce a umplut templul când au ieșit preoții din Locul Sfânt?|Norul|Fumul tămâiei|O lumină albastră|Apa|Când au ieșit preoții, norul a umplut Casa Domnului.
+re|2|11 10:1
+IT|Quale regina venne a mettere alla prova Salomone con enigmi?|La regina di Sceba|La regina d'Egitto|Jezebel|Athaliah|La regina di Sceba udì la fama di Salomone e venne a metterlo alla prova con enigmi.
+RO|Ce împărăteasă a venit să-l încerce pe Solomon prin întrebări grele?|Împărăteasa din Seba|Împărăteasa Egiptului|Izabela|Atalia|Împărăteasa din Seba a auzit de faima lui Solomon și a venit să-l încerce prin întrebări grele.
+re|3|11 11:3
+IT|Quante mogli principesse ebbe Salomone?|Settecento|Cento|Trecento|Mille|Salomone ebbe settecento principesse per mogli e trecento concubine, che gli pervertirono il cuore.
+RO|Câte neveste, fiice de domnitori, a avut Solomon?|Șapte sute|O sută|Trei sute|O mie|Solomon a avut șapte sute de neveste, fiice de domnitori, și trei sute de țiitoare, care i-au abătut inima.
+re|2|11 12:12-14
+IT|Quale re rispose duramente al popolo seguendo il consiglio dei giovani?|Roboamo|Geroboamo|Asa|Abijah|Roboamo disse: «Mio padre vi ha castigati con fruste, io vi castigherò con scorpioni».
+RO|Ce împărat a răspuns aspru poporului, după sfatul tinerilor?|Roboam|Ieroboam|Asa|Abia|Roboam a zis: „Tatăl meu v-a pedepsit cu bice, eu vă voi pedepsi cu scorpioni.”
+re|2|11 12:28
+IT|Che cosa fece Geroboamo perché il popolo non andasse a Gerusalemme?|Due vitelli d'oro|Un nuovo tempio a Hebron|Una statua di Baal|Un muro al confine|Geroboamo fece due vitelli d'oro e li pose uno a Bethel e l'altro a Dan.
+RO|Ce a făcut Ieroboam ca poporul să nu mai meargă la Ierusalim?|Doi vițeli de aur|Un templu nou la Hebron|Un chip al lui Baal|Un zid la hotar|Ieroboam a făcut doi vițeli de aur și i-a pus unul la Betel și altul la Dan.
+profeti|1|11 17:6
+IT|Chi portava pane e carne a Elia presso il torrente Kerith?|I corvi|Le colombe|Un angelo|Una vedova|I corvi gli portavano pane e carne la mattina e la sera.
+RO|Cine îi aducea pâine și carne lui Ilie la pârâul Cherit?|Corbii|Porumbeii|Un înger|O văduvă|Corbii îi aduceau pâine și carne dimineața și seara.
+luoghi|2|11 17:9
+IT|In quale città una vedova diede da mangiare a Elia?|Sarepta|Sunem|Nain|Betania|L'Eterno disse a Elia: «Va' a stare a Sarepta; là ho ordinato a una vedova di nutrirti».
+RO|În ce cetate l-a hrănit o văduvă pe Ilie?|Sarepta|Sunem|Nain|Betania|Domnul i-a zis lui Ilie: „Du-te la Sarepta; iată, am poruncit acolo unei femei văduve să te hrănească.”
+miracoli|2|11 17:16
+IT|Che cosa non venne meno alla vedova di Sarepta finché durò la carestia?|La farina e l'olio|L'acqua e il vino|Il pane e il miele|Il latte e il burro|La farina nel vaso non si esaurì e l'olio nell'orcio non venne meno.
+RO|Ce nu s-a sfârșit la văduva din Sarepta cât a ținut foametea?|Făina și untdelemnul|Apa și vinul|Pâinea și mierea|Laptele și untul|Făina din oală n-a scăzut, și untdelemnul din ulcior nu s-a împuținat.
+miracoli|2|11 17:22-23
+IT|Chi Elia riportò in vita a Sarepta?|Il figlio della vedova|La vedova|Un soldato|Un re|L'Eterno esaudì la voce di Elia, e l'anima del bambino ritornò in lui.
+RO|Pe cine a înviat Ilie la Sarepta?|Pe fiul văduvei|Pe văduvă|Pe un ostaș|Pe un împărat|Domnul a ascultat glasul lui Ilie, și sufletul copilului s-a întors în el.
+personaggi|3|11 18:4
+IT|Quale servitore di Achab nascose cento profeti in due caverne?|Abdia|Mikaiah|Jehu|Naboth|Abdia prese cento profeti e li nascose cinquanta per caverna, nutrendoli di pane e acqua.
+RO|Ce slujitor al lui Ahab a ascuns o sută de proroci în două peșteri?|Obadia|Mica|Iehu|Nabot|Obadia a luat o sută de proroci și i-a ascuns câte cincizeci într-o peșteră, hrănindu-i cu pâine și apă.
+luoghi|1|11 18:19
+IT|Su quale monte Elia sfidò i profeti di Baal?|Sul monte Carmelo|Sul monte Sinai|Sul monte Tabor|Sul monte degli Ulivi|Elia radunò tutto Israele e i profeti di Baal sul monte Carmelo.
+RO|Pe ce munte i-a provocat Ilie pe prorocii lui Baal?|Pe muntele Carmel|Pe muntele Sinai|Pe muntele Tabor|Pe Muntele Măslinilor|Ilie a strâns tot Israelul și pe prorocii lui Baal pe muntele Carmel.
+profeti|3|11 18:22
+IT|Quanti erano i profeti di Baal sul monte Carmelo?|Quattrocentocinquanta|Cento|Settanta|Mille|«Io sono rimasto solo profeta dell'Eterno, mentre i profeti di Baal sono quattrocentocinquanta».
+RO|Câți proroci ai lui Baal erau pe muntele Carmel?|Patru sute cincizeci|O sută|Șaptezeci|O mie|„Am rămas singur din prorocii Domnului, pe când prorocii lui Baal sunt în număr de patru sute cincizeci.”
+at|2|11 18:21
+IT|Che cosa chiese Elia al popolo sul Carmelo?|«Fino a quando zoppicherete dai due lati?»|«Chi è il vostro re?»|«Avete portato le offerte?»|«Dov'è l'arca?»|«Se l'Eterno è Dio, seguitelo; se lo è Baal, seguite lui».
+RO|Ce l-a întrebat Ilie pe popor pe Carmel?|„Până când vreți să șchiopătați de amândouă picioarele?”|„Cine este împăratul vostru?”|„Ați adus darurile?”|„Unde este chivotul?”|„Dacă Domnul este Dumnezeu, mergeți după El; iar dacă este Baal, mergeți după Baal!”
+miracoli|2|11 18:33
+IT|Che cosa fece versare Elia sull'olocausto prima di pregare?|Acqua, per tre volte|Olio|Vino|Sangue di capro|Elia fece riempire quattro giare d'acqua e versarla sull'olocausto e sulla legna, tre volte.
+RO|Ce a pus Ilie să se toarne peste arderea-de-tot înainte să se roage?|Apă, de trei ori|Untdelemn|Vin|Sânge de țap|Ilie a pus să umple patru vedre cu apă și s-o toarne peste arderea-de-tot și peste lemne, de trei ori.
+miracoli|1|11 18:38
+IT|Che cosa cadde dal cielo sull'altare di Elia?|Il fuoco dell'Eterno|La grandine|La manna|La pioggia|Il fuoco dell'Eterno cadde e consumò l'olocausto, la legna, le pietre, la polvere e l'acqua.
+RO|Ce a căzut din cer peste altarul lui Ilie?|Focul Domnului|Grindina|Mana|Ploaia|Focul Domnului a căzut și a mistuit arderea-de-tot, lemnele, pietrele, țărâna și apa.
+miracoli|2|11 18:44
+IT|Che cosa vide salire dal mare il servo di Elia alla settima volta?|Una piccola nuvola come la mano di un uomo|Una nave|Un grande pesce|Un arcobaleno|«Ecco una piccola nuvola, grande come la mano di un uomo, che sale dal mare».
+RO|Ce a văzut sluga lui Ilie ridicându-se din mare a șaptea oară?|Un nor mic cât palma unui om|O corabie|Un pește mare|Un curcubeu|„Iată un nor mic cât palma unui om, care se ridică din mare.”
+personaggi|2|11 19:2
+IT|Quale regina minacciò di morte Elia dopo il Carmelo?|Jezebel|Athaliah|La regina di Sceba|Mikal|Jezebel mandò a dire a Elia che entro domani lo avrebbe ucciso.
+RO|Ce împărăteasă l-a amenințat cu moartea pe Ilie după Carmel?|Izabela|Atalia|Împărăteasa din Seba|Mical|Izabela i-a trimis vorbă lui Ilie că până mâine îl va omorî.
+profeti|2|11 19:5
+IT|Sotto quale albero si sdraiò Elia nel deserto chiedendo di morire?|Una ginestra|Un fico|Una quercia|Una palma|Elia si sedette sotto una ginestra e chiese di morire.
+RO|Sub ce copac s-a culcat Ilie în pustie, cerând să moară?|Un ienupăr|Un smochin|Un stejar|Un finic|Ilie s-a așezat sub un ienupăr și a dorit să moară.
+profeti|3|11 19:12
+IT|Come si manifestò l'Eterno a Elia sul monte Horeb dopo il vento, il terremoto e il fuoco?|Con il suono di una voce calma e sottile|Con un tuono|Con una colonna di fuoco|Con un angelo armato|Dopo il fuoco ci fu il suono di una voce calma e sottile.
+RO|Cum i S-a arătat Domnul lui Ilie pe Horeb după vânt, cutremur și foc?|Printr-un susur blând și subțire|Printr-un tunet|Printr-un stâlp de foc|Printr-un înger înarmat|După foc a venit un susur blând și subțire.
+profeti|2|11 19:19
+IT|Che cosa stava facendo Eliseo quando Elia lo chiamò?|Arava con dodici paia di buoi|Pascolava le pecore|Pescava nel Giordano|Costruiva una casa|Eliseo arava con dodici paia di buoi; Elia gli gettò addosso il suo mantello.
+RO|Ce făcea Elisei când l-a chemat Ilie?|Ara cu douăsprezece perechi de boi|Păștea oile|Pescuia în Iordan|Zidea o casă|Elisei ara cu douăsprezece perechi de boi; Ilie și-a aruncat mantaua peste el.
+personaggi|2|11 21:3
+IT|Quale uomo non volle vendere la sua vigna al re Achab?|Naboth|Mikaiah|Jehu|Abdia|Naboth disse: «Mi guardi l'Eterno dal darti l'eredità dei miei padri».
+RO|Ce om n-a vrut să-i vândă via lui împăratului Ahab?|Nabot|Mica|Iehu|Obadia|Nabot a zis: „Să mă ferească Domnul să-ți dau moștenirea părinților mei!”
+profeti|3|11 22:8
+IT|Quale profeta Achab odiava perché non profetizzava mai nulla di buono per lui?|Mikaiah|Elia|Eliseo|Isaia|«C'è ancora un uomo… ma io l'odio, perché non mi profetizza nulla di buono: è Mikaiah».
+RO|Pe ce proroc îl ura Ahab, pentru că nu-i proorocea niciodată ceva bun?|Mica|Ilie|Elisei|Isaia|„Mai este un om… dar îl urăsc, căci nu-mi prorocește nimic bun: este Mica.”
+miracoli|1|12 2:11
+IT|Come fu portato in cielo Elia?|In un turbine, con un carro di fuoco|Su una nuvola bianca|Su ali d'aquila|Su una scala|Un carro di fuoco e cavalli di fuoco li separarono, ed Elia salì al cielo in un turbine.
+RO|Cum a fost luat Ilie la cer?|Într-un vârtej, cu un car de foc|Pe un nor alb|Pe aripi de vultur|Pe o scară|Un car de foc și niște cai de foc i-au despărțit, și Ilie s-a înălțat la cer într-un vârtej.
+profeti|2|12 2:9
+IT|Che cosa chiese Eliseo a Elia prima che fosse portato via?|Una doppia porzione del suo spirito|Il suo bastone|La sua casa|Di andare con lui|«Ti prego, venga su di me una doppia porzione del tuo spirito».
+RO|Ce i-a cerut Elisei lui Ilie înainte de a fi luat?|O îndoită măsură din duhul lui|Toiagul lui|Casa lui|Să meargă cu el|„Te rog să vină peste mine o îndoită măsură din duhul tău!”
+miracoli|2|12 2:14
+IT|Con che cosa Eliseo percosse le acque del Giordano per dividerle?|Con il mantello di Elia|Con il suo bastone|Con la mano|Con un ramo|Eliseo prese il mantello caduto a Elia e percosse le acque, che si divisero.
+RO|Cu ce a lovit Elisei apele Iordanului ca să le despartă?|Cu mantaua lui Ilie|Cu toiagul lui|Cu mâna|Cu o ramură|Elisei a luat mantaua căzută de pe Ilie și a lovit apele, care s-au despărțit.
+miracoli|2|12 2:21
+IT|Che cosa gettò Eliseo nella sorgente di Gerico per risanare le acque?|Del sale|Della farina|Dell'olio|Una pietra|Eliseo gettò il sale nella sorgente e le acque furono risanate.
+RO|Ce a aruncat Elisei în izvorul Ierihonului ca să însănătoșeze apele?|Sare|Făină|Untdelemn|O piatră|Elisei a aruncat sare în izvor, și apele s-au însănătoșit.
+miracoli|2|12 4:6
+IT|Che cosa si moltiplicò per la vedova del profeta finché ebbe vasi?|L'olio|La farina|Il vino|L'acqua|L'olio continuò a scorrere finché ci furono vasi da riempire.
+RO|Ce s-a înmulțit la văduva prorocului cât a avut vase?|Untdelemnul|Făina|Vinul|Apa|Untdelemnul a curs până n-au mai fost vase de umplut.
+personaggi|2|12 4:10
+IT|Che cosa preparò la donna di Sunem per Eliseo?|Una piccola camera in muratura sulla terrazza|Un cavallo|Un carro|Una tenda nel giardino|Nella cameretta misero un letto, una tavola, una sedia e un candeliere.
+RO|Ce i-a pregătit femeia din Sunem lui Elisei?|O odăiță pe acoperiș|Un cal|Un car|Un cort în grădină|În odăiță i-au pus un pat, o masă, un scaun și un sfeșnic.
+miracoli|3|12 4:41
+IT|Che cosa gettò Eliseo nella pentola avvelenata perché non facesse più male?|Della farina|Del sale|Dell'olio|Un ramo|Eliseo disse: «Portate della farina», la gettò nella pentola e non c'era più nulla di nocivo.
+RO|Ce a aruncat Elisei în oala otrăvită ca să nu mai facă rău?|Făină|Sare|Untdelemn|O ramură|Elisei a zis: „Aduceți făină!”, a aruncat-o în oală și nu mai era nimic vătămător.
+miracoli|3|12 4:43
+IT|Quante persone sfamò Eliseo con venti pani d'orzo?|Cento|Cinquemila|Mille|Dodici|«Come potrei dare questo a cento persone?». Mangiarono e ne avanzò.
+RO|Câți oameni a săturat Elisei cu douăzeci de pâini de orz?|O sută|Cinci mii|O mie|Doisprezece|„Cum să dau aceasta la o sută de oameni?” Au mâncat și au mai lăsat.
+personaggi|1|12 5:1
+IT|Quale capo dell'esercito siro era lebbroso?|Naaman|Ben-Hadad|Hazael|Rezin|Naaman, capo dell'esercito del re di Siria, era un uomo valoroso, ma lebbroso.
+RO|Ce căpetenie a oștirii Siriei era leprosă?|Naaman|Ben-Hadad|Hazael|Rețin|Naaman, căpetenia oștirii împăratului Siriei, era un om viteaz, dar lepros.
+personaggi|2|12 5:2
+IT|Chi consigliò a Naaman di andare dal profeta in Israele?|Una ragazza israelita serva di sua moglie|Il re di Siria|Un mercante|Suo figlio|Una ragazzina presa prigioniera in Israele serviva la moglie di Naaman e le parlò del profeta.
+RO|Cine l-a îndemnat pe Naaman să meargă la prorocul din Israel?|O fetiță israelită, roaba nevestei lui|Împăratul Siriei|Un negustor|Fiul său|O fetiță luată roabă din Israel slujea nevestei lui Naaman și i-a vorbit despre proroc.
+personaggi|2|12 5:11
+IT|Perché Naaman si adirò quando Eliseo gli mandò a dire di lavarsi nel Giordano?|Si aspettava che il profeta uscisse a invocare Dio su di lui|Il fiume era troppo lontano|Voleva essere pagato|Il re glielo aveva proibito|Naaman disse: «Pensavo che sarebbe uscito, avrebbe invocato l'Eterno e avrebbe agitato la mano sulla parte malata».
+RO|De ce s-a mâniat Naaman când Elisei i-a trimis vorbă să se scalde în Iordan?|Se aștepta ca prorocul să iasă și să cheme pe Domnul peste el|Râul era prea departe|Voia să fie plătit|Împăratul îl oprise|Naaman a zis: „Credeam că va ieși la mine, va chema Numele Domnului și își va mișca mâna peste locul bolnav.”
+personaggi|2|12 5:27
+IT|Quale servo di Eliseo diventò lebbroso per la sua avidità?|Ghehazi|Naaman|Abdia|Hazael|«La lebbra di Naaman si attaccherà a te»: Ghehazi uscì lebbroso, bianco come la neve.
+RO|Ce slujitor al lui Elisei s-a umplut de lepră din pricina lăcomiei?|Ghehazi|Naaman|Obadia|Hazael|„Lepra lui Naaman se va lipi de tine”: Ghehazi a ieșit lepros, alb ca zăpada.
+miracoli|2|12 6:6
+IT|Che cosa fece galleggiare Eliseo nel Giordano?|Il ferro di una scure|Una pietra|Una moneta|Una catena|Eliseo tagliò un pezzo di legno, lo gettò nell'acqua e fece galleggiare il ferro.
+RO|Ce a făcut Elisei să plutească pe Iordan?|Fierul unei securi|O piatră|O monedă|Un lanț|Elisei a tăiat o bucată de lemn, a aruncat-o în apă și a făcut fierul să plutească.
+profeti|2|12 6:17
+IT|Che cosa vide il servo di Eliseo quando Dio gli aprì gli occhi a Dothan?|Il monte pieno di cavalli e carri di fuoco|Un angelo con la spada|Una colonna di nuvola|L'esercito nemico in fuga|Il monte era pieno di cavalli e di carri di fuoco intorno a Eliseo.
+RO|Ce a văzut sluga lui Elisei când Dumnezeu i-a deschis ochii la Dotan?|Muntele plin de cai și care de foc|Un înger cu sabia|Un stâlp de nor|Oștirea vrăjmașă fugind|Muntele era plin de cai și de care de foc împrejurul lui Elisei.
+re|2|12 9:20
+IT|Quale re guidava il carro «come un pazzo»?|Jehu|Achab|Joram|Acaz|«Il modo di guidare è come quello di Jehu, figlio di Nimsci, perché guida come un pazzo».
+RO|Ce împărat mâna carul „ca un nebun”?|Iehu|Ahab|Ioram|Ahaz|„Felul de a mâna este ca al lui Iehu, fiul lui Nimși, căci mână ca un nebun.”
+re|3|12 11:2
+IT|Quale bambino di stirpe reale fu nascosto sei anni nel tempio per sfuggire ad Athaliah?|Joas|Ezechia|Giosia|Uzziah|Jehosceba nascose Joas, figlio di Achaziah, e rimase nascosto sei anni nella casa dell'Eterno.
+RO|Ce copil din neam împărătesc a fost ascuns șase ani în templu, ca să scape de Atalia?|Ioas|Ezechia|Iosia|Ozia|Ioșeba l-a ascuns pe Ioas, fiul lui Ahazia, și a stat ascuns șase ani în Casa Domnului.
+re|3|12 11:21
+IT|Quanti anni aveva Joas quando cominciò a regnare?|Sette|Otto|Dodici|Sedici|Joas aveva sette anni quando cominciò a regnare.
+RO|Câți ani avea Ioas când a început să domnească?|Șapte|Opt|Doisprezece|Șaisprezece|Ioas era de șapte ani când a ajuns împărat.
+miracoli|3|12 13:21
+IT|Che cosa accadde al morto gettato nella tomba di Eliseo?|Toccò le ossa di Eliseo e tornò in vita|Sparì|Si trasformò in pietra|Fu bruciato da un fuoco|Appena toccò le ossa di Eliseo, l'uomo tornò in vita e si alzò in piedi.
+RO|Ce s-a întâmplat cu mortul aruncat în mormântul lui Elisei?|A atins oasele lui Elisei și a înviat|A dispărut|S-a prefăcut în piatră|A fost ars de un foc|Cum a atins oasele lui Elisei, omul a înviat și s-a ridicat pe picioare.
+re|2|12 18:1-4
+IT|Quale re fece a pezzi il serpente di bronzo fatto da Mosè?|Ezechia|Giosia|Asa|Joas|Ezechia fece a pezzi il serpente di bronzo, perché gli Israeliti gli bruciavano incenso.
+RO|Ce împărat a sfărâmat șarpele de aramă făcut de Moise?|Ezechia|Iosia|Asa|Ioas|Ezechia a sfărâmat șarpele de aramă, pentru că israeliții îi aduceau tămâie.
+re|2|12 18:13
+IT|Quale re d'Assiria assediò Gerusalemme al tempo di Ezechia?|Sennacherib|Nabukodonosor|Ciro|Tiglath-Pileser|Nel quattordicesimo anno di Ezechia, Sennacherib, re d'Assiria, salì contro le città di Giuda.
+RO|Ce împărat al Asiriei a asediat Ierusalimul pe vremea lui Ezechia?|Sanherib|Nebucadnețar|Cir|Tiglat-Pileser|În al paisprezecelea an al lui Ezechia, Sanherib, împăratul Asiriei, s-a suit împotriva cetăților lui Iuda.
+miracoli|2|12 19:35
+IT|Quanti soldati assiri colpì l'angelo dell'Eterno in una notte?|Centottantacinquemila|Mille|Diecimila|Trecento|L'angelo dell'Eterno colpì nel campo degli Assiri centottantacinquemila uomini.
+RO|Câți ostași asirieni a lovit Îngerul Domnului într-o noapte?|O sută optzeci și cinci de mii|O mie|Zece mii|Trei sute|Îngerul Domnului a ucis în tabăra asirienilor o sută optzeci și cinci de mii de oameni.
+miracoli|2|12 20:6
+IT|Quanti anni Dio aggiunse alla vita di Ezechia?|Quindici|Dieci|Cinque|Venti|«Aggiungerò alla tua vita quindici anni».
+RO|Câți ani a adăugat Dumnezeu la viața lui Ezechia?|Cincisprezece|Zece|Cinci|Douăzeci|„Voi mai adăuga cincisprezece ani la zilele tale.”
+miracoli|3|12 20:11
+IT|Quale segno diede Dio a Ezechia per la sua guarigione?|L'ombra tornò indietro di dieci gradini|Una stella nuova|La pioggia in estate|Un terremoto|Isaia invocò l'Eterno, che fece tornare indietro l'ombra di dieci gradini.
+RO|Ce semn i-a dat Dumnezeu lui Ezechia pentru vindecarea lui?|Umbra s-a dat înapoi cu zece trepte|O stea nouă|Ploaie vara|Un cutremur|Isaia a chemat pe Domnul, care a dat umbra înapoi cu zece trepte.
+re|3|12 21:1
+IT|Quanti anni regnò Manasse, il re più lungo di Giuda?|Cinquantacinque|Quaranta|Ventinove|Trentuno|Manasse aveva dodici anni quando cominciò a regnare e regnò cinquantacinque anni.
+RO|Câți ani a domnit Manase, cea mai lungă domnie din Iuda?|Cincizeci și cinci|Patruzeci|Douăzeci și nouă|Treizeci și unu|Manase avea doisprezece ani când a ajuns împărat și a domnit cincizeci și cinci de ani.
+re|2|12 22:1
+IT|Quanti anni aveva Giosia quando diventò re?|Otto|Sette|Dodici|Sedici|Giosia aveva otto anni quando cominciò a regnare.
+RO|La ce vârstă a început Iosia să domnească?|Opt|Șapte|Doisprezece|Șaisprezece|Iosia era de opt ani când a ajuns împărat.
+re|2|12 22:8
+IT|Che cosa trovò il sommo sacerdote Hilkiah nel tempio al tempo di Giosia?|Il libro della legge|L'arca perduta|Un tesoro d'oro|La spada di Goliath|Hilkiah disse: «Ho trovato il libro della legge nella casa dell'Eterno».
+RO|Ce a găsit marele preot Hilchia în templu pe vremea lui Iosia?|Cartea legii|Chivotul pierdut|O comoară de aur|Sabia lui Goliat|Hilchia a zis: „Am găsit cartea legii în Casa Domnului.”
+profeti|3|12 22:14
+IT|Quale profetessa consultò il re Giosia?|Hulda|Debora|Miriam|Anna|Andarono dalla profetessa Hulda, che abitava a Gerusalemme nel secondo quartiere.
+RO|Ce proorociță a întrebat împăratul Iosia?|Hulda|Debora|Maria|Ana|S-au dus la proorocița Hulda, care locuia la Ierusalim, în cealaltă mahala.
+re|2|12 25:7
+IT|Che cosa fecero i Babilonesi al re Sedekia dopo aver ucciso i suoi figli?|Gli cavarono gli occhi|Lo liberarono|Lo fecero governatore|Lo esiliarono in Egitto|Uccisero i figli di Sedekia davanti a lui, poi gli cavarono gli occhi e lo portarono a Babilonia.
+RO|Ce i-au făcut babilonienii împăratului Zedechia după ce i-au ucis fiii?|I-au scos ochii|L-au eliberat|L-au pus dregător|L-au dus în Egipt|Au înjunghiat pe fiii lui Zedechia sub ochii lui, apoi i-au scos ochii și l-au dus la Babilon.
+luoghi|2|12 25:9
+IT|Che cosa bruciarono i Babilonesi a Gerusalemme?|La casa dell'Eterno e il palazzo del re|Solo le mura|Solo i campi|Il palazzo di Salomone a Gabaon|Bruciarono la casa dell'Eterno, la casa del re e tutte le case di Gerusalemme.
+RO|Ce au ars babilonienii la Ierusalim?|Casa Domnului și casa împăratului|Numai zidurile|Numai câmpiile|Palatul lui Solomon din Gabaon|Au ars Casa Domnului, casa împăratului și toate casele Ierusalimului.
+re|3|14 26:21
+IT|Quale re diventò lebbroso per aver voluto bruciare l'incenso nel tempio?|Uzziah|Ezechia|Joas|Amatsiah|Il re Uzziah fu lebbroso fino al giorno della sua morte.
+RO|Ce împărat s-a umplut de lepră pentru că a vrut să ardă tămâie în templu?|Ozia|Ezechia|Ioas|Amația|Împăratul Ozia a fost lepros până în ziua morții lui.
+re|3|14 33:11-13
+IT|Quale re malvagio si umiliò davanti a Dio mentre era prigioniero a Babilonia?|Manasse|Achaz|Amon|Joiakim|Nella sua angoscia Manasse implorò l'Eterno e si umiliò profondamente davanti al Dio dei suoi padri.
+RO|Ce împărat rău s-a smerit înaintea lui Dumnezeu pe când era prins la Babilon?|Manase|Ahaz|Amon|Ioiachim|În strâmtorarea lui, Manase s-a rugat Domnului și s-a smerit adânc înaintea Dumnezeului părinților săi.
+re|2|14 36:23
+IT|Quale re persiano permise agli Ebrei di tornare a ricostruire il tempio?|Ciro|Dario|Serse|Artaserse|«Così dice Ciro, re di Persia: …Egli mi ha comandato di costruirgli una casa a Gerusalemme».
+RO|Ce împărat persan le-a îngăduit evreilor să se întoarcă și să zidească templul?|Cir|Darius|Xerxes|Artaxerxe|„Așa vorbește Cir, împăratul perșilor: …El mi-a poruncit să-I zidesc o casă la Ierusalim.”
+at|3|14 7:14
+IT|Che cosa promise Dio se il suo popolo si fosse umiliato e avesse pregato?|Che avrebbe perdonato e risanato il paese|Che gli avrebbe dato un re|Che avrebbe mandato la manna|Che avrebbe distrutto l'Assiria|«Se il mio popolo si umilia, prega… io l'esaudirò dal cielo, perdonerò il suo peccato e risanerò il suo paese».
+RO|Ce a promis Dumnezeu dacă poporul Său se va smeri și se va ruga?|Că va ierta și va tămădui țara|Că le va da un împărat|Că va trimite mana|Că va nimici Asiria|„Dacă poporul Meu se va smeri, se va ruga… îl voi asculta din ceruri, îi voi ierta păcatul și-i voi tămădui țara.”
+re|4|11 16:24
+IT|Da chi comprò Omri il monte su cui costruì Samaria?|Da Scemer|Da Achab|Da Naboth|Da Hiram|Omri comprò il monte di Samaria da Scemer per due talenti d'argento.
+RO|De la cine a cumpărat Omri muntele pe care a zidit Samaria?|De la Șemer|De la Ahab|De la Nabot|De la Hiram|Omri a cumpărat muntele Samariei de la Șemer cu doi talanți de argint.
+personaggi|4|11 17:1
+IT|Da quale luogo veniva il profeta Elia?|Da Tishbe, in Galaad|Da Anathoth|Da Tekoa|Da Abel-Meholah|Elia il Tishbita era uno degli abitanti di Galaad.
+RO|De unde era prorocul Ilie?|Din Tișbe, din Galaad|Din Anatot|Din Tecoa|Din Abel-Mehola|Ilie, tișbitul, era unul din locuitorii Galaadului.
+re|4|12 17:6
+IT|Quale capitale del regno del nord fu presa dall'Assiria nel nono anno di Hosea?|Samaria|Tirtsah|Bethel|Sichem|Nel nono anno di Hosea il re d'Assiria prese Samaria e deportò gli Israeliti in Assiria.
+RO|Ce capitală a regatului de nord a fost luată de Asiria în al nouălea an al lui Osea?|Samaria|Tirța|Betel|Sihem|În al nouălea an al lui Osea, împăratul Asiriei a luat Samaria și a dus pe israeliți în Asiria.
+personaggi|4|12 5:12
+IT|Quali fiumi di Damasco Naaman riteneva migliori delle acque d'Israele?|Abanah e Farpar|Tigri ed Eufrate|Giordano e Kison|Nilo e Arnon|«Abanah e Farpar, fiumi di Damasco, non sono forse migliori di tutte le acque d'Israele?».
+RO|Ce râuri ale Damascului credea Naaman că sunt mai bune decât apele lui Israel?|Abana și Parpar|Tigrul și Eufratul|Iordanul și Chisonul|Nilul și Arnonul|„Oare râurile Damascului, Abana și Parpar, nu sunt mai bune decât toate apele lui Israel?”

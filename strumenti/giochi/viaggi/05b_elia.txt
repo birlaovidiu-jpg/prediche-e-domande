@@ -1,0 +1,302 @@
+# Viaggi dei libri dei Re: il regno diviso, Elia
+
+= geroboamo | 🐄 | Geroboamo e il regno diviso | Ieroboam și împărăția despărțită | 11 11:29
+@ gerusalemme | 11 11:30
+it: Fuori da Gerusalemme il profeta Ahijah strappò il suo mantello nuovo in dodici pezzi davanti a Geroboamo.
+ro: Afară din Ierusalim, prorocul Ahia și-a rupt mantaua cea nouă în douăsprezece bucăți înaintea lui Ieroboam.
+@ egitto | 11 11:40
+it: Salomone cercò di far morire Geroboamo, che fuggì in Egitto da Scishak e vi rimase fino alla morte di Salomone.
+ro: Solomon a căutat să-l omoare pe Ieroboam, care a fugit în Egipt la Șișac și a rămas acolo până la moartea lui Solomon.
+? domanda | 11 11:31
+qi: Quanti pezzi del mantello disse Ahijah a Geroboamo di prendere per sé?
+qr: Câte bucăți din manta i-a spus Ahia lui Ieroboam să ia pentru el?
+ai: 10 | 12 | 2 | 1
+ar: 10 | 12 | 2 | 1
+@ sichem | 11 12:14
+it: A Sichem Roboamo seguì il consiglio dei giovani e rispose duramente al popolo; dieci tribù si ribellarono.
+ro: La Sihem, Roboam a urmat sfatul tinerilor și a răspuns aspru poporului; zece seminții s-au răsculat.
+? domanda | 11 12:14
+qi: Che cosa rispose Roboamo al popolo che chiedeva un giogo più leggero?
+qr: Ce i-a răspuns Roboam poporului, care cerea un jug mai ușor?
+ai: «Mio padre vi ha castigati con fruste, io vi castigherò con scorpioni» | «Vi darò riposo» | «Tornerete in Egitto» | «Decida il profeta»
+ar: „Tata v-a pedepsit cu bice, eu vă voi pedepsi cu scorpioane” | „Vă voi da odihnă” | „Vă veți întoarce în Egipt” | „Să hotărască prorocul”
+@ betel | 11 12:29
+it: Per non far salire il popolo a Gerusalemme, Geroboamo fece due vitelli d'oro: uno a Bethel e l'altro a Dan.
+ro: Ca să nu se mai suie poporul la Ierusalim, Ieroboam a făcut doi viței de aur: unul la Betel și altul la Dan.
+? luogo | 11 12:29
+qi: Dove mise Geroboamo i due vitelli d'oro?
+qr: Unde a pus Ieroboam cei doi viței de aur?
+ai: A Bethel e a Dan | A Sichem e a Samaria | A Gerusalemme e a Hebron | A Ghilgal e a Sciloh
+ar: La Betel și la Dan | La Sihem și la Samaria | La Ierusalim și la Hebron | La Ghilgal și la Silo
+@ dan | 11 12:30
+it: Questo fu occasione di peccato: il popolo andava fino a Dan per adorare davanti al vitello.
+ro: Aceasta a fost un prilej de păcat: poporul mergea până la Dan ca să se închine înaintea vițelului.
+? ordina | 11 12:30
+qi: Metti in ordine la storia di Geroboamo.
+qr: Pune în ordine istoria lui Ieroboam.
+ai: Ahijah strappa il mantello in dodici pezzi | Geroboamo fugge in Egitto | Le dieci tribù si ribellano a Sichem | I vitelli d'oro a Bethel e a Dan
+ar: Ahia rupe mantaua în douăsprezece bucăți | Ieroboam fuge în Egipt | Zece seminții se răscoală la Sihem | Vițeii de aur la Betel și la Dan
+
+= uomo_di_dio | 🦁 | L'uomo di Dio venuto da Giuda | Omul lui Dumnezeu venit din Iuda | 11 13:1
+@ gerusalemme | 11 13:1 | il paese di Giuda | țara lui Iuda
+it: Per ordine dell'Eterno un uomo di Dio partì da Giuda verso Bethel.
+ro: La porunca Domnului, un om al lui Dumnezeu a plecat din Iuda spre Betel.
+@ betel | 11 13:2
+it: Mentre Geroboamo stava presso l'altare, l'uomo di Dio gridò contro l'altare, e l'altare si spaccò.
+ro: Pe când Ieroboam stătea lângă altar, omul lui Dumnezeu a strigat împotriva altarului, iar altarul s-a despicat.
+? personaggio | 11 13:2
+qi: Quale re futuro nominò l'uomo di Dio parlando all'altare di Bethel?
+qr: Ce împărat din viitor a pomenit omul lui Dumnezeu vorbind altarului de la Betel?
+ai: Giosia | Ezechia | Salomone | Jehu
+ar: Iosia | Ezechia | Solomon | Iehu
+@ betel | 11 13:18 | la casa del vecchio profeta | casa prorocului bătrân
+it: Un vecchio profeta di Bethel lo ingannò e lo convinse a mangiare e bere in casa sua, contro l'ordine di Dio.
+ro: Un proroc bătrân din Betel l-a înșelat și l-a înduplecat să mănânce și să bea la el, împotriva poruncii lui Dumnezeu.
+? domanda | 11 13:9
+qi: Quale ordine aveva ricevuto l'uomo di Dio per il viaggio?
+qr: Ce poruncă primise omul lui Dumnezeu pentru drum?
+ai: Non mangiare, non bere e non tornare per la stessa strada | Dormire a Bethel | Portare doni al re | Tornare con un asino nuovo
+ar: Să nu mănânce, să nu bea și să nu se întoarcă pe același drum | Să doarmă la Betel | Să ducă daruri împăratului | Să se întoarcă pe un măgar nou
+@ betel | 11 13:24 | la strada del ritorno | drumul întoarcerii
+it: Sulla via del ritorno un leone lo uccise; l'asino e il leone restarono accanto al suo corpo.
+ro: Pe drumul de întoarcere l-a ucis un leu; măgarul și leul au rămas lângă trupul lui.
+? evento | 11 13:24
+qi: Che cosa fecero il leone e l'asino dopo la morte dell'uomo di Dio?
+qr: Ce au făcut leul și măgarul după moartea omului lui Dumnezeu?
+ai: Restarono accanto al corpo senza toccarsi | Fuggirono nel deserto | Il leone divorò l'asino | Tornarono a Bethel
+ar: Au rămas lângă trup fără să se atingă | Au fugit în pustie | Leul a mâncat măgarul | S-au întors la Betel
+
+= asa_baasha | 🧱 | Asa, Baasha e le pietre di Ramah | Asa, Baeșa și pietrele din Rama | 11 15:17
+@ rama | 11 15:17
+it: Baasha, re d'Israele, fortificò Ramah per impedire a chiunque di andare e venire da Asa, re di Giuda.
+ro: Baeșa, împăratul lui Israel, a întărit Rama ca să nu lase pe nimeni să iasă sau să intre la Asa, împăratul lui Iuda.
+@ gerusalemme | 11 15:18
+it: Asa prese l'argento e l'oro rimasti nei tesori del tempio e li mandò al re di Damasco.
+ro: Asa a luat argintul și aurul rămas în vistieriile Templului și le-a trimis împăratului din Damasc.
+? personaggio | 11 15:18
+qi: A quale re mandò Asa l'oro e l'argento?
+qr: Cărui împărat i-a trimis Asa aurul și argintul?
+ai: Ben-Hadad, re di Siria | Scishak, re d'Egitto | Hiram, re di Tiro | Mesha, re di Moab
+ar: Ben-Hadad, împăratul Siriei | Șișac, împăratul Egiptului | Hiram, împăratul Tirului | Meșa, împăratul Moabului
+@ damasco | 11 15:20
+it: Ben-Hadad ascoltò Asa e mandò i capi del suo esercito contro le città d'Israele.
+ro: Ben-Hadad l-a ascultat pe Asa și a trimis căpeteniile oștirii lui împotriva cetăților lui Israel.
+? domanda | 11 15:19
+qi: Che cosa chiese Asa a Ben-Hadad insieme ai doni?
+qr: Ce i-a cerut Asa lui Ben-Hadad împreună cu darurile?
+ai: Di rompere l'alleanza con Baasha | Di mandargli dei profeti | Di restituire l'arca | Di sposare sua figlia
+ar: Să rupă legământul cu Baeșa | Să-i trimită proroci | Să dea înapoi chivotul | Să se însoare cu fata lui
+@ ijon | 11 15:20
+it: L'esercito di Damasco colpì Ijon, Dan, Abel-Beth-Maakah e tutta la regione di Neftali.
+ro: Oastea Damascului a bătut Iionul, Danul, Abel-Bet-Maaca și tot ținutul lui Neftali.
+? luogo | 11 15:20
+qi: Quale di queste città fu colpita dall'esercito di Ben-Hadad?
+qr: Care dintre aceste cetăți a fost lovită de oastea lui Ben-Hadad?
+ai: Dan | Hebron | Gerico | Gaza
+ar: Dan | Hebron | Ierihon | Gaza
+@ mizpa | 11 15:22
+it: Asa fece portare via le pietre e il legname di Ramah e con essi costruì Gheba di Beniamino e Mitspah.
+ro: Asa a pus să se ia pietrele și lemnele din Rama și a zidit cu ele Gheba lui Beniamin și Mițpa.
+? domanda | 11 15:22
+qi: Che cosa fece Asa con le pietre di Ramah?
+qr: Ce a făcut Asa cu pietrele din Rama?
+ai: Costruì Gheba e Mitspah | Le gettò nel Giordano | Riparò il tempio | Fece un altare a Bethel
+ar: A zidit Gheba și Mițpa | Le-a aruncat în Iordan | A dres Templul | A făcut un altar la Betel
+
+= elia_sarepta | 🐦 | Elia, i corvi e la vedova di Sarepta | Ilie, corbii și văduva din Sarepta | 11 17:1
+@ galaad | 11 17:1
+it: Elia il Tishbita, degli abitanti di Galaad, andò dal re Achab con un messaggio dell'Eterno.
+ro: Ilie Tișbitul, unul din locuitorii Galaadului, s-a dus la împăratul Ahab cu un mesaj de la Domnul.
+@ samaria | 11 17:1
+it: Elia disse ad Achab: «Non ci sarà né rugiada né pioggia, se non alla mia parola».
+ro: Ilie i-a zis lui Ahab: „Nu va fi nici rouă, nici ploaie decât la cuvântul meu”.
+? personaggio | 11 16:31
+qi: Chi era la moglie del re Achab, figlia del re dei Sidoni?
+qr: Cine era nevasta împăratului Ahab, fata împăratului sidonienilor?
+ai: Jezebel | Mikal | Atalia | Vashti
+ar: Izabela | Mical | Atalia | Vasti
+@ cherit | 11 17:6
+it: Elia si nascose presso il torrente Kerith, di fronte al Giordano, e beveva al torrente.
+ro: Ilie s-a ascuns lângă pârâul Cherit, în fața Iordanului, și bea apă din pârâu.
+? evento | 11 17:6
+qi: Chi portava da mangiare a Elia presso il torrente Kerith?
+qr: Cine îi aducea de mâncare lui Ilie lângă pârâul Cherit?
+ai: I corvi, pane e carne mattino e sera | Un angelo, una focaccia | Una vedova | I figli dei profeti
+ar: Corbii, pâine și carne dimineața și seara | Un înger, o turtă | O văduvă | Fiii prorocilor
+@ sarepta | 11 17:14
+it: A Sarepta una vedova usò l'ultima farina per Elia: il vaso della farina e l'orcio dell'olio non si esaurirono.
+ro: La Sarepta, o văduvă și-a folosit ultima făină pentru Ilie: oala cu făină și urciorul cu untdelemn nu s-au mai golit.
+? domanda | 11 17:14
+qi: Fino a quando non si sarebbero esauriti la farina e l'olio della vedova?
+qr: Până când nu aveau să se golească făina și untdelemnul văduvei?
+ai: Fino al giorno in cui l'Eterno avrebbe mandato la pioggia | Per sette giorni | Fino alla morte di Achab | Per un mese
+ar: Până în ziua când Domnul avea să trimită ploaie | Șapte zile | Până la moartea lui Ahab | O lună
+@ sarepta | 11 17:22 | la stanza di sopra | odaia de sus
+it: Quando il figlio della vedova morì, Elia pregò l'Eterno e il bambino tornò in vita.
+ro: Când a murit fiul văduvei, Ilie s-a rugat Domnului, și copilul a înviat.
+? ordina | 11 17:24
+qi: Metti in ordine il viaggio di Elia.
+qr: Pune în ordine drumul lui Ilie.
+ai: Elia parla ad Achab | Si nasconde al torrente Kerith | La farina della vedova non finisce | Il figlio della vedova torna in vita
+ar: Ilie îi vorbește lui Ahab | Se ascunde la pârâul Cherit | Făina văduvei nu se sfârșește | Fiul văduvei învie
+
+= elia_carmelo | 🔥 | Elia sul monte Karmel | Ilie pe muntele Carmel | 11 18:19
+@ samaria | 11 18:4
+it: Durante la carestia Abdia, maggiordomo di Achab, aveva nascosto cento profeti dell'Eterno in due caverne.
+ro: În vremea foametei, Obadia, mai-marele casei lui Ahab, ascunsese o sută de proroci ai Domnului în două peșteri.
+@ carmelo | 11 18:19
+it: Sul Karmel Elia sfidò i profeti di Baal: il Dio che risponde con il fuoco è il vero Dio.
+ro: Pe Carmel, Ilie i-a chemat la întrecere pe prorocii lui Baal: Dumnezeul care va răspunde prin foc, acela este Dumnezeu.
+? domanda | 11 18:19
+qi: Quanti erano i profeti di Baal radunati sul Karmel?
+qr: Câți proroci ai lui Baal au fost strânși pe Carmel?
+ai: 450 | 100 | 40 | 1000
+ar: 450 | 100 | 40 | 1000
+@ carmelo | 11 18:38 | l'altare di Elia | altarul lui Ilie
+it: Elia bagnò tre volte il sacrificio con l'acqua; il fuoco dell'Eterno cadde e consumò tutto, anche l'acqua.
+ro: Ilie a udat de trei ori jertfa cu apă; focul Domnului a căzut și a mistuit totul, și apa.
+? evento | 11 18:38
+qi: Che cosa consumò il fuoco dell'Eterno sull'altare di Elia?
+qr: Ce a mistuit focul Domnului pe altarul lui Ilie?
+ai: L'olocausto, la legna, le pietre, la polvere e l'acqua | Solo la legna | Solo il toro | Il vestito di Elia
+ar: Arderea de tot, lemnele, pietrele, țărâna și apa | Numai lemnele | Numai vițelul | Haina lui Ilie
+@ kishon | 11 18:40
+it: Elia fece portare i profeti di Baal al torrente Kishon.
+ro: Ilie i-a pus să-i ducă pe prorocii lui Baal la pârâul Chison.
+? luogo | 11 18:40
+qi: A quale torrente furono portati i profeti di Baal?
+qr: La ce pârâu au fost duși prorocii lui Baal?
+ai: Il Kishon | Il Kerith | Lo Jabbok | Il Kidron
+ar: Chison | Cherit | Iaboc | Chedron
+@ izreel | 11 18:46
+it: Dopo la nuvoletta «grossa come la palma di una mano», venne la pioggia; Elia corse davanti al carro di Achab fino a Jezreel.
+ro: După norul mic „cât palma unui om”, a venit ploaia; Ilie a alergat înaintea carului lui Ahab până la Izreel.
+? domanda | 11 18:44
+qi: A che cosa somigliava la nuvoletta vista dal servo di Elia?
+qr: Cu ce semăna norul mic văzut de slujitorul lui Ilie?
+ai: Alla palma di una mano | A un carro | A una colomba | A un monte
+ar: Cu palma unui om | Cu un car | Cu un porumbel | Cu un munte
+
+= elia_oreb | ⛰️ | Elia fugge all'Horeb | Ilie fuge la Horeb | 11 19:3
+@ izreel | 11 19:2
+it: Jezebel mandò a dire a Elia che lo avrebbe fatto morire, ed egli fuggì per salvarsi la vita.
+ro: Izabela a trimis să-i spună lui Ilie că îl va omorî, iar el a fugit ca să-și scape viața.
+@ beerseba | 11 19:3
+it: Elia arrivò a Beer-Sceba, in Giuda, e vi lasciò il suo servo.
+ro: Ilie a ajuns la Beer-Șeba, în Iuda, și și-a lăsat acolo slujitorul.
+? personaggio | 11 19:2
+qi: Chi minacciò di morte Elia dopo il Karmel?
+qr: Cine l-a amenințat cu moartea pe Ilie după Carmel?
+ai: Jezebel | Achab | Abdia | Ben-Hadad
+ar: Izabela | Ahab | Obadia | Ben-Hadad
+@ ginestra | 11 19:5
+it: Nel deserto Elia si sedette sotto una ginestra e chiese di morire; un angelo lo toccò e gli disse: «Alzati e mangia».
+ro: În pustie, Ilie s-a așezat sub un ienupăr și a cerut să moară; un înger l-a atins și i-a zis: „Scoală-te și mănâncă”.
+? domanda | 11 19:8
+qi: Per quanti giorni camminò Elia con la forza di quel cibo?
+qr: Câte zile a mers Ilie cu puterea hranei aceleia?
+ai: 40 giorni e 40 notti | 7 giorni | 3 giorni | 1 giorno
+ar: 40 de zile și 40 de nopți | 7 zile | 3 zile | 1 zi
+@ oreb | 11 19:12
+it: All'Horeb, dopo il vento, il terremoto e il fuoco, l'Eterno parlò a Elia.
+ro: La Horeb, după vânt, cutremur și foc, Domnul i-a vorbit lui Ilie.
+? evento | 11 19:12
+qi: Come si fece sentire l'Eterno all'Horeb?
+qr: Cum S-a făcut auzit Domnul la Horeb?
+ai: Come un dolce sussurro | Nel vento impetuoso | Nel terremoto | Nel fuoco
+ar: Printr-un susur blând și subțire | În vântul puternic | În cutremur | În foc
+@ abelmehola | 11 19:19
+it: Elia trovò Eliseo che arava e gli gettò addosso il suo mantello; Eliseo lo seguì.
+ro: Ilie l-a găsit pe Elisei arând și și-a aruncat mantaua peste el; Elisei a mers după el.
+? domanda | 11 19:19
+qi: Con quante paia di buoi arava Eliseo?
+qr: Cu câte perechi de boi ara Elisei?
+ai: 12 | 2 | 7 | 40
+ar: 12 | 2 | 7 | 40
+
+= naboth | 🍇 | La vigna di Naboth | Via lui Nabot | 11 21:1
+@ samaria | 11 21:1
+it: Achab, re di Samaria, desiderava la vigna di Naboth, vicina al suo palazzo di Jezreel.
+ro: Ahab, împăratul Samariei, poftea via lui Nabot, care era lângă casa lui din Izreel.
+@ izreel | 11 21:3
+it: Naboth rifiutò di cedere la vigna al re.
+ro: Nabot n-a vrut să-i dea via împăratului.
+? domanda | 11 21:3
+qi: Che cosa rispose Naboth ad Achab?
+qr: Ce i-a răspuns Nabot lui Ahab?
+ai: «Mi guardi l'Eterno dal cederti l'eredità dei miei padri» | «Te la vendo per molto oro» | «Te la regalo» | «Chiedila a mio figlio»
+ar: „Să mă ferească Domnul să-ți dau moștenirea părinților mei!” | „Ți-o vând pe mult aur” | „Ți-o dăruiesc” | „Cere-o fiului meu”
+@ izreel | 11 21:17 | la vigna | via
+it: Quando Achab scese a prendere possesso della vigna, Elia gli andò incontro con la parola dell'Eterno.
+ro: Când Ahab s-a coborât să pună stăpânire pe vie, Ilie i-a ieșit înainte cu cuvântul Domnului.
+? personaggio | 11 21:17
+qi: Quale profeta andò incontro ad Achab nella vigna di Naboth?
+qr: Care proroc i-a ieșit înainte lui Ahab în via lui Nabot?
+ai: Elia | Eliseo | Mikaiah | Nathan
+ar: Ilie | Elisei | Mica | Natan
+
+= ben_hadad_afek | 🧱 | Ben-Hadad a Samaria e ad Afek | Ben-Hadad la Samaria și la Afec | 11 20:1
+@ damasco | 11 20:1
+it: Ben-Hadad, re di Siria, radunò il suo esercito con molti re alleati, cavalli e carri.
+ro: Ben-Hadad, împăratul Siriei, și-a strâns oastea, împreună cu mulți împărați, cai și care.
+@ samaria | 11 20:1
+it: Ben-Hadad assediò Samaria, ma Achab, incoraggiato da un profeta, lo sconfisse.
+ro: Ben-Hadad a împresurat Samaria, dar Ahab, îmbărbătat de un proroc, l-a bătut.
+? domanda | 11 20:1
+qi: Quanti re erano con Ben-Hadad all'assedio di Samaria?
+qr: Câți împărați erau cu Ben-Hadad la împresurarea Samariei?
+ai: 32 | 12 | 5 | 70
+ar: 32 | 12 | 5 | 70
+@ afek | 11 20:26
+it: L'anno dopo i Siri tornarono a combattere presso Afek, pensando che il Dio d'Israele fosse solo un dio dei monti.
+ro: În anul următor, sirienii au venit din nou la luptă lângă Afec, crezând că Dumnezeul lui Israel este doar un dumnezeu al munților.
+? evento | 11 20:30
+qi: Che cosa accadde ai Siri fuggiti nella città di Afek?
+qr: Ce s-a întâmplat cu sirienii care au fugit în cetatea Afec?
+ai: Le mura caddero su di loro | Si arresero senza combattere | Furono salvati dagli Egiziani | Trovarono una via di fuga
+ar: Zidul a căzut peste ei | S-au predat fără luptă | I-au scăpat egiptenii | Au găsit o cale de scăpare
+@ afek | 11 20:34 | l'alleanza di Afek | legământul de la Afec
+it: Achab risparmiò Ben-Hadad e fece alleanza con lui; un profeta lo rimproverò per questo.
+ro: Ahab l-a cruțat pe Ben-Hadad și a făcut legământ cu el; un proroc l-a mustrat pentru aceasta.
+? domanda | 11 20:30
+qi: Quanti uomini morirono sotto le mura di Afek?
+qr: Câți oameni au murit sub zidul Afecului?
+ai: 27 000 | 32 000 | 1000 | 7000
+ar: 27 000 | 32 000 | 1000 | 7000
+
+= achab_ramoth | 🏹 | Achab a Ramoth di Galaad | Ahab la Ramot din Galaad | 11 22:3
+@ samaria | 11 22:3 | il palazzo di Samaria | casa împăratului din Samaria
+it: Achab disse ai suoi servi: «Ramoth di Galaad è nostra, e noi non facciamo nulla per riprenderla dal re di Siria!».
+ro: Ahab le-a zis slujitorilor lui: „Ramotul din Galaad este al nostru, și noi nu facem nimic ca să-l luăm înapoi din mâna împăratului Siriei!”
+@ samaria | 11 22:10
+it: Achab e Giosafat sedevano sui troni alla porta di Samaria, mentre i profeti predicevano la vittoria.
+ro: Ahab și Iosafat ședeau pe scaunele lor de domnie la poarta Samariei, în timp ce prorocii vesteau biruința.
+? domanda | 11 22:6
+qi: Quanti profeti consultò Achab prima della battaglia?
+qr: Câți proroci a întrebat Ahab înainte de luptă?
+ai: Circa 400 | 12 | 70 | 1000
+ar: Aproape 400 | 12 | 70 | 1000
+@ samaria | 11 22:8 | la porta di Samaria | poarta Samariei
+it: Il profeta Mikaiah, che Achab odiava, annunciò invece la sconfitta.
+ro: Prorocul Mica, pe care Ahab îl ura, a vestit dimpotrivă înfrângerea.
+? personaggio | 11 22:8
+qi: Quale profeta disse la verità ad Achab, anche se il re lo odiava?
+qr: Care proroc i-a spus adevărul lui Ahab, deși împăratul îl ura?
+ai: Mikaiah, figlio di Imlah | Elia | Sedekia | Eliseo
+ar: Mica, fiul lui Imla | Ilie | Zedechia | Elisei
+@ ramoth | 11 22:34
+it: A Ramoth di Galaad un uomo tirò una freccia a caso e colpì il re fra le maglie della corazza.
+ro: La Ramot din Galaad, un om a tras cu arcul la întâmplare și l-a lovit pe împărat între încheieturile platoșei.
+? evento | 11 22:34
+qi: Come fu colpito Achab nella battaglia?
+qr: Cum a fost lovit Ahab în luptă?
+ai: Da una freccia tirata a caso | Da una lancia | Da una pietra | Da un carro
+ar: De o săgeată trasă la întâmplare | De o suliță | De o piatră | De un car
+@ samaria | 11 22:38 | la piscina di Samaria | iazul Samariei
+it: Il carro fu lavato alla piscina di Samaria, e i cani leccarono il sangue secondo la parola dell'Eterno.
+ro: Carul a fost spălat la iazul Samariei, și câinii i-au lins sângele, după cuvântul Domnului.
+? ordina | 11 22:38
+qi: Metti in ordine gli ultimi giorni di Achab.
+qr: Pune în ordine ultimele zile ale lui Ahab.
+ai: I quattrocento profeti | La profezia di Mikaiah | La freccia a Ramoth | Il carro lavato a Samaria
+ar: Cei patru sute de proroci | Prorocia lui Mica | Săgeata de la Ramot | Carul spălat la Samaria

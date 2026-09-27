@@ -2,6 +2,9 @@
 /* Il calcolo è tutto qui dentro: non serve internet.
    Formula solare classica, precisa al minuto. */
 const RAD=Math.PI/180;
+/* mischia un numero piccolo (0,1,2,3…) in uno sparso, per dare a seme() semi ben distanti
+   anche quando chi chiama parte da interi vicini fra loro */
+function mescolaSeme(n){ let s=n>>>0; s=Math.imul(s^(s>>>16),2246822507); s=Math.imul(s^(s>>>13),3266489909); return (s^(s>>>16))>>>0; }
 function calcolaSole(quando,lat,lon){
   /* il giorno è quello del calendario di chi guarda: dal giorno giuliano
      troncato usciva il giorno prima, e dopo l'alba il programma restava indietro */
@@ -125,27 +128,68 @@ function vicina(lat,lon){
   return best?Object.assign({},best,{km:Math.sqrt(dm)*111.32}):null;
 }
 /* ---------- posizione ---------- */
-const POS={stato:'ignoto', lat:null, lon:null, luogo:null};
+const POS={stato:'ignoto', lat:null, lon:null, luogo:null, quando:0};
 function posizioneSalvata(){
   const p=stato.imp.posizione;
-  if(p&&p.lat!=null){ POS.lat=p.lat; POS.lon=p.lon; POS.luogo=p.luogo; POS.stato='ok'; }
+  if(p&&p.lat!=null){ POS.lat=p.lat; POS.lon=p.lon; POS.luogo=p.luogo; POS.quando=p.t||0; POS.acc=p.acc||null; POS.stato='ok'; }
+}
+/* «silenzioso» = la chiedo io, da sola, all'apertura: se ne ho già una salvata la rinfresco senza cambiare quello che si vede
+   finché non arriva quella nuova, e se non arriva (niente permesso, niente rete) resta quella di prima. */
+/* La posizione più precisa possibile: chiedo il GPS vero (non solo il Wi-Fi, che sbaglia anche di chilometri) e
+   per qualche secondo ascolto le letture che arrivano, tenendo la più precisa. Mi fermo appena ne ho una
+   buona (entro 60 m), dopo sei letture o dopo 15 secondi. `fatto(p)` riceve la migliore, `errore(e)` se non ne arriva nessuna. */
+function posizionePrecisa(fatto,errore,maxEta){
+  let migliore=null, finito=false, id=null, t=null, quante=0;
+  const chiudi=()=>{ if(finito) return; finito=true; clearTimeout(t); if(id!=null) try{ navigator.geolocation.clearWatch(id); }catch(e){}
+    if(migliore) fatto(migliore); };
+  const prendi=p=>{
+    if(finito) return;
+    if(!migliore || (p.coords.accuracy||9e9) <= (migliore.coords.accuracy||9e9)) migliore=p;
+    if((migliore.coords.accuracy||9e9)<=60 || ++quante>=6) chiudi();
+  };
+  try{
+    id=navigator.geolocation.watchPosition(prendi,e=>{ if(finito) return; if(!migliore){ finito=true; clearTimeout(t); try{ navigator.geolocation.clearWatch(id); }catch(x){} errore(e); } },
+      {enableHighAccuracy:true,timeout:20000,maximumAge:maxEta||0});
+  }catch(e){ errore({code:2}); return; }
+  t=setTimeout(()=>{ if(migliore) chiudi(); else { finito=true; try{ navigator.geolocation.clearWatch(id); }catch(x){} errore({code:3}); } },15000);
 }
 function chiediPosizione(silenzioso){
   if(!navigator.geolocation){ POS.stato='niente'; if(!silenzioso) avvisa('Questo dispositivo non dà la posizione','no'); return; }
-  POS.stato='cerco'; aggiornaSole();
-  navigator.geolocation.getCurrentPosition(p=>{
-    POS.lat=p.coords.latitude; POS.lon=p.coords.longitude;
+  const rinfresco = !!silenzioso && POS.stato==='ok';
+  if(!rinfresco){ POS.stato='cerco'; aggiornaVistaSole(); }
+  posizionePrecisa(p=>{
+    const acc=p.coords.accuracy||null;
+    /* una lettura molto meno precisa di quella che ho già, presa da poco, non la sostituisce (il nome non salta da un paese all'altro) */
+    if(rinfresco && POS.acc && acc && acc>POS.acc*4 && acc>500 && Date.now()-(POS.quando||0)<30*60*1000){ POS.dalVivo=true; return; }
+    POS.lat=p.coords.latitude; POS.lon=p.coords.longitude; POS.acc=acc;
     const v=vicina(POS.lat,POS.lon);
-    POS.luogo=v?{n:v.n,cc:v.cc,tz:v.tz,la:v.la,lo:v.lo}:null;
-    POS.stato='ok';
-    stato.imp.posizione={lat:POS.lat,lon:POS.lon,luogo:POS.luogo}; salva();
-    aggiornaSole();
+    POS.luogo=v?{n:v.n,cc:v.cc,tz:v.tz,la:v.la,lo:v.lo,km:v.km}:null;
+    POS.quando=Date.now(); POS.stato='ok'; POS.dalVivo=true;
+    stato.imp.posizione={lat:POS.lat,lon:POS.lon,luogo:POS.luogo,t:POS.quando,acc:POS.acc}; salva();
+    aggiornaVistaSole();
     if(!silenzioso) avvisa('Posizione trovata: '+(POS.luogo?POS.luogo.n:'—'),'ok');
   },e=>{
-    POS.stato = e.code===1 ? 'negata' : 'errore';
-    aggiornaSole();
+    if(!rinfresco) POS.stato = e.code===1 ? 'negata' : 'errore';
+    aggiornaVistaSole();
     if(!silenzioso) avvisa(e.code===1?'Non mi hai dato il permesso di sapere dove sei':'Non riesco a trovare la posizione','no');
-  },{enableHighAccuracy:false,timeout:12000,maximumAge:600000});
+  }, silenzioso?60000:0);
+}
+/* All'apertura, ogni 5 minuti mentre il programma è aperto, e quando torna in primo piano, la posizione si rinfresca da sola.
+   Se in questa apertura il dispositivo mi ha già dato la posizione, il permesso c'è: rinfresco senza aspettare le sei ore. Prima, se ne avevo già una
+   salvata, la tenevo per sempre: alba e tramonto restavano quelli del posto dove eri stato l'ultima volta e il nome non cambiava mai.
+   Con il permesso già dato lo faccio sempre, in silenzio; se il permesso non c'è ancora (o l'iPad lo chiede ogni volta)
+   non disturbo più di una volta ogni sei ore; se hai detto di no, non chiedo. */
+/* Dal 25 settembre 2026 si rinfresca SEMPRE (all'apertura, a ogni rientro e ogni 5 minuti), tranne se hai
+   detto di no: prima, sull'iPad installato sulla Home (che non dice mai «permesso dato»), la posizione vecchia
+   restava fino a sei ore e il nome del paese non cambiava (Capolona invece di Marcena). */
+function devoRinfrescarePosizione(permesso,adesso){
+  return permesso!=='denied';
+}
+async function rinfrescaPosizione(){
+  if(stato.imp.nienteGps || !navigator.geolocation) return;
+  let permesso='prompt';
+  try{ if(navigator.permissions && navigator.permissions.query) permesso=(await navigator.permissions.query({name:'geolocation'})).state; }catch(e){}
+  if(devoRinfrescarePosizione(permesso,Date.now())) chiediPosizione(true);
 }
 function luogoAttuale(){
   if(POS.luogo) return Object.assign({},POS.luogo,{lat:POS.lat,lon:POS.lon});
@@ -218,9 +262,11 @@ function cieloHtml(lat,lon,quando,W,H,q,orizFraz){
   const C = coloriCielo(S.alt);
   const sx=px(S.az), sy=py(S.alt), lx=px(L.az), ly=py(L.alt);
   const dentro=(x)=>x>-40 && x<W+40;
-  /* stelle solo quando è buio */
+  /* stelle solo quando è buio. NB: semi vicini (21,22,23...) davano a seme() un risultato
+     quasi in linea retta invece che sparso (le "stelle" si vedevano in fila verticale a
+     sinistra) — mischio il seme prima di usarlo, così restano sparse per tutto il cielo */
   const stelle = S.alt<-6 ? [...Array(70)].map((_,k)=>{
-      const r=seme(k+21), x=(r()*W)|0, y=(r()*oriz*0.94)|0, rr=(r()*1.3+0.4).toFixed(2);
+      const r=seme(mescolaSeme(k+21)), x=(r()*W)|0, y=(r()*oriz*0.94)|0, rr=(r()*1.3+0.4).toFixed(2);
       const o=(0.25+r()*0.65).toFixed(2);
       return `<circle cx="${x}" cy="${y}" r="${rr}" fill="#fff" opacity="${o}">
         <animate attributeName="opacity" values="${o};${(o*0.3).toFixed(2)};${o}"
@@ -344,7 +390,8 @@ function cieloHtml(lat,lon,quando,W,H,q,orizFraz){
 /* ---------- il pannello del cielo sulla dashboard ---------- */
 function datiSole(l,ora){
   const d=ora||new Date();
-  const la=l.la!=null?l.la:l.lat, lo=l.lo!=null?l.lo:l.lon;
+  /* alba e tramonto si calcolano sul punto vero dove sei (la posizione), non sul paese più vicino dell'elenco */
+  const la=l.lat!=null?l.lat:l.la, lo=l.lon!=null?l.lon:l.lo;
   const s=calcolaSole(d,la,lo);
   if(s.sempre) return {sempre:s.sempre,tz:l.tz,la,lo};
   const giorno = d>=s.alba && d<s.tramonto;
@@ -407,6 +454,14 @@ function aggiornaSole(){
   const box=document.getElementById('tzSole');
   if(box && sezione==='home') box.innerHTML=pannelloSole();
 }
+/* chiediPosizione() cambia dove sei: se in quel momento sei sulla pagina
+   «Alba e tramonto» va ridisegnata tutta lei (località, orari, cielo),
+   non solo il riquadro della Home — altrimenti la nuova posizione restava
+   presa ma non si vedeva finché non si usciva e si rientrava nella pagina */
+function aggiornaVistaSole(){
+  aggiornaSole();
+  if(sezione==='sole') vSole();
+}
 function ritoccaCieloGrande(){
   const b=document.getElementById('cieloGrande'), l=luogoAttuale();
   if(!b||!l) return;
@@ -428,7 +483,7 @@ function avviaOrologioSole(){
     document.addEventListener('visibilitychange',sveglia);
     window.addEventListener('focus',sveglia);
     window.addEventListener('pageshow',sveglia);
-    window.addEventListener('resize',()=>{ clearTimeout(window._tRid); window._tRid=setTimeout(sveglia,250); });
+    window.addEventListener('resize',()=>{ if(zoomNativo()) return; clearTimeout(window._tRid); window._tRid=setTimeout(sveglia,250); });
   }
 }
 /* ================= SEZIONE: ALBA E TRAMONTO NEL MONDO ================= */
@@ -442,20 +497,23 @@ function vSole(){
     <span style="flex:1"></span>
     <button class="bt pi mini" onclick="chiediPosizione()">📍 Dove sono</button>
   </div>
-  <div class="occhiello">Sole</div>
   <h1>Alba e tramonto</h1>
-  <p class="sotto">Il calcolo è dentro al programma: funziona anche senza internet, in ${(_LOCD.L.length).toLocaleString('it-IT')} località del mondo.</p>
 
+  ${l&&POS.luogo&&POS.acc?`<p class="sotto sole-prec">📡 Posizione presa ${POS.quando?'alle '+new Date(POS.quando).toLocaleTimeString('it-IT',{hour:'2-digit',minute:'2-digit'}):''}, precisa entro <b>${POS.acc<1000?Math.round(POS.acc)+' metri':(POS.acc/1000).toFixed(1).replace('.',',')+' km'}</b>.
+    ${POS.acc>300?`<br>⚠️ L'iPad mi dà una posizione <b>approssimativa</b>, per questo il paese può essere sbagliato. Per averla precisa:
+      <b>Impostazioni → Privacy e sicurezza → Localizzazione → Siti web di Safari</b>: scegli «Mentre usi l'app» e accendi <b>«Posizione esatta»</b>.`:''}</p>`:''}
   ${l?cartaSole(l,d,true):`<div class="vuoto"><span class="em">📍</span>
     Non so ancora dove sei.<br><button class="bt pr" style="margin-top:14px" onclick="chiediPosizione()">Trova la mia posizione</button></div>`}
 
-  <div class="filtri" style="margin-top:18px">
+  <div class="filtri sole-filtri" style="margin-top:18px">
     <div class="campo" style="flex:0 0 auto"><label>Giorno</label>
       <div class="segm">
         <button class="${FSole.giorno===-1?'on':''}" onclick="setSole('giorno',-1)">Ieri</button>
         <button class="${FSole.giorno===0?'on':''}" onclick="setSole('giorno',0)">Oggi</button>
         <button class="${FSole.giorno===1?'on':''}" onclick="setSole('giorno',1)">Domani</button>
       </div></div>
+    <div class="campo" style="flex:0 0 auto"><label>Oppure scegli una data</label>
+      <button type="button" class="bt pi cal-bt" onclick="apriCalendarioSole()">📅 ${esc(dataIt(isoDaGiorno(FSole.giorno)))}</button></div>
     <div class="campo" style="flex:1 1 260px"><label>Cerca una località nel mondo</label>
       <div class="cerca"><input type="search" id="qSole" placeholder="Arezzo, Bucarest, Gerusalemme…" value="${esc(FSole.q)}"
         oninput="FSole.q=this.value; clearTimeout(window._ts2); window._ts2=setTimeout(elencoSole,200)"></div></div>
@@ -465,6 +523,62 @@ function vSole(){
   elencoSole();
 }
 function setSole(k,v){ FSole[k]=v; vSole(); }
+/* la data del calendario è sempre calcolata dal FSole.giorno di oggi, in locale
+   (non toISOString: è in UTC e vicino a mezzanotte sbaglierebbe giorno) */
+function isoDaGiorno(g){
+  const d=new Date(); d.setDate(d.getDate()+g);
+  return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+}
+function impostaDataSole(v){
+  if(!v) return;
+  const [Y,M,D]=v.split('-').map(Number);
+  const scelta=new Date(Y,M-1,D), oggi=new Date();
+  scelta.setHours(0,0,0,0); oggi.setHours(0,0,0,0);
+  setSole('giorno', Math.round((scelta-oggi)/86400000));
+}
+/* calendario tutto nostro invece del calendarietto minuscolo del telefono/tablet:
+   lì i giorni sono troppo piccoli per premerli bene col dito, qui li disegniamo
+   noi grandi quanto vogliamo */
+let _calSole=null;
+function apriCalendarioSole(){
+  const base=new Date(); base.setDate(base.getDate()+FSole.giorno);
+  _calSole={y:base.getFullYear(), m:base.getMonth()};
+  apri('Scegli una data', `<div id="calSoleCorpo">${corpoCalendarioSole()}</div>`,
+    `<button class="bt pi" onclick="chiudi()">Annulla</button>`, 420);
+}
+function corpoCalendarioSole(){
+  const {y,m}=_calSole;
+  const oggiD=new Date();
+  const attivo=new Date(); attivo.setDate(attivo.getDate()+FSole.giorno);
+  const primoGiorno=new Date(y,m,1).getDay();       // 0=domenica
+  const vuoti=(primoGiorno+6)%7;                    // celle vuote prima del giorno 1, settimana da lunedì
+  const giorniMese=new Date(y,m+1,0).getDate();
+  const celle=[];
+  for(let i=0;i<vuoti;i++) celle.push('<span></span>');
+  for(let g=1; g<=giorniMese; g++){
+    const eOggi = y===oggiD.getFullYear() && m===oggiD.getMonth() && g===oggiD.getDate();
+    const eScelto = y===attivo.getFullYear() && m===attivo.getMonth() && g===attivo.getDate();
+    celle.push(`<button type="button" class="cal-g${eScelto?' on':''}${eOggi?' oggi':''}"
+      onclick="scegliDataCalendario(${y},${m},${g})">${g}</button>`);
+  }
+  return `<div class="cal-testa">
+      <button type="button" class="bt pi mini" onclick="navCalendarioSole(-1)">‹</button>
+      <b>${esc(MESI[m])} ${y}</b>
+      <button type="button" class="bt pi mini" onclick="navCalendarioSole(1)">›</button>
+    </div>
+    <div class="cal-sett">${['L','M','M','G','V','S','D'].map(x=>`<span>${x}</span>`).join('')}</div>
+    <div class="cal-griglia">${celle.join('')}</div>`;
+}
+function navCalendarioSole(d){
+  _calSole.m+=d;
+  if(_calSole.m<0){ _calSole.m=11; _calSole.y--; }
+  if(_calSole.m>11){ _calSole.m=0; _calSole.y++; }
+  $('#calSoleCorpo').innerHTML=corpoCalendarioSole();
+}
+function scegliDataCalendario(y,m,g){
+  chiudi();
+  impostaDataSole(`${y}-${String(m+1).padStart(2,'0')}-${String(g).padStart(2,'0')}`);
+}
 function cartaSole(l,d,grande){
   const s=datiSole(l,d);
   if(s.sempre) return `<div class="scheda"><b>${esc(l.n)}</b> — ${s.sempre==='giorno'?'sole sempre alto':'sole sempre sotto l\'orizzonte'}</div>`;
@@ -475,7 +589,7 @@ function cartaSole(l,d,grande){
         orizzonteDi(document.getElementById('cieloGrande')))}</div>
     <div class="ci-cont">
       <div class="ci-alto">
-        <span class="ci-luogo">📍 ${esc(l.n)}${l.cc?' · '+esc(l.cc):''}${l.km!=null?' · a '+Math.round(l.km)+' km':''}</span>
+        <span class="ci-luogo">📍 ${esc(l.n)}${l.cc?' · '+esc(l.cc):''}</span>
         <span class="ci-luna">${faseIcona(L.fase)} ${esc(nomeFase(L.fase))}</span>
       </div>
       <div class="ci-basso" style="--luce:${coloriCielo(So.alt)[3]};--luce2:${coloriCielo(So.alt)[2]}">
@@ -485,7 +599,6 @@ function cartaSole(l,d,grande){
           <div><span>🌅 Alba</span><b>${oraLoc(s.alba,l.tz)}</b></div>
           <div><span>🌇 Tramonto</span><b>${oraLoc(s.tramonto,l.tz)}</b></div>
           <div><span>☀️ Ore di luce</span><b>${durata(s.luce)}</b></div>
-          <div><span>☀️ Sole</span><b>${So.alt>0?So.alt.toFixed(0)+'°':'sotto'}</b></div>
           <div><span>🌙 Luna</span><b>${L.alt>0?L.alt.toFixed(0)+'°':'sotto'}</b></div>
         </div>
       </div>

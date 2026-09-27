@@ -1,0 +1,133 @@
+# Domande nuove — livello esperti, Antico Testamento
+personaggi|4|1 4:22
+IT|Chi fu il primo artefice di ogni sorta di strumenti di bronzo e di ferro?|Tubal-Cain|Jubal|Jabal|Lamek|Tsillah partorì Tubal-Cain, l'artefice di ogni sorta di strumenti di bronzo e di ferro.
+RO|Cine a fost cel dintâi făuritor al tuturor uneltelor de aramă și de fier?|Tubal-Cain|Iubal|Iabal|Lameh|Țila a născut pe Tubal-Cain, care făurea tot felul de unelte de aramă și de fier.
+personaggi|4|1 4:20
+IT|Chi fu il padre di quelli che abitano sotto le tende e allevano bestiame?|Jabal|Jubal|Tubal-Cain|Enok|Ada partorì Jabal, che fu il padre di quelli che abitano sotto le tende presso le mandrie.
+RO|Cine a fost tatăl celor ce locuiesc în corturi și cresc vite?|Iabal|Iubal|Tubal-Cain|Enoh|Ada a născut pe Iabal, care a fost tatăl celor ce locuiesc în corturi și păzesc vitele.
+personaggi|4|1 10:25
+IT|Perché uno dei figli di Eber fu chiamato Peleg?|Perché ai suoi giorni la terra fu divisa|Perché era il primogenito|Perché era un cacciatore|Perché nacque durante il diluvio|A Eber nacquero due figli: il nome dell'uno fu Peleg, perché ai suoi giorni la terra fu divisa.
+RO|De ce unul din fiii lui Eber s-a numit Peleg?|Pentru că în zilele lui s-a împărțit pământul|Pentru că era întâiul născut|Pentru că era vânător|Pentru că s-a născut în timpul potopului|Lui Eber i s-au născut doi fii: numele unuia era Peleg, pentru că pe vremea lui s-a împărțit pământul.
+personaggi|4|1 14:1
+IT|Quale re di Elam guidò i re che saccheggiarono Sodoma e presero Lot?|Kedorlaomer|Amrafel|Arioc|Tidal|Kedorlaomer, re di Elam, con Amrafel, Arioc e Tidal, fecero guerra ai re di Sodoma e di Gomorra.
+RO|Ce împărat al Elamului i-a condus pe împărații care au prădat Sodoma și l-au luat pe Lot?|Chedorlaomer|Amrafel|Arioc|Tidal|Chedorlaomer, împăratul Elamului, cu Amrafel, Arioc și Tidal, au făcut război împăraților Sodomei și Gomorei.
+personaggi|4|1 24:2
+IT|Su che cosa fece giurare Abrahamo il suo servo prima di mandarlo a cercare moglie per Isacco?|Mettendo la mano sotto la sua coscia|Sull'altare|Sul libro della legge|Sulla sua spada|«Metti la tua mano sotto la mia coscia; e io ti farò giurare per l'Eterno».
+RO|Cum l-a pus Avraam să jure pe robul său înainte să-l trimită după o nevastă pentru Isaac?|Punându-și mâna sub coapsa lui|Pe altar|Pe cartea legii|Pe sabia lui|„Pune-ți, te rog, mâna sub coapsa mea, și te voi pune să juri pe Domnul.”
+personaggi|4|1 26:34
+IT|Chi sposò Esaù a quarant'anni, dando dolore a Isacco e Rebecca?|Due donne hittite|Una figlia di Labano|Una Moabita|Una Egiziana|Esaù prese in moglie Giuditta, figlia di Beeri l'Hitteo, e Basmath, figlia di Elon l'Hitteo: furono causa di amarezza per Isacco e Rebecca.
+RO|Cu cine s-a însurat Esau la patruzeci de ani, spre durerea lui Isaac și a Rebecăi?|Cu două femei hetite|Cu o fată a lui Laban|Cu o moabită|Cu o egipteancă|Esau a luat de nevastă pe Iudita, fata lui Beeri, hetitul, și pe Basmat, fata lui Elon, hetitul: au fost o pricină de amărăciune pentru Isaac și Rebeca.
+personaggi|4|1 30:37
+IT|Che cosa usò Giacobbe per far nascere greggi striate e macchiate?|Verghe scortecciate a strisce|Sale e acqua|Una preghiera speciale|Un vello di lana|Giacobbe prese delle verghe verdi di pioppo, di mandorlo e di platano, e vi fece delle strisce bianche scortecciandole.
+RO|Ce a folosit Iacov ca să se nască oi vărgate și pestrițe?|Nuiele cojite în dungi|Sare și apă|O rugăciune deosebită|Un cojoc de lână|Iacov a luat nuiele verzi de plop, de migdal și de platan și a cojit pe ele dungi albe.
+personaggi|4|1 32:2
+IT|Come chiamò Giacobbe il luogo dove gli vennero incontro gli angeli di Dio?|Mahanaim|Peniel|Betel|Sukkoth|Quando li vide, Giacobbe disse: «Questo è il campo di Dio», e chiamò quel luogo Mahanaim.
+RO|Cum a numit Iacov locul unde l-au întâmpinat îngerii lui Dumnezeu?|Mahanaim|Peniel|Betel|Sucot|Când i-a văzut, Iacov a zis: „Aceasta este tabăra lui Dumnezeu!” Și a numit locul acela Mahanaim.
+personaggi|4|1 33:17
+IT|In quale luogo Giacobbe si costruì una casa e fece delle capanne per il bestiame?|Sukkoth|Sichem|Betel|Mahanaim|Giacobbe partì per Sukkoth, si costruì una casa e fece delle capanne per il suo bestiame.
+RO|În ce loc și-a zidit Iacov o casă și a făcut colibe pentru vite?|Sucot|Sihem|Betel|Mahanaim|Iacov a plecat la Sucot, și-a zidit o casă și a făcut colibe pentru vitele lui.
+personaggi|4|1 36:1
+IT|Quale altro nome ebbe Esaù, capostipite di una nazione?|Edom|Seir|Amalek|Teman|Questa è la discendenza di Esaù, cioè Edom.
+RO|Ce alt nume a avut Esau, strămoșul unui neam?|Edom|Seir|Amalec|Teman|Iată spița neamului lui Esau, care este Edom.
+personaggi|4|1 41:45
+IT|Quale nome egiziano diede il Faraone a Giuseppe?|Tsafnath-Paneah|Potifera|Asenath|Ramses|Il Faraone chiamò Giuseppe col nome di Tsafnath-Paneah.
+RO|Ce nume egiptean i-a dat Faraon lui Iosif?|Țafnat-Paeneah|Poti-Fera|Asnat|Ramses|Faraon a pus lui Iosif numele Țafnat-Paeneah.
+personaggi|4|1 46:34
+IT|Perché i pastori erano un abominio per gli Egiziani, secondo Giuseppe?|Lo erano ogni pastore di pecore|Perché erano stranieri|Perché adoravano Baal|Perché erano poveri|«Poiché tutti i pastori di pecore sono un abominio per gli Egiziani».
+RO|Ce erau păstorii de oi pentru egipteni, după Iosif?|O urâciune|Niște străini|Niște închinători ai lui Baal|Niște săraci|„Căci toți păstorii de oi sunt o urâciune pentru egipteni.”
+at|4|2 3:22
+IT|Che cosa dovevano chiedere le donne israelite alle vicine egiziane prima dell'esodo?|Oggetti d'argento, d'oro e vesti|Pane e acqua|Armi|Animali|Ogni donna chiederà alla sua vicina oggetti d'argento, oggetti d'oro e vesti; e spoglierete gli Egiziani.
+RO|Ce trebuiau să ceară femeile israelite vecinelor egiptence înainte de ieșire?|Vase de argint, de aur și haine|Pâine și apă|Arme|Animale|Fiecare femeie va cere vecinei ei vase de argint, vase de aur și haine; și veți jefui pe egipteni.
+at|4|2 4:25
+IT|Chi circoncise il figlio di Mosè durante il viaggio verso l'Egitto?|Sefora|Mosè|Aaronne|Jethro|Sefora prese una selce tagliente e tagliò il prepuzio di suo figlio.
+RO|Cine l-a tăiat împrejur pe fiul lui Moise în timpul drumului spre Egipt?|Sefora|Moise|Aaron|Ietro|Sefora a luat o piatră ascuțită și a tăiat prepuțul fiului ei.
+at|4|2 17:9
+IT|Chi guidò per la prima volta l'esercito d'Israele in battaglia, contro Amalek?|Giosuè|Caleb|Mosè|Hur|Mosè disse a Giosuè: «Scegli per noi degli uomini ed esci a combattere contro Amalek».
+RO|Cine a condus pentru prima dată oastea lui Israel în luptă, împotriva lui Amalec?|Iosua|Caleb|Moise|Hur|Moise i-a zis lui Iosua: „Alege-ne niște bărbați și ieși de te bate cu Amalec.”
+at|4|2 28:36
+IT|Che cosa era inciso sulla lamina d'oro sulla mitra del sommo sacerdote?|«Santità all'Eterno»|«Re dei re»|Il nome di Aaronne|I nomi delle tribù|Farai una lamina d'oro puro e v'inciderai, come si incide su un sigillo: «Santità all'Eterno».
+RO|Ce era săpat pe tăblița de aur de pe mitra marelui preot?|„Sfințenie Domnului”|„Împăratul împăraților”|Numele lui Aaron|Numele semințiilor|Să faci o tăbliță de aur curat și să sapi pe ea, cum se sapă pe o pecete: „Sfințenie Domnului.”
+at|4|2 30:34
+IT|Quanti ingredienti aromatici componevano l'incenso sacro del tabernacolo, oltre al sale?|Quattro|Due|Sette|Dodici|Procurati degli aromi: storace, conchiglia odorosa, galbano e incenso puro, in dosi uguali.
+RO|Câte mirodenii alcătuiau tămâia sfântă a cortului, pe lângă sare?|Patru|Două|Șapte|Douăsprezece|Ia mirodenii: stacte, onice, halban, mirodenii și tămâie curată, în părți deopotrivă.
+at|4|3 13:45
+IT|Che cosa doveva gridare il lebbroso quando incontrava qualcuno, secondo il Levitico?|«Impuro! Impuro!»|«Aiuto!»|«Pietà!»|«Allontanatevi!»|Il lebbroso colpito dalla piaga… si coprirà la barba e griderà: «Impuro! Impuro!».
+RO|Ce trebuia să strige leprosul când întâlnea pe cineva, după Levitic?|„Necurat! Necurat!”|„Ajutor!”|„Milă!”|„Depărtați-vă!”|Leprosul lovit de rană… își va acoperi barba și va striga: „Necurat! Necurat!”
+at|4|3 16:21
+IT|Che cosa confessava il sommo sacerdote sul capro vivo nel giorno delle espiazioni?|Tutte le iniquità dei figli d'Israele|I nomi delle tribù|La legge di Mosè|Le vittorie del popolo|Aaronne poserà le mani sul capo del capro vivo e confesserà su di esso tutte le iniquità dei figli d'Israele.
+RO|Ce mărturisea marele preot peste țapul cel viu în ziua ispășirii?|Toate nelegiuirile copiilor lui Israel|Numele semințiilor|Legea lui Moise|Biruințele poporului|Aaron să-și pună mâinile pe capul țapului viu și să mărturisească peste el toate nelegiuirile copiilor lui Israel.
+at|4|4 6:3
+IT|Da che cosa doveva astenersi il nazireo, secondo Numeri 6?|Dal vino e dalle bevande forti|Dal pane|Dall'acqua|Dalla carne di pecora|Si asterrà dal vino e dalle bevande forti; non berrà aceto fatto di vino.
+RO|De ce trebuia să se înfrâneze nazireul, după Numeri 6?|De vin și de băuturi tari|De pâine|De apă|De carne de oaie|Să se ferească de vin și de băuturi tari; să nu bea nici oțet făcut din vin.
+at|4|4 7:89
+IT|Da dove parlava a Mosè la voce dell'Eterno nella tenda di convegno?|Dal propiziatorio, fra i due cherubini|Dal candelabro|Dall'altare di bronzo|Dalla porta della tenda|Mosè udiva la voce che gli parlava dal propiziatorio che è sull'arca, fra i due cherubini.
+RO|De unde îi vorbea lui Moise glasul Domnului în cortul întâlnirii?|De pe capacul ispășirii, dintre cei doi heruvimi|De la sfeșnic|De pe altarul de aramă|De la ușa cortului|Moise auzea glasul care-i vorbea de pe capacul ispășirii de pe chivot, dintre cei doi heruvimi.
+at|4|4 15:38
+IT|Che cosa dovevano mettere gli Israeliti agli angoli delle vesti, secondo Numeri 15?|Delle frange con un cordone violaceo|Dei campanelli d'oro|Dei nastri rossi|Dei sigilli|Dì loro che si facciano delle frange agli angoli delle vesti e che mettano alla frangia un cordone violaceo.
+RO|Ce trebuiau să-și pună israeliții la colțurile hainelor, după Numeri 15?|Ciucuri cu un fir albastru|Clopoței de aur|Panglici roșii|Peceți|Spune-le să-și facă ciucuri la colțurile hainelor și să pună un fir albastru peste ciucurii acestora.
+at|4|4 19:2
+IT|Di che colore doveva essere la giovenca per l'acqua di purificazione, secondo Numeri 19?|Rossa|Bianca|Nera|Pezzata|Ti portino una giovenca rossa, senza difetto… sulla quale non sia mai stato posto il giogo.
+RO|Ce culoare trebuia să aibă vaca pentru apa de curățire, după Numeri 19?|Roșie|Albă|Neagră|Bălțată|Să-ți aducă o vacă roșie, fără cusur… care să nu fi purtat jug.
+personaggi|4|4 32:1
+IT|Quali tribù chiesero di stabilirsi a oriente del Giordano perché avevano molto bestiame?|Ruben e Gad|Giuda e Beniamino|Levi e Simeone|Dan e Neftali|I figli di Ruben e i figli di Gad avevano bestiame in grande quantità.
+RO|Ce seminții au cerut să se așeze la răsărit de Iordan pentru că aveau multe vite?|Ruben și Gad|Iuda și Beniamin|Levi și Simeon|Dan și Neftali|Fiii lui Ruben și fiii lui Gad aveau turme foarte mari.
+at|4|5 3:11
+IT|Di che cosa era fatto il letto di Og, re di Basan, lungo nove cubiti?|Di ferro|D'oro|Di cedro|Di pietra|Og, re di Basan, era rimasto l'unico dei Refaim; ecco, il suo letto era un letto di ferro.
+RO|Din ce era făcut patul lui Og, împăratul Basanului, lung de nouă coți?|Din fier|Din aur|Din cedru|Din piatră|Og, împăratul Basanului, rămăsese singurul din neamul refaimiților; patul lui era un pat de fier.
+at|4|5 22:10
+IT|Quali due animali la legge proibiva di aggiogare insieme per arare?|Un bue e un asino|Un cavallo e un mulo|Due buoi|Un cammello e un bue|Non arare con un bue e un asino aggiogati insieme.
+RO|Care două animale oprea legea să fie înjugate împreună la arat?|Un bou și un măgar|Un cal și un catâr|Doi boi|O cămilă și un bou|Să nu ari cu un bou și cu un măgar înjugați împreună.
+at|4|5 25:4
+IT|Che cosa proibiva la legge di fare al bue mentre trebbiava?|Mettergli la museruola|Farlo lavorare di sabato|Legarlo|Dargli acqua|Non mettere la museruola al bue mentre trebbia il grano.
+RO|Ce oprea legea să i se facă boului când treieră?|Să i se lege gura|Să lucreze în Sabat|Să fie legat|Să i se dea apă|Să nu legi gura boului când treieră grâul.
+at|4|5 34:6
+IT|Dove fu sepolto Mosè, secondo Deuteronomio 34?|Nella valle del paese di Moab, di fronte a Beth-Peor|Sul monte Nebo|A Kadesh|A Hebron|Egli lo seppellì nella valle del paese di Moab, di fronte a Beth-Peor.
+RO|Unde a fost îngropat Moise, după Deuteronom 34?|În vale, în țara Moabului, față în față cu Bet-Peor|Pe muntele Nebo|La Cades|La Hebron|Domnul l-a îngropat în vale, în țara Moabului, față în față cu Bet-Peor.
+personaggi|4|6 2:6
+IT|Dove nascose Rahab le spie di Giosuè?|Fra gli steli di lino sulla terrazza|In una cisterna|In una stalla|Sotto il letto|Ella li aveva fatti salire sulla terrazza e li aveva nascosti sotto gli steli di lino che aveva disposto sulla terrazza.
+RO|Unde le-a ascuns Rahav pe iscoadele lui Iosua?|Sub snopii de in de pe acoperiș|Într-o groapă|Într-un grajd|Sub pat|Ea îi pusese să se suie pe acoperiș și-i ascunsese sub niște snopi de in, pe care-i pusese pe acoperiș.
+personaggi|4|6 14:7
+IT|Quanti anni aveva Caleb quando Mosè lo mandò a esplorare il paese?|Quaranta|Venti|Ottantacinque|Trenta|«Io avevo quarant'anni quando Mosè, servo dell'Eterno, mi mandò da Kadesh-Barnea a esplorare il paese».
+RO|Câți ani avea Caleb când l-a trimis Moise să iscodească țara?|Patruzeci|Douăzeci|Optzeci și cinci|Treizeci|„Eram în vârstă de patruzeci de ani când m-a trimis Moise, robul Domnului, de la Cades-Barnea să iscodesc țara.”
+personaggi|4|7 3:21
+IT|Che cosa nascose Ehud sotto la veste, sulla coscia destra, per uccidere Eglon?|Una spada a due tagli lunga un cubito|Un pugnale d'oro|Una corda|Del veleno|Ehud si fece una spada a due tagli, lunga un cubito, e se la cinse sotto la veste, al fianco destro.
+RO|Ce a ascuns Ehud sub haină, pe coapsa dreaptă, ca să-l omoare pe Eglon?|O sabie cu două tăișuri, lungă de un cot|Un pumnal de aur|O funie|Otravă|Ehud și-a făcut o sabie cu două tăișuri, lungă de un cot, și a încins-o pe sub haină, la șoldul drept.
+personaggi|4|7 4:19
+IT|Che cosa diede Jael da bere a Sisera quando le chiese un po' d'acqua?|Del latte|Del vino|Dell'aceto|Del miele|Ella aprì l'otre del latte, gli diede da bere e lo coprì.
+RO|Ce i-a dat Iael să bea lui Sisera când i-a cerut puțină apă?|Lapte|Vin|Oțet|Miere|Ea a deschis burduful cu lapte, i-a dat să bea și l-a acoperit.
+personaggi|4|7 14:19
+IT|Quanti uomini uccise Sansone ad Askelon per pagare le trenta vesti della scommessa?|Trenta|Cento|Mille|Tre|Sansone scese ad Askelon, uccise trenta uomini, prese le loro spoglie e diede le vesti a quelli che avevano spiegato l'enigma.
+RO|Câți oameni a ucis Samson la Ascalon ca să plătească cele treizeci de haine ale prinsorii?|Treizeci|O sută|O mie|Trei|Samson s-a pogorât la Ascalon, a ucis treizeci de oameni, le-a luat hainele și le-a dat celor ce dezlegaseră ghicitoarea.
+personaggi|4|7 16:3
+IT|Che cosa portò Sansone sulla cima del monte di fronte a Hebron?|Le porte della città di Gaza con i due stipiti|Un leone morto|Una macina|Il carro di un re|A mezzanotte afferrò i battenti della porta della città con i due stipiti, se li caricò sulle spalle e li portò in cima al monte che sta di fronte a Hebron.
+RO|Ce a dus Samson pe vârful muntelui din fața Hebronului?|Porțile cetății Gaza cu cei doi stâlpi|Un leu mort|O piatră de moară|Carul unui împărat|La miezul nopții a apucat porțile cetății cu cei doi stâlpi, le-a pus pe umeri și le-a dus pe vârful muntelui din fața Hebronului.
+personaggi|4|8 4:7
+IT|Che cosa si toglieva l'uomo per confermare una cessione di diritti in Israele, al tempo di Rut?|Un sandalo|L'anello|Il mantello|La cintura|Per convalidare ogni affare, uno si toglieva il sandalo e lo dava all'altro.
+RO|Ce își scotea omul ca să întărească o cedare de drepturi în Israel, pe vremea lui Rut?|Încălțămintea|Inelul|Mantaua|Brâul|Ca să întărească o tocmeală, unul își scotea încălțămintea și o dădea celuilalt.
+personaggi|4|9 1:24
+IT|Che cosa portò Anna al tempio quando vi condusse Samuele svezzato?|Tre giovenchi, un'efa di farina e un otre di vino|Due colombe|Un agnello|Dell'oro|Lo portò con sé con tre giovenchi, un'efa di farina e un otre di vino, e lo condusse nella casa dell'Eterno a Scilo.
+RO|Ce a adus Ana la templu când l-a dus pe Samuel înțărcat?|Trei tauri, o efă de făină și un burduf cu vin|Doi porumbei|Un miel|Aur|L-a luat cu ea împreună cu trei tauri, o efă de făină și un burduf cu vin și l-a dus în Casa Domnului la Silo.
+personaggi|4|9 6:4
+IT|Che cosa mandarono i Filistei insieme all'arca come offerta per la colpa?|Cinque bubboni d'oro e cinque topi d'oro|Un vitello d'oro|Mille sicli d'argento|Dei vestiti di porpora|Cinque bubboni d'oro e cinque topi d'oro, secondo il numero dei principi dei Filistei.
+RO|Ce au trimis filistenii împreună cu chivotul ca jertfă pentru vină?|Cinci umflături de aur și cinci șoareci de aur|Un vițel de aur|O mie de sicli de argint|Haine de purpură|Cinci umflături de aur și cinci șoareci de aur, după numărul domnitorilor filistenilor.
+personaggi|4|9 21:13
+IT|Che cosa fece Davide davanti ad Achish, re di Gath, per salvarsi?|Si finse pazzo|Si travestì da donna|Fuggì di notte|Gli offrì la spada di Goliath|Davide si finse pazzo davanti a loro; tracciava segni sui battenti della porta e lasciava colare la saliva sulla barba.
+RO|Ce a făcut David înaintea lui Achiș, împăratul Gatului, ca să scape?|S-a prefăcut nebun|S-a îmbrăcat ca o femeie|A fugit noaptea|I-a dat sabia lui Goliat|David s-a prefăcut nebun înaintea lor; făcea semne pe ușile porții și-și lăsa balele să curgă pe barbă.
+personaggi|4|10 18:18
+IT|Che cosa si era eretto Absalom quando era ancora in vita, perché non aveva figli?|Una stele nella valle del re|Un palazzo|Un altare|Una tomba d'oro|Absalom si era eretto quando era in vita la stele che è nella valle del re; diceva: «Non ho un figlio che conservi il ricordo del mio nome».
+RO|Ce își ridicase Absalom în timpul vieții, pentru că n-avea fii?|Un stâlp în Valea împăratului|Un palat|Un altar|Un mormânt de aur|Absalom își ridicase în timpul vieții un stâlp în Valea împăratului; căci zicea: „N-am niciun fiu prin care să se păstreze aducerea aminte de numele meu.”
+personaggi|4|11 1:3
+IT|Quale giovane fu cercata per assistere il re Davide nella vecchiaia?|Abishag la Sunamita|Bath-Sceba|Mikal|Tamar|Cercarono in tutto il territorio d'Israele una fanciulla bella e trovarono Abishag, la Sunamita.
+RO|Ce fată a fost căutată ca să-l slujească pe împăratul David la bătrânețe?|Abișag, sunamita|Bat-Șeba|Mical|Tamar|Au căutat în tot ținutul lui Israel o fată frumoasă și au găsit pe Abișag, sunamita.
+personaggi|4|11 2:28
+IT|Dove si rifugiò Joab quando seppe che Salomone lo cercava?|Alla tenda dell'Eterno, afferrando i corni dell'altare|In una caverna|A Hebron|In Egitto|Joab fuggì alla tenda dell'Eterno e afferrò i corni dell'altare.
+RO|Unde a fugit Ioab când a aflat că Solomon îl caută?|La cortul Domnului, apucând coarnele altarului|Într-o peșteră|La Hebron|În Egipt|Ioab a fugit la cortul Domnului și a apucat coarnele altarului.
+personaggi|4|11 11:19
+IT|Quale principe edomita trovò favore presso il Faraone e sposò la cognata del Faraone?|Hadad|Rezon|Geroboamo|Hiram|Hadad trovò grazia agli occhi del Faraone, che gli diede in moglie la sorella della propria moglie.
+RO|Ce prinț edomit a căpătat trecere înaintea lui Faraon și s-a însurat cu cumnata lui Faraon?|Hadad|Rezon|Ieroboam|Hiram|Hadad a căpătat mare trecere înaintea lui Faraon, care i-a dat de nevastă pe sora nevestei lui.
+personaggi|4|11 18:3
+IT|Come è descritto Abdia, amministratore della casa di Achab?|Molto timorato dell'Eterno|Adoratore di Baal|Amico di Jezebel|Profeta di Bethel|Abdia era molto timorato dell'Eterno.
+RO|Cum este descris Obadia, ispravnicul casei lui Ahab?|Se temea foarte mult de Domnul|Închinător al lui Baal|Prieten al Izabelei|Proroc din Betel|Obadia se temea foarte mult de Domnul.
+personaggi|4|12 9:20
+IT|Da che cosa la sentinella di Jezreel riconobbe Jehu da lontano?|Dal modo furioso di guidare il carro|Dal colore del mantello|Dal suono della tromba|Dalla bandiera|«Il modo di guidare è come quello di Jehu, figlio di Nimsci, perché guida come un pazzo».
+RO|După ce l-a recunoscut străjerul din Izreel pe Iehu de departe?|După felul nebunesc în care mâna carul|După culoarea mantalei|După sunetul trâmbiței|După steag|„Felul de a mâna este ca al lui Iehu, fiul lui Nimși, căci mână ca un nebun.”

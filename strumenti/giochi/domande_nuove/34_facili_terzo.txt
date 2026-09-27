@@ -1,0 +1,103 @@
+# Domande nuove — facili, terzo giro
+at|1|1 1:3
+IT|Che cosa disse Dio il primo giorno della creazione?|Sia la luce|Sia il mare|Sia l'uomo|Sia la terra|Dio disse: «Sia la luce!». E la luce fu.
+RO|Ce a zis Dumnezeu în prima zi a creației?|Să fie lumină!|Să fie mare!|Să fie om!|Să fie pământ!|Dumnezeu a zis: „Să fie lumină!” Și a fost lumină.
+at|1|1 2:3
+IT|Quale giorno benedisse e santificò Dio?|Il settimo giorno|Il primo giorno|Il sesto giorno|Il terzo giorno|Dio benedisse il settimo giorno e lo santificò, perché in esso Dio si riposò.
+RO|Ce zi a binecuvântat și a sfințit Dumnezeu?|Ziua a șaptea|Ziua întâi|Ziua a șasea|Ziua a treia|Dumnezeu a binecuvântat ziua a șaptea și a sfințit-o, pentru că în ziua aceasta S-a odihnit.
+personaggi|1|1 3:20
+IT|Quale nome diede Adamo a sua moglie?|Eva|Sara|Ada|Rebecca|Adamo chiamò sua moglie Eva, perché è stata la madre di tutti i viventi.
+RO|Ce nume i-a dat Adam nevestei sale?|Eva|Sara|Ada|Rebeca|Adam a pus nevestei sale numele Eva: pentru că ea a fost mama tuturor celor vii.
+personaggi|1|1 6:14
+IT|Di che legno doveva essere fatta l'arca di Noè?|Di gofer|Di cedro|Di quercia|Di acacia|Fatti un'arca di legno di gofer.
+RO|Din ce lemn trebuia făcută corabia lui Noe?|Din lemn de gofer|Din cedru|Din stejar|Din salcâm|Fă-ți o corabie de lemn de gofer.
+at|1|1 7:12
+IT|Per quanti giorni e notti piovve durante il diluvio?|Quaranta|Sette|Cento|Dodici|La pioggia cadde sulla terra quaranta giorni e quaranta notti.
+RO|Câte zile și nopți a plouat în timpul potopului?|Patruzeci|Șapte|O sută|Douăsprezece|Ploaia a căzut pe pământ patruzeci de zile și patruzeci de nopți.
+personaggi|1|1 17:5
+IT|Quale nuovo nome diede Dio ad Abramo?|Abrahamo|Israele|Isacco|Giacobbe|Non sarai più chiamato Abramo, ma il tuo nome sarà Abrahamo.
+RO|Ce nume nou i-a dat Dumnezeu lui Avram?|Avraam|Israel|Isaac|Iacov|Numele tău nu va mai fi Avram, ci numele tău va fi Avraam.
+personaggi|1|1 21:3
+IT|Come si chiamava il figlio che Sara partorì ad Abrahamo?|Isacco|Ismaele|Giacobbe|Esaù|Abrahamo chiamò Isacco il figlio che gli era nato e che Sara gli aveva partorito.
+RO|Cum se numea fiul pe care Sara i l-a născut lui Avraam?|Isaac|Ismael|Iacov|Esau|Avraam a pus numele Isaac fiului care i se născuse, pe care i-l născuse Sara.
+personaggi|1|1 25:25
+IT|Quale gemello nacque per primo, tutto rosso e peloso?|Esaù|Giacobbe|Isacco|Ruben|Il primo uscì rosso, tutto peloso come un mantello; e lo chiamarono Esaù.
+RO|Care geamăn s-a născut întâi, roșcat și păros?|Esau|Iacov|Isaac|Ruben|Cel dintâi a ieșit roșcat și păros ca o blană; și i-au pus numele Esau.
+personaggi|1|1 37:3
+IT|Che cosa fece Giacobbe per il figlio Giuseppe, che amava più degli altri?|Una veste lunga con le maniche|Una corona d'oro|Una spada|Un carro|Israele amava Giuseppe più di tutti gli altri suoi figli… e gli fece una veste lunga con le maniche.
+RO|Ce i-a făcut Iacov fiului său Iosif, pe care-l iubea mai mult decât pe ceilalți?|O haină pestriță|O cunună de aur|O sabie|Un car|Israel iubea pe Iosif mai mult decât pe toți ceilalți fii ai săi… și i-a făcut o haină pestriță.
+personaggi|1|2 2:3
+IT|In che cosa la madre di Mosè mise il bambino, tra i giunchi del Nilo?|In un cestello di giunchi|In una barca di legno|In una culla d'argento|In un sacco|Prese un cestello di giunchi, lo spalmò di bitume e di pece, vi mise dentro il bambino e lo pose fra i giunchi sulla riva del fiume.
+RO|În ce a pus mama lui Moise copilul, printre trestiile Nilului?|Într-un sicriaș de papură|Într-o barcă de lemn|Într-un leagăn de argint|Într-un sac|A luat un sicriaș de papură, l-a uns cu smoală și cu rășină, a pus copilul în el și l-a așezat printre trestii, pe marginea râului.
+miracoli|1|2 16:31
+IT|Come si chiamava il pane che Dio fece piovere nel deserto?|La manna|La focaccia|Il pane azzimo|Il pane della presentazione|La casa d'Israele chiamò quel pane manna; era simile al seme di coriandolo, era bianco e aveva il gusto di una focaccia fatta col miele.
+RO|Cum se numea pâinea pe care a făcut-o Dumnezeu să plouă în pustie?|Mana|Turta|Azima|Pâinile punerii înainte|Casa lui Israel a numit hrana aceasta mană. Ea semăna cu sămânța de coriandru, era albă și avea un gust de turtă făcută cu miere.
+at|1|2 20:3
+IT|Qual è il primo comandamento?|Non avere altri dèi davanti a me|Non rubare|Non uccidere|Onora tuo padre|Non avere altri dèi davanti a me.
+RO|Care este prima poruncă?|Să nu ai alți dumnezei afară de Mine|Să nu furi|Să nu ucizi|Cinstește pe tatăl tău|Să nu ai alți dumnezei afară de Mine.
+at|1|2 20:8
+IT|Quale giorno comanda di ricordare il quarto comandamento?|Il giorno del riposo per santificarlo|Il primo giorno della settimana|Il giorno della Pasqua|Il giorno della luna nuova|Ricordati del giorno del riposo per santificarlo.
+RO|Ce zi ne poruncește să ne aducem aminte porunca a patra?|Ziua de odihnă, ca s-o sfințim|Prima zi a săptămânii|Ziua Paștelor|Ziua lunii noi|Adu-ți aminte de ziua de odihnă, ca s-o sfințești.
+at|1|2 20:13
+IT|Quale comandamento dice semplicemente due parole contro la violenza?|Non uccidere|Non rubare|Non mentire|Non desiderare|Non uccidere.
+RO|Care poruncă spune scurt, împotriva violenței: „…”?|Să nu ucizi|Să nu furi|Să nu minți|Să nu poftești|Să nu ucizi.
+personaggi|1|7 14:6
+IT|Quale animale squarciò Sansone a mani nude, come si squarcia un capretto?|Un leone|Un orso|Un lupo|Un toro|Lo Spirito dell'Eterno lo investì ed egli squarciò il leone come si squarcia un capretto, senza avere nulla in mano.
+RO|Ce animal a sfâșiat Samson cu mâinile goale, cum ai sfâșia un ied?|Un leu|Un urs|Un lup|Un taur|Duhul Domnului a venit peste el și, fără să aibă nimic în mână, a sfâșiat leul cum ar fi sfâșiat un ied.
+personaggi|1|8 1:16
+IT|Chi disse alla suocera: «Il tuo popolo sarà il mio popolo e il tuo Dio sarà il mio Dio»?|Ruth|Orpah|Noemi|Anna|Ruth rispose: «Dove andrai tu, andrò anch'io… il tuo popolo sarà il mio popolo e il tuo Dio sarà il mio Dio».
+RO|Cine i-a zis soacrei: „Poporul tău va fi poporul meu, și Dumnezeul tău va fi Dumnezeul meu”?|Rut|Orpa|Naomi|Ana|Rut a răspuns: „Unde vei merge tu, voi merge și eu… poporul tău va fi poporul meu, și Dumnezeul tău va fi Dumnezeul meu.”
+personaggi|1|9 3:10
+IT|Che cosa rispose il piccolo Samuele quando Dio lo chiamò?|Parla, poiché il tuo servo ascolta|Chi sei?|Sto dormendo|Lasciami stare|Samuele rispose: «Parla, poiché il tuo servo ascolta».
+RO|Ce a răspuns micul Samuel când l-a chemat Dumnezeu?|Vorbește, căci robul Tău ascultă|Cine ești?|Dorm|Lasă-mă|Samuel a răspuns: „Vorbește, căci robul Tău ascultă.”
+personaggi|1|9 16:13
+IT|Chi unse Davide come re?|Samuele|Nathan|Eli|Saul|Samuele prese il corno dell'olio e lo unse in mezzo ai suoi fratelli.
+RO|Cine l-a uns pe David împărat?|Samuel|Natan|Eli|Saul|Samuel a luat cornul cu untdelemn și l-a uns în mijlocul fraților lui.
+personaggi|1|9 17:49
+IT|Con che cosa Davide colpì Golia sulla fronte?|Con una pietra lanciata con la fionda|Con una spada|Con una lancia|Con un bastone|Davide mise la mano nella sacca, ne prese una pietra, la lanciò con la fionda e colpì il Filisteo sulla fronte.
+RO|Cu ce l-a lovit David pe Goliat în frunte?|Cu o piatră aruncată cu praștia|Cu o sabie|Cu o suliță|Cu un toiag|David a băgat mâna în traistă, a luat o piatră, a aruncat-o cu praștia și a lovit pe filistean în frunte.
+personaggi|1|11 6:1
+IT|Quale grande edificio costruì Salomone all'Eterno a Gerusalemme?|La casa dell'Eterno|Una torre|Un palazzo per il Faraone|Un'arca|Nel quarto anno del suo regno su Israele, Salomone cominciò a costruire la casa dell'Eterno.
+RO|Ce clădire mare a zidit Solomon Domnului la Ierusalim?|Casa Domnului|Un turn|Un palat pentru Faraon|O corabie|În al patrulea an al domniei lui peste Israel, Solomon a zidit Casa Domnului.
+miracoli|1|12 2:11
+IT|Come fu portato in cielo il profeta Elia?|In un turbine, con un carro di fuoco|Su una nube|Su un'aquila|Su una scala|Un carro di fuoco e dei cavalli di fuoco li separarono l'uno dall'altro, ed Elia salì al cielo in un turbine.
+RO|Cum a fost luat la cer prorocul Ilie?|Într-un vârtej, cu un car de foc|Pe un nor|Pe un vultur|Pe o scară|Un car de foc și niște cai de foc i-au despărțit pe unul de altul, și Ilie s-a înălțat la cer într-un vârtej de vânt.
+personaggi|1|17 4:16
+IT|Che cosa disse la regina Ester prima di presentarsi al re?|Se devo perire, che io perisca|Ho paura di morire|Andate voi al mio posto|Aspettiamo un altro giorno|«Poi entrerò dal re, anche se è contro la legge; e se devo perire, che io perisca».
+RO|Ce a zis împărăteasa Estera înainte de a se înfățișa înaintea împăratului?|Dacă va fi să pier, voi pieri|Mi-e frică să mor|Duceți-vă voi în locul meu|Să mai așteptăm o zi|„Apoi voi intra la împărat, în ciuda legii; și dacă va fi să pier, voi pieri.”
+at|1|19 119:105
+IT|Che cosa è la parola di Dio per i nostri piedi, secondo il Salmo 119?|Una lampada|Una catena|Un sentiero di spine|Un peso|La tua parola è una lampada al mio piede e una luce sul mio sentiero.
+RO|Ce este Cuvântul lui Dumnezeu pentru picioarele noastre, după Psalmul 119?|O candelă|Un lanț|O cărare cu spini|O povară|Cuvântul Tău este o candelă pentru picioarele mele și o lumină pe cărarea mea.
+profeti|1|27 6:22
+IT|Chi chiuse la bocca dei leoni quando Daniele era nella fossa?|Un angelo mandato da Dio|Il re Dario|I soldati|Daniele stesso|«Il mio Dio ha mandato il suo angelo, che ha chiuso la bocca dei leoni».
+RO|Cine a astupat gura leilor când Daniel era în groapă?|Un înger trimis de Dumnezeu|Împăratul Dariu|Ostașii|Daniel însuși|„Dumnezeul meu a trimis pe îngerul Său și a închis gura leilor.”
+profeti|1|32 1:3
+IT|Verso quale città fuggì Giona invece di andare a Ninive?|Tarshish|Babilonia|Gerusalemme|Damasco|Giona si levò per fuggire a Tarshish, lontano dalla presenza dell'Eterno.
+RO|Spre ce cetate a fugit Iona în loc să meargă la Ninive?|Tars|Babilon|Ierusalim|Damasc|Iona s-a sculat să fugă la Tars, departe de fața Domnului.
+nt|1|40 1:21
+IT|Perché il bambino di Maria doveva chiamarsi Gesù, secondo l'angelo?|Perché avrebbe salvato il suo popolo dai loro peccati|Perché era il nome del nonno|Perché era nato a Betlemme|Perché lo aveva scelto Erode|«Tu gli porrai nome Gesù, perché egli salverà il suo popolo dai loro peccati».
+RO|De ce trebuia Pruncul Mariei să se numească Isus, după spusa îngerului?|Pentru că El va mântui pe poporul Său de păcatele sale|Pentru că așa se numea bunicul|Pentru că era născut la Betleem|Pentru că așa a ales Irod|„Îi vei pune numele Isus, pentru că El va mântui pe poporul Său de păcatele sale.”
+miracoli|1|43 6:9
+IT|Quanti pani e pesci aveva il ragazzo nella moltiplicazione dei pani?|Cinque pani e due pesci|Sette pani e tre pesci|Due pani e cinque pesci|Dodici pani e un pesce|«C'è qui un ragazzo che ha cinque pani d'orzo e due pesci».
+RO|Câte pâini și câți pești avea băiatul la înmulțirea pâinilor?|Cinci pâini și doi pești|Șapte pâini și trei pești|Două pâini și cinci pești|Douăsprezece pâini și un pește|„Este aici un băiețel care are cinci pâini de orz și doi pești.”
+miracoli|1|40 14:25
+IT|Come andò Gesù verso i discepoli sulla barca, nella quarta vigilia della notte?|Camminando sul mare|Nuotando|Su un'altra barca|Volando|Alla quarta vigilia della notte, Gesù andò verso di loro camminando sul mare.
+RO|Cum a venit Isus la ucenicii din corabie, în straja a patra din noapte?|Umblând pe mare|Înotând|Cu altă corabie|Zburând|Când se făcea ziuă, Isus a venit la ei umblând pe mare.
+nt|1|42 2:7
+IT|Dove fu deposto il bambino Gesù appena nato?|In una mangiatoia|In una culla d'oro|Nel tempio|In una cesta|Lo fasciò e lo coricò in una mangiatoia, perché non c'era posto per loro nell'albergo.
+RO|Unde a fost culcat pruncul Isus după naștere?|Într-o iesle|Într-un leagăn de aur|În templu|Într-un coș|L-a înfășat în scutece și L-a culcat într-o iesle, pentru că în casa de poposire nu era loc pentru ei.
+nt|1|43 3:16
+IT|Che cosa diede Dio per amore del mondo, secondo Giovanni 3:16?|Il suo unigenito Figlio|La legge|Il tempio|La terra promessa|Dio ha tanto amato il mondo, che ha dato il suo unigenito Figlio.
+RO|Ce a dat Dumnezeu din dragoste pentru lume, după Ioan 3:16?|Pe singurul Său Fiu|Legea|Templul|Țara făgăduită|Fiindcă atât de mult a iubit Dumnezeu lumea, că a dat pe singurul Lui Fiu.
+nt|1|43 11:35
+IT|Che cosa fece Gesù davanti alla tomba di Lazzaro, nel versetto più corto della Bibbia?|Pianse|Rise|Dormì|Cantò|Gesù pianse.
+RO|Ce a făcut Isus la mormântul lui Lazăr, în cel mai scurt verset din Biblie?|A plâns|A râs|A dormit|A cântat|Isus plângea.
+nt|1|43 14:6
+IT|Che cosa disse Gesù di essere, in Giovanni 14:6?|La via, la verità e la vita|Il re dei Giudei|Il figlio di Giuseppe|Un profeta come Elia|Gesù gli disse: «Io sono la via, la verità e la vita».
+RO|Ce a spus Isus că este, în Ioan 14:6?|Calea, adevărul și viața|Împăratul iudeilor|Fiul lui Iosif|Un proroc ca Ilie|Isus i-a zis: „Eu sunt Calea, Adevărul și Viața.”
+nt|1|44 1:9
+IT|Che cosa nascose Gesù agli occhi dei discepoli quando salì in cielo?|Una nuvola|Il fumo|Un angelo|La notte|Fu elevato mentre essi guardavano, e una nuvola lo accolse e lo sottrasse ai loro occhi.
+RO|Ce L-a ascuns pe Isus de ochii ucenicilor când S-a înălțat la cer?|Un nor|Fumul|Un înger|Noaptea|S-a înălțat la cer pe când se uitau ei la El; și un nor L-a ascuns de ochii lor.
+nt|1|46 13:4
+IT|Quali due qualità dell'amore sono le prime nominate in 1 Corinzi 13:4?|È paziente ed è benigno|È forte e coraggioso|È ricco e generoso|È giusto e severo|L'amore è paziente, è benigno.
+RO|Care sunt primele două însușiri ale dragostei din 1 Corinteni 13:4?|Este îndelung răbdătoare, este plină de bunătate|Este tare și curajoasă|Este bogată și darnică|Este dreaptă și aspră|Dragostea este îndelung răbdătoare, este plină de bunătate.

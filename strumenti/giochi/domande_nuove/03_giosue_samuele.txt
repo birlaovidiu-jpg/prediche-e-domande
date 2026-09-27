@@ -1,0 +1,256 @@
+# Domande nuove — Giosuè, Giudici, Rut, 1 e 2 Samuele
+at|2|6 1:8
+IT|Che cosa disse Dio a Giosuè di meditare giorno e notte?|Il libro della legge|I salmi di Davide|Le parole dei profeti|La storia dei padri|«Questo libro della legge non si allontani mai dalla tua bocca, ma meditalo giorno e notte».
+RO|Ce i-a spus Dumnezeu lui Iosua să cugete zi și noapte?|Cartea legii|Psalmii lui David|Cuvintele prorocilor|Istoria părinților|„Cartea aceasta a legii să nu se depărteze de gura ta; cugetă asupra ei zi și noapte.”
+personaggi|1|6 2:1
+IT|Quale donna di Gerico nascose le due spie di Giosuè?|Rahab|Debora|Jael|Rut|Le due spie entrarono in casa di una prostituta chiamata Rahab e alloggiarono là.
+RO|Ce femeie din Ierihon le-a ascuns pe cele două iscoade ale lui Iosua?|Rahav|Debora|Iael|Rut|Cele două iscoade au intrat în casa unei curve, numită Rahav, și au rămas acolo.
+personaggi|2|6 2:18
+IT|Quale segno Rahab doveva legare alla finestra per essere salvata?|Un cordone scarlatto|Un ramo d'ulivo|Un panno bianco|Una lampada accesa|Le spie le dissero di legare alla finestra quel cordone di filo scarlatto.
+RO|Ce semn trebuia Rahav să lege la fereastră, ca să fie scăpată?|O funie cărămizie|O ramură de măslin|O pânză albă|O lampă aprinsă|Iscoadele i-au spus să lege funia aceasta cărămizie la fereastră.
+miracoli|1|6 3:15-16
+IT|Quale fiume si fermò perché Israele passasse all'asciutto con l'arca?|Il Giordano|Il Nilo|L'Eufrate|Il Kison|Le acque del Giordano si fermarono e il popolo passò di fronte a Gerico.
+RO|Ce râu s-a oprit ca Israel să treacă pe uscat cu chivotul?|Iordanul|Nilul|Eufratul|Chisonul|Apele Iordanului s-au oprit, și poporul a trecut în fața Ierihonului.
+at|2|6 4:3
+IT|Quante pietre presero dal Giordano come ricordo del passaggio?|Dodici|Sette|Tre|Quaranta|Presero dodici pietre dal mezzo del Giordano, una per ogni tribù.
+RO|Câte pietre au luat din Iordan ca aducere-aminte a trecerii?|Douăsprezece|Șapte|Trei|Patruzeci|Au luat douăsprezece pietre din mijlocul Iordanului, câte una pentru fiecare seminție.
+luoghi|3|6 4:19
+IT|Dove si accamparono gli Israeliti dopo aver attraversato il Giordano?|A Ghilgal|A Betel|A Scilo|A Sichem|Il popolo si accampò a Ghilgal, all'estremità orientale di Gerico.
+RO|Unde și-au așezat israeliții tabăra după trecerea Iordanului?|La Ghilgal|La Betel|La Silo|La Sihem|Poporul a tăbărât la Ghilgal, la marginea de răsărit a Ierihonului.
+at|3|6 5:12
+IT|Quando cessò di cadere la manna?|Il giorno dopo che mangiarono i prodotti del paese|All'uscita dall'Egitto|Alla morte di Mosè|Alla caduta di Gerico|La manna cessò il giorno dopo che ebbero mangiato dei prodotti del paese di Canaan.
+RO|În ce moment n-a mai căzut mana pentru israeliți?|A doua zi după ce au mâncat din roadele țării|La ieșirea din Egipt|La moartea lui Moise|La căderea Ierihonului|Mana a încetat a doua zi după ce au mâncat din roadele țării Canaan.
+personaggi|3|6 5:14
+IT|Chi apparve a Giosuè presso Gerico con una spada sguainata?|Il capo dell'esercito dell'Eterno|Un re cananeo|Caleb|Un gigante|«Io sono il capo dell'esercito dell'Eterno; ora sono giunto».
+RO|Cine i s-a arătat lui Iosua lângă Ierihon cu o sabie scoasă?|Căpetenia oștirii Domnului|Un împărat canaanit|Caleb|Un uriaș|„Eu sunt Căpetenia oștirii Domnului și acum am venit.”
+at|2|6 6:4
+IT|Quante volte fecero il giro di Gerico il settimo giorno?|Sette|Una|Tre|Dodici|Il settimo giorno girarono attorno alla città sette volte.
+RO|De câte ori au înconjurat Ierihonul în ziua a șaptea?|De șapte ori|O dată|De trei ori|De douăsprezece ori|În ziua a șaptea au înconjurat cetatea de șapte ori.
+personaggi|2|6 7:20-21
+IT|Chi rubò un bel mantello, argento e oro a Gerico, causando la sconfitta ad Ai?|Akan|Kore|Balaam|Ghehazi|Akan confessò: «Ho visto un bel mantello di Scinear, duecento sicli d'argento e una sbarra d'oro».
+RO|Cine a furat o manta frumoasă, argint și aur la Ierihon, aducând înfrângerea de la Ai?|Acan|Core|Balaam|Ghehazi|Acan a mărturisit: „Am văzut o manta frumoasă din Șinear, două sute de sicli de argint și o drugă de aur.”
+personaggi|3|6 9:3-4
+IT|Quale popolo ingannò Giosuè presentandosi con pane secco e otri rotti?|I Gabaoniti|I Filistei|Gli Amalekiti|I Moabiti|Gli abitanti di Gabaon presero sacchi vecchi, otri rotti e pane secco per sembrare venuti da lontano.
+RO|Ce popor l-a înșelat pe Iosua venind cu pâine uscată și burdufuri rupte?|Locuitorii Gabaonului|Filistenii|Amaleciții|Moabiții|Locuitorii Gabaonului au luat saci vechi, burdufuri rupte și pâine uscată, ca să pară veniți de departe.
+miracoli|1|6 10:13
+IT|Che cosa accadde al sole quando Giosuè combatté a Gabaon?|Si fermò in mezzo al cielo|Si oscurò|Tornò indietro|Divenne rosso|Il sole si fermò in mezzo al cielo e non si affrettò a tramontare per quasi un giorno intero.
+RO|Ce s-a întâmplat cu soarele când a luptat Iosua la Gabaon?|S-a oprit în mijlocul cerului|S-a întunecat|S-a întors înapoi|S-a înroșit|Soarele s-a oprit în mijlocul cerului și nu s-a grăbit să apună aproape o zi întreagă.
+personaggi|3|6 14:10
+IT|Quanti anni aveva Caleb quando chiese il monte di Hebron?|Ottantacinque|Quaranta|Settanta|Cento|Caleb disse: «Oggi ho ottantacinque anni e sono ancora forte come quando Mosè mi mandò».
+RO|Câți ani avea Caleb când a cerut muntele Hebron?|Optzeci și cinci|Patruzeci|Șaptezeci|O sută|Caleb a zis: „Azi sunt în vârstă de optzeci și cinci de ani și tot atât de tare ca atunci când m-a trimis Moise.”
+at|1|6 24:15
+IT|Chi disse: «Quanto a me e alla mia casa, serviremo l'Eterno»?|Giosuè|Mosè|Davide|Samuele|Giosuè invitò il popolo a scegliere chi servire.
+RO|Cine a zis: „Eu și casa mea vom sluji Domnului”?|Iosua|Moise|David|Samuel|Iosua a chemat poporul să aleagă cui vrea să slujească.
+personaggi|3|6 24:29
+IT|A quanti anni morì Giosuè?|Centodieci|Centoventi|Cento|Novanta|Giosuè, figlio di Nun, servo dell'Eterno, morì all'età di centodieci anni.
+RO|La ce vârstă a murit Iosua?|O sută zece ani|O sută douăzeci de ani|O sută de ani|Nouăzeci de ani|Iosua, fiul lui Nun, robul Domnului, a murit în vârstă de o sută zece ani.
+personaggi|3|7 3:9
+IT|Chi fu il primo giudice che liberò Israele?|Othniel|Ehud|Gedeone|Debora|L'Eterno suscitò un liberatore, Othniel, figlio di Kenaz, fratello minore di Caleb.
+RO|Cine a fost primul judecător care l-a izbăvit pe Israel?|Otniel|Ehud|Ghedeon|Debora|Domnul le-a ridicat un izbăvitor, pe Otniel, fiul lui Chenaz, fratele mai mic al lui Caleb.
+personaggi|2|7 3:15
+IT|Quale giudice era mancino e uccise Eglon, re di Moab?|Ehud|Shamgar|Tola|Jair|L'Eterno suscitò Ehud, figlio di Ghera, beniaminita, che era mancino.
+RO|Care judecător era stângaci și l-a omorât pe Eglon, împăratul Moabului?|Ehud|Șamgar|Tola|Iair|Domnul le-a ridicat un izbăvitor, pe Ehud, fiul lui Ghera, beniamitul, care nu se slujea de mâna dreaptă.
+personaggi|3|7 3:31
+IT|Quale giudice uccise seicento Filistei con un pungolo da buoi?|Shamgar|Sansone|Ehud|Barak|Shamgar, figlio di Anath, sconfisse seicento Filistei con un pungolo da buoi.
+RO|Care judecător a ucis șase sute de filisteni cu un țăruș de mânat boii?|Șamgar|Samson|Ehud|Barac|Șamgar, fiul lui Anat, a bătut șase sute de filisteni cu un țăruș de mânat boii.
+personaggi|1|7 4:4
+IT|Quale profetessa giudicava Israele sotto una palma?|Debora|Miriam|Hulda|Anna|Debora, profetessa, giudicava Israele e sedeva sotto la palma di Debora.
+RO|Ce proorociță îl judeca pe Israel sub un finic?|Debora|Maria|Hulda|Ana|Debora, proorociță, judeca pe Israel și ședea sub finicul Deborei.
+personaggi|2|7 4:6
+IT|Quale capo Debora chiamò per combattere contro Sisera?|Barak|Gedeone|Jefte|Othniel|Debora mandò a chiamare Barak, figlio di Abinoam, da Kedesh di Neftali.
+RO|Pe ce căpetenie a chemat Debora să lupte împotriva lui Sisera?|Pe Barac|Pe Ghedeon|Pe Iefta|Pe Otniel|Debora a trimis să cheme pe Barac, fiul lui Abinoam, din Chedeșul lui Neftali.
+personaggi|2|7 4:21
+IT|Quale donna uccise Sisera con un piuolo della tenda?|Jael|Debora|Delilah|Rahab|Jael, moglie di Heber, prese un piuolo della tenda e glielo conficcò nella tempia.
+RO|Ce femeie l-a omorât pe Sisera cu un țăruș de cort?|Iael|Debora|Dalila|Rahav|Iael, nevasta lui Heber, a luat un țăruș de cort și i l-a înfipt în tâmplă.
+personaggi|1|7 6:11
+IT|Dove stava battendo il grano Gedeone quando l'angelo gli apparve?|Nello strettoio|Nell'aia|Nel campo|Sulla terrazza|Gedeone batteva il grano nello strettoio, per sottrarlo ai Madianiti.
+RO|Unde treiera Ghedeon grâul când i s-a arătat îngerul?|În teasc|În arie|În câmp|Pe acoperiș|Ghedeon treiera grâu în teasc, ca să-l ascundă de madianiți.
+miracoli|2|7 6:38
+IT|Che cosa usò Gedeone per chiedere un segno a Dio?|Un vello di lana|Un bastone|Una pietra|Una lampada|Gedeone mise un vello di lana sull'aia per sapere se Dio avrebbe salvato Israele per mano sua.
+RO|Ce a folosit Ghedeon ca să ceară un semn de la Dumnezeu?|Un cojoc de lână|Un toiag|O piatră|O lampă|Ghedeon a pus un cojoc de lână în arie, ca să știe dacă Dumnezeu va izbăvi pe Israel prin mâna lui.
+personaggi|2|7 7:7
+IT|Con quanti uomini Gedeone sconfisse i Madianiti?|Trecento|Tremila|Diecimila|Trentaduemila|L'Eterno disse: «Con i trecento uomini che hanno lambito l'acqua vi salverò».
+RO|Cu câți oameni i-a biruit Ghedeon pe madianiți?|Trei sute|Trei mii|Zece mii|Treizeci și două de mii|Domnul a zis: „Prin cei trei sute de oameni care au lipăit apa vă voi izbăvi.”
+personaggi|3|7 7:20
+IT|Che cosa gridarono gli uomini di Gedeone rompendo le brocche?|«La spada dell'Eterno e di Gedeone!»|«Gerico è caduta!»|«Viva il re!»|«Osanna!»|Suonarono le trombe, ruppero le brocche e gridarono: «La spada dell'Eterno e di Gedeone!».
+RO|Ce au strigat oamenii lui Ghedeon când au spart ulcioarele?|„Sabia Domnului și a lui Ghedeon!”|„A căzut Ierihonul!”|„Trăiască împăratul!”|„Osana!”|Au sunat din trâmbițe, au spart ulcioarele și au strigat: „Sabia Domnului și a lui Ghedeon!”
+personaggi|3|7 11:1
+IT|Quale giudice fece un voto avventato riguardo a sua figlia?|Jefte|Gedeone|Sansone|Ibtsan|Jefte fece un voto all'Eterno, e sua figlia gli uscì incontro per prima.
+RO|Care judecător a făcut o juruință nechibzuită privitoare la fiica lui?|Iefta|Ghedeon|Samson|Ibțan|Iefta a făcut o juruință Domnului, iar fiica lui i-a ieșit prima înainte.
+at|4|7 12:6
+IT|Quale parola dovevano pronunciare gli Efraimiti al Giordano per essere riconosciuti?|Scibboleth|Maranatha|Ebenezer|Selah|Dicevano «Sibboleth», perché non riuscivano a pronunciare bene «Scibboleth».
+RO|Ce cuvânt trebuiau să rostească efraimiții la Iordan ca să fie recunoscuți?|Șibolet|Maranata|Ebenezer|Sela|Ei ziceau „Sibolet”, pentru că nu puteau pronunța bine „Șibolet”.
+personaggi|2|7 13:2
+IT|Come si chiamava il padre di Sansone?|Manoah|Boaz|Elkanah|Jair|C'era un uomo di Tsorah, della famiglia dei Daniti, chiamato Manoah.
+RO|Cum se numea tatăl lui Samson?|Manoah|Boaz|Elcana|Iair|Era un om din Țorea, din familia daniților, care se numea Manoah.
+at|2|7 13:5
+IT|Che cosa non doveva mai passare sulla testa di Sansone?|Il rasoio|L'olio|L'acqua|La corona|«Il rasoio non passerà sulla sua testa, perché il bambino sarà un Nazireo di Dio».
+RO|Ce nu trebuia să treacă niciodată pe capul lui Samson?|Briciul|Untdelemnul|Apa|Coroana|„Briciul să nu treacă pe capul lui, căci copilul va fi nazireu al lui Dumnezeu.”
+miracoli|2|7 14:6
+IT|Quale animale Sansone squarciò a mani nude?|Un giovane leone|Un orso|Un lupo|Un toro|Lo Spirito dell'Eterno investì Sansone, che squarciò il leone come si squarcia un capretto.
+RO|Ce animal a sfâșiat Samson cu mâinile goale?|Un pui de leu|Un urs|Un lup|Un taur|Duhul Domnului a venit peste Samson, și el a rupt leul cum ar fi rupt un ied.
+personaggi|2|7 14:14
+IT|Nell'enigma di Sansone, che cosa era uscito «dal forte»?|Il dolce|Il fuoco|L'acqua|Il pane|«Dal divoratore è uscito del cibo e dal forte è uscito del dolce»: il miele nel leone.
+RO|În ghicitoarea lui Samson, ce ieșise „din cel tare”?|Dulce|Foc|Apă|Pâine|„Din cel ce mănâncă a ieșit mâncare și din cel tare a ieșit dulce”: mierea din leu.
+miracoli|2|7 15:15
+IT|Con che cosa Sansone uccise mille Filistei?|Con una mascella d'asino|Con una spada|Con un bastone|Con le pietre|Trovò una mascella d'asino ancora fresca e con essa uccise mille uomini.
+RO|Cu ce a omorât Samson o mie de filisteni?|Cu o falcă de măgar|Cu o sabie|Cu un toiag|Cu pietre|A găsit o falcă de măgar încă proaspătă și a ucis cu ea o mie de oameni.
+personaggi|1|7 16:4
+IT|Quale donna tradì Sansone scoprendo il segreto della sua forza?|Delilah|Jael|Debora|Mikal|Sansone amò una donna della valle di Sorek, chiamata Delilah.
+RO|Ce femeie l-a trădat pe Samson, aflând taina puterii lui?|Dalila|Iael|Debora|Mical|Samson a iubit o femeie din valea Sorec, care se numea Dalila.
+luoghi|3|7 16:21
+IT|In quale città i Filistei portarono Sansone accecato a girare la macina?|Gaza|Askelon|Gath|Ekron|I Filistei gli cavarono gli occhi e lo portarono a Gaza, dove girava la macina nella prigione.
+RO|În ce cetate l-au dus filistenii pe Samson orbit, să învârtească la moară?|Gaza|Ascalon|Gat|Ecron|Filistenii i-au scos ochii și l-au dus la Gaza, unde învârtea la moară în temniță.
+personaggi|2|7 16:23
+IT|A quale dio dei Filistei era dedicato il tempio abbattuto da Sansone?|Dagon|Baal|Moloch|Kemosh|I capi dei Filistei si radunarono per offrire un sacrificio a Dagon, loro dio.
+RO|Cărui dumnezeu al filistenilor îi era închinat templul dărâmat de Samson?|Dagon|Baal|Moloh|Chemoș|Domnitorii filistenilor s-au strâns să aducă o jertfă lui Dagon, dumnezeul lor.
+at|3|7 21:25
+IT|Con quale frase finisce il libro dei Giudici?|Ognuno faceva ciò che gli pareva giusto|E il paese ebbe pace|Samuele giudicò Israele|E l'Eterno scelse Davide|«In quel tempo non c'era re in Israele; ognuno faceva ciò che gli pareva giusto».
+RO|Cu ce frază se încheie cartea Judecătorilor?|Fiecare făcea ce-i plăcea|Și țara a avut odihnă|Samuel a judecat pe Israel|Și Domnul l-a ales pe David|„Pe vremea aceea nu era împărat în Israel. Fiecare făcea ce-i plăcea.”
+personaggi|1|8 1:16
+IT|Quale nuora di Noemi non volle lasciarla?|Rut|Orpah|Mikal|Ester|Rut disse: «Dove andrai tu andrò anch'io».
+RO|Care noră a Naomei n-a vrut s-o părăsească?|Rut|Orpa|Mical|Estera|Rut a zis: „Încotro vei merge tu, voi merge și eu.”
+personaggi|2|8 1:14
+IT|Quale nuora baciò Noemi e tornò al suo popolo?|Orpah|Rut|Peninnah|Tamar|Orpah baciò sua suocera, mentre Rut restò unita a lei.
+RO|Care noră a sărutat-o pe Naomi și s-a întors la poporul ei?|Orpa|Rut|Penina|Tamar|Orpa și-a sărutat soacra, dar Rut s-a lipit de ea.
+personaggi|3|8 1:20
+IT|Come voleva essere chiamata Noemi al ritorno a Betlemme?|Mara|Naomi la felice|Lea|Tirtsah|«Non chiamatemi Noemi, chiamatemi Mara, perché l'Onnipotente mi ha riempita di amarezza».
+RO|Cum voia Naomi să fie numită la întoarcerea în Betleem?|Mara|Naomi cea fericită|Lea|Tirța|„Nu-mi mai ziceți Naomi, ziceți-mi Mara, căci Cel Atotputernic m-a umplut de amărăciune.”
+personaggi|1|8 2:3
+IT|Nel campo di chi andò a spigolare Rut?|Di Boaz|Di Elimelek|Di Obed|Di Iesse|Per caso si trovò nella parte del campo che apparteneva a Boaz.
+RO|În ogorul cui s-a dus Rut să strângă spice?|Al lui Boaz|Al lui Elimelec|Al lui Obed|Al lui Isai|S-a întâmplat că a nimerit în bucata de ogor a lui Boaz.
+personaggi|2|8 4:17
+IT|Chi era il figlio di Rut e Boaz, nonno di Davide?|Obed|Iesse|Salmon|Perez|Lo chiamarono Obed; egli fu il padre di Iesse, padre di Davide.
+RO|Cine era fiul lui Rut și al lui Boaz, bunicul lui David?|Obed|Isai|Salmon|Pereț|I-au pus numele Obed; el a fost tatăl lui Isai, tatăl lui David.
+personaggi|2|9 1:2
+IT|Come si chiamava l'altra moglie di Elkanah, che aveva figli?|Peninnah|Anna|Orpah|Mikal|Elkanah aveva due mogli: Anna e Peninnah; Peninnah aveva figli, Anna no.
+RO|Cum se numea cealaltă nevastă a lui Elcana, care avea copii?|Penina|Ana|Orpa|Mical|Elcana avea două neveste: Ana și Penina; Penina avea copii, Ana nu.
+personaggi|2|9 1:13
+IT|Che cosa pensò il sacerdote Eli vedendo Anna pregare muovendo solo le labbra?|Che fosse ubriaca|Che fosse malata|Che fosse muta|Che stesse cantando|Anna parlava in cuor suo; si muovevano solo le labbra, ed Eli la credette ubriaca.
+RO|Ce a crezut preotul Eli văzând-o pe Ana rugându-se doar cu buzele?|Că este beată|Că este bolnavă|Că este mută|Că cântă|Ana vorbea în inima ei; numai buzele i se mișcau, și Eli a crezut că este beată.
+personaggi|3|9 2:12
+IT|Come si chiamavano i figli malvagi del sacerdote Eli?|Ofni e Fineas|Nadab e Abihu|Joel e Abiah|Mahlon e Kilion|I figli di Eli erano uomini scellerati; non conoscevano l'Eterno.
+RO|Cum se numeau fiii răi ai preotului Eli?|Hofni și Fineas|Nadab și Abihu|Ioel și Abia|Mahlon și Chilion|Fiii lui Eli erau oameni răi; nu cunoșteau pe Domnul.
+profeti|1|9 3:10
+IT|Che cosa rispose il giovane Samuele quando l'Eterno lo chiamò la quarta volta?|«Parla, perché il tuo servo ascolta»|«Eccomi, sono pronto a partire»|«Chi sei, Signore?»|«Manda un altro»|Samuele rispose come Eli gli aveva insegnato: «Parla, perché il tuo servo ascolta».
+RO|Ce a răspuns tânărul Samuel când l-a chemat Domnul a patra oară?|„Vorbește, căci robul Tău ascultă”|„Iată-mă, sunt gata de plecare”|„Cine ești, Doamne?”|„Trimite pe altul”|Samuel a răspuns cum îl învățase Eli: „Vorbește, căci robul Tău ascultă.”
+at|2|9 4:11
+IT|Che cosa presero i Filistei nella battaglia in cui morirono Ofni e Fineas?|L'arca di Dio|Il candelabro|Le tavole della legge|Il re di Israele|L'arca di Dio fu presa e i due figli di Eli morirono.
+RO|Ce au luat filistenii în lupta în care au murit Hofni și Fineas?|Chivotul lui Dumnezeu|Sfeșnicul|Tablele legii|Pe împăratul lui Israel|Chivotul lui Dumnezeu a fost luat, și cei doi fii ai lui Eli au murit.
+at|3|9 5:4
+IT|Che cosa trovarono i Filistei davanti all'arca nel tempio di Dagon?|La statua di Dagon caduta con la testa e le mani spezzate|Un fuoco acceso|Un serpente|Una scritta sul muro|Dagon era caduto con la faccia a terra, con la testa e le mani spezzate.
+RO|Ce au găsit filistenii înaintea chivotului în templul lui Dagon?|Chipul lui Dagon căzut, cu capul și mâinile tăiate|Un foc aprins|Un șarpe|O scriere pe perete|Dagon zăcea cu fața la pământ, cu capul și mâinile tăiate.
+at|2|9 7:12
+IT|Come chiamò Samuele la pietra posta dopo la vittoria sui Filistei?|Eben-Ezer|Bethel|Ghilgal|Mitspah|Samuele la chiamò Eben-Ezer, dicendo: «Fin qui l'Eterno ci ha soccorsi».
+RO|Cum a numit Samuel piatra ridicată după biruința asupra filistenilor?|Eben-Ezer|Betel|Ghilgal|Mițpa|Samuel a numit-o Eben-Ezer, zicând: „Până aici Domnul ne-a ajutat.”
+personaggi|2|9 9:2
+IT|Come era descritto Saul quando fu scelto?|Più alto di tutto il popolo dalle spalle in su|Piccolo di statura|Il più anziano d'Israele|Zoppo da un piede|Saul era un giovane bello e superava in altezza tutti dalle spalle in su.
+RO|Cum era descris Saul când a fost ales?|Mai înalt decât tot poporul de la umăr în sus|Mic de statură|Cel mai bătrân din Israel|Șchiop de un picior|Saul era tânăr și frumos și era mai înalt decât tot poporul de la umăr în sus.
+personaggi|3|9 9:3
+IT|Che cosa stava cercando Saul quando incontrò Samuele?|Le asine di suo padre|Una moglie|Un profeta per il re|Un'arma|Le asine di Kish, padre di Saul, si erano smarrite.
+RO|Ce căuta Saul când l-a întâlnit pe Samuel?|Măgărițele tatălui său|O nevastă|Un proroc pentru împărat|O armă|Măgărițele lui Chiș, tatăl lui Saul, se pierduseră.
+at|2|9 15:22
+IT|Secondo Samuele, che cosa è meglio del sacrificio?|L'ubbidienza|Il digiuno|Il canto|L'elemosina|«Ecco, l'ubbidienza è migliore del sacrificio».
+RO|După Samuel, ce este mai bun decât jertfa?|Ascultarea|Postul|Cântarea|Milostenia|„Ascultarea face mai mult decât jertfele.”
+at|1|9 16:7
+IT|Che cosa guarda l'Eterno, secondo quanto disse a Samuele scegliendo Davide?|Il cuore|L'aspetto|L'altezza|La forza|«L'uomo guarda all'apparenza, ma l'Eterno guarda al cuore».
+RO|La ce se uită Domnul, după ce i-a spus lui Samuel când l-a ales pe David?|La inimă|La înfățișare|La înălțime|La putere|„Omul se uită la ce izbește ochii, dar Domnul se uită la inimă.”
+personaggi|2|9 16:23
+IT|Con quale strumento Davide calmava Saul?|L'arpa|La tromba|Il flauto|Il tamburello|Davide prendeva l'arpa e suonava, e Saul si calmava.
+RO|Cu ce instrument îl liniștea David pe Saul?|Harpa|Trâmbița|Fluierul|Timpina|David lua harpa și cânta, iar Saul se liniștea.
+personaggi|3|9 17:40
+IT|Quante pietre lisce prese Davide dal torrente contro Goliath?|Cinque|Una|Tre|Sette|Davide si scelse nel torrente cinque pietre lisce e le mise nella sua bisaccia.
+RO|Câte pietre netede a luat David din pârâu împotriva lui Goliat?|Cinci|Una|Trei|Șapte|David și-a ales din pârâu cinci pietre netede și le-a pus în traista de cioban.
+luoghi|3|9 17:4
+IT|Da quale città filistea veniva Goliath?|Gath|Gaza|Ekron|Askelon|Uscì dal campo dei Filistei un campione chiamato Goliath, di Gath.
+RO|Din ce cetate filisteană era Goliat?|Gat|Gaza|Ecron|Ascalon|Din tabăra filistenilor a ieșit un om, Goliat, din Gat.
+personaggi|1|9 18:1
+IT|Quale figlio di Saul amava Davide come la propria anima?|Gionathan|Abner|Ishbosheth|Malkishua|L'anima di Gionathan rimase legata a quella di Davide, e Gionathan l'amò come la propria anima.
+RO|Care fiu al lui Saul îl iubea pe David ca pe sufletul lui?|Ionatan|Abner|Iș-Boșet|Malchișua|Sufletul lui Ionatan s-a alipit de sufletul lui David, și Ionatan l-a iubit ca pe sufletul lui.
+personaggi|2|9 18:27
+IT|Quale figlia di Saul diventò moglie di Davide?|Mikal|Merab|Abigail|Ahinoam|Saul diede a Davide in moglie sua figlia Mikal.
+RO|Care fiică a lui Saul a devenit nevasta lui David?|Mical|Merab|Abigail|Ahinoam|Saul i-a dat lui David de nevastă pe fiica sa Mical.
+personaggi|3|9 19:13
+IT|Che cosa mise Mikal nel letto per far fuggire Davide?|Un idolo con una rete di pelo di capra|Una pecora|Dei cuscini d'oro|Un servo addormentato|Mikal prese l'idolo, lo mise nel letto e gli pose al capo un graticcio di pelo di capra.
+RO|Ce a pus Mical în pat ca David să poată fugi?|Un idol cu o piele de capră la cap|O oaie|Perne de aur|Un slujitor adormit|Mical a luat terafimii, i-a pus în pat și le-a pus o piele de capră la căpătâi.
+personaggi|3|9 20:36
+IT|Quale segno usò Gionathan per avvertire Davide del pericolo?|Il tiro delle frecce|Il suono di un corno|Un fuoco sul colle|Una lettera nascosta|Gionathan tirò le frecce oltre il ragazzo: era il segnale convenuto con Davide.
+RO|Ce semn a folosit Ionatan ca să-l înștiințeze pe David de primejdie?|Aruncarea săgeților|Sunetul unui corn|Un foc pe deal|O scrisoare ascunsă|Ionatan a aruncat săgețile dincolo de băiat: era semnul înțeles cu David.
+personaggi|3|9 21:9
+IT|Quale arma diede il sacerdote Ahimelek a Davide a Nob?|La spada di Goliath|Un arco|Una lancia di Saul|Uno scudo d'oro|«La spada di Goliath il Filisteo, che tu uccidesti… è qui avvolta in un panno».
+RO|Ce armă i-a dat preotul Ahimelec lui David la Nob?|Sabia lui Goliat|Un arc|Sulița lui Saul|Un scut de aur|„Iată sabia lui Goliat, filisteanul, pe care l-ai omorât… este învelită într-o manta.”
+luoghi|3|9 22:1
+IT|In quale caverna si rifugiò Davide fuggendo da Saul?|Adullam|Makpelah|Engedi|Makkeda|Davide si rifugiò nella caverna di Adullam; i suoi fratelli e la casa di suo padre scesero da lui.
+RO|În ce peșteră s-a ascuns David fugind de Saul?|Adulam|Macpela|En-Ghedi|Macheda|David s-a ascuns în peștera Adulam; frații lui și toată casa tatălui său s-au coborât la el.
+personaggi|2|9 24:4
+IT|Che cosa tagliò Davide a Saul nella caverna, senza ucciderlo?|Un lembo del mantello|Una ciocca di capelli|La cintura|Il laccio dei sandali|Davide si alzò e tagliò di nascosto il lembo del mantello di Saul.
+RO|Ce i-a tăiat David lui Saul în peșteră, fără să-l omoare?|Poala hainei|O șuviță de păr|Brâul|Cureaua sandalei|David s-a sculat și a tăiat încet poala hainei lui Saul.
+personaggi|2|9 25:3
+IT|Come si chiamava la moglie saggia di Nabal?|Abigail|Mikal|Bath-Sceba|Ahinoam|Nabal era duro e malvagio, ma sua moglie Abigail era di buon senso e bella.
+RO|Cum se numea nevasta înțeleaptă a lui Nabal?|Abigail|Mical|Bat-Șeba|Ahinoam|Nabal era aspru și rău, dar nevasta lui, Abigail, era femeie cu minte și frumoasă.
+personaggi|3|9 28:7
+IT|A quale donna si rivolse Saul per evocare Samuele?|La negromante di Endor|La profetessa Hulda|La regina di Saba|La vedova di Sarepta|Saul chiese una donna che evocasse gli spiriti; gli dissero che ce n'era una a Endor.
+RO|La ce femeie s-a dus Saul ca să-l cheme pe Samuel?|Femeia care cheamă morții din En-Dor|Proorocița Hulda|Împărăteasa din Seba|Văduva din Sarepta|Saul a cerut o femeie care să cheme morții; i-au spus că este una la En-Dor.
+luoghi|3|9 31:8
+IT|Su quale monte morirono Saul e i suoi figli?|Sul monte Ghilboa|Sul monte Tabor|Sul monte Carmelo|Sul monte Hermon|I Filistei trovarono Saul e i suoi tre figli caduti sul monte Ghilboa.
+RO|Pe ce munte au murit Saul și fiii lui?|Pe muntele Ghilboa|Pe muntele Tabor|Pe muntele Carmel|Pe muntele Hermon|Filistenii au găsit pe Saul și pe cei trei fii ai lui căzuți pe muntele Ghilboa.
+luoghi|2|10 2:3-4
+IT|In quale città Davide fu unto re sulla casa di Giuda?|Hebron|Gerusalemme|Betlemme|Scilo|Gli uomini di Giuda vennero a Hebron e là unsero Davide re sulla casa di Giuda.
+RO|În ce cetate a fost uns David împărat peste casa lui Iuda?|Hebron|Ierusalim|Betleem|Silo|Oamenii lui Iuda au venit la Hebron și acolo l-au uns pe David împărat peste casa lui Iuda.
+luoghi|2|10 5:7
+IT|Quale fortezza conquistò Davide, che fu chiamata «Città di Davide»?|Sion|Gerico|Hebron|Gabaon|Davide espugnò la fortezza di Sion, che è la città di Davide.
+RO|Ce cetățuie a cucerit David, numită apoi „cetatea lui David”?|Sionul|Ierihonul|Hebronul|Gabaonul|David a pus mâna pe cetățuia Sionului: aceasta este cetatea lui David.
+at|2|10 6:7
+IT|Chi morì per aver toccato l'arca mentre i buoi la facevano vacillare?|Uzzah|Ahio|Obed-Edom|Abinadab|Uzzah stese la mano verso l'arca e la afferrò, e Dio lo colpì sul posto.
+RO|Cine a murit pentru că a atins chivotul când boii l-au clătinat?|Uza|Ahio|Obed-Edom|Abinadab|Uza a întins mâna spre chivot și l-a apucat, iar Dumnezeu l-a lovit pe loc.
+personaggi|2|10 6:14
+IT|Che cosa fece Davide davanti all'arca mentre la portavano a Gerusalemme?|Danzava con tutte le sue forze|Piangeva|Stava in silenzio|Suonava la tromba da solo|Davide danzava con tutte le sue forze davanti all'Eterno, cinto di un efod di lino.
+RO|Ce făcea David înaintea chivotului când îl aduceau la Ierusalim?|Juca din toate puterile|Plângea|Tăcea|Suna singur din trâmbiță|David juca din toate puterile lui înaintea Domnului și era încins cu un efod de in.
+profezie|3|10 7:16
+IT|Che cosa promise Dio a Davide tramite il profeta Nathan?|Che il suo trono sarebbe stato stabile per sempre|Che avrebbe costruito lui il tempio|Che avrebbe vissuto mille anni|Che non avrebbe avuto nemici|«La tua casa e il tuo regno saranno resi stabili per sempre… il tuo trono sarà reso stabile per sempre».
+RO|Ce i-a promis Dumnezeu lui David prin prorocul Natan?|Că scaunul lui de domnie va fi întărit pe vecie|Că el va zidi templul|Că va trăi o mie de ani|Că nu va avea vrăjmași|„Casa ta și împărăția ta vor dăinui veșnic… scaunul tău de domnie va fi întărit pe vecie.”
+personaggi|2|10 9:6
+IT|Quale figlio di Gionathan, zoppo dei piedi, Davide fece mangiare alla sua tavola?|Mefibosceth|Ishbosceth|Mika|Ziba|Davide trattò con bontà Mefibosceth per amore di Gionathan, suo padre.
+RO|Ce fiu al lui Ionatan, olog de picioare, l-a primit David la masa lui?|Mefiboșet|Iș-Boșet|Mica|Țiba|David i-a făcut bine lui Mefiboșet, din pricina tatălui său, Ionatan.
+personaggi|1|10 11:3
+IT|Come si chiamava la moglie di Uria l'Hitteo?|Bath-Sceba|Abigail|Mikal|Tamar|«È Bath-Sceba, figlia di Eliam, moglie di Uria l'Hitteo?»
+RO|Cum se numea nevasta lui Urie, hetitul?|Bat-Șeba|Abigail|Mical|Tamar|„Nu este aceasta Bat-Șeba, fata lui Eliam, nevasta lui Urie, hetitul?”
+personaggi|2|10 12:13
+IT|Che cosa rispose Davide a Nathan dopo il rimprovero per Uria e sua moglie?|«Ho peccato contro l'Eterno»|«Non è colpa mia»|«Il re può fare ciò che vuole»|«Uria era un nemico»|Davide disse a Nathan: «Ho peccato contro l'Eterno», e Nathan rispose che l'Eterno aveva perdonato il suo peccato.
+RO|Ce i-a răspuns David lui Natan după mustrarea pentru Urie și nevasta lui?|„Am păcătuit împotriva Domnului”|„Nu este vina mea”|„Împăratul poate face ce vrea”|„Urie era un vrăjmaș”|David a zis lui Natan: „Am păcătuit împotriva Domnului!”, iar Natan i-a spus că Domnul i-a iertat păcatul.
+profeti|2|10 12:7
+IT|Con quali parole Nathan fece capire a Davide il suo peccato?|«Tu sei quell'uomo!»|«Ricordati di Uria»|«Il re ha peccato»|«Pentiti, o re»|Nathan disse a Davide: «Tu sei quell'uomo!».
+RO|Cu ce cuvinte l-a făcut Natan pe David să-și înțeleagă păcatul?|„Tu ești omul acesta!”|„Adu-ți aminte de Urie”|„Împăratul a păcătuit”|„Pocăiește-te, împărate”|Natan i-a zis lui David: „Tu ești omul acesta!”
+personaggi|2|10 12:24
+IT|Quale figlio di Davide e Bath-Sceba l'Eterno amò?|Salomone|Absalom|Adonijah|Amnon|Bath-Sceba partorì un figlio che Davide chiamò Salomone, e l'Eterno lo amò.
+RO|Pe care fiu al lui David și al Bat-Șebei l-a iubit Domnul?|Solomon|Absalom|Adonia|Amnon|Bat-Șeba a născut un fiu, căruia David i-a pus numele Solomon, și Domnul l-a iubit.
+personaggi|2|10 14:25-26
+IT|Quale figlio di Davide era famoso per i suoi lunghi capelli?|Absalom|Salomone|Amnon|Adonijah|Quando Absalom si tagliava i capelli, pesavano duecento sicli.
+RO|Care fiu al lui David era cunoscut pentru părul lui lung?|Absalom|Solomon|Amnon|Adonia|Când își tundea capul, părul lui Absalom cântărea două sute de sicli.
+personaggi|2|10 18:9
+IT|Dove rimase impigliato Absalom mentre fuggiva sul mulo?|Ai rami di una grande quercia|In una rete da caccia|Nelle funi di una tenda|In una siepe di spine|La testa di Absalom si impigliò nella quercia, e il mulo passò oltre.
+RO|Unde a rămas agățat Absalom pe când fugea pe catâr?|În ramurile unui stejar mare|Într-o plasă de vânătoare|În funiile unui cort|Într-un gard de spini|Capul lui Absalom s-a prins de stejar, iar catârul a trecut mai departe.
+personaggi|3|10 18:14
+IT|Chi uccise Absalom?|Joab|Abishai|Ittai|Davide|Joab prese tre dardi e li conficcò nel cuore di Absalom.
+RO|Cine l-a omorât pe Absalom?|Ioab|Abișai|Itai|David|Ioab a luat trei săgeți și le-a înfipt în inima lui Absalom.
+personaggi|2|10 18:33
+IT|Chi pianse dicendo: «Figlio mio, Absalom! Fossi morto io al tuo posto»?|Davide|Joab|Bath-Sceba|Salomone|Il re salì nella camera sopra la porta e pianse per suo figlio.
+RO|Cine a plâns zicând: „Fiul meu Absalom! De ce n-am murit eu în locul tău?”|David|Ioab|Bat-Șeba|Solomon|Împăratul s-a suit în odaia de deasupra porții și a plâns după fiul său.
+at|3|10 24:24
+IT|Perché Davide non volle ricevere in dono l'aia di Araunah?|Non voleva offrire olocausti che non gli costassero nulla|Era un luogo impuro|Non gli piaceva|Il profeta glielo proibì|«Non offrirò all'Eterno, il mio Dio, olocausti che non mi costino nulla».
+RO|De ce n-a vrut David să primească în dar aria lui Aravna?|Nu voia să aducă arderi-de-tot care să nu-l coste nimic|Era un loc necurat|Nu-i plăcea|Prorocul i-a oprit|„Nu voi aduce Domnului, Dumnezeului meu, arderi-de-tot care să nu mă coste nimic.”
+personaggi|4|9 14:13
+IT|Chi assalì da solo, con il suo scudiero, una guarnigione filistea?|Gionathan|Abner|Joab|Saul|Gionathan salì arrampicandosi con mani e piedi, seguito dal suo scudiero, e i Filistei cadevano davanti a lui.
+RO|Cine a atacat singur, cu purtătorul său de arme, o strajă a filistenilor?|Ionatan|Abner|Ioab|Saul|Ionatan s-a suit cățărându-se cu mâinile și picioarele, urmat de purtătorul lui de arme, iar filistenii cădeau înaintea lui.
+personaggi|4|10 2:18
+IT|Quale fratello di Joab era veloce come una gazzella dei campi?|Asahel|Abishai|Amasa|Benaiah|Asahel era leggero di piedi come una gazzella dei campi.
+RO|Care frate al lui Ioab era iute la picior ca o căprioară de câmp?|Asael|Abișai|Amasa|Benaia|Asael era iute de picior ca o căprioară de câmp.
+personaggi|4|10 23:20
+IT|Quale prode di Davide uccise un leone in una cisterna in un giorno di neve?|Benaiah|Joab|Abishai|Uria|Benaiah scese in una cisterna e vi uccise un leone, in un giorno di neve.
+RO|Care viteaz al lui David a ucis un leu într-o groapă, într-o zi cu zăpadă?|Benaia|Ioab|Abișai|Urie|Benaia s-a pogorât în mijlocul unei gropi și a ucis un leu, într-o zi cu zăpadă.
+personaggi|4|9 1:20
+IT|Che cosa significa il nome di Samuele, secondo quanto disse sua madre?|L'ho chiesto all'Eterno|Dono di Dio|Figlio della promessa|Dio ascolta la preghiera|Anna lo chiamò Samuele, dicendo: «Perché l'ho chiesto all'Eterno».
+RO|Ce înseamnă numele lui Samuel, după cum a spus mama lui?|L-am cerut de la Domnul|Darul lui Dumnezeu|Fiul făgăduinței|Dumnezeu ascultă rugăciunea|Ana i-a pus numele Samuel, „căci”, a zis ea, „l-am cerut de la Domnul”.
+luoghi|4|7 18:29
+IT|Quale nome ebbe la città di Lais dopo che i Daniti la conquistarono?|Dan|Beer-Sceba|Hazor|Kadesh|Chiamarono la città Dan, dal nome di Dan loro padre; prima si chiamava Lais.
+RO|Ce nume a primit cetatea Laiș după ce au cucerit-o daniții?|Dan|Beer-Șeba|Hațor|Cades|Au pus cetății numele Dan, după numele lui Dan, tatăl lor; mai înainte se numea Laiș.

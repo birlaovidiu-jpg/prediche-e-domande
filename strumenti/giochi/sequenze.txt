@@ -1,0 +1,62 @@
+# Fatti da mettere in ordine (Tempio della conoscenza, Codice segreto).
+# Prima riga: il riferimento principale. Poi IT| e RO| con i fatti GIÀ NELL'ORDINE GIUSTO (il gioco li mescola).
+1 1:31
+IT|La luce|Il firmamento|Le piante|Il sole e la luna
+RO|Lumina|Întinderea|Plantele|Soarele și luna
+1 6:14
+IT|Dio ordina a Noè di costruire l'arca|Il diluvio copre la terra|L'arca si ferma sull'Ararat|L'arcobaleno appare come segno del patto
+RO|Dumnezeu îi poruncește lui Noe să facă corabia|Potopul acoperă pământul|Corabia se oprește pe Ararat|Curcubeul apare ca semn al legământului
+1 22:2
+IT|Abrahamo lascia Haran|Nasce Isacco|Dio mette alla prova Abrahamo sul monte|Isacco sposa Rebecca
+RO|Avraam pleacă din Haran|Se naște Isaac|Dumnezeu îl încearcă pe Avraam pe munte|Isaac se însoară cu Rebeca
+1 37:28
+IT|Giuseppe racconta i suoi sogni|I fratelli lo vendono|Spiega i sogni del Faraone|Si fa riconoscere dai fratelli
+RO|Iosif își istorisește visele|Frații îl vând|Tâlcuiește visele lui Faraon|Se face cunoscut fraților
+2 3:2
+IT|Mosè vede il pruno ardente|Le dieci piaghe|Il passaggio del Mar Rosso|La legge sul monte Sinai
+RO|Moise vede rugul aprins|Cele zece urgii|Trecerea Mării Roșii|Legea pe muntele Sinai
+2 20:3
+IT|Non avere altri dèi|Non farti immagini scolpite|Non usare il nome di Dio invano|Ricordati del sabato
+RO|Să nu ai alți dumnezei|Să nu-ți faci chip cioplit|Să nu iei în deșert Numele Domnului|Adu-ți aminte de ziua de odihnă
+6 6:20
+IT|Le spie entrano a Gerico|Il popolo attraversa il Giordano|Israele gira intorno alla città|Le mura crollano
+RO|Iscoadele intră în Ierihon|Poporul trece Iordanul|Israel înconjoară cetatea|Zidurile se prăbușesc
+9 10:1
+IT|Saul|Davide|Salomone|Roboamo
+RO|Saul|David|Solomon|Roboam
+9 17:50
+IT|Samuele unge Davide|Davide suona l'arpa per Saul|Davide vince Goliath|Davide diventa re
+RO|Samuel îl unge pe David|David cântă cu harfa pentru Saul|David îl biruie pe Goliat|David ajunge împărat
+11 18:38
+IT|Elia annuncia la siccità|I corvi nutrono Elia|Il fuoco scende sul Carmelo|Elia sale al cielo
+RO|Ilie vestește seceta|Corbii îl hrănesc pe Ilie|Focul coboară pe Carmel|Ilie se înalță la cer
+27 6:16
+IT|Daniele rifiuta i cibi del re|Spiega il sogno della statua|I tre amici nella fornace|Daniele nella fossa dei leoni
+RO|Daniel refuză bucatele împăratului|Tâlcuiește visul chipului|Cei trei prieteni în cuptor|Daniel în groapa cu lei
+27 2:32
+IT|Oro|Argento|Bronzo|Ferro
+RO|Aur|Argint|Aramă|Fier
+32 3:5
+IT|Giona fugge verso Tarshish|Viene gettato in mare|Il grande pesce lo inghiotte|Ninive si pente
+RO|Iona fuge spre Tars|Este aruncat în mare|Peștele cel mare îl înghite|Ninive se pocăiește
+42 2:7
+IT|L'angelo appare a Maria|Gesù nasce a Betlemme|I magi portano i doni|La fuga in Egitto
+RO|Îngerul i se arată Mariei|Isus Se naște în Betleem|Magii aduc darurile|Fuga în Egipt
+40 3:16
+IT|Il battesimo nel Giordano|Le tentazioni nel deserto|La chiamata dei primi discepoli|Il sermone sul monte
+RO|Botezul în Iordan|Ispitirea în pustie|Chemarea primilor ucenici|Predica de pe munte
+40 26:26
+IT|L'ingresso a Gerusalemme|L'ultima cena|La preghiera nel Getsemani|La crocifissione
+RO|Intrarea în Ierusalim|Cina cea de taină|Rugăciunea din Ghetsimani|Răstignirea
+43 20:1
+IT|La crocifissione|La sepoltura|La tomba vuota|L'ascensione al cielo
+RO|Răstignirea|Punerea în mormânt|Mormântul gol|Înălțarea la cer
+44 2:4
+IT|L'ascensione di Gesù|La scelta di Mattia|La Pentecoste|La morte di Stefano
+RO|Înălțarea lui Isus|Alegerea lui Matia|Cincizecimea|Moartea lui Ștefan
+44 9:3
+IT|Saulo perseguita la chiesa|La luce sulla via di Damasco|Anania gli impone le mani|Paolo parte con Barnaba
+RO|Saul prigonește Biserica|Lumina pe drumul Damascului|Anania își pune mâinile peste el|Pavel pleacă împreună cu Barnaba
+44 28:14
+IT|Paolo è arrestato nel tempio|Si appella a Cesare|Naufraga a Malta|Arriva a Roma
+RO|Pavel este prins în templu|Cere să fie judecat de Cezar|Naufragiază la Malta|Ajunge la Roma

@@ -1,0 +1,302 @@
+[
+ {
+  "id": "scritta",
+  "num": 1,
+  "ic": "✋",
+  "dif": 1,
+  "scena": "palazzo",
+  "deco": "🏛️ 🕯️ 🍷",
+  "titolo": {
+   "it": "La scritta misteriosa",
+   "ro": "Scrisul misterios"
+  },
+  "sotto": {
+   "it": "Una festa che finisce nella paura",
+   "ro": "Un ospăț care se termină în frică"
+  },
+  "rif": {
+   "it": "Daniele 5",
+   "ro": "Daniel 5"
+  },
+  "rifN": [
+   27,
+   5,
+   1,
+   31
+  ],
+  "intro": {
+   "it": "Durante un grande banchetto accade qualcosa di inspiegabile. Una mano appare all'improvviso e scrive delle parole sulla parete. Nessuno sembra capace di comprenderne il significato.",
+   "ro": "În timpul unui mare ospăț se întâmplă ceva de neînțeles. O mână apare deodată și scrie niște cuvinte pe perete. Nimeni nu pare în stare să le înțeleagă înțelesul."
+  },
+  "elementi": [
+   {
+    "k": "coppe",
+    "ic": "🍷",
+    "tipo": "i",
+    "n": {
+     "it": "Coppe d'oro",
+     "ro": "Vase de aur"
+    },
+    "tx": {
+     "it": "Questi recipienti d'oro e d'argento non appartenevano a questo palazzo: erano stati portati via dal tempio di Gerusalemme. Ora ci si beve il vino.",
+     "ro": "Aceste vase de aur și de argint nu erau ale acestui palat: fuseseră luate din templul din Ierusalim. Acum se bea vin din ele."
+    },
+    "nota": {
+     "it": "Recipienti portati via dal tempio di Gerusalemme",
+     "ro": "Vase luate din templul din Ierusalim"
+    }
+   },
+   {
+    "k": "mano",
+    "ic": "✋",
+    "tipo": "i",
+    "n": {
+     "it": "La mano",
+     "ro": "Mâna"
+    },
+    "tx": {
+     "it": "Delle dita di mano d'uomo scrivono sull'intonaco della parete, proprio di fronte al candelabro.",
+     "ro": "Niște degete de mână de om scriu pe tencuiala zidului, chiar în fața sfeșnicului."
+    },
+    "nota": {
+     "it": "Una mano scrive sulla parete",
+     "ro": "O mână scrie pe perete"
+    }
+   },
+   {
+    "k": "scritta",
+    "ic": "📜",
+    "tipo": "i",
+    "n": {
+     "it": "La scritta",
+     "ro": "Scrisul"
+    },
+    "tx": {
+     "it": "Sulla parete restano poche parole misteriose. Nessuno dei saggi del regno riesce a leggerle né a spiegarle.",
+     "ro": "Pe perete rămân câteva cuvinte misterioase. Niciunul dintre înțelepții împărăției nu poate să le citească și nici să le tâlcuiască."
+    },
+    "nota": {
+     "it": "Nessuno riesce a leggere la scritta",
+     "ro": "Nimeni nu poate citi scrisul"
+    }
+   },
+   {
+    "k": "re",
+    "ic": "👑",
+    "tipo": "i",
+    "n": {
+     "it": "Il re",
+     "ro": "Împăratul"
+    },
+    "tx": {
+     "it": "Il re cambia colore, le ginocchia gli tremano. Promette porpora, una collana d'oro e il terzo posto nel regno a chi spiegherà la scritta.",
+     "ro": "Împăratul se schimbă la față, genunchii i se bat unul de altul. Făgăduiește purpură, un lanț de aur și locul al treilea în împărăție celui ce va tâlcui scrisul."
+    },
+    "nota": {
+     "it": "Il re promette grandi doni a chi spiegherà la scritta",
+     "ro": "Împăratul făgăduiește daruri mari celui ce va tâlcui scrisul"
+    }
+   },
+   {
+    "k": "regina",
+    "ic": "👩",
+    "tipo": "t",
+    "n": {
+     "it": "Una donna",
+     "ro": "O femeie"
+    },
+    "chi": {
+     "it": "Una donna appena entrata nella sala",
+     "ro": "O femeie care tocmai a intrat în sală"
+    },
+    "tx": {
+     "it": "Nel tuo regno c'è un uomo in cui è lo spirito degli dèi santi. Al tempo di tuo padre si trovò in lui luce, intelligenza e sapienza. Si chiami quest'uomo, ed egli darà la spiegazione.",
+     "ro": "Este un om în împărăția ta care are în el duhul dumnezeilor sfinți. Pe vremea tatălui tău s-au găsit în el lumină, pricepere și înțelepciune. Să fie chemat omul acesta, și el va da tâlcuirea."
+    },
+    "nota": {
+     "it": "Una donna suggerisce di chiamare un uomo saggio",
+     "ro": "O femeie sfătuiește să fie chemat un om înțelept"
+    }
+   },
+   {
+    "k": "saggi",
+    "ic": "🧙",
+    "tipo": "i",
+    "n": {
+     "it": "I saggi",
+     "ro": "Înțelepții"
+    },
+    "tx": {
+     "it": "Sono arrivati gli astrologi, i Caldei e gli indovini: guardano la parete, ma nessuno sa dire che cosa significa.",
+     "ro": "Au venit cititorii în stele, haldeii și ghicitorii: se uită la perete, dar niciunul nu poate spune ce înseamnă."
+    },
+    "nota": {
+     "it": "I saggi del regno non sanno spiegare",
+     "ro": "Înțelepții împărăției nu pot tâlcui"
+    }
+   },
+   {
+    "k": "idoli",
+    "ic": "🗿",
+    "tipo": "i",
+    "n": {
+     "it": "Le statue",
+     "ro": "Statuile"
+    },
+    "tx": {
+     "it": "Mentre bevono, gli invitati lodano gli dèi d'oro, d'argento, di bronzo, di ferro, di legno e di pietra.",
+     "ro": "În timp ce beau, oaspeții laudă pe dumnezeii de aur, de argint, de aramă, de fier, de lemn și de piatră."
+    },
+    "nota": {
+     "it": "Si lodano gli idoli bevendo da quei vasi",
+     "ro": "Sunt lăudați idolii în timp ce se bea din vasele acelea"
+    }
+   },
+   {
+    "k": "porta",
+    "ic": "🚪",
+    "tipo": "f",
+    "n": {
+     "it": "La porta",
+     "ro": "Ușa"
+    },
+    "tx": {
+     "it": "Una porta della sala del banchetto. Qui non c'è niente di strano.",
+     "ro": "O ușă a sălii de ospăț. Aici nu e nimic ciudat."
+    },
+    "nota": {
+     "it": "La porta della sala: niente di utile",
+     "ro": "Ușa sălii: nimic folositor"
+    }
+   }
+  ],
+  "aiuti": [
+   {
+    "it": "Pensa a un re di Babilonia che diede un grande banchetto per mille dei suoi grandi.",
+    "ro": "Gândește-te la un împărat al Babilonului care a dat un mare ospăț pentru o mie de mai-mari ai lui."
+   },
+   {
+    "it": "Quell'uomo saggio era già stato al servizio di Nabucodonosor: aveva spiegato i suoi sogni.",
+    "ro": "Omul acela înțelept fusese deja în slujba lui Nebucadnețar: îi tâlcuise visele."
+   },
+   {
+    "it": "È il banchetto del re Belshatsar: la scritta la legge e la spiega Daniele (Daniele 5).",
+    "ro": "Este ospățul împăratului Belșațar: scrisul îl citește și îl tâlcuiește Daniel (Daniel 5)."
+   }
+  ],
+  "prove": [
+   {
+    "t": "scelta",
+    "q": {
+     "it": "Chi lesse e spiegò la scritta?",
+     "ro": "Cine a citit și a tâlcuit scrisul?"
+    },
+    "opz": {
+     "it": [
+      "Daniele",
+      "Isaia",
+      "Geremia",
+      "Ezechiele"
+     ],
+     "ro": [
+      "Daniel",
+      "Isaia",
+      "Ieremia",
+      "Ezechiel"
+     ]
+    },
+    "ok": 0
+   },
+   {
+    "t": "ordine",
+    "q": {
+     "it": "Metti gli avvenimenti nell'ordine giusto.",
+     "ro": "Pune întâmplările în ordinea corectă."
+    },
+    "voci": {
+     "it": [
+      "Si beve dai vasi del tempio",
+      "Appare la mano che scrive",
+      "I saggi non sanno leggere la scritta",
+      "La regina consiglia di chiamare Daniele",
+      "Daniele spiega il messaggio",
+      "Quella notte il re viene ucciso"
+     ],
+     "ro": [
+      "Se bea din vasele templului",
+      "Apare mâna care scrie",
+      "Înțelepții nu pot citi scrisul",
+      "Împărăteasa sfătuiește să fie chemat Daniel",
+      "Daniel tâlcuiește mesajul",
+      "În noaptea aceea împăratul este ucis"
+     ]
+    }
+   },
+   {
+    "t": "scelta",
+    "q": {
+     "it": "Che cosa annunciava il messaggio?",
+     "ro": "Ce vestea mesajul?"
+    },
+    "opz": {
+     "it": [
+      "Dio aveva contato i giorni del regno: il re era stato pesato e trovato mancante, e il regno sarebbe passato ai Medi e ai Persiani",
+      "Il re avrebbe vinto una grande battaglia",
+      "Sarebbero venuti sette anni di carestia",
+      "Il tempio di Gerusalemme sarebbe stato ricostruito quello stesso anno"
+     ],
+     "ro": [
+      "Dumnezeu numărase zilele împărăției: împăratul fusese cântărit și găsit ușor, iar împărăția avea să fie dată mezilor și perșilor",
+      "Împăratul avea să câștige o mare bătălie",
+      "Aveau să vină șapte ani de foamete",
+      "Templul din Ierusalim avea să fie zidit din nou chiar în anul acela"
+     ]
+    },
+    "ok": 0
+   },
+   {
+    "t": "vero",
+    "q": {
+     "it": "Tocca tutte le frasi vere, poi conferma.",
+     "ro": "Atinge toate propozițiile adevărate, apoi confirmă."
+    },
+    "frasi": [
+     {
+      "t": {
+       "it": "I vasi usati al banchetto venivano dal tempio di Gerusalemme",
+       "ro": "Vasele folosite la ospăț erau din templul din Ierusalim"
+      },
+      "v": true
+     },
+     {
+      "t": {
+       "it": "I saggi di Babilonia lessero la scritta ma non vollero spiegarla",
+       "ro": "Înțelepții Babilonului au citit scrisul, dar n-au vrut să-l tâlcuiască"
+      },
+      "v": false
+     },
+     {
+      "t": {
+       "it": "Daniele disse al re di tenersi i suoi doni",
+       "ro": "Daniel i-a spus împăratului să-și păstreze darurile"
+      },
+      "v": true
+     },
+     {
+      "t": {
+       "it": "In quella stessa notte il re fu ucciso",
+       "ro": "Chiar în noaptea aceea împăratul a fost ucis"
+      },
+      "v": true
+     }
+    ]
+   }
+  ],
+  "storia": {
+   "it": "Il caso era il banchetto del re Belshatsar a Babilonia. Mentre lui e i suoi grandi bevevano dai vasi presi dal tempio di Gerusalemme e lodavano gli idoli, delle dita di mano d'uomo scrissero sulla parete. I saggi non riuscirono a leggere la scritta; la regina consigliò di chiamare Daniele, che la spiegò: Dio aveva contato i giorni del regno, il re era stato pesato sulla bilancia e trovato mancante, e il regno sarebbe stato dato ai Medi e ai Persiani. Quella stessa notte Belshatsar fu ucciso e Dario il Medo prese il regno.",
+   "ro": "Cazul era ospățul împăratului Belșațar din Babilon. Pe când el și mai-marii lui beau din vasele luate din templul din Ierusalim și lăudau idolii, niște degete de mână de om au scris pe perete. Înțelepții n-au putut citi scrisul; împărăteasa a sfătuit să fie chemat Daniel, care l-a tâlcuit: Dumnezeu numărase zilele împărăției, împăratul fusese cântărit în cumpănă și găsit ușor, iar împărăția avea să fie dată mezilor și perșilor. Chiar în noaptea aceea Belșațar a fost ucis, și Darius Medul a luat împărăția."
+  },
+  "punti": 2000,
+  "sblocco": 0
+ }
+]

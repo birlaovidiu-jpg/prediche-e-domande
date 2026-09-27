@@ -1,0 +1,323 @@
+# Viaggi dei libri dei Re: Elia rapito ed Eliseo
+
+= acazia_elia | 🔥 | Elia e i messaggeri di Achaziah | Ilie și solii lui Ahazia | 12 1:2
+@ samaria | 12 1:2
+it: Il re Achaziah cadde dalla finestra della stanza di sopra e mandò messaggeri a consultare Baal-Zebub, dio di Ekron.
+ro: Împăratul Ahazia a căzut prin zăbrelele odăii de sus și a trimis soli să întrebe pe Baal-Zebub, dumnezeul Ecronului.
+@ stradaekron | 12 1:3
+it: Elia andò incontro ai messaggeri: «È forse perché non c'è Dio in Israele che andate a consultare Baal-Zebub?».
+ro: Ilie le-a ieșit înainte solilor: „Oare nu este Dumnezeu în Israel de vă duceți să întrebați pe Baal-Zebub?”
+? personaggio | 12 1:2
+qi: Quale dio volevano consultare i messaggeri del re?
+qr: Pe ce dumnezeu voiau să-l întrebe solii împăratului?
+ai: Baal-Zebub, dio di Ekron | Dagon, dio di Ashdod | Molek degli Ammoniti | Kemosh di Moab
+ar: Baal-Zebub, dumnezeul Ecronului | Dagon, dumnezeul Asdodului | Moloh al amoniților | Chemoș al Moabului
+@ carmelo | 12 1:9 | la cima del colle | vârful muntelui
+it: Il re mandò capitani con cinquanta uomini a prendere Elia, che stava seduto in cima a un colle.
+ro: Împăratul a trimis căpetenii cu câte cincizeci de oameni să-l ia pe Ilie, care ședea pe vârful unui munte.
+? evento | 12 1:10
+qi: Che cosa accadde ai primi due capitani con i loro cinquanta uomini?
+qr: Ce s-a întâmplat cu primele două căpetenii și cu cei cincizeci de oameni ai lor?
+ai: Scese fuoco dal cielo e li consumò | Si convertirono | Fuggirono nel deserto | Diventarono ciechi
+ar: A căzut foc din cer și i-a mistuit | S-au pocăit | Au fugit în pustie | Au orbit
+@ samaria | 12 1:17 | il letto del re | patul împăratului
+it: Elia scese con il terzo capitano e ripeté al re la parola dell'Eterno; Achaziah morì.
+ro: Ilie s-a coborât cu a treia căpetenie și i-a spus împăratului cuvântul Domnului; Ahazia a murit.
+? domanda | 12 1:13
+qi: Che cosa fece il terzo capitano davanti a Elia?
+qr: Ce a făcut a treia căpetenie înaintea lui Ilie?
+ai: Si inginocchiò e chiese di risparmiare la sua vita | Gli ordinò di scendere | Lo legò | Tornò indietro senza parlare
+ar: A îngenuncheat și s-a rugat să-i cruțe viața | I-a poruncit să coboare | L-a legat | S-a întors fără să vorbească
+
+= elia_rapito | 🌪️ | Elia rapito in cielo | Ilie luat la cer | 12 2:1
+@ ghilgal | 12 2:1
+it: Quando l'Eterno stava per rapire Elia al cielo in un turbine, Elia ed Eliseo partirono da Ghilgal.
+ro: Când a vrut Domnul să-l ia pe Ilie la cer într-un vârtej de vânt, Ilie și Elisei au plecat din Ghilgal.
+@ betel | 12 2:3
+it: A Bethel i figli dei profeti dissero a Eliseo: «Sai che oggi l'Eterno toglierà il tuo signore?».
+ro: La Betel, fiii prorocilor i-au zis lui Elisei: „Știi că Domnul îl ia astăzi pe stăpânul tău?”
+? domanda | 12 2:2
+qi: Che cosa rispose Eliseo quando Elia gli chiese di restare indietro?
+qr: Ce a răspuns Elisei când Ilie i-a cerut să rămână în urmă?
+ai: «Non ti lascerò» | «Ti aspetterò qui» | «Tornerò a casa» | «Vai pure da solo»
+ar: „Nu te voi părăsi” | „Te voi aștepta aici” | „Mă voi întoarce acasă” | „Du-te singur”
+@ gerico | 12 2:5
+it: Anche a Gerico i figli dei profeti avvisarono Eliseo; ma egli continuò con Elia.
+ro: Și la Ierihon fiii prorocilor l-au înștiințat pe Elisei; dar el a mers mai departe cu Ilie.
+? luogo | 12 2:4
+qi: In quale città andarono dopo Bethel?
+qr: În ce cetate au mers după Betel?
+ai: Gerico | Samaria | Gerusalemme | Dan
+ar: Ierihon | Samaria | Ierusalim | Dan
+@ giordano | 12 2:8
+it: Elia percosse le acque del Giordano con il mantello: le acque si divisero e i due passarono all'asciutto.
+ro: Ilie a lovit apele Iordanului cu mantaua: apele s-au despărțit, și amândoi au trecut pe uscat.
+? domanda | 12 2:9
+qi: Che cosa chiese Eliseo a Elia prima che fosse portato via?
+qr: Ce i-a cerut Elisei lui Ilie înainte să fie luat?
+ai: Una doppia porzione del suo spirito | Il suo bastone | La sua casa | Di andare con lui
+ar: O îndoită măsură din duhul lui | Toiagul lui | Casa lui | Să meargă cu el
+@ giordano | 12 2:11 | oltre il Giordano | dincolo de Iordan
+it: Un carro di fuoco e cavalli di fuoco li separarono, ed Elia salì al cielo in un turbine.
+ro: Un car de foc și niște cai de foc i-au despărțit, iar Ilie s-a înălțat la cer într-un vârtej de vânt.
+? ordina | 12 2:11
+qi: Metti in ordine l'ultimo viaggio di Elia.
+qr: Pune în ordine ultima călătorie a lui Ilie.
+ai: Ghilgal | Bethel | Gerico | Il Giordano diviso | Il carro di fuoco
+ar: Ghilgal | Betel | Ierihon | Iordanul despărțit | Carul de foc
+
+= eliseo_sale | 🧂 | Eliseo, il mantello e il sale | Elisei, mantaua și sarea | 12 2:13
+@ giordano | 12 2:14
+it: Eliseo raccolse il mantello di Elia, percosse le acque e disse: «Dov'è l'Eterno, il Dio di Elia?».
+ro: Elisei a ridicat mantaua lui Ilie, a lovit apele și a zis: „Unde este Domnul, Dumnezeul lui Ilie?”
+@ gerico | 12 2:21
+it: Gli abitanti di Gerico dissero che l'acqua era cattiva; Eliseo gettò del sale nella sorgente e l'acqua fu risanata.
+ro: Locuitorii Ierihonului au spus că apa este rea; Elisei a aruncat sare în izvor, și apa s-a însănătoșit.
+? domanda | 12 2:20
+qi: Che cosa chiese Eliseo per risanare le acque di Gerico?
+qr: Ce a cerut Elisei ca să însănătoșească apele Ierihonului?
+ai: Un piatto nuovo con del sale | Un otre di vino | Un ramo d'ulivo | Farina e olio
+ar: Un vas nou cu sare | Un burduf cu vin | O ramură de măslin | Făină și untdelemn
+@ betel | 12 2:23
+it: Salendo a Bethel, dei ragazzi lo schernirono: «Sali, testa pelata!».
+ro: Pe când se suia la Betel, niște băieți și-au bătut joc de el: „Suie-te, pleșuvule!”
+? domanda | 12 2:24
+qi: Che cosa uscì dalla foresta vicino a Bethel?
+qr: Ce a ieșit din pădurea de lângă Betel?
+ai: Due orse | Un leone | Un branco di lupi | Uno sciame di api
+ar: Două urse | Un leu | O haită de lupi | Un roi de albine
+@ carmelo | 12 2:25
+it: Da Bethel Eliseo andò al monte Karmel e di là tornò a Samaria.
+ro: De la Betel, Elisei s-a dus pe muntele Carmel și de acolo s-a întors la Samaria.
+? luogo | 12 2:25
+qi: Su quale monte andò Eliseo dopo Bethel?
+qr: Pe ce munte s-a dus Elisei după Betel?
+ai: Il Karmel | Il Tabor | L'Horeb | L'Ebal
+ar: Carmel | Tabor | Horeb | Ebal
+
+= moab_mesha | 💧 | La guerra contro Mesha, re di Moab | Războiul împotriva lui Meșa, împăratul Moabului | 12 3:4
+@ samaria | 12 3:5
+it: Mesha, re di Moab, smise di pagare il tributo; il re Jehoram uscì da Samaria per combatterlo.
+ro: Meșa, împăratul Moabului, n-a mai plătit birul; împăratul Ioram a ieșit din Samaria ca să lupte împotriva lui.
+@ gerusalemme | 12 3:7
+it: Jehoram chiese aiuto a Giosafat, re di Giuda, che accettò di salire con lui.
+ro: Ioram i-a cerut ajutor lui Iosafat, împăratul lui Iuda, care a primit să se suie cu el.
+? domanda | 12 3:4
+qi: Che tributo pagava Mesha al re d'Israele?
+qr: Ce bir plătea Meșa împăratului lui Israel?
+ai: Centomila agnelli e la lana di centomila montoni | Mille talenti d'oro | Grano e olio ogni anno | Dieci città
+ar: O sută de mii de miei și o sută de mii de berbeci cu lâna lor | O mie de talanți de aur | Grâu și untdelemn în fiecare an | Zece cetăți
+@ deserto_edom | 12 3:9
+it: Dopo sette giorni di marcia intorno al deserto di Edom, venne a mancare l'acqua all'esercito e alle bestie.
+ro: După șapte zile de mers prin pustia Edomului, a lipsit apa pentru oaste și pentru vite.
+? personaggio | 12 3:11
+qi: Quale profeta consultarono i tre re nel deserto?
+qr: Pe care proroc l-au întrebat cei trei împărați în pustie?
+ai: Eliseo | Elia | Mikaiah | Isaia
+ar: Elisei | Ilie | Mica | Isaia
+@ deserto_edom | 12 3:17 | la valle piena di fosse | valea plină de gropi
+it: Eliseo fece scavare delle fosse nella valle: senza vento né pioggia, al mattino la valle si riempì d'acqua.
+ro: Elisei a pus să se sape gropi în vale: fără vânt și fără ploaie, dimineața valea s-a umplut de apă.
+? evento | 12 3:22
+qi: Come apparve l'acqua ai Moabiti al sorgere del sole?
+qr: Cum li s-a părut moabiților apa la răsăritul soarelui?
+ai: Rossa come sangue | Bianca come latte | Nera come la notte | Verde come l'erba
+ar: Roșie ca sângele | Albă ca laptele | Neagră ca noaptea | Verde ca iarba
+@ kirhareseth | 12 3:25
+it: I Moabiti furono sconfitti e si rifugiarono a Kir-Hareseth.
+ro: Moabiții au fost bătuți și s-au adăpostit în Chir-Hareset.
+? luogo | 12 3:25
+qi: In quale città si rifugiò il re di Moab?
+qr: În ce cetate s-a adăpostit împăratul Moabului?
+ai: Kir-Hareseth | Heshbon | Dibon | Rabbah
+ar: Chir-Hareset | Hesbon | Dibon | Raba
+
+= sunamita | 🛏️ | Eliseo e la Shunamita | Elisei și sunamita | 12 4:8
+@ carmelo | 12 4:8 | la strada di Eliseo | drumul lui Elisei
+it: Eliseo passava spesso per Shunem, andando e venendo dal monte Karmel.
+ro: Elisei trecea adesea prin Sunem, ducându-se și întorcându-se de la muntele Carmel.
+@ sunem | 12 4:10
+it: Una donna ricca di Shunem preparò per Eliseo una piccola stanza al piano di sopra.
+ro: O femeie bogată din Sunem i-a pregătit lui Elisei o odăiță sus.
+? domanda | 12 4:10
+qi: Che cosa mise la donna nella stanza per Eliseo?
+qr: Ce a pus femeia în odaia lui Elisei?
+ai: Un letto, un tavolo, una sedia e un candeliere | Un tappeto e un otre | Una lampada d'oro | Un altare
+ar: Un pat, o masă, un scaun și un sfeșnic | Un covor și un burduf | O candelă de aur | Un altar
+@ sunem | 12 4:17 | la casa della Shunamita | casa sunamitei
+it: Come Eliseo le aveva annunciato, l'anno dopo la donna ebbe un figlio.
+ro: Cum îi vestise Elisei, în anul următor femeia a născut un fiu.
+? personaggio | 12 4:12
+qi: Come si chiamava il servo di Eliseo?
+qr: Cum se numea slujitorul lui Elisei?
+ai: Ghehazi | Naaman | Abdia | Tsiba
+ar: Ghehazi | Naaman | Obadia | Țiba
+@ carmelo | 12 4:25
+it: Quando il bambino morì, la madre andò in fretta da Eliseo al monte Karmel.
+ro: Când a murit copilul, mama s-a dus în grabă la Elisei, la muntele Carmel.
+? luogo | 12 4:25
+qi: Dove andò la Shunamita a cercare Eliseo?
+qr: Unde s-a dus sunamita să-l caute pe Elisei?
+ai: Al monte Karmel | A Samaria | A Gerico | A Bethel
+ar: La muntele Carmel | La Samaria | La Ierihon | La Betel
+@ sunem | 12 4:35 | la stanza di sopra | odaia de sus
+it: Eliseo pregò e si distese sul bambino; il fanciullo starnutì sette volte e aprì gli occhi.
+ro: Elisei s-a rugat și s-a întins peste copil; copilul a strănutat de șapte ori și a deschis ochii.
+? domanda | 12 4:35
+qi: Quante volte starnutì il bambino tornato in vita?
+qr: De câte ori a strănutat copilul înviat?
+ai: 7 | 1 | 3 | 12
+ar: 7 | 1 | 3 | 12
+
+= naaman | 🌊 | Naaman guarito nel Giordano | Naaman vindecat în Iordan | 12 5:1
+@ damasco | 12 5:2
+it: Una ragazzina d'Israele, schiava in casa di Naaman, disse che il profeta di Samaria lo avrebbe guarito dalla lebbra.
+ro: O fetiță din Israel, roabă în casa lui Naaman, a spus că prorocul din Samaria l-ar vindeca de lepră.
+@ samaria | 12 5:7
+it: Il re d'Israele, leggendo la lettera del re di Siria, si stracciò le vesti: «Sono forse Dio?».
+ro: Împăratul lui Israel, citind scrisoarea împăratului Siriei, și-a rupt hainele: „Sunt eu oare Dumnezeu?”
+? personaggio | 12 5:1
+qi: Chi era Naaman?
+qr: Cine era Naaman?
+ai: Il capo dell'esercito del re di Siria | Un profeta di Samaria | Un mercante di Tiro | Il figlio del re di Moab
+ar: Căpetenia oștirii împăratului Siriei | Un proroc din Samaria | Un negustor din Tir | Fiul împăratului Moabului
+@ samaria | 12 5:10 | la casa di Eliseo | casa lui Elisei
+it: Eliseo non uscì nemmeno: mandò a dire a Naaman di lavarsi nel Giordano. Naaman si adirò.
+ro: Elisei nici n-a ieșit: a trimis să-i spună lui Naaman să se scalde în Iordan. Naaman s-a mâniat.
+? domanda | 12 5:10
+qi: Quante volte doveva lavarsi Naaman nel Giordano?
+qr: De câte ori trebuia să se scalde Naaman în Iordan?
+ai: 7 | 3 | 1 | 12
+ar: 7 | 3 | 1 | 12
+@ giordano | 12 5:14
+it: Naaman si immerse sette volte nel Giordano e la sua carne tornò come quella di un piccolo fanciullo.
+ro: Naaman s-a cufundat de șapte ori în Iordan, și carnea lui s-a făcut ca a unui copil.
+? evento | 12 5:12
+qi: Quali fiumi di Damasco Naaman diceva migliori del Giordano?
+qr: Ce râuri ale Damascului spunea Naaman că sunt mai bune decât Iordanul?
+ai: L'Abanah e il Farpar | Il Tigri e l'Eufrate | Il Nilo e il Giordano | Il Kishon e lo Jabbok
+ar: Abana și Farpar | Tigrul și Eufratul | Nilul și Iordanul | Chison și Iaboc
+@ damasco | 12 5:17 | il ritorno a Damasco | întoarcerea la Damasc
+it: Naaman chiese di portare con sé la terra che possono portare due muli, per adorare soltanto l'Eterno.
+ro: Naaman a cerut să ia cu el pământ cât pot duce doi catâri, ca să se închine numai Domnului.
+? personaggio | 12 5:27
+qi: Chi ricevette la lebbra di Naaman per aver mentito e preso i suoi doni?
+qr: Cine a primit lepra lui Naaman pentru că a mințit și i-a luat darurile?
+ai: Ghehazi | Eliseo | La ragazzina schiava | Il re d'Israele
+ar: Ghehazi | Elisei | Fetița roabă | Împăratul lui Israel
+
+= dotan | 🔥 | Eliseo a Dothan | Elisei la Dotan | 12 6:13
+@ samaria | 12 6:12
+it: Il re di Siria scoprì che Eliseo rivelava al re d'Israele i suoi piani segreti.
+ro: Împăratul Siriei a aflat că Elisei îi descoperea împăratului lui Israel planurile lui ascunse.
+@ dotan | 12 6:14
+it: Di notte un grande esercito con cavalli e carri circondò la città di Dothan.
+ro: Noaptea, o oaste mare, cu cai și care, a înconjurat cetatea Dotan.
+? evento | 12 6:17
+qi: Che cosa vide il servo di Eliseo quando Dio gli aprì gli occhi?
+qr: Ce a văzut slujitorul lui Elisei când i-a deschis Dumnezeu ochii?
+ai: Il monte pieno di cavalli e carri di fuoco | Un angelo con la spada | La città in fiamme | I Siri che fuggivano
+ar: Muntele plin de cai și care de foc | Un înger cu sabia | Cetatea în flăcări | Pe sirieni fugind
+@ dotan | 12 6:18 | la porta di Dothan | poarta Dotanului
+it: Eliseo pregò, e l'Eterno colpì i Siri con la cecità.
+ro: Elisei s-a rugat, și Domnul i-a lovit pe sirieni cu orbire.
+? domanda | 12 6:16
+qi: Che cosa disse Eliseo al suo servo spaventato?
+qr: Ce i-a zis Elisei slujitorului său înspăimântat?
+ai: «Quelli che sono con noi sono più numerosi di quelli che sono con loro» | «Fuggiamo subito» | «Arrendiamoci» | «Chiamiamo il re»
+ar: „Mai mulți sunt cei cu noi decât cei cu ei” | „Să fugim îndată” | „Să ne predăm” | „Să-l chemăm pe împărat”
+@ samaria | 12 6:22 | Samaria, il banchetto | Samaria, ospățul
+it: Eliseo condusse i Siri a Samaria; invece di ucciderli, il re fece preparare per loro un grande banchetto.
+ro: Elisei i-a dus pe sirieni la Samaria; în loc să-i omoare, împăratul le-a pregătit un mare ospăț.
+? ordina | 12 6:23
+qi: Metti in ordine la storia di Dothan.
+qr: Pune în ordine istoria de la Dotan.
+ai: L'esercito circonda Dothan | Il servo vede i carri di fuoco | I Siri colpiti da cecità | Il banchetto a Samaria
+ar: Oastea înconjoară Dotanul | Slujitorul vede carele de foc | Sirienii loviți de orbire | Ospățul din Samaria
+
+= carestia_samaria | 🏚️ | I quattro lebbrosi di Samaria | Cei patru leproși din Samaria | 12 6:24
+@ damasco | 12 6:24
+it: Ben-Hadad radunò tutto il suo esercito e salì ad assediare Samaria.
+ro: Ben-Hadad și-a strâns toată oastea și s-a suit să împresoare Samaria.
+@ samaria | 12 6:25
+it: A Samaria la fame era così grande che una testa d'asino costava ottanta sicli d'argento.
+ro: În Samaria foametea era atât de mare încât un cap de măgar costa optzeci de sicli de argint.
+? domanda | 12 6:25
+qi: Quanto costava una testa d'asino durante l'assedio di Samaria?
+qr: Cât costa un cap de măgar în timpul împresurării Samariei?
+ai: 80 sicli d'argento | 5 sicli | 1 talento | 30 sicli
+ar: 80 de sicli de argint | 5 sicli | 1 talant | 30 de sicli
+@ samaria | 12 7:3 | la porta della città | poarta cetății
+it: Quattro lebbrosi all'ingresso della porta decisero di andare all'accampamento dei Siri.
+ro: Patru leproși de la intrarea porții au hotărât să meargă în tabăra sirienilor.
+? domanda | 12 7:3
+qi: Quanti lebbrosi c'erano all'ingresso della porta?
+qr: Câți leproși erau la intrarea porții?
+ai: 4 | 10 | 1 | 7
+ar: 4 | 10 | 1 | 7
+@ campisiri | 12 7:6
+it: L'accampamento era vuoto: l'Eterno aveva fatto udire ai Siri un rumore di carri e di cavalli, ed erano fuggiti.
+ro: Tabăra era goală: Domnul le făcuse sirienilor să audă un vuiet de care și de cai, și fugiseră.
+? evento | 12 7:6
+qi: Perché i Siri erano fuggiti dall'accampamento?
+qr: De ce fugiseră sirienii din tabără?
+ai: L'Eterno fece loro udire un rumore di carri e di cavalli | Arrivò una tempesta | Scoppiò un incendio | Morì il loro re
+ar: Domnul le-a făcut să audă un vuiet de care și de cai | A venit o furtună | A izbucnit un foc | Le-a murit împăratul
+@ giordano | 12 7:15
+it: Gli esploratori seguirono i Siri fino al Giordano: la strada era piena di vesti e di oggetti gettati nella fuga.
+ro: Iscoadele au mers după sirieni până la Iordan: drumul era plin de haine și de lucruri aruncate în fugă.
+? personaggio | 12 7:1
+qi: Chi aveva annunciato che il giorno dopo il cibo sarebbe tornato a buon mercato?
+qr: Cine vestise că a doua zi hrana va fi din nou ieftină?
+ai: Eliseo | Il re d'Israele | Uno dei lebbrosi | Un sacerdote
+ar: Elisei | Împăratul lui Israel | Unul dintre leproși | Un preot
+
+= hazael | 🐪 | Eliseo a Damasco | Elisei la Damasc | 12 8:7
+@ samaria | 12 8:7
+it: Eliseo andò a Damasco, mentre Ben-Hadad, re di Siria, era ammalato.
+ro: Elisei s-a dus la Damasc, pe când Ben-Hadad, împăratul Siriei, era bolnav.
+@ damasco | 12 8:9
+it: Hazael andò incontro a Eliseo con un grande dono per chiedergli se il re sarebbe guarito.
+ro: Hazael i-a ieșit înainte lui Elisei cu un mare dar, ca să-l întrebe dacă împăratul se va vindeca.
+? domanda | 12 8:9
+qi: Con quanti cammelli carichi di doni andò Hazael da Eliseo?
+qr: Cu câte cămile încărcate cu daruri s-a dus Hazael la Elisei?
+ai: 40 | 12 | 7 | 100
+ar: 40 | 12 | 7 | 100
+@ damasco | 12 8:15 | il palazzo del re | casa împăratului
+it: Hazael tornò dal re e il giorno dopo prese il suo posto: divenne re di Siria.
+ro: Hazael s-a întors la împărat, iar a doua zi i-a luat locul: a ajuns împăratul Siriei.
+? evento | 12 8:11
+qi: Che cosa fece Eliseo guardando Hazael?
+qr: Ce a făcut Elisei privindu-l pe Hazael?
+ai: Pianse, sapendo il male che avrebbe fatto a Israele | Rise | Lo benedisse | Lo mandò via
+ar: A plâns, știind răul pe care avea să-l facă lui Israel | A râs | L-a binecuvântat | L-a izgonit
+
+= iehu | 🐎 | La corsa di Jehu | Goana lui Iehu | 12 9:1
+@ ramoth | 12 9:6
+it: A Ramoth di Galaad un giovane profeta unse Jehu re d'Israele, in una stanza appartata.
+ro: La Ramot din Galaad, un proroc tânăr l-a uns pe Iehu împărat peste Israel, într-o odaie deosebită.
+@ izreel | 12 9:20
+it: La sentinella di Jezreel riconobbe Jehu da lontano dal modo di guidare il carro.
+ro: Straja din Izreel l-a recunoscut pe Iehu de departe după felul în care mâna carul.
+? domanda | 12 9:20
+qi: Come guidava il carro Jehu, secondo la sentinella?
+qr: Cum mâna carul Iehu, după cuvântul străjii?
+ai: All'impazzata | Molto lentamente | Senza cavalli | Con un servo davanti
+ar: Ca un nebun | Foarte încet | Fără cai | Cu un slujitor înainte
+@ izreel | 12 9:33 | la finestra del palazzo | fereastra palatului
+it: Jezebel si affacciò alla finestra truccata e ornata; Jehu ordinò di gettarla giù.
+ro: Izabela s-a uitat pe fereastră, sulemenită și împodobită; Iehu a poruncit s-o arunce jos.
+? personaggio | 12 9:30
+qi: Chi fu gettata giù dalla finestra a Jezreel?
+qr: Cine a fost aruncată pe fereastră la Izreel?
+ai: Jezebel | Atalia | Mikal | La Shunamita
+ar: Izabela | Atalia | Mical | Shunamita
+@ samaria | 12 10:28
+it: A Samaria Jehu distrusse il culto di Baal da Israele.
+ro: La Samaria, Iehu a nimicit închinarea la Baal din Israel.
+? ordina | 12 10:28
+qi: Metti in ordine la corsa di Jehu.
+qr: Pune în ordine goana lui Iehu.
+ai: Jehu unto a Ramoth | La corsa verso Jezreel | Jezebel gettata dalla finestra | Il culto di Baal distrutto a Samaria
+ar: Iehu uns la Ramot | Goana spre Izreel | Izabela aruncată pe fereastră | Închinarea la Baal nimicită la Samaria

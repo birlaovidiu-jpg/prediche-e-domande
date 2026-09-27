@@ -1,0 +1,571 @@
+# Viaggi di Esodo, Numeri e Giosuè (oltre a «L'esodo dall'Egitto» e «Israele nel deserto», in viaggi.json)
+
+= mose_madian | 🔥 | Mosè fugge a Madian | Moise fuge în Madian | 2 2:15
+@ egitto | 2 2:11
+it: Mosè, ormai adulto, vide un Egiziano che percuoteva un Ebreo, uno dei suoi fratelli.
+ro: Moise, ajuns mare, a văzut un egiptean care bătea pe un evreu, unul din frații lui.
+@ madian | 2 2:17
+it: Fuggito dal Faraone, Mosè si fermò presso un pozzo e difese le figlie del sacerdote di Madian dai pastori.
+ro: Fugind de Faraon, Moise s-a oprit lângă o fântână și le-a apărat pe fetele preotului din Madian de păstori.
+? personaggio | 2 2:21
+qi: Quale figlia del sacerdote di Madian divenne la moglie di Mosè?
+qr: Care dintre fetele preotului din Madian a ajuns nevasta lui Moise?
+ai: Sefora | Miriam | Rebecca | Rachele
+ar: Sefora | Maria | Rebeca | Rahela
+@ oreb | 2 3:2
+it: Pascolando il gregge di Jethro, Mosè giunse all'Horeb e vide un pruno che ardeva senza consumarsi.
+ro: Pe când păștea turma lui Ietro, Moise a ajuns la Horeb și a văzut un rug care ardea și nu se mistuia.
+? domanda | 2 3:5
+qi: Che cosa disse Dio a Mosè dal pruno ardente?
+qr: Ce i-a spus Dumnezeu lui Moise din rugul aprins?
+ai: «Togliti i sandali, perché il luogo è santo» | «Torna subito da Jethro» | «Costruisci un altare di pietre» | «Sali in cima al monte»
+ar: „Scoate-ți încălțămintea, căci locul este sfânt” | „Întoarce-te îndată la Ietro” | „Zidește un altar de pietre” | „Suie-te în vârful muntelui”
+@ gosen | 4 1:1 | di nuovo in Egitto | din nou în Egipt
+it: Mosè tornò in Egitto con la verga di Dio in mano; Aaronne gli era venuto incontro al monte di Dio.
+ro: Moise s-a întors în Egipt cu toiagul lui Dumnezeu în mână; Aaron îi ieșise înainte la muntele lui Dumnezeu.
+? personaggio | 2 4:27
+qi: Chi mandò Dio incontro a Mosè al monte di Dio?
+qr: Pe cine a trimis Dumnezeu în întâmpinarea lui Moise la muntele lui Dumnezeu?
+ai: Aaronne, suo fratello | Giosuè | Jethro | Caleb
+ar: Pe Aaron, fratele lui | Pe Iosua | Pe Ietro | Pe Caleb
+
+= faraone_piaghe | 🐸 | Mosè e Aaronne davanti al Faraone | Moise și Aaron înaintea lui Faraon | 2 5:1
+@ gosen | 2 4:31
+it: Mosè e Aaronne radunarono gli anziani d'Israele; il popolo credette e adorò.
+ro: Moise și Aaron i-au strâns pe bătrânii lui Israel; poporul a crezut și s-a închinat.
+@ tanis | 2 5:2
+it: Il Faraone rispose: «Chi è l'Eterno, perché io debba ubbidire alla sua voce?» e rese più dura la schiavitù.
+ro: Faraon a răspuns: „Cine este Domnul, ca să ascult de glasul Lui?” și a îngreuiat și mai mult robia.
+? domanda | 2 5:7
+qi: Che cosa smise di dare il Faraone agli Israeliti per fare i mattoni?
+qr: Ce nu le-a mai dat Faraon israeliților pentru cărămizi?
+ai: La paglia | L'acqua | L'argilla | Il pane
+ar: Paie | Apă | Lut | Pâine
+@ tanis | 2 7:20 | il Nilo | Nilul
+it: Aaronne stese la verga sulle acque del Nilo davanti al Faraone.
+ro: Aaron și-a întins toiagul peste apele râului, înaintea lui Faraon.
+? evento | 2 7:20
+qi: Quale fu la prima piaga d'Egitto?
+qr: Care a fost prima urgie a Egiptului?
+ai: L'acqua del fiume cambiata in sangue | Le rane | Le cavallette | Le tenebre
+ar: Apa râului prefăcută în sânge | Broaștele | Lăcustele | Întunericul
+@ ramses | 2 12:37
+it: Nella notte della Pasqua gli Israeliti partirono da Ramses verso Sukkoth.
+ro: În noaptea Paștelui, copiii lui Israel au plecat din Ramses spre Sucot.
+? domanda | 2 12:7
+qi: Dove dovevano mettere il sangue dell'agnello gli Israeliti nella notte di Pasqua?
+qr: Unde trebuiau să pună israeliții sângele mielului în noaptea Paștelui?
+ai: Sui due stipiti e sull'architrave della porta | Sul tetto della casa | Sul pane | Sui loro mantelli
+ar: Pe cei doi stâlpi și pe pragul de sus al ușii | Pe acoperișul casei | Pe pâine | Pe mantalele lor
+
+= ietro_sinai | ⛰️ | Jethro visita Mosè | Ietro îl vizitează pe Moise | 2 18:5
+@ madian | 2 18:1
+it: Jethro, sacerdote di Madian, udì tutto quello che Dio aveva fatto per Mosè e per Israele.
+ro: Ietro, preotul Madianului, a auzit tot ce făcuse Dumnezeu pentru Moise și pentru Israel.
+@ sinai | 2 18:5
+it: Jethro venne con Sefora e i due figli di Mosè nel deserto, dove Israele era accampato presso il monte di Dio.
+ro: Ietro a venit cu Sefora și cu cei doi fii ai lui Moise în pustie, unde era tăbărât Israel, la muntele lui Dumnezeu.
+? domanda | 2 18:21
+qi: Quale consiglio diede Jethro a Mosè?
+qr: Ce sfat i-a dat Ietro lui Moise?
+ai: Di scegliere uomini capaci come giudici del popolo | Di tornare in Egitto | Di costruire una città | Di mandare le spie
+ar: Să aleagă oameni destoinici ca judecători ai poporului | Să se întoarcă în Egipt | Să zidească o cetate | Să trimită iscoade
+@ madian | 2 18:27 | il ritorno di Jethro | întoarcerea lui Ietro
+it: Poi Mosè lasciò partire suo suocero, che se ne tornò al suo paese.
+ro: Apoi Moise și-a lăsat socrul să plece, iar el s-a întors în țara lui.
+? personaggio | 2 18:12
+qi: Chi mangiò con Jethro davanti a Dio, insieme a tutti gli anziani d'Israele?
+qr: Cine a mâncat cu Ietro înaintea lui Dumnezeu, împreună cu toți bătrânii lui Israel?
+ai: Aaronne | Giosuè | Caleb | Core
+ar: Aaron | Iosua | Caleb | Core
+
+= sinai_kadesh | ☁️ | Dal Sinai a Kadesh | De la Sinai la Cades | 4 10:12
+@ sinai | 4 10:11
+it: Nel secondo anno la nuvola si alzò dal tabernacolo e Israele partì dal deserto del Sinai.
+ro: În anul al doilea, norul s-a ridicat de pe cortul mărturiei și Israel a plecat din pustia Sinai.
+@ tabera | 4 11:3
+it: Il popolo si lamentò e il fuoco dell'Eterno divampò ai margini del campo; Mosè pregò e il fuoco si spense.
+ro: Poporul a cârtit, și focul Domnului a ars marginea taberei; Moise s-a rugat și focul s-a stins.
+? puzzle | 4 11:3
+qi: Ricomponi il nome del luogo: «incendio», perché lì arse il fuoco dell'Eterno.
+qr: Refă numele locului: „ardere”, pentru că acolo a ars focul Domnului.
+ai: TABERAH
+ar: TABEERA
+@ kibroth | 4 11:34
+it: Il popolo desiderava la carne; l'Eterno mandò le quaglie, e molti di quelli ingordi morirono.
+ro: Poporul poftea carne; Domnul a trimis prepelițe, și mulți dintre cei lacomi au murit.
+? evento | 4 11:31
+qi: Che cosa portò il vento mandato dall'Eterno intorno all'accampamento?
+qr: Ce a adus vântul trimis de Domnul în jurul taberei?
+ai: Delle quaglie | Della manna | Delle cavallette | Della pioggia
+ar: Prepelițe | Mană | Lăcuste | Ploaie
+@ hazeroth | 4 12:15
+it: A Hatseroth Miriam e Aaronne parlarono contro Mosè; Miriam fu colpita dalla lebbra.
+ro: La Hațerot, Maria și Aaron au vorbit împotriva lui Moise; Maria a fost lovită de lepră.
+? domanda | 4 12:15
+qi: Per quanti giorni Miriam restò fuori dall'accampamento?
+qr: Câte zile a stat Maria afară din tabără?
+ai: 7 | 3 | 40 | 14
+ar: 7 | 3 | 40 | 14
+@ paran | 4 12:16
+it: Poi il popolo partì da Hatseroth e si accampò nel deserto di Paran.
+ro: Apoi poporul a plecat din Hațerot și a tăbărât în pustia Paran.
+? ordina | 4 12:16
+qi: Metti in ordine le tappe dopo il Sinai.
+qr: Pune în ordine popasurile de după Sinai.
+ai: Il deserto del Sinai | Taberah | Kibroth-Hattaavah | Hatseroth | Il deserto di Paran
+ar: Pustia Sinai | Tabeera | Chibrot-Hataava | Hațerot | Pustia Paran
+
+= dodici_spie | 🍇 | Le dodici spie | Cele douăsprezece iscoade | 4 13:17
+@ paran | 4 13:3
+it: Dal deserto di Paran Mosè mandò dodici uomini, uno per tribù, a esplorare il paese di Canaan.
+ro: Din pustia Paran, Moise a trimis doisprezece oameni, câte unul din fiecare seminție, să iscodească țara Canaan.
+@ negev | 4 13:22
+it: Le spie salirono attraverso il Neghev.
+ro: Iscoadele s-au suit prin partea de miazăzi.
+? personaggio | 4 13:16
+qi: A quale spia Mosè cambiò il nome da Osea in Giosuè?
+qr: Cărei iscoade i-a schimbat Moise numele din Osea în Iosua?
+ai: Al figlio di Nun | Al figlio di Jefunneh | Al figlio di Aaronne | Al figlio di Hur
+ar: Fiului lui Nun | Fiului lui Iefune | Fiului lui Aaron | Fiului lui Hur
+@ ebron | 4 13:22
+it: A Hebron videro i discendenti di Anak, uomini di grande statura.
+ro: La Hebron i-au văzut pe urmașii lui Anac, oameni de statură înaltă.
+? personaggio | 4 13:22
+qi: Chi erano gli uomini di grande statura che le spie videro a Hebron?
+qr: Cine erau oamenii de statură înaltă pe care i-au văzut iscoadele la Hebron?
+ai: I discendenti di Anak | I Filistei | Gli Egiziani | Gli Amalekiti
+ar: Urmașii lui Anac | Filistenii | Egiptenii | Amaleciții
+@ ebron | 4 13:23 | la valle di Eshkol | valea Eșcol
+it: Nella valle di Eshkol tagliarono un tralcio con un grappolo d'uva così grande che lo portarono in due.
+ro: În valea Eșcol au tăiat o ramură de viță cu un strugure atât de mare încât l-au dus câte doi.
+? evento | 4 13:23
+qi: Come portarono le spie il grappolo d'uva?
+qr: Cum au dus iscoadele strugurele?
+ai: In due, appeso a una stanga | Sopra un asino | In un grande cesto | Nascosto nel mantello
+ar: Câte doi, cu ajutorul unei prăjini | Pe un măgar | Într-un coș mare | Ascuns în manta
+@ kadesh | 4 13:26
+it: Dopo quaranta giorni tornarono a Kadesh; dieci spie scoraggiarono il popolo, ma Giosuè e Caleb no.
+ro: După patruzeci de zile s-au întors la Cades; zece iscoade au descurajat poporul, dar Iosua și Caleb nu.
+? domanda | 4 13:25
+qi: Per quanti giorni esplorarono il paese le spie?
+qr: Câte zile au iscodit țara iscoadele?
+ai: 40 | 7 | 12 | 70
+ar: 40 | 7 | 12 | 70
+
+= serpente_bronzo | 🐍 | Il serpente di bronzo | Șarpele de aramă | 4 21:4
+@ hor | 4 21:4
+it: Dal monte Hor Israele partì per la via del Mar Rosso, per fare il giro del paese di Edom.
+ro: De la muntele Hor, Israel a plecat pe drumul spre Marea Roșie, ca să ocolească țara Edomului.
+@ punon | 4 33:42
+it: Il popolo si spazientì e parlò contro Dio; l'Eterno mandò serpenti velenosi fra il popolo.
+ro: Poporul și-a pierdut răbdarea și a vorbit împotriva lui Dumnezeu; Domnul a trimis șerpi înfocați în popor.
+? evento | 4 21:9
+qi: Che cosa doveva fare chi era morso da un serpente per restare in vita?
+qr: Ce trebuia să facă cel mușcat de șarpe ca să rămână în viață?
+ai: Guardare il serpente di bronzo sull'asta | Lavarsi nel Giordano | Offrire un agnello | Bere un'acqua amara
+ar: Să privească spre șarpele de aramă din prăjină | Să se spele în Iordan | Să aducă un miel | Să bea o apă amară
+@ oboth | 4 21:10
+it: I figli d'Israele partirono e si accamparono a Oboth.
+ro: Copiii lui Israel au plecat și au tăbărât la Obot.
+? domanda | 4 21:5
+qi: Di che cosa si lamentava il popolo prima dei serpenti?
+qr: De ce se plângea poporul înainte de șerpi?
+ai: Che non c'era pane né acqua e disprezzava la manna | Che il viaggio era troppo corto | Che non aveva un re | Che il tabernacolo era troppo lontano
+ar: Că nu era nici pâine, nici apă, și se scârbise de mană | Că drumul era prea scurt | Că nu avea împărat | Că cortul era prea departe
+@ beer | 4 21:16
+it: A Beer l'Eterno diede acqua al popolo, e Israele cantò: «Sgorga, o pozzo!».
+ro: La Beer, Domnul a dat apă poporului, iar Israel a cântat: „Țâșnește, fântână!”
+? puzzle | 4 21:16
+qi: Ricomponi il nome del luogo che significa «pozzo».
+qr: Refă numele locului care înseamnă „fântână”.
+ai: BEER
+ar: BEER
+
+= sihon_og | 🛡️ | La vittoria su Sihon e Og | Biruința asupra lui Sihon și Og | 4 21:23
+@ arnon | 4 21:13
+it: Israele si accampò oltre l'Arnon, al confine fra Moab e gli Amorei.
+ro: Israel a tăbărât dincolo de Arnon, la hotarul dintre Moab și amoriți.
+@ jahaz | 4 21:23
+it: Sihon, re degli Amorei, non lasciò passare Israele e gli uscì contro a Jahats.
+ro: Sihon, împăratul amoriților, nu l-a lăsat pe Israel să treacă și i-a ieșit înainte la Iahța.
+? domanda | 4 21:22
+qi: Che cosa aveva promesso Israele a Sihon, se lo lasciava passare?
+qr: Ce îi făgăduise Israel lui Sihon, dacă îl lăsa să treacă?
+ai: Di non entrare nei campi né nelle vigne e non bere l'acqua dei pozzi | Di pagargli un tributo d'oro | Di dargli metà del bestiame | Di servirlo per sette anni
+ar: Că nu va intra în ogoare, nici în vii, și nu va bea apa fântânilor | Că îi va plăti bir în aur | Că îi va da jumătate din vite | Că îi va sluji șapte ani
+@ chesbon | 4 21:25
+it: Israele prese tutte le città degli Amorei e abitò a Heshbon, la città di Sihon.
+ro: Israel a luat toate cetățile amoriților și s-a așezat în Hesbon, cetatea lui Sihon.
+? luogo | 4 21:26
+qi: Quale era la città di Sihon, re degli Amorei?
+qr: Care era cetatea lui Sihon, împăratul amoriților?
+ai: Heshbon | Edrei | Gerico | Dibon
+ar: Hesbon | Edrei | Ierihon | Dibon
+@ edrei | 4 21:33
+it: Og, re di Basan, uscì a combattere a Edrei; l'Eterno disse a Mosè: «Non temerlo».
+ro: Og, împăratul Basanului, a ieșit la luptă la Edrei; Domnul i-a zis lui Moise: „Nu te teme de el”.
+? personaggio | 4 21:33
+qi: Quale re fu sconfitto da Israele a Edrei?
+qr: Care împărat a fost bătut de Israel la Edrei?
+ai: Og, re di Basan | Balak, re di Moab | Sihon, re degli Amorei | Agag, re di Amalek
+ar: Og, împăratul Basanului | Balac, împăratul Moabului | Sihon, împăratul amoriților | Agag, împăratul lui Amalec
+@ moab | 4 22:1
+it: Poi Israele si accampò nelle pianure di Moab, oltre il Giordano di fronte a Gerico.
+ro: Apoi Israel a tăbărât în câmpiile Moabului, dincolo de Iordan, în fața Ierihonului.
+? ordina | 4 22:1
+qi: Metti in ordine il cammino d'Israele.
+qr: Pune în ordine drumul lui Israel.
+ai: L'Arnon | Jahats e la vittoria su Sihon | Heshbon | Edrei e la vittoria su Og | Le pianure di Moab
+ar: Arnonul | Iahța și biruința asupra lui Sihon | Hesbon | Edrei și biruința asupra lui Og | Câmpiile Moabului
+
+= balaam | 🫏 | Balaam e l'asina | Balaam și măgărița | 4 22:5
+@ pethor | 4 22:5
+it: Balak, re di Moab, mandò a chiamare Balaam, a Pethor vicino al Fiume, perché maledisse Israele.
+ro: Balac, împăratul Moabului, a trimis să-l cheme pe Balaam, la Petor, lângă râu, ca să blesteme pe Israel.
+@ arnon | 4 22:36 | la strada verso Moab | drumul spre Moab
+it: Lungo la strada l'asina vide l'Angelo dell'Eterno con la spada sguainata e si fermò tre volte.
+ro: Pe drum, măgărița a văzut pe Îngerul Domnului cu sabia scoasă și s-a oprit de trei ori.
+? evento | 4 22:28
+qi: Che cosa accadde quando Balaam percosse l'asina per la terza volta?
+qr: Ce s-a întâmplat când Balaam a bătut măgărița a treia oară?
+ai: L'Eterno aprì la bocca dell'asina, che gli parlò | L'asina fuggì nel deserto | Balaam cadde nel fiume | Un leone uscì dalla vigna
+ar: Domnul a deschis gura măgăriței, care i-a vorbit | Măgărița a fugit în pustie | Balaam a căzut în râu | Un leu a ieșit din vie
+@ bamoth | 4 22:41
+it: Balak portò Balaam sulle alture di Baal, da dove si vedeva una parte del popolo.
+ro: Balac l-a dus pe Balaam pe înălțimile lui Baal, de unde se vedea o parte din popor.
+? domanda | 4 23:8
+qi: Che cosa disse Balaam invece di maledire Israele?
+qr: Ce a spus Balaam în loc să blesteme pe Israel?
+ai: «Come potrei maledire chi Dio non ha maledetto?» | «Domani lo maledirò» | «Datemi più oro» | «Israele è troppo debole»
+ar: „Cum să blestem pe cel ce nu-l blestemă Dumnezeu?” | „Mâine îl voi blestema” | „Dați-mi mai mult aur” | „Israel este prea slab”
+@ nebo | 4 23:14 | la cima del Pisgah | vârful Pisga
+it: Dalla cima del Pisgah Balaam benedisse di nuovo Israele.
+ro: De pe vârful Pisga, Balaam a binecuvântat din nou pe Israel.
+? domanda | 4 23:14
+qi: Che cosa costruì Balak sulla cima del Pisgah?
+qr: Ce a zidit Balac pe vârful Pisga?
+ai: Sette altari | Una torre di guardia | Un tempio a Baal | Una tenda per Balaam
+ar: Șapte altare | Un turn de pază | Un templu lui Baal | Un cort pentru Balaam
+@ peor | 4 23:28
+it: Anche dalla cima del Peor, vedendo Israele accampato per tribù, Balaam lo benedisse.
+ro: Și de pe vârful Peor, văzându-l pe Israel tăbărât pe seminții, Balaam l-a binecuvântat.
+? personaggio | 4 22:4
+qi: Chi era il re di Moab che chiamò Balaam?
+qr: Cine era împăratul Moabului care l-a chemat pe Balaam?
+ai: Balak | Sihon | Og | Eglon
+ar: Balac | Sihon | Og | Eglon
+
+= rahab | 🧵 | Le spie a Gerico | Iscoadele la Ierihon | 6 2:1
+@ sittim | 6 2:1
+it: Giosuè mandò segretamente da Scittim due uomini a esplorare il paese e Gerico.
+ro: Iosua a trimis în ascuns din Sitim doi oameni, ca iscoade, să cerceteze țara și Ierihonul.
+@ gerico | 6 2:6
+it: Le spie entrarono nella casa di una donna di nome Rahab, che le nascose sulla terrazza.
+ro: Iscoadele au intrat în casa unei femei numite Rahav, care le-a ascuns pe acoperiș.
+? domanda | 6 2:6
+qi: Sotto che cosa Rahab nascose le spie sulla terrazza?
+qr: Sub ce le-a ascuns Rahav pe iscoade pe acoperiș?
+ai: Sotto gli steli di lino | Sotto dei sacchi di grano | Sotto delle pelli | Sotto dei rami di palma
+ar: Sub mănunchiuri de in | Sub saci de grâu | Sub niște piei | Sub ramuri de finic
+@ gerico | 6 2:18 | la finestra sulle mura | fereastra de pe zid
+it: Rahab le fece scendere con una fune dalla finestra, perché la sua casa era sulle mura.
+ro: Rahav le-a coborât cu o funie pe fereastră, căci casa ei era pe zidul cetății.
+? evento | 6 2:18
+qi: Quale segno doveva mettere Rahab alla finestra per essere salvata?
+qr: Ce semn trebuia să pună Rahav la fereastră ca să fie scăpată?
+ai: Una cordicella di filo scarlatto | Un ramo d'ulivo | Una lampada accesa | Un panno bianco
+ar: O funie de fir cârmâziu | O ramură de măslin | O candelă aprinsă | O pânză albă
+@ montigerico | 6 2:22
+it: Le spie si nascosero sui monti per tre giorni, finché gli inseguitori tornarono indietro.
+ro: Iscoadele s-au ascuns în munte trei zile, până s-au întors cei ce le urmăreau.
+? domanda | 6 2:22
+qi: Per quanti giorni le spie restarono nascoste sui monti?
+qr: Câte zile au stat iscoadele ascunse în munte?
+ai: 3 | 7 | 1 | 40
+ar: 3 | 7 | 1 | 40
+@ sittim | 6 2:24 | ritorno a Scittim | întoarcerea la Sitim
+it: Tornate da Giosuè, le spie dissero: «L'Eterno ci ha dato nelle mani tutto il paese».
+ro: Întoarse la Iosua, iscoadele au zis: „Domnul ne-a dat toată țara în mâini”.
+? ordina | 6 2:24
+qi: Metti in ordine la missione delle spie.
+qr: Pune în ordine misiunea iscoadelor.
+ai: Partono da Scittim | Si nascondono sulla terrazza di Rahab | Scendono con una fune dalla finestra | Restano tre giorni sui monti | Tornano da Giosuè
+ar: Pleacă din Sitim | Se ascund pe acoperișul Rahavei | Coboară cu o funie pe fereastră | Stau trei zile în munte | Se întorc la Iosua
+
+= giordano_gerico | 🎺 | Attraverso il Giordano fino a Gerico | Peste Iordan până la Ierihon | 6 3:1
+@ sittim | 6 3:1
+it: Giosuè e tutto Israele partirono da Scittim e arrivarono al Giordano.
+ro: Iosua și tot Israelul au plecat din Sitim și au ajuns la Iordan.
+@ giordano | 6 3:15
+it: Appena i piedi dei sacerdoti che portavano l'arca toccarono l'acqua, il Giordano si fermò.
+ro: Cum au atins apa picioarele preoților care duceau chivotul, apele Iordanului s-au oprit.
+? luogo | 6 3:16
+qi: Presso quale città le acque del Giordano si fermarono in un mucchio?
+qr: Lângă ce cetate s-au oprit grămadă apele Iordanului?
+ai: Adam | Gerico | Ai | Ghilgal
+ar: Adam | Ierihon | Ai | Ghilgal
+@ ghilgal | 6 4:20
+it: A Ghilgal Giosuè eresse le pietre prese dal letto del Giordano, a ricordo per i figli.
+ro: La Ghilgal, Iosua a ridicat pietrele luate din albia Iordanului, ca aducere aminte pentru copii.
+? domanda | 6 4:20
+qi: Quante pietre del Giordano Giosuè eresse a Ghilgal?
+qr: Câte pietre din Iordan a ridicat Iosua la Ghilgal?
+ai: 12 | 7 | 10 | 40
+ar: 12 | 7 | 10 | 40
+@ gerico | 6 6:20
+it: Il settimo giorno Israele girò sette volte intorno a Gerico; al suono delle trombe le mura crollarono.
+ro: În ziua a șaptea, Israel a înconjurat de șapte ori Ierihonul; la sunetul trâmbițelor, zidurile s-au prăbușit.
+? domanda | 6 6:15
+qi: Quante volte girarono intorno a Gerico il settimo giorno?
+qr: De câte ori au înconjurat Ierihonul în ziua a șaptea?
+ai: 7 | 1 | 3 | 12
+ar: 7 | 1 | 3 | 12
+
+= ai_ebal | 🪨 | Da Ai al monte Ebal | De la Ai la muntele Ebal | 6 7:2
+@ gerico | 6 7:2
+it: Da Gerico Giosuè mandò degli uomini verso Ai, vicino a Beth-Aven, a est di Bethel.
+ro: Din Ierihon, Iosua a trimis niște oameni spre Ai, lângă Bet-Aven, la răsărit de Betel.
+@ ai | 6 7:5
+it: I tremila uomini mandati contro Ai fuggirono davanti ai suoi abitanti: in Israele c'era un peccato.
+ro: Cei trei mii de oameni trimiși împotriva cetății Ai au fugit dinaintea locuitorilor ei: în Israel era un păcat.
+? personaggio | 6 7:1
+qi: Chi aveva preso di nascosto le cose votate allo sterminio a Gerico?
+qr: Cine luase pe ascuns din lucrurile date spre nimicire la Ierihon?
+ai: Akan | Caleb | Finehas | Rahab
+ar: Acan | Caleb | Fineas | Rahav
+@ acor | 6 7:26
+it: Akan e le sue cose furono portati nella valle di Akor, che significa «disgrazia».
+ro: Acan și lucrurile lui au fost duse în valea Acor, adică „valea nenorocirii”.
+? evento | 6 7:26
+qi: Che cosa fu innalzato sopra Akan nella valle di Akor?
+qr: Ce s-a ridicat peste Acan în valea Acor?
+ai: Un gran mucchio di pietre | Un altare | Una colonna di bronzo | Una torre
+ar: Un morman mare de pietre | Un altar | Un stâlp de aramă | Un turn
+@ ai | 6 8:19 | Ai, la seconda volta | Ai, a doua oară
+it: Con un'imboscata dietro la città, Israele prese Ai.
+ro: Cu o pândă așezată în spatele cetății, Israel a luat cetatea Ai.
+? evento | 6 8:18
+qi: Quale segnale diede Giosuè agli uomini in agguato dietro Ai?
+qr: Ce semn le-a dat Iosua celor ce stăteau la pândă în spatele cetății Ai?
+ai: Stese verso la città il giavellotto che aveva in mano | Suonò il corno | Accese un fuoco | Alzò un velo rosso
+ar: A întins spre cetate sulița din mână | A sunat din corn | A aprins un foc | A ridicat un văl roșu
+@ ebal | 6 8:30
+it: Sul monte Ebal Giosuè costruì un altare e lesse tutte le parole della legge davanti al popolo.
+ro: Pe muntele Ebal, Iosua a zidit un altar și a citit toate cuvintele legii înaintea poporului.
+? domanda | 6 8:32
+qi: Che cosa scrisse Giosuè sulle pietre, sul monte Ebal?
+qr: Ce a scris Iosua pe pietre, pe muntele Ebal?
+ai: Una copia della legge di Mosè | I nomi delle tribù | La storia di Gerico | I nomi dei re vinti
+ar: O copie a legii lui Moise | Numele semințiilor | Istoria Ierihonului | Numele împăraților biruiți
+
+= gabaon_inganno | 🥖 | L'inganno dei Gabaoniti | Viclenia gabaoniților | 6 9:3
+@ gabaon | 6 9:4
+it: Gli abitanti di Gabaon, saputo di Gerico e di Ai, agirono con astuzia.
+ro: Locuitorii Gabaonului, aflând de Ierihon și de Ai, au lucrat cu viclenie.
+@ ghilgal | 6 9:6
+it: Vennero all'accampamento di Ghilgal con sacchi logori, otri rotti e pane secco, fingendo di venire da lontano.
+ro: Au venit în tabăra de la Ghilgal cu saci vechi, burdufuri rupte și pâine uscată, prefăcându-se că vin de departe.
+? domanda | 6 9:14
+qi: Qual è stato l'errore di Israele con i Gabaoniti?
+qr: Care a fost greșeala lui Israel cu gabaoniții?
+ai: Non consultarono l'Eterno | Non contarono i loro uomini | Non assaggiarono il vino | Non guardarono le loro armi
+ar: N-au întrebat pe Domnul | Nu le-au numărat oamenii | N-au gustat vinul | Nu le-au cercetat armele
+@ gabaon | 6 9:17 | le città dei Gabaoniti | cetățile gabaoniților
+it: Dopo tre giorni Israele scoprì che erano vicini; ma per il giuramento non li colpì.
+ro: După trei zile, Israel a aflat că erau vecini; dar din pricina jurământului nu i-a lovit.
+? evento | 6 9:27
+qi: Che cosa divennero i Gabaoniti per Israele?
+qr: Ce au ajuns gabaoniții pentru Israel?
+ai: Tagliatori di legna e portatori d'acqua | Soldati del re | Sacerdoti del tabernacolo | Pastori delle greggi
+ar: Tăietori de lemne și cărători de apă | Ostași ai împăratului | Preoți ai cortului | Păstori ai turmelor
+
+= campagna_sud | ☀️ | Il giorno in cui il sole si fermò | Ziua în care s-a oprit soarele | 6 10:9
+@ ghilgal | 6 10:7
+it: Gabaon fu assalita da cinque re amorei; Giosuè salì da Ghilgal di notte per soccorrerla.
+ro: Gabaonul a fost atacat de cinci împărați amoriți; Iosua s-a suit noaptea de la Ghilgal ca să-l ajute.
+@ gabaon | 6 10:12
+it: Giosuè disse davanti a Israele: «Sole, fermati su Gabaon, e tu luna sulla valle di Ajalon».
+ro: Iosua a zis în fața lui Israel: „Soare, oprește-te asupra Gabaonului, și tu, lună, asupra văii Aialon!”
+? evento | 6 10:13
+qi: Che cosa accadde al sole e alla luna quel giorno?
+qr: Ce s-a întâmplat cu soarele și cu luna în ziua aceea?
+ai: Si fermarono finché il popolo vinse i nemici | Si oscurarono | Tramontarono prima del tempo | Apparvero insieme a mezzogiorno
+ar: S-au oprit până și-a răzbunat poporul pe vrăjmași | S-au întunecat | Au apus mai devreme | S-au arătat împreună la amiază
+@ bethoron | 6 10:11
+it: Mentre i nemici fuggivano per la discesa di Beth-Horon, l'Eterno fece cadere su di loro grandi pietre.
+ro: Pe când fugeau vrăjmașii la coborâșul Bet-Horonului, Domnul a aruncat din cer pietre mari peste ei.
+? domanda | 6 10:11
+qi: Che cosa fece cadere l'Eterno sui nemici in fuga?
+qr: Ce a făcut Domnul să cadă peste vrăjmașii care fugeau?
+ai: Grandi pietre di grandine | Fuoco dal cielo | Un vento di sabbia | Neve
+ar: Pietre mari de grindină | Foc din cer | Un vânt de nisip | Zăpadă
+@ makkeda | 6 10:16
+it: I cinque re si nascosero in una caverna a Makkedah; Giosuè fece rotolare grandi pietre all'ingresso.
+ro: Cei cinci împărați s-au ascuns într-o peșteră la Macheda; Iosua a pus să se prăvălească pietre mari la gura ei.
+? personaggio | 6 10:1
+qi: Chi era il re di Gerusalemme che guidò i cinque re?
+qr: Cine era împăratul Ierusalimului, care i-a condus pe cei cinci împărați?
+ai: Adoni-Tsedek | Melchisedek | Jabin | Sihon
+ar: Adoni-Țedec | Melhisedec | Iabin | Sihon
+@ lakish | 6 10:32
+it: Giosuè prese poi Lakish, Hebron e Debir, e tornò all'accampamento di Ghilgal.
+ro: Iosua a luat apoi Lachisul, Hebronul și Debirul, și s-a întors în tabăra de la Ghilgal.
+? ordina | 6 10:43
+qi: Metti in ordine la campagna del sud.
+qr: Pune în ordine lupta din miazăzi.
+ai: Marcia notturna da Ghilgal | Il sole si ferma su Gabaon | La grandine a Beth-Horon | I cinque re nella caverna di Makkedah | La presa di Lakish
+ar: Marșul de noapte de la Ghilgal | Soarele se oprește asupra Gabaonului | Grindina de la Bet-Horon | Cei cinci împărați în peștera de la Macheda | Luarea Lachisului
+
+= campagna_nord | 🐎 | La battaglia delle acque di Merom | Lupta de la apele Merom | 6 11:5
+@ ghilgal | 6 11:6
+it: Molti re del nord si radunarono contro Israele; l'Eterno disse a Giosuè: «Non temerli».
+ro: Mulți împărați din miazănoapte s-au strâns împotriva lui Israel; Domnul i-a zis lui Iosua: „Nu te teme de ei”.
+@ merom | 6 11:7
+it: Giosuè li assalì all'improvviso presso le acque di Merom.
+ro: Iosua a năvălit fără veste asupra lor, lângă apele Merom.
+? evento | 6 11:9
+qi: Che cosa fece Giosuè ai cavalli e ai carri dei nemici?
+qr: Ce le-a făcut Iosua cailor și carelor vrăjmașilor?
+ai: Tagliò i garetti ai cavalli e bruciò i carri | Li tenne per il suo esercito | Li mandò in Egitto | Li offrì in sacrificio
+ar: A tăiat vinele cailor și a ars carele | Le-a păstrat pentru oastea lui | Le-a trimis în Egipt | Le-a adus ca jertfă
+@ sidone | 6 11:8
+it: Israele inseguì i nemici fino alla grande Sidone.
+ro: Israel i-a urmărit pe vrăjmași până la Sidonul cel mare.
+? luogo | 6 11:8
+qi: Fino a quale grande città Israele inseguì i re del nord?
+qr: Până la ce cetate mare i-a urmărit Israel pe împărații din miazănoapte?
+ai: Sidone | Damasco | Gaza | Babilonia
+ar: Sidon | Damasc | Gaza | Babilon
+@ hazor | 6 11:10
+it: Giosuè prese Hatsor, che era stata la capitale di tutti quei regni, e la diede alle fiamme.
+ro: Iosua a luat Hațorul, care fusese capitala tuturor acelor împărății, și i-a dat foc.
+? personaggio | 6 11:1
+qi: Chi era il re di Hatsor che radunò i re del nord?
+qr: Cine era împăratul Hațorului, care i-a strâns pe împărații din miazănoapte?
+ai: Jabin | Sihon | Og | Adoni-Tsedek
+ar: Iabin | Sihon | Og | Adoni-Țedec
+
+= caleb_ebron | ⛰️ | Caleb conquista Hebron | Caleb cucerește Hebronul | 6 14:6
+@ ghilgal | 6 14:10
+it: A Ghilgal Caleb disse a Giosuè: «Oggi ho ottantacinque anni e sono forte come quando Mosè mi mandò».
+ro: La Ghilgal, Caleb i-a zis lui Iosua: „Azi sunt în vârstă de optzeci și cinci de ani și sunt tot așa de tare ca atunci când m-a trimis Moise”.
+@ ebron | 6 15:14
+it: Caleb cacciò da Hebron i tre figli di Anak.
+ro: Caleb i-a izgonit din Hebron pe cei trei fii ai lui Anac.
+? domanda | 6 14:10
+qi: Quanti anni aveva Caleb quando chiese Hebron?
+qr: Câți ani avea Caleb când a cerut Hebronul?
+ai: 85 | 40 | 120 | 70
+ar: 85 | 40 | 120 | 70
+@ debir | 6 15:17
+it: Otniel prese Kirjath-Sefer, cioè Debir, e Caleb gli diede in moglie sua figlia.
+ro: Otniel a luat Chiriat-Sefer, adică Debirul, și Caleb i-a dat-o de nevastă pe fata lui.
+? personaggio | 6 15:16
+qi: Come si chiamava la figlia di Caleb, data in moglie a Otniel?
+qr: Cum se numea fata lui Caleb, dată de nevastă lui Otniel?
+ai: Aksah | Rahab | Debora | Miriam
+ar: Acsa | Rahav | Debora | Maria
+
+= citta_rifugio | 🏃 | Le città di rifugio | Cetățile de scăpare | 6 20:7
+@ silo | 6 18:1
+it: Tutta la comunità d'Israele si radunò a Sciloh e vi stabilì la tenda di convegno.
+ro: Toată adunarea lui Israel s-a strâns la Silo și a așezat acolo cortul întâlnirii.
+@ kedes | 6 20:7
+it: Kedesh, in Galilea, sui monti di Neftali, fu una delle città di rifugio.
+ro: Chedeș, în Galileea, în muntele lui Neftali, a fost una dintre cetățile de scăpare.
+? domanda | 6 20:3
+qi: Per chi erano le città di rifugio?
+qr: Pentru cine erau cetățile de scăpare?
+ai: Per chi aveva ucciso qualcuno senza volerlo | Per i re sconfitti | Per gli stranieri ricchi | Per i sacerdoti malati
+ar: Pentru cel ce omorâse pe cineva fără voie | Pentru împărații biruiți | Pentru străinii bogați | Pentru preoții bolnavi
+@ sichem | 6 20:7
+it: Sichem, sui monti di Efraim, fu un'altra città di rifugio.
+ro: Sihem, în muntele lui Efraim, a fost o altă cetate de scăpare.
+? luogo | 6 20:7
+qi: Su quali monti si trovava Sichem, città di rifugio?
+qr: În ce munte se afla Sihem, cetate de scăpare?
+ai: I monti di Efraim | I monti di Giuda | I monti di Neftali | I monti di Galaad
+ar: Muntele lui Efraim | Muntele lui Iuda | Muntele lui Neftali | Munții Galaadului
+@ ebron | 6 20:7
+it: Kirjath-Arba, cioè Hebron, sui monti di Giuda, completò le tre città a ovest del Giordano.
+ro: Chiriat-Arba, adică Hebron, în muntele lui Iuda, a fost a treia cetate de la apus de Iordan.
+? domanda | 6 20:6
+qi: Fino a quando chi era fuggito doveva restare nella città di rifugio?
+qr: Până când trebuia să rămână cel fugit în cetatea de scăpare?
+ai: Fino alla morte del sommo sacerdote in carica | Per sette anni | Per tutta la vita | Fino al giubileo
+ar: Până la moartea marelui preot de atunci | Șapte ani | Toată viața | Până la anul de veselie
+@ bezer | 6 20:8
+it: Oltre il Giordano furono scelte Betser nel deserto, Ramoth in Galaad e Golan in Basan.
+ro: Dincolo de Iordan au fost alese Bețer în pustie, Ramot în Galaad și Golan în Basan.
+? luogo | 6 20:8
+qi: Quale città di rifugio si trovava in Galaad?
+qr: Care cetate de scăpare se afla în Galaad?
+ai: Ramoth | Golan | Kedesh | Hebron
+ar: Ramot | Golan | Chedeș | Hebron
+@ golan | 6 20:8
+it: Golan in Basan era la più settentrionale delle città di rifugio oltre il Giordano.
+ro: Golan, în Basan, era cea mai de la miazănoapte dintre cetățile de scăpare de dincolo de Iordan.
+? domanda | 6 20:7
+qi: Quante erano in tutto le città di rifugio?
+qr: Câte cetăți de scăpare erau cu totul?
+ai: 6 | 3 | 12 | 48
+ar: 6 | 3 | 12 | 48
+
+= altare_giordano | 🪨 | L'altare presso il Giordano | Altarul de lângă Iordan | 6 22:10
+@ silo | 6 22:9
+it: Le tribù di Ruben, di Gad e mezza tribù di Manasse lasciarono Sciloh per tornare in Galaad.
+ro: Fiii lui Ruben, fiii lui Gad și jumătate din seminția lui Manase au plecat din Silo ca să se întoarcă în Galaad.
+@ geliloth | 6 22:10
+it: Presso il Giordano costruirono un altare grande, bello a vedersi.
+ro: Lângă Iordan, au zidit un altar mare, care se vedea de departe.
+? personaggio | 6 22:13
+qi: Chi fu mandato con dieci capi a chiedere spiegazioni dell'altare?
+qr: Cine a fost trimis cu zece căpetenii ca să ceară lămuriri despre altar?
+ai: Finehas, figlio del sacerdote Eleazar | Giosuè | Caleb | Samuele
+ar: Fineas, fiul preotului Eleazar | Iosua | Caleb | Samuel
+@ galaad | 6 22:27
+it: Le tribù spiegarono che l'altare era solo un testimone che anch'essi servivano l'Eterno.
+ro: Semințiile au lămurit că altarul era doar o mărturie că și ele slujesc Domnului.
+? domanda | 6 22:27
+qi: A che cosa doveva servire quell'altare?
+qr: La ce trebuia să slujească altarul acela?
+ai: Come testimone fra le tribù | Per offrire olocausti ogni giorno | Per un nuovo sacerdozio | Per adorare Baal
+ar: Ca mărturie între seminții | Ca să se aducă arderi de tot în fiecare zi | Pentru o nouă preoție | Ca să se închine lui Baal
+@ silo | 6 22:32 | ritorno a Sciloh | întoarcerea la Silo
+it: Finehas e i capi tornarono a Sciloh e la cosa piacque ai figli d'Israele.
+ro: Fineas și căpeteniile s-au întors la Silo, și lucrul acesta le-a plăcut copiilor lui Israel.
+? ordina | 6 22:32
+qi: Metti in ordine la storia dell'altare.
+qr: Pune în ordine istoria altarului.
+ai: Le tribù partono da Sciloh | Costruiscono l'altare presso il Giordano | Finehas va in Galaad | Finehas torna a Sciloh
+ar: Semințiile pleacă din Silo | Zidesc altarul lângă Iordan | Fineas merge în Galaad | Fineas se întoarce la Silo
+
+= patto_sichem | 📜 | Il patto di Sichem | Legământul de la Sihem | 6 24:1
+@ silo | 6 23:2
+it: Ormai vecchio, Giosuè convocò tutto Israele, gli anziani, i capi e i giudici.
+ro: Ajuns bătrân, Iosua a chemat tot Israelul, pe bătrâni, pe căpetenii și pe judecători.
+@ sichem | 6 24:15
+it: A Sichem Giosuè disse al popolo: «Scegliete oggi chi volete servire».
+ro: La Sihem, Iosua a zis poporului: „Alegeți astăzi cui vreți să slujiți”.
+? domanda | 6 24:15
+qi: Come concluse Giosuè il suo invito al popolo?
+qr: Cum și-a încheiat Iosua chemarea către popor?
+ai: «Quanto a me e alla mia casa, serviremo l'Eterno» | «Io tornerò in Egitto» | «Scelga per voi il sacerdote» | «Andate ognuno a casa sua»
+ar: „Cât despre mine, eu și casa mea vom sluji Domnului” | „Eu mă voi întoarce în Egipt” | „Să aleagă preotul pentru voi” | „Duceți-vă fiecare acasă”
+@ sichem | 6 24:26 | la grande quercia | stejarul cel mare
+it: Giosuè scrisse queste parole nel libro della legge e rizzò una grande pietra sotto la quercia.
+ro: Iosua a scris aceste cuvinte în cartea legii și a ridicat o piatră mare sub stejar.
+? evento | 6 24:27
+qi: Che cosa disse Giosuè della grande pietra?
+qr: Ce a spus Iosua despre piatra cea mare?
+ai: Che sarebbe stata un testimone contro il popolo | Che era un altare per i sacrifici | Che segnava il confine di Efraim | Che copriva un tesoro
+ar: Că va fi o mărturie împotriva poporului | Că era un altar pentru jertfe | Că arăta hotarul lui Efraim | Că acoperea o comoară
+@ timnatserah | 6 24:30
+it: Giosuè morì a centodieci anni e fu sepolto a Timnath-Serah, sui monti di Efraim.
+ro: Iosua a murit la o sută zece ani și a fost îngropat la Timnat-Serah, în muntele lui Efraim.
+? domanda | 6 24:29
+qi: A quanti anni morì Giosuè?
+qr: La câți ani a murit Iosua?
+ai: 110 | 120 | 85 | 175
+ar: 110 | 120 | 85 | 175

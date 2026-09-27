@@ -1,0 +1,325 @@
+# Esodo 8–12
+
+== dito_di_dio | ☝️ | 2 | palazzo | 🦟 🪰 ☝️ | 2 8:16-32
+T «Questo è il dito di Dio» || „Aici este degetul lui Dumnezeu”
+S Quando anche i maghi si arrendono || Când și vrăjitorii se predau
+R Esodo 8:16-32 || Exodul 8:16-32
+I La polvere del paese si trasforma in piccoli insetti. I maghi del re ci provano ma questa volta non ci riescono, e dicono una frase famosa. Poi arriva un'altra piaga, ma una regione resta risparmiata. Scopri quale.
+I Țărâna țării se preface în gângănii mici. Vrăjitorii împăratului încearcă, dar de data aceasta nu reușesc și spun o vorbă vestită. Apoi vine altă urgie, dar un ținut este cruțat. Descoperă care.
+E i polvere 🌫️ | La polvere || Țărâna
+. Aaronne stese il bastone e colpì la polvere della terra: tutta la polvere del paese diventò piccoli insetti su uomini e animali. || Aaron și-a întins toiagul și a lovit țărâna pământului: toată țărâna țării s-a prefăcut în gângănii pe oameni și pe dobitoace.
+. La polvere diventa insetti || Țărâna se face gângănii
+E t maghi 🧙 | I maghi || Vrăjitorii
+. I maghi d'Egitto, che questa volta non ci riescono || Vrăjitorii Egiptului, care de data aceasta nu reușesc
+. Questo è il dito di Dio! || Aici este degetul lui Dumnezeu!
+. I maghi riconoscono: «il dito di Dio» || Vrăjitorii recunosc: „degetul lui Dumnezeu”
+E i mosche 🪰 | Gli sciami || Roiurile
+. Poi vennero sciami di mosche nelle case degli Egiziani, sul re e sui suoi servi; il paese fu devastato. || Apoi au venit roiuri de muște în casele egiptenilor, peste împărat și peste slujitorii lui; țara a fost pustiită.
+. Sciami di mosche nelle case || Roiuri de muște în case
+E i goscen 🛡️ | Goscen || Gosen
+. Dio separò il paese di Goscen, dove abitava il suo popolo: là non ci furono mosche, perché il re sapesse che il Signore è in mezzo al paese. || Dumnezeu a deosebit ținutul Gosen, unde locuia poporul Său: acolo n-au fost muște, ca să știe împăratul că Domnul este în mijlocul țării.
+. Goscen risparmiata: una distinzione || Gosen cruțat: o deosebire
+E t re 👑 | Il re || Împăratul
+. Un re che fa un compromesso || Un împărat care face o învoială
+. Andate a offrire sacrifici al vostro Dio, ma in questo paese. … Va bene, andate nel deserto, soltanto non andate troppo lontano. Pregate per me. || Duceți-vă și aduceți jertfe Dumnezeului vostru, dar în țara aceasta. … Bine, duceți-vă în pustie, numai nu vă depărtați prea mult. Rugați-vă pentru mine.
+. «Sacrificate qui… non andate lontano» || „Aduceți jertfe aici… nu vă depărtați prea mult”
+E i tre_giorni 🛤️ | Tre giorni di cammino || Trei zile de drum
+. Mosè rispose che dovevano fare tre giorni di cammino nel deserto, perché i loro sacrifici sarebbero stati un abominio per gli Egiziani. Pregò, le mosche sparirono, ma il re si indurì di nuovo. || Moise a răspuns că trebuie să facă trei zile de drum în pustie, pentru că jertfele lor ar fi o urâciune pentru egipteni. S-a rugat, muștele au pierit, dar împăratul s-a împietrit din nou.
+. Il re promette, poi si indurisce || Împăratul făgăduiește, apoi se împietrește
+E f vaso 🏺 | Un vaso || Un vas
+. Un vaso di terracotta coperto di polvere. Nessun indizio. || Un vas de lut plin de praf. Niciun indiciu.
+A Erano la terza e la quarta piaga d'Egitto. || Erau a treia și a patra urgie a Egiptului.
+A Fu la prima volta in cui Dio separò chiaramente il suo popolo dagli Egiziani. || A fost prima dată când Dumnezeu a deosebit lămurit poporul Său de egipteni.
+A Sono le piaghe delle zanzare e delle mosche (Esodo 8). || Sunt urgiile gângăniilor și ale muștelor (Exodul 8).
+Q Che cosa dissero i maghi al Faraone? || Ce i-au spus vrăjitorii lui Faraon?
++ «Questo è il dito di Dio» || „Aici este degetul lui Dumnezeu”
+- «Possiamo farlo anche noi» || „Putem face și noi asta”
+- «Mosè è un mago» || „Moise este vrăjitor”
+- «Lascia andare il popolo» || „Lasă poporul să plece”
+Q Quale regione non ebbe le mosche? || Ce ținut n-a avut muște?
++ Goscen || Gosen
+- Menfi || Memfis
+- Il palazzo del re || Palatul împăratului
+- Tutto l'Egitto || Tot Egiptul
+O
+> La polvere diventa insetti || Țărâna se face gângănii
+> I maghi falliscono || Vrăjitorii nu reușesc
+> Arrivano gli sciami di mosche || Vin roiurile de muște
+> Goscen è risparmiata || Gosen este cruțat
+> Il re promette ma poi si indurisce || Împăratul făgăduiește, dar apoi se împietrește
+V
+v I maghi non riuscirono a imitare la terza piaga || Vrăjitorii n-au putut imita a treia urgie
+x Anche Goscen fu piena di mosche || Și Gosen a fost plin de muște
+v Il re chiese a Mosè di pregare per lui || Împăratul i-a cerut lui Moise să se roage pentru el
+v Mosè chiese tre giorni di cammino nel deserto || Moise a cerut trei zile de drum în pustie
+H Erano la terza e la quarta piaga. Aaronne colpì la polvere e divenne insetti su uomini e animali; i maghi non riuscirono a imitarlo e dissero: «Questo è il dito di Dio». Poi vennero sciami di mosche sulle case degli Egiziani, ma Dio separò Goscen, dove abitava il suo popolo. Il Faraone propose di sacrificare in Egitto, poi di non andare lontano; Mosè pregò e le mosche sparirono, ma il Faraone indurì di nuovo il cuore. || Erau a treia și a patra urgie. Aaron a lovit țărâna, și s-a făcut gângănii pe oameni și pe dobitoace; vrăjitorii n-au putut s-o imite și au zis: „Aici este degetul lui Dumnezeu.” Apoi au venit roiuri de muște peste casele egiptenilor, dar Dumnezeu a deosebit Gosenul, unde locuia poporul Său. Faraon a propus să aducă jertfe în Egipt, apoi să nu se depărteze prea mult; Moise s-a rugat și muștele au pierit, dar Faraon și-a împietrit din nou inima.
+
+== ulcere | 🐄 | 2 | campo | 🐄 🔥 🩹 | 2 9:1-12
+T Cenere di fornace verso il cielo || Cenușă de cuptor spre cer
+S Il bestiame muore, ma non tutto || Vitele mor, dar nu toate
+R Esodo 9:1-12 || Exodul 9:1-12
+I Un giorno muore il bestiame nei campi di un paese, ma non quello di un certo popolo. Poi un uomo lancia una manciata di cenere verso il cielo e compare una malattia dolorosa. Perfino i maghi non riescono a stare in piedi. Scopri quali piaghe sono.
+I Într-o zi mor vitele de pe câmpurile unei țări, dar nu ale unui anumit popor. Apoi un om aruncă o mână de cenușă spre cer și apare o boală dureroasă. Chiar și vrăjitorii nu mai pot sta în picioare. Descoperă ce urgii sunt.
+E i bestiame 🐄 | Il bestiame || Vitele
+. Una peste gravissima colpì cavalli, asini, cammelli, buoi e pecore degli Egiziani nei campi. || O ciumă foarte grea a lovit caii, măgarii, cămilele, boii și oile egiptenilor de pe câmp.
+. Peste sul bestiame d'Egitto || Ciumă peste vitele Egiptului
+E t messo 🧑‍💼 | Un messo del re || Un trimis al împăratului
+. Un servo mandato a controllare || Un slujitor trimis să cerceteze
+. Sono andato a vedere: del bestiame degli Israeliti non è morto neppure un capo. || M-am dus să văd: din vitele israeliților n-a murit nici măcar una.
+. Nessun animale d'Israele morto || Nicio vită a lui Israel moartă
+E i fornace 🔥 | La cenere || Cenușa
+. Mosè e Aaronne presero cenere di fornace a piene mani; Mosè la gettò verso il cielo davanti al re. || Moise și Aaron au luat cenușă din cuptor cu pumnii plini; Moise a aruncat-o spre cer înaintea împăratului.
+. Cenere lanciata verso il cielo || Cenușă aruncată spre cer
+E i ulcere 🩹 | Le ulcere || Bubele
+. La cenere diventò polvere su tutto l'Egitto e causò ulcere con pustole su uomini e animali. || Cenușa s-a făcut țărână peste tot Egiptul și a pricinuit bube cu bășici pe oameni și pe dobitoace.
+. Ulcere con pustole su uomini e animali || Bube cu bășici pe oameni și dobitoace
+E i maghi 🧙 | I maghi || Vrăjitorii
+. I maghi non poterono stare davanti a Mosè a causa delle ulcere, perché ne erano colpiti anche loro. || Vrăjitorii n-au putut sta înaintea lui Moise din pricina bubelor, căci erau loviți și ei.
+. I maghi colpiti anche loro || Vrăjitorii loviți și ei
+E i cuore 🪨 | Il cuore del re || Inima împăratului
+. Anche dopo aver saputo che il bestiame d'Israele era salvo, il cuore del re restò duro e non lasciò andare il popolo. || Chiar după ce a aflat că vitele lui Israel sunt teafere, inima împăratului a rămas împietrită și n-a lăsat poporul să plece.
+. Il cuore del re resta duro || Inima împăratului rămâne împietrită
+E f recinto 🪵 | Un recinto || Un țarc
+. Un recinto vuoto per gli animali. Nessun indizio. || Un țarc gol pentru vite. Niciun indiciu.
+A Erano la quinta e la sesta piaga d'Egitto. || Erau a cincea și a șasea urgie a Egiptului.
+A La piaga del bestiame fu annunciata per «domani» e accadde il giorno dopo. || Urgia vitelor a fost vestită pentru „mâine” și s-a întâmplat a doua zi.
+A Sono la peste sul bestiame e le ulcere (Esodo 9). || Sunt ciuma vitelor și bubele (Exodul 9).
+Q Che cosa gettò Mosè verso il cielo? || Ce a aruncat Moise spre cer?
++ Cenere di fornace || Cenușă din cuptor
+- Polvere del deserto || Praful pustiei
+- Acqua del Nilo || Apă din Nil
+- Sabbia del mare || Nisip de la mare
+Q Perché i maghi non poterono stare davanti a Mosè? || De ce n-au putut vrăjitorii să stea înaintea lui Moise?
++ Perché avevano anche loro le ulcere || Pentru că aveau și ei bube
+- Perché erano fuggiti || Pentru că fugiseră
+- Perché il re li aveva cacciati || Pentru că împăratul îi izgonise
+- Perché avevano paura del bastone || Pentru că se temeau de toiag
+O
+> Dio annuncia la peste sul bestiame || Dumnezeu vestește ciuma vitelor
+> Muore il bestiame d'Egitto || Mor vitele Egiptului
+> Il re manda a controllare quello d'Israele || Împăratul trimite să cerceteze vitele lui Israel
+> Mosè getta la cenere verso il cielo || Moise aruncă cenușa spre cer
+> Ulcere su uomini e animali || Bube pe oameni și dobitoace
+V
+v Il bestiame d'Israele non morì || Vitele lui Israel n-au murit
+x I maghi guarirono le ulcere con le loro arti || Vrăjitorii au vindecat bubele cu farmecele lor
+v Anche i maghi ebbero le ulcere || Și vrăjitorii au avut bube
+v Il re non lasciò andare il popolo || Împăratul n-a lăsat poporul să plece
+H Erano la peste sul bestiame e le ulcere. Il giorno annunciato morì il bestiame degli Egiziani, ma il re, mandando a controllare, seppe che di quello d'Israele non era morto neppure un capo. Eppure il suo cuore restò duro. Poi Mosè gettò verso il cielo cenere di fornace, che diventò ulcere con pustole su uomini e animali; perfino i maghi non poterono stare davanti a Mosè, e il Faraone non lasciò andare il popolo. || Erau ciuma vitelor și bubele. În ziua vestită au murit vitele egiptenilor, dar împăratul, trimițând să cerceteze, a aflat că din ale lui Israel n-a murit nici măcar una. Și totuși inima lui a rămas împietrită. Apoi Moise a aruncat spre cer cenușă din cuptor, care s-a făcut bube cu bășici pe oameni și pe dobitoace; chiar vrăjitorii n-au putut sta înaintea lui Moise, iar Faraon n-a lăsat poporul să plece.
+
+== grandine | 🌨️ | 2 | campo | 🌨️ ⚡ 🔥 | 2 9:13-35
+T Fuoco che corre sulla terra || Foc care aleargă pe pământ
+S «Questa volta ho peccato» || „De data aceasta am păcătuit”
+R Esodo 9:13-35 || Exodul 9:13-35
+I Il cielo tuona, cadono pietre di ghiaccio e un fuoco corre per terra. Gli alberi si spezzano. Ma alcuni Egiziani, avvertiti il giorno prima, hanno messo al riparo servi e animali. Scopri quale piaga è.
+I Cerul tună, cad pietre de gheață și un foc aleargă pe pământ. Copacii se rup. Dar unii egipteni, avertizați cu o zi înainte, și-au adăpostit slugile și vitele. Descoperă ce urgie este.
+E t avviso 📢 | L'avviso || Avertismentul
+. Colui che manda l'avvertimento il giorno prima || Cel ce trimite avertismentul cu o zi înainte
+. Domani a quest'ora farò cadere una grandine così forte che non ce ne fu mai di simile in Egitto. Metti al riparo il tuo bestiame e tutto quello che hai nei campi. || Mâine, pe vremea aceasta, voi face să cadă o grindină atât de mare cum n-a mai fost în Egipt. Adăpostește-ți vitele și tot ce ai pe câmp.
+. «Domani: mettete al riparo il bestiame» || „Mâine: adăpostiți-vă vitele”
+E i timorati 🏠 | Chi ascoltò || Cei ce au ascultat
+. Chi fra i servi del re temette la parola del Signore fece rifugiare servi e bestiame nelle case; chi non ci badò li lasciò nei campi. || Aceia dintre slujitorii împăratului care s-au temut de cuvântul Domnului și-au adăpostit slugile și vitele în case; cei ce n-au luat aminte le-au lăsat pe câmp.
+. Chi temette Dio si mise al riparo || Cine s-a temut de Dumnezeu s-a adăpostit
+E i fuoco ⚡ | Tuoni e fuoco || Tunete și foc
+. Mosè stese il bastone verso il cielo: vennero tuoni, grandine e un fuoco che correva sulla terra, mescolato alla grandine. || Moise și-a întins toiagul spre cer: au venit tunete, grindină și un foc care alerga pe pământ, amestecat cu grindina.
+. Grandine con fuoco sulla terra || Grindină cu foc pe pământ
+E i lino 🌾 | Il lino e l'orzo || Inul și orzul
+. Il lino e l'orzo furono distrutti, perché l'orzo era in spiga e il lino in fiore; il grano no, perché era tardivo. || Inul și orzul s-au prăpădit, pentru că orzul dăduse în spic și inul era în floare; grâul nu, pentru că era târziu.
+. Distrutti lino e orzo, salvo il grano || Prăpădite inul și orzul, scăpat grâul
+E i goscen 🛡️ | Goscen || Gosen
+. Soltanto nel paese di Goscen, dove erano gli Israeliti, non cadde grandine. || Numai în ținutul Gosen, unde erau israeliții, n-a căzut grindină.
+. Niente grandine a Goscen || Nicio grindină în Gosen
+E t re 👑 | Il re spaventato || Împăratul înspăimântat
+. Un re che confessa, ma solo per poco || Un împărat care mărturisește, dar numai pentru puțin
+. Questa volta ho peccato: il Signore è giusto, io e il mio popolo siamo colpevoli. Pregate il Signore: basta tuoni e grandine! || De data aceasta am păcătuit: Domnul este drept, iar eu și poporul meu suntem vinovați. Rugați-vă Domnului: destul cu tunetele și grindina!
+. «Ho peccato» — ma poi si indurisce ancora || „Am păcătuit” – dar apoi se împietrește iar
+E f ramo 🌿 | Un ramo spezzato || O ramură ruptă
+. Un ramo spezzato dal temporale. Nessun indizio. || O ramură ruptă de furtună. Niciun indiciu.
+A Era la settima piaga d'Egitto. || Era a șaptea urgie a Egiptului.
+A Dio disse al re: «Ti ho lasciato sussistere per mostrarti la mia potenza e perché il mio nome sia proclamato su tutta la terra». || Dumnezeu i-a zis împăratului: „Te-am lăsat în picioare ca să-ți arăt puterea Mea și ca Numele Meu să fie vestit pe tot pământul.”
+A È la piaga della grandine (Esodo 9). || Este urgia grindinei (Exodul 9).
+Q Quali raccolti furono distrutti dalla grandine? || Ce recolte au fost prăpădite de grindină?
++ Il lino e l'orzo || Inul și orzul
+- Il grano e il farro || Grâul și alacul
+- Le olive e l'uva || Măslinele și strugurii
+- I datteri || Curmalele
+Q Che cosa disse il Faraone dopo la grandine? || Ce a spus Faraon după grindină?
++ «Questa volta ho peccato» || „De data aceasta am păcătuit”
+- «Il mio dio è più forte» || „Dumnezeul meu este mai tare”
+- «Non conosco il Signore» || „Nu-L cunosc pe Domnul”
+- «Tornate al lavoro» || „Întoarceți-vă la lucru”
+O
+> Dio avverte il giorno prima || Dumnezeu avertizează cu o zi înainte
+> Chi teme Dio mette al riparo il bestiame || Cine se teme de Dumnezeu își adăpostește vitele
+> Mosè stende il bastone verso il cielo || Moise își întinde toiagul spre cer
+> Grandine e fuoco distruggono i campi || Grindina și focul prăpădesc câmpurile
+> Il re dice: «Ho peccato» || Împăratul zice: „Am păcătuit”
+> Il re si indurisce di nuovo || Împăratul se împietrește din nou
+V
+v Alcuni Egiziani ascoltarono l'avvertimento || Unii egipteni au ascultat avertismentul
+v Il grano non fu distrutto perché era tardivo || Grâul nu s-a prăpădit pentru că era târziu
+x La grandine cadde anche su Goscen || Grindina a căzut și în Gosen
+v Mosè pregò con le mani stese e la grandine cessò || Moise s-a rugat cu mâinile întinse și grindina a încetat
+H Era la piaga della grandine. Dio avvertì il giorno prima, e chi temeva la sua parola mise al riparo servi e bestiame. Mosè stese il bastone e vennero tuoni, grandine e fuoco che correva sulla terra; furono distrutti lino e orzo, ma non il grano tardivo, e a Goscen non cadde grandine. Il Faraone disse: «Questa volta ho peccato: il Signore è giusto». Mosè pregò e la grandine cessò, ma il re peccò ancora e indurì il cuore. || Era urgia grindinei. Dumnezeu a avertizat cu o zi înainte, și cine se temea de cuvântul Lui și-a adăpostit slugile și vitele. Moise și-a întins toiagul, și au venit tunete, grindină și foc care alerga pe pământ; s-au prăpădit inul și orzul, dar nu grâul cel târziu, iar în Gosen n-a căzut grindină. Faraon a zis: „De data aceasta am păcătuit: Domnul este drept.” Moise s-a rugat și grindina a încetat, dar împăratul a păcătuit iar și și-a împietrit inima.
+
+== locuste | 🦗 | 1 | campo | 🦗 🌬️ 🌳 | 2 10:1-20
+T Non restò nulla di verde || N-a mai rămas nimic verde
+S Un vento d'oriente per un giorno e una notte || Un vânt de la răsărit o zi și o noapte
+R Esodo 10:1-20 || Exodul 10:1-20
+I I servi del re lo supplicano: «Non vedi che l'Egitto è rovinato?». Lui prova a trattare, ma il giorno dopo un vento porta qualcosa che oscura la terra e mangia tutto. Scopri quale piaga è.
+I Slujitorii împăratului îl roagă: „Tot nu vezi că piere Egiptul?” El încearcă să se tocmească, dar a doua zi un vânt aduce ceva care întunecă pământul și mănâncă tot. Descoperă ce urgie este.
+E t servi 😰 | I servi del re || Slujitorii împăratului
+. I consiglieri del palazzo || Sfetnicii palatului
+. Fino a quando quest'uomo sarà un laccio per noi? Lascia andare questa gente! Non hai ancora capito che l'Egitto è rovinato? || Până când are să fie omul acesta o pacoste pentru noi? Lasă pe oamenii aceștia să plece! Tot nu vezi că piere Egiptul?
+. «Non vedi che l'Egitto è rovinato?» || „Tot nu vezi că piere Egiptul?”
+E t re 👑 | La trattativa || Tocmeala
+. Un re che vuole trattenere i bambini || Un împărat care vrea să oprească copiii
+. Chi sono quelli che devono andare? … No! Andate voi uomini soltanto a servire il Signore. || Cine sunt cei ce vor să plece? … Nu! Duceți-vă numai voi, bărbații, și slujiți Domnului.
+. «Andate solo voi uomini» || „Duceți-vă numai voi, bărbații”
+E i vento 🌬️ | Il vento d'oriente || Vântul de la răsărit
+. Mosè stese il bastone e il Signore fece soffiare un vento d'oriente tutto il giorno e tutta la notte; al mattino il vento aveva portato le locuste. || Moise și-a întins toiagul, și Domnul a făcut să sufle un vânt de la răsărit toată ziua și toată noaptea; dimineața vântul adusese lăcustele.
+. Un vento d'oriente porta le locuste || Un vânt de la răsărit aduce lăcustele
+E i verde 🌳 | Il verde || Verdeața
+. Coprirono tutta la terra, che ne fu oscurata, e mangiarono ogni erba e ogni frutto rimasto dopo la grandine: non restò nulla di verde. || Au acoperit tot pământul, care s-a întunecat, și au mâncat toată iarba și toate roadele rămase după grindină: n-a mai rămas nimic verde.
+. Mangiato tutto ciò che la grandine aveva lasciato || Mâncat tot ce lăsase grindina
+E i mar_rosso 🌊 | Il vento di ponente || Vântul de la apus
+. Dopo la preghiera, un vento di ponente molto forte portò via le locuste e le gettò nel Mar Rosso: non ne rimase neppure una. || După rugăciune, un vânt foarte puternic dinspre apus a luat lăcustele și le-a aruncat în Marea Roșie: n-a rămas nici una.
+. Gettate nel Mar Rosso, nessuna rimasta || Aruncate în Marea Roșie, nici una rămasă
+E i racconto 👴 | Da raccontare ai figli || De povestit copiilor
+. Dio disse di fare questi segni perché il popolo raccontasse ai figli e ai nipoti come aveva trattato l'Egitto. || Dumnezeu a spus că face aceste semne ca poporul să istorisească fiilor și nepoților cum S-a purtat cu Egiptul.
+. Una storia da raccontare ai nipoti || O istorie de povestit nepoților
+E f cestino 🧺 | Un cestino di frutta || Un coș de fructe
+. Un cestino di frutta vuoto. Nessun indizio. || Un coș de fructe gol. Niciun indiciu.
+A Era l'ottava piaga d'Egitto. || Era a opta urgie a Egiptului.
+A Venne subito dopo la grandine. || A venit îndată după grindină.
+A È la piaga delle locuste (Esodo 10). || Este urgia lăcustelor (Exodul 10).
+Q Dove finirono le locuste? || Unde au ajuns lăcustele?
++ Nel Mar Rosso || În Marea Roșie
+- Nel Nilo || În Nil
+- Nel deserto || În pustie
+- A Goscen || În Gosen
+Q Chi voleva lasciar partire il Faraone? || Pe cine voia Faraon să lase să plece?
++ Solo gli uomini || Numai bărbații
+- Solo le donne || Numai femeile
+- Tutti, ma senza animali || Pe toți, dar fără vite
+- Nessuno || Pe nimeni
+O
+> I servi supplicano il re || Slujitorii îl roagă pe împărat
+> Il re vuole lasciar andare solo gli uomini || Împăratul vrea să lase să plece numai bărbații
+> Un vento d'oriente porta le locuste || Un vânt de la răsărit aduce lăcustele
+> Le locuste mangiano tutto il verde || Lăcustele mănâncă toată verdeața
+> Un vento di ponente le getta nel Mar Rosso || Un vânt de la apus le aruncă în Marea Roșie
+V
+v Le locuste oscurarono la terra || Lăcustele au întunecat pământul
+v Il vento d'oriente soffiò un giorno e una notte || Vântul de la răsărit a suflat o zi și o noapte
+x Rimasero alcune locuste nei campi || Au rămas câteva lăcuste pe câmpuri
+v I servi del re dissero che l'Egitto era rovinato || Slujitorii împăratului au spus că piere Egiptul
+H Era la piaga delle locuste. I servi del Faraone lo supplicarono di lasciar andare il popolo, ma egli volle lasciar partire solo gli uomini. Mosè stese il bastone e un vento d'oriente soffiò un giorno e una notte portando le locuste, che coprirono la terra e mangiarono tutto il verde rimasto dopo la grandine. Il Faraone chiese perdono; un forte vento di ponente gettò le locuste nel Mar Rosso e non ne rimase neppure una, ma il re si indurì ancora. || Era urgia lăcustelor. Slujitorii lui Faraon l-au rugat să lase poporul să plece, dar el a vrut să-i lase să plece numai pe bărbați. Moise și-a întins toiagul, și un vânt de la răsărit a suflat o zi și o noapte aducând lăcustele, care au acoperit pământul și au mâncat toată verdeața rămasă după grindină. Faraon a cerut iertare; un vânt puternic dinspre apus a aruncat lăcustele în Marea Roșie și n-a rămas nici una, dar împăratul s-a împietrit iar.
+
+== tenebre | 🌑 | 2 | notte | 🌑 🕯️ 🏠 | 2 10:21-29
+T Un buio che si poteva toccare || Un întuneric care se putea pipăi
+S Tre giorni senza vedersi || Trei zile fără să se vadă unii pe alții
+R Esodo 10:21-29 || Exodul 10:21-29
+I Per tre giorni in un paese nessuno vede il vicino e nessuno si muove. Eppure in alcune case c'è la luce. Alla fine il re e il profeta si dicono addio con parole durissime. Scopri quale piaga è.
+I Trei zile într-o țară nimeni nu-și vede vecinul și nimeni nu se mișcă. Și totuși în unele case este lumină. La sfârșit împăratul și prorocul își spun rămas bun cu vorbe foarte aspre. Descoperă ce urgie este.
+E i buio 🌑 | Il buio || Întunericul
+. Mosè stese la mano verso il cielo e ci fu un buio fitto in tutto l'Egitto, un buio che si poteva toccare. || Moise și-a întins mâna spre cer și s-a făcut un întuneric gros în toată țara Egiptului, un întuneric care se putea pipăi.
+. Un buio che si poteva toccare || Un întuneric care se putea pipăi
+E i tre_giorni ⏳ | Tre giorni || Trei zile
+. Per tre giorni nessuno vedeva l'altro e nessuno si mosse dal suo posto. || Trei zile nimeni nu-l vedea pe altul și nimeni nu s-a sculat din locul lui.
+. Tre giorni senza muoversi || Trei zile fără să se miște
+E i luce 🕯️ | La luce || Lumina
+. Ma in tutte le case degli Israeliti c'era luce. || Dar în toate locuințele israeliților era lumină.
+. Luce nelle case degli Israeliti || Lumină în casele israeliților
+E t re 👑 | L'ultima offerta del re || Ultima ofertă a împăratului
+. Un re che vuole trattenere gli animali || Un împărat care vrea să oprească vitele
+. Andate a servire il Signore; anche i vostri bambini possono venire con voi, ma lasciate qui le vostre greggi e le vostre mandrie. || Duceți-vă și slujiți Domnului; și copiii voștri pot să meargă cu voi, dar oile și boii voștri să rămână aici.
+. «Andate, ma lasciate qui il bestiame» || „Duceți-vă, dar vitele să rămână aici”
+E t profeta 🧔 | Il profeta || Prorocul
+. Il profeta che non accetta compromessi || Prorocul care nu primește învoieli
+. Anche il nostro bestiame verrà con noi: non ne resterà qui neppure un'unghia, perché non sappiamo con che cosa dovremo servire il Signore finché non arriveremo là. || Și turmele noastre trebuie să meargă cu noi: să nu rămână aici nici o unghie din ele, căci nu știm cu ce vom sluji Domnului până nu vom ajunge acolo.
+. «Neppure un'unghia resterà qui» || „Să nu rămână nici o unghie”
+E i addio 🚪 | L'addio || Despărțirea
+. Il re disse: «Vattene! Il giorno che rivedrai la mia faccia, morirai». Il profeta rispose: «Hai detto bene: non vedrò più la tua faccia». || Împăratul a zis: „Ieși de la mine! În ziua în care îmi vei mai vedea fața, vei muri.” Prorocul a răspuns: „Ai zis bine: nu-ți voi mai vedea fața.”
+. «Non vedrò più la tua faccia» || „Nu-ți voi mai vedea fața”
+E f lampada 🪔 | Una lampada spenta || O lampă stinsă
+. Una lampada spenta: in quel buio non serviva. Nessun indizio. || O lampă stinsă: în întunericul acela nu folosea. Niciun indiciu.
+A Era la nona piaga d'Egitto. || Era a noua urgie a Egiptului.
+A Il dio del sole era uno degli dèi più importanti dell'Egitto. || Zeul soarelui era unul dintre cei mai însemnați zei ai Egiptului.
+A È la piaga delle tenebre (Esodo 10). || Este urgia întunericului (Exodul 10).
+Q Quanto durò il buio? || Cât a ținut întunericul?
++ Tre giorni || Trei zile
+- Sette giorni || Șapte zile
+- Una notte || O noapte
+- Quaranta giorni || Patruzeci de zile
+Q Che cosa voleva trattenere il Faraone in quest'ultima offerta? || Ce voia Faraon să oprească în această ultimă ofertă?
++ Le greggi e le mandrie || Oile și boii
+- I bambini || Copiii
+- Le donne || Femeile
+- Aaronne || Pe Aaron
+O
+> Mosè stende la mano verso il cielo || Moise își întinde mâna spre cer
+> Buio fitto per tre giorni || Întuneric gros trei zile
+> Luce nelle case d'Israele || Lumină în casele lui Israel
+> Il re vuole trattenere il bestiame || Împăratul vrea să oprească vitele
+> Il re caccia Mosè || Împăratul îl izgonește pe Moise
+V
+v Il buio si poteva toccare || Întunericul se putea pipăi
+x Anche nelle case degli Israeliti fu buio || Și în casele israeliților a fost întuneric
+v Mosè rifiutò di lasciare anche un solo animale || Moise a refuzat să lase fie și o singură vită
+v Il re minacciò Mosè di morte || Împăratul l-a amenințat pe Moise cu moartea
+H Era la piaga delle tenebre. Mosè stese la mano verso il cielo e per tre giorni un buio che si poteva toccare coprì l'Egitto: nessuno vedeva l'altro né si muoveva, ma nelle case degli Israeliti c'era luce. Il Faraone disse che potevano andare anche i bambini, ma senza bestiame. Mosè rispose: «Non ne resterà neppure un'unghia». Il re lo cacciò: «Il giorno che rivedrai la mia faccia morirai», e Mosè rispose: «Hai detto bene: non la vedrò più». || Era urgia întunericului. Moise și-a întins mâna spre cer, și trei zile un întuneric care se putea pipăi a acoperit Egiptul: nimeni nu-l vedea pe altul și nu se mișca, dar în casele israeliților era lumină. Faraon a spus că pot merge și copiii, dar fără vite. Moise a răspuns: „Să nu rămână nici o unghie.” Împăratul l-a izgonit: „În ziua în care îmi vei mai vedea fața, vei muri”, iar Moise a răspuns: „Ai zis bine: nu-ți voi mai vedea fața.”
+
+== pasqua | 🐑 | 1 | notte | 🐑 🚪 🌙 | 2 12:1-42
+T Sangue sulla porta || Sânge pe ușă
+S Una cena mangiata in fretta || O cină mâncată în grabă
+R Esodo 12 || Exodul 12
+I Una notte, in ogni casa di un popolo schiavo, si mangia in piedi, con i sandali ai piedi e il bastone in mano. Sulle porte c'è un segno rosso. A mezzanotte un grande grido si alza nel paese. Scopri che notte è.
+I Într-o noapte, în fiecare casă a unui popor rob se mănâncă în picioare, cu sandalele în picioare și toiagul în mână. Pe uși este un semn roșu. La miezul nopții se ridică un mare strigăt în țară. Descoperă ce noapte este.
+E i agnello 🐑 | L'agnello || Mielul
+. Il decimo giorno del mese ogni famiglia prese un agnello senza difetti, maschio, di un anno; lo custodì fino al quattordicesimo giorno e lo immolò al tramonto. || În ziua a zecea a lunii, fiecare familie a luat un miel fără cusur, parte bărbătească, de un an; l-a păstrat până în ziua a paisprezecea și l-a junghiat seara.
+. Un agnello senza difetti, di un anno || Un miel fără cusur, de un an
+E i issopo 🌿 | L'issopo || Isopul
+. Con un mazzetto di issopo intinto nel sangue segnarono l'architrave e i due stipiti della porta; nessuno doveva uscire fino al mattino. || Cu un mănunchi de isop înmuiat în sânge au uns pragul de sus și cei doi stâlpi ai ușii; nimeni nu trebuia să iasă până dimineața.
+. Il sangue sulla porta con l'issopo || Sângele pe ușă cu isopul
+E i cena 🍞 | La cena || Cina
+. Mangiarono la carne arrostita, con pane senza lievito ed erbe amare, con i fianchi cinti, i sandali ai piedi e il bastone in mano, in fretta. || Au mâncat carnea friptă, cu azime și ierburi amare, cu mijlocul încins, cu încălțămintea în picioare și toiagul în mână, în grabă.
+. Pane azzimo, erbe amare, pronti a partire || Azime, ierburi amare, gata de plecare
+E t voce ✨ | Una promessa || O făgăduință
+. Colui che passerà quella notte || Cel ce va trece în noaptea aceea
+. Il sangue vi servirà da segno sulle case dove siete: quando vedrò il sangue, passerò oltre, e non ci sarà piaga su di voi. || Sângele vă va sluji ca semn pe casele în care veți fi: când voi vedea sângele, voi trece pe lângă voi, și nu vă va nimici nicio urgie.
+. «Quando vedrò il sangue, passerò oltre» || „Când voi vedea sângele, voi trece pe lângă voi”
+E i mezzanotte 🌙 | La mezzanotte || Miezul nopții
+. A mezzanotte morirono tutti i primogeniti d'Egitto, dal figlio del Faraone al figlio del prigioniero; ci fu un grande grido in tutto il paese. || La miezul nopții au murit toți întâii născuți ai Egiptului, de la fiul lui Faraon până la fiul celui închis; s-a făcut un mare strigăt în toată țara.
+. Il grande grido di mezzanotte || Marele strigăt de la miezul nopții
+E i partenza 🚶 | La partenza || Plecarea
+. Il re li chiamò di notte: «Andate!». Partirono da Ramses verso Sukkoth, circa seicentomila uomini a piedi, oltre ai bambini, con la pasta non ancora lievitata. || Împăratul i-a chemat noaptea: „Plecați!” Au plecat din Ramses spre Sucot, aproape șase sute de mii de bărbați pe jos, afară de copii, cu aluatul încă nedospit.
+. 600.000 uomini partono di notte || 600.000 de bărbați pleacă noaptea
+E f pentola 🍲 | Una pentola || O oală
+. Una pentola vuota: quella carne non si doveva bollire. Nessun indizio. || O oală goală: carnea aceea nu trebuia fiartă. Niciun indiciu.
+A Quel mese diventò il primo mese dell'anno per il popolo. || Luna aceea a ajuns cea dintâi lună a anului pentru popor.
+A Dell'agnello non si doveva spezzare alcun osso; il Vangelo lo ricorda alla morte di Gesù. || Mielului nu trebuia să i se frângă niciun os; Evanghelia amintește aceasta la moartea lui Isus.
+A È la prima Pasqua in Egitto (Esodo 12). || Este cel dintâi Paște în Egipt (Exodul 12).
+Q Dove si metteva il sangue dell'agnello? || Unde se punea sângele mielului?
++ Sull'architrave e sui due stipiti della porta || Pe pragul de sus și pe cei doi stâlpi ai ușii
+- Sul tetto della casa || Pe acoperișul casei
+- Sulla fronte dei bambini || Pe fruntea copiilor
+- Sull'altare del tempio || Pe altarul templului
+Q Come si doveva mangiare la cena? || Cum trebuia mâncată cina?
++ In fretta, con i sandali ai piedi e il bastone in mano || În grabă, cu încălțămintea în picioare și toiagul în mână
+- Seduti con calma per tutta la notte || Așezați liniștit toată noaptea
+- Da soli, senza la famiglia || Singuri, fără familie
+- Solo dopo il digiuno di tre giorni || Numai după un post de trei zile
+O
+> Il decimo giorno si sceglie l'agnello || În ziua a zecea se alege mielul
+> Il quattordicesimo viene immolato || În ziua a paisprezecea este junghiat
+> Il sangue è messo sulle porte || Sângele este pus pe uși
+> Si mangia in fretta la cena || Se mănâncă cina în grabă
+> A mezzanotte muoiono i primogeniti || La miezul nopții mor întâii născuți
+> Il popolo parte da Ramses || Poporul pleacă din Ramses
+V
+v L'agnello doveva essere senza difetti || Mielul trebuia să fie fără cusur
+v Si mangiava con pane senza lievito ed erbe amare || Se mânca cu azime și ierburi amare
+x L'agnello si doveva bollire nell'acqua || Mielul trebuia fiert în apă
+v La pasta non era ancora lievitata quando partirono || Aluatul nu dospise încă atunci când au plecat
+H Era la prima Pasqua. Ogni famiglia d'Israele prese un agnello senza difetti, lo immolò il quattordicesimo giorno e con l'issopo mise il sangue sull'architrave e sugli stipiti. Mangiarono la carne arrostita con pane azzimo ed erbe amare, in fretta, pronti a partire. A mezzanotte il Signore colpì i primogeniti d'Egitto ma passò oltre le case segnate dal sangue. Il Faraone li chiamò di notte: «Andate!», e circa seicentomila uomini partirono da Ramses verso Sukkoth. || Era cel dintâi Paște. Fiecare familie a lui Israel a luat un miel fără cusur, l-a junghiat în ziua a paisprezecea și cu isopul a pus sângele pe pragul de sus și pe stâlpii ușii. Au mâncat carnea friptă cu azime și ierburi amare, în grabă, gata de plecare. La miezul nopții Domnul a lovit pe întâii născuți ai Egiptului, dar a trecut pe lângă casele însemnate cu sânge. Faraon i-a chemat noaptea: „Plecați!”, și aproape șase sute de mii de bărbați au plecat din Ramses spre Sucot.

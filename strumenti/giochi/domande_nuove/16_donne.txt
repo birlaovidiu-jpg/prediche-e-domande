@@ -1,0 +1,127 @@
+# Domande nuove — le donne della Bibbia
+personaggi|2|1 11:29
+IT|Quale donna, figlia di Haran, sposò Nahor, fratello di Abramo?|Milkah|Iscah|Sarai|Keturah|Il nome della moglie di Abramo era Sarai, e il nome della moglie di Nahor era Milkah.
+RO|Cum se numea nevasta lui Nahor, fratele lui Avram?|Milca|Isca|Sarai|Chetura|Numele nevestei lui Avram era Sarai, iar numele nevestei lui Nahor era Milca.
+personaggi|3|1 24:59
+IT|Chi accompagnò Rebecca quando partì per sposare Isacco?|La sua balia|Sua madre|Sua sorella|Labano|Lasciarono partire Rebecca, loro sorella, e la sua balia con il servo di Abrahamo.
+RO|Cine a însoțit-o pe Rebeca când a plecat să se mărite cu Isaac?|Doica ei|Mama ei|Sora ei|Laban|Au lăsat pe Rebeca, sora lor, să plece împreună cu doica ei și cu robul lui Avraam.
+personaggi|2|1 29:17
+IT|Come aveva gli occhi Lea, secondo Genesi 29?|Languidi|Neri e brillanti|Azzurri|Grandi e belli|Lea aveva gli occhi languidi, ma Rachele era avvenente e di bell'aspetto.
+RO|Cum avea ochii Lea, după Geneza 29?|Slabi (împăienjeniți)|Negri și strălucitori|Albaștri|Mari și frumoși|Lea avea ochii slabi, dar Rahela era frumoasă la statură și la chip.
+personaggi|2|1 30:1
+IT|Quale moglie di Giacobbe invidiava sua sorella perché non aveva figli?|Rachele|Lea|Bilhah|Zilpah|Rachele, vedendo che non dava figli a Giacobbe, divenne invidiosa di sua sorella.
+RO|Care nevastă a lui Iacov o pizmuia pe sora ei pentru că nu avea copii?|Rahela|Lea|Bilha|Zilpa|Rahela, văzând că nu-i naște copii lui Iacov, a pizmuit pe sora sa.
+personaggi|3|1 34:1
+IT|Come si chiamava la figlia di Giacobbe e Lea?|Dina|Tamar|Rachele|Serah|Dina, la figlia che Lea aveva partorito a Giacobbe, uscì a vedere le figlie del paese.
+RO|Cum se numea fiica lui Iacov și a Leei?|Dina|Tamar|Rahela|Serah|Dina, fata pe care o născuse Lea lui Iacov, a ieșit să vadă pe fetele țării.
+personaggi|3|2 2:4
+IT|Chi stava a osservare da lontano che cosa sarebbe successo al piccolo Mosè sul fiume?|Sua sorella|Suo padre|Sua nonna|Una principessa|La sorella del bambino stava a una certa distanza per sapere che cosa gli sarebbe accaduto.
+RO|Cine stătea departe ca să vadă ce se va întâmpla cu micul Moise pe râu?|Sora lui|Tatăl lui|Bunica lui|O prințesă|Sora copilului stătea la o depărtare oarecare, ca să vadă ce i se va întâmpla.
+personaggi|3|2 2:8-9
+IT|Chi allattò Mosè per conto della figlia del Faraone?|Sua madre|Una levatrice egiziana|Miriam|Tsipporah|La donna prese il bambino e lo allattò: era la madre stessa di Mosè.
+RO|Cine l-a alăptat pe Moise pentru fata lui Faraon?|Mama lui|O moașă egipteancă|Maria|Sefora|Femeia a luat copilul și l-a alăptat: era chiar mama lui Moise.
+personaggi|3|6 15:16
+IT|Quale figlia promise Caleb in moglie a chi avesse conquistato Kiriath-Sefer?|Aksah|Miriam|Dina|Tamar|Caleb disse: «A chi sconfiggerà Kiriath-Sefer darò in moglie mia figlia Aksah».
+RO|Ce fiică a promis Caleb să i-o dea de nevastă celui ce va cuceri Chiriat-Sefer?|Acsa|Maria|Dina|Tamar|Caleb a zis: „Voi da de nevastă pe fata mea Acsa celui ce va bate Chiriat-Sefer.”
+personaggi|2|7 5:7
+IT|Come si definisce Debora nel suo cantico?|Una madre in Israele|La regina del sud|La figlia di Sion|La serva del re|Le città erano abbandonate finché sorsi io, Debora, finché sorsi io, madre in Israele.
+RO|Cum se numește Debora în cântarea ei?|O mamă în Israel|Împărăteasa de la miazăzi|Fiica Sionului|Roaba împăratului|Căpeteniile lipseau în Israel, până m-am sculat eu, Debora, până m-am sculat, o mamă în Israel.
+personaggi|3|7 11:34
+IT|Chi uscì per prima incontro a Jefte con tamburelli e danze, dopo la vittoria?|Sua figlia|Sua moglie|Sua madre|Una serva|Sua figlia gli uscì incontro con tamburelli e danze; era la sua unica figlia.
+RO|Cine i-a ieșit prima înainte lui Iefta cu timpane și jocuri, după biruință?|Fiica lui|Nevasta lui|Mama lui|O slujnică|Fiica lui i-a ieșit înainte cu timpane și jocuri; era singurul lui copil.
+personaggi|3|7 13:2-3
+IT|A chi apparve l'angelo per annunciare la nascita di Sansone?|Alla moglie di Manoah|A Manoah|A Debora|A un sacerdote|L'angelo dell'Eterno apparve alla donna e le disse: «Ecco, tu sei sterile, ma concepirai e partorirai un figlio».
+RO|Cui i s-a arătat îngerul ca să vestească nașterea lui Samson?|Nevestei lui Manoah|Lui Manoah|Deborei|Unui preot|Îngerul Domnului s-a arătat femeii și i-a zis: „Iată, tu ești stearpă, dar vei rămâne însărcinată și vei naște un fiu.”
+personaggi|2|8 1:4
+IT|Come si chiamavano le due nuore moabite di Noemi?|Orpah e Rut|Rut e Tamar|Mikal e Merab|Lea e Rachele|Presero in moglie delle Moabite: una si chiamava Orpah e l'altra Rut.
+RO|Cum se numeau cele două nurori moabite ale Naomei?|Orpa și Rut|Rut și Tamar|Mical și Merab|Lea și Rahela|Și-au luat neveste moabite: una se numea Orpa, iar cealaltă Rut.
+personaggi|3|8 3:9
+IT|Che cosa chiese Rut a Boaz sull'aia, di notte?|Di stendere il lembo del mantello su di lei|Del grano|Del denaro|Di parlare con Noemi|«Io sono Rut, tua serva; stendi il lembo del tuo mantello sulla tua serva, perché tu hai il diritto di riscatto».
+RO|Ce i-a cerut Rut lui Boaz în arie, noaptea?|Să-și întindă poala hainei peste ea|Grâu|Bani|Să vorbească cu Naomi|„Sunt Rut, roaba ta; întinde-ți poala hainei peste roaba ta, căci ai drept de răscumpărare.”
+personaggi|3|9 1:11
+IT|Che cosa promise Anna all'Eterno se le avesse dato un figlio?|Di darlo all'Eterno per tutta la sua vita|Di offrire cento agnelli|Di costruire un altare|Di digiunare un anno|«Lo darò all'Eterno per tutti i giorni della sua vita, e il rasoio non passerà sulla sua testa».
+RO|Ce I-a promis Ana Domnului dacă îi va da un fiu?|Să-l închine Domnului pentru toate zilele vieții lui|Să aducă o sută de miei|Să zidească un altar|Să postească un an|„Îl voi închina Domnului pentru toate zilele vieții lui, și briciul nu va trece pe capul lui.”
+personaggi|3|9 2:19
+IT|Che cosa portava ogni anno Anna al piccolo Samuele nel tempio?|Una piccola tunica|Del pane|Un agnello|Dei giocattoli|Sua madre gli faceva una piccola tunica e gliela portava ogni anno quando saliva con il marito.
+RO|Ce îi aducea Ana în fiecare an micului Samuel la templu?|O mantie mică|Pâine|Un miel|Jucării|Mama sa îi făcea în fiecare an o mantie mică și i-o aducea când se suia cu bărbatul ei.
+personaggi|3|9 25:18
+IT|Che cosa portò Abigail a Davide per placarlo?|Pani, vino, pecore, grano, uva e fichi|Oro e argento|Armi|Un messaggio del re|Abigail prese duecento pani, due otri di vino, cinque pecore già preparate, grano arrostito, uva secca e fichi secchi.
+RO|Ce i-a adus Abigail lui David ca să-l potolească?|Pâini, vin, oi, grâu, stafide și smochine|Aur și argint|Arme|O solie de la împărat|Abigail a luat două sute de pâini, două burdufuri cu vin, cinci oi gătite, grâu prăjit, stafide și turte de smochine.
+personaggi|3|10 6:16
+IT|Quale moglie di Davide lo disprezzò vedendolo danzare davanti all'arca?|Mikal|Abigail|Bath-Sceba|Ahinoam|Mikal, figlia di Saul, guardò dalla finestra e vide il re Davide che saltava e danzava, e lo disprezzò in cuor suo.
+RO|Care nevastă a lui David l-a disprețuit când l-a văzut jucând înaintea chivotului?|Mical|Abigail|Bat-Șeba|Ahinoam|Mical, fata lui Saul, s-a uitat pe fereastră și l-a văzut pe împăratul David sărind și jucând, și l-a disprețuit în inima ei.
+personaggi|4|10 14:2
+IT|Da quale città Joab fece venire una donna saggia per convincere Davide a far tornare Absalom?|Tekoa|Abel|Endor|Betlemme|Joab mandò a Tekoa a prendere una donna saggia.
+RO|Din ce cetate a adus Ioab o femeie înțeleaptă ca să-l înduplece pe David să-l aducă înapoi pe Absalom?|Tecoa|Abel|En-Dor|Betleem|Ioab a trimis să aducă din Tecoa o femeie înțeleaptă.
+personaggi|3|11 10:7
+IT|Che cosa disse la regina di Sceba dopo aver visto la sapienza di Salomone?|Che non le era stata detta neppure la metà|Che era tutta una bugia|Che il suo regno era più grande|Che voleva sposarlo|«Non me n'era stata riferita neppure la metà; la tua sapienza e la tua prosperità superano la fama che ne avevo udito».
+RO|Ce a spus împărăteasa din Seba după ce a văzut înțelepciunea lui Solomon?|Că nu i se spusese nici jumătate|Că totul era minciună|Că împărăția ei era mai mare|Că vrea să se mărite cu el|„Nu mi s-a spus nici jumătate. Tu întreci în înțelepciune și propășire tot ce auzisem despre tine.”
+personaggi|3|12 4:1
+IT|Quale vedova chiese aiuto a Eliseo perché il creditore voleva prendere i suoi due figli come schiavi?|La vedova di uno dei figli dei profeti|La donna di Sunem|La vedova di Sarepta|La moglie di Naaman|La moglie di uno dei figli dei profeti gridò a Eliseo: «Il creditore è venuto a prendersi i miei due figli come schiavi».
+RO|Ce văduvă i-a cerut ajutor lui Elisei pentru că datornicul voia să-i ia cei doi fii ca robi?|Văduva unuia din fiii prorocilor|Femeia din Sunem|Văduva din Sarepta|Nevasta lui Naaman|O femeie dintre nevestele fiilor prorocilor a strigat către Elisei: „Datornicul a venit să-mi ia pe cei doi copii ca să-i facă robi.”
+miracoli|3|12 4:35-36
+IT|Il figlio di quale donna Eliseo risuscitò stendendosi su di lui?|Della donna di Sunem|Della vedova di Sarepta|Della moglie di Naaman|Di Jezebel|Il bambino starnutì sette volte e aprì gli occhi. Eliseo chiamò la Sunamita e le disse: «Prendi tuo figlio».
+RO|Pe fiul cărei femei l-a înviat Elisei întinzându-se peste el?|Al femeii din Sunem|Al văduvei din Sarepta|Al nevestei lui Naaman|Al Izabelei|Copilul a strănutat de șapte ori și a deschis ochii. Elisei a chemat-o pe sunamită și i-a zis: „Ia-ți fiul!”
+personaggi|4|12 8:3
+IT|Che cosa chiese al re la donna di Sunem tornando dopo sette anni di carestia?|La sua casa e i suoi campi|Del grano|Un posto a corte|Di vedere Eliseo|Dopo sette anni la donna tornò dal paese dei Filistei e andò a implorare il re per la sua casa e per i suoi campi.
+RO|Ce i-a cerut împăratului femeia din Sunem, întorcându-se după șapte ani de foamete?|Casa și ogoarele ei|Grâu|Un loc la curte|Să-l vadă pe Elisei|După șapte ani, femeia s-a întors din țara filistenilor și s-a dus să se plângă împăratului pentru casa și ogorul ei.
+personaggi|3|12 22:14
+IT|Di chi era moglie la profetessa Hulda?|Di Shallum, custode del guardaroba|Del sacerdote Hilkiah|Del re Giosia|Dello scriba Shafan|La profetessa Hulda era moglie di Shallum, custode del guardaroba.
+RO|A cui nevastă era proorocița Hulda?|A lui Șalum, păzitorul veșmintelor|A preotului Hilchia|A împăratului Iosia|A scriitorului Șafan|Proorocița Hulda era nevasta lui Șalum, păzitorul veșmintelor.
+personaggi|3|17 5:14
+IT|Chi consigliò ad Aman di preparare un patibolo alto cinquanta cubiti per Mardocheo?|Sua moglie Zeresh e i suoi amici|Il re Assuero|Ester|Vashti|Sua moglie Zeresh e tutti i suoi amici gli dissero: «Si prepari un patibolo alto cinquanta cubiti».
+RO|Cine l-a sfătuit pe Haman să pregătească o spânzurătoare înaltă de cincizeci de coți pentru Mardoheu?|Nevasta lui, Zereș, și prietenii lui|Împăratul Ahașveroș|Estera|Vasti|Zereș, nevasta lui, și toți prietenii lui i-au zis: „Să se pregătească o spânzurătoare înaltă de cincizeci de coți.”
+personaggi|3|17 5:2
+IT|Che cosa porse il re Assuero verso Ester quando si presentò senza essere chiamata?|Lo scettro d'oro|Un anello|Una corona|La sua mano|Il re porse a Ester lo scettro d'oro che teneva in mano; Ester si avvicinò e toccò la punta dello scettro.
+RO|Ce a întins împăratul Ahașveroș spre Estera când s-a înfățișat fără să fie chemată?|Toiagul de aur|Un inel|O cunună|Mâna lui|Împăratul a întins Esterei toiagul de aur pe care-l ținea în mână; Estera s-a apropiat și s-a atins de vârful toiagului.
+personaggi|2|28 1:3
+IT|Chi era il padre di Gomer, moglie del profeta Osea?|Diblaim|Beeri|Amoz|Hilkiah|Osea prese Gomer, figlia di Diblaim.
+RO|Cine era tatăl Gomerei, nevasta prorocului Osea?|Diblaim|Beeri|Amoț|Hilchia|Osea a luat-o pe Gomera, fata lui Diblaim.
+personaggi|2|42 1:38
+IT|Che cosa rispose Maria all'angelo Gabriele?|«Ecco la serva del Signore; mi sia fatto secondo la tua parola»|«Non è possibile»|«Chiederò a Giuseppe»|«Dammi un segno»|Maria disse: «Ecco la serva del Signore; mi sia fatto secondo la tua parola». E l'angelo la lasciò.
+RO|Ce i-a răspuns Maria îngerului Gavril?|„Iată roaba Domnului; fie-mi după cuvintele tale!”|„Nu este cu putință”|„Îl voi întreba pe Iosif”|„Dă-mi un semn”|Maria a zis: „Iată roaba Domnului; facă-mi-se după cuvintele tale!” Și îngerul a plecat de la ea.
+personaggi|2|42 1:46
+IT|Con quali parole comincia il cantico di Maria (il Magnificat)?|«L'anima mia magnifica il Signore»|«Benedetto il Signore Dio d'Israele»|«Ora, Signore, lascia andare in pace il tuo servo»|«Gloria a Dio nell'alto dei cieli»|Maria disse: «L'anima mia magnifica il Signore, e lo spirito mio esulta in Dio, mio Salvatore».
+RO|Cu ce cuvinte începe cântarea Mariei?|„Sufletul meu mărește pe Domnul”|„Binecuvântat să fie Domnul, Dumnezeul lui Israel”|„Acum, slobozește în pace pe robul Tău”|„Slavă lui Dumnezeu în locurile preaînalte”|Maria a zis: „Sufletul meu mărește pe Domnul și mi se bucură duhul în Dumnezeu, Mântuitorul meu.”
+personaggi|3|42 1:36
+IT|Quale parente di Maria aveva concepito un figlio nella vecchiaia, al sesto mese?|Elisabetta|Anna|Salome|Marta|«Ecco, anche Elisabetta, tua parente, ha concepito un figlio nella sua vecchiaia; ed è già al sesto mese».
+RO|Ce rudă a Mariei rămăsese însărcinată la bătrânețe, în luna a șasea?|Elisabeta|Ana|Salomeea|Marta|„Iată că Elisabeta, ruda ta, a rămas însărcinată cu un fiu la bătrânețea ei, și cea care era numită stearpă este acum în luna a șasea.”
+personaggi|3|42 8:2
+IT|Da quale donna Gesù aveva scacciato sette demoni?|Maria di Magdala|Marta|Giovanna|Susanna|Maria, detta Maddalena, dalla quale erano usciti sette demoni.
+RO|Din ce femeie scosese Isus șapte draci?|Maria Magdalena|Marta|Ioana|Suzana|Maria, zisă Magdalena, din care ieșiseră șapte draci.
+miracoli|3|42 13:11
+IT|Da quanti anni era curva la donna che Gesù guarì di sabato nella sinagoga?|Diciotto|Dodici|Trentotto|Sette|C'era una donna che da diciotto anni aveva uno spirito d'infermità; era tutta curva e non poteva raddrizzarsi.
+RO|De câți ani era gârbovă femeia pe care a vindecat-o Isus în Sabat, în sinagogă?|Optsprezece|Doisprezece|Treizeci și opt|Șapte|Acolo era o femeie stăpânită de optsprezece ani de un duh de neputință; era gârbovă și nu putea nicicum să-și îndrepte spatele.
+personaggi|3|40 15:22
+IT|Quale donna straniera chiese a Gesù di liberare sua figlia dicendo «anche i cagnolini mangiano le briciole»?|Una donna cananea|Una donna samaritana|La moglie di Pilato|Una vedova di Nain|Una donna cananea gridava: «Abbi pietà di me, Signore, Figlio di Davide! Mia figlia è gravemente tormentata».
+RO|Ce femeie străină I-a cerut lui Isus să-i vindece fiica, zicând că „și cățeii mănâncă firimiturile”?|O femeie cananeancă|O femeie samariteancă|Nevasta lui Pilat|O văduvă din Nain|O femeie cananeancă striga: „Ai milă de mine, Doamne, Fiul lui David! Fiica mea este muncită rău de un drac.”
+personaggi|3|40 20:20
+IT|Quale madre chiese a Gesù che i suoi due figli sedessero uno alla destra e uno alla sinistra nel suo regno?|La madre dei figli di Zebedeo|Maria|Elisabetta|La suocera di Pietro|La madre dei figli di Zebedeo si avvicinò a Gesù con i suoi figli e si prostrò per chiedergli qualcosa.
+RO|Ce mamă I-a cerut lui Isus ca cei doi fii ai ei să șadă unul la dreapta și altul la stânga în Împărăția Lui?|Mama fiilor lui Zebedei|Maria|Elisabeta|Soacra lui Petru|Mama fiilor lui Zebedei s-a apropiat de Isus împreună cu fiii ei și I s-a închinat, ca să-I ceară ceva.
+personaggi|3|43 4:18
+IT|Quanti mariti aveva avuto la donna samaritana, secondo Gesù?|Cinque|Tre|Sette|Uno|«Hai avuto cinque mariti, e quello che hai ora non è tuo marito».
+RO|Câți bărbați avusese femeia samariteancă, după Isus?|Cinci|Trei|Șapte|Unul|„Cinci bărbați ai avut; și acela pe care-l ai acum nu-ți este bărbat.”
+personaggi|3|43 4:28
+IT|Che cosa lasciò la samaritana quando corse in città a parlare di Gesù?|Il suo secchio|Il suo mantello|I suoi sandali|Il suo velo|La donna lasciò il suo secchio, andò in città e disse alla gente: «Venite a vedere un uomo che mi ha detto tutto quello che ho fatto».
+RO|Ce și-a lăsat samariteanca atunci când a alergat în cetate să vorbească despre Isus?|Găleata|Mantaua|Sandalele|Vălul|Femeia și-a lăsat găleata, s-a dus în cetate și a zis oamenilor: „Veniți de vedeți un om care mi-a spus tot ce am făcut.”
+personaggi|4|44 21:9
+IT|Quante figlie vergini che profetizzavano aveva l'evangelista Filippo?|Quattro|Due|Tre|Sette|Filippo l'evangelista aveva quattro figlie vergini che profetizzavano.
+RO|Câte fiice fecioare care prooroceau avea Filip, evanghelistul?|Patru|Două|Trei|Șapte|Filip, evanghelistul, avea patru fete fecioare care prooroceau.
+personaggi|4|44 25:13
+IT|Chi arrivò a Cesarea con il re Agrippa per salutare Festo?|Berenice|Drusilla|Candace|Salome|Il re Agrippa e Berenice giunsero a Cesarea per salutare Festo.
+RO|Cine a venit la Cezareea cu împăratul Agripa ca să-l salute pe Festus?|Berenice|Drusila|Candace|Salomeea|Împăratul Agripa și Berenice au venit la Cezareea ca să-l salute pe Festus.
+personaggi|4|44 24:24
+IT|Come si chiamava la moglie ebrea del governatore Felice?|Drusilla|Berenice|Priscilla|Febe|Felice venne con Drusilla, sua moglie, che era giudea, e mandò a chiamare Paolo.
+RO|Cum se numea nevasta evreică a dregătorului Felix?|Drusila|Berenice|Priscila|Fivi|Felix a venit cu Drusila, nevasta sa, care era iudeică, și a trimis să-l cheme pe Pavel.
+personaggi|4|1 38:14
+IT|Come si travestì Tamar per ingannare il suocero Giuda?|Si coprì con un velo|Si vestì da uomo|Si vestì da serva|Si tagliò i capelli|Tamar si tolse le vesti da vedova, si coprì con un velo e si sedette all'ingresso di Enaim.
+RO|Cum s-a deghizat Tamar ca să-l înșele pe socrul ei, Iuda?|S-a acoperit cu un văl|S-a îmbrăcat bărbătește|S-a îmbrăcat ca o slujnică|Și-a tăiat părul|Tamar și-a scos hainele de văduvă, s-a acoperit cu un văl și s-a așezat la intrarea Enaimului.
+personaggi|4|4 26:59
+IT|Come si chiamava la madre di Aaronne, Mosè e Miriam?|Jokebed|Elisceba|Miriam|Tsipporah|La moglie di Amram si chiamava Jokebed, figlia di Levi; essa partorì ad Amram Aaronne, Mosè e Miriam.
+RO|Cum se numea mama lui Aaron, Moise și Maria?|Iochebed|Elișeba|Maria|Sefora|Nevasta lui Amram se numea Iochebed, fata lui Levi; ea i-a născut lui Amram pe Aaron, pe Moise și pe Maria.
+personaggi|2|41 16:1
+IT|Che cosa comprarono Maria Maddalena, Maria madre di Giacomo e Salome dopo il sabato?|Degli aromi per ungere Gesù|Del pane|Delle vesti nuove|Una lampada|Passato il sabato, comprarono degli aromi per andare a ungere Gesù.
+RO|Ce au cumpărat Maria Magdalena, Maria, mama lui Iacov, și Salomeea după Sabat?|Miresme ca să-L ungă pe Isus|Pâine|Haine noi|O lampă|După ce a trecut ziua Sabatului, au cumpărat miresme ca să se ducă să ungă trupul lui Isus.
+personaggi|3|41 16:3
+IT|Che cosa si chiedevano le donne andando al sepolcro?|Chi avrebbe rotolato la pietra|Se le guardie dormivano|Dove fosse Pietro|Se avevano abbastanza aromi|Dicevano fra loro: «Chi ci rotolerà la pietra dall'apertura del sepolcro?».
+RO|Ce se întrebau femeile mergând la mormânt?|Cine le va prăvăli piatra|Dacă străjerii dormeau|Unde era Petru|Dacă aveau destule miresme|Ziceau una către alta: „Cine ne va prăvăli piatra de la ușa mormântului?”

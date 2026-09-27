@@ -1,0 +1,142 @@
+# Domande nuove — i numeri della Bibbia
+at|3|1 5:5
+IT|Quanti anni visse in tutto Adamo?|Novecentotrenta|Novecentosessantanove|Ottocento|Settecentosettantasette|Tutto il tempo che Adamo visse fu di novecentotrent'anni; poi morì.
+RO|Câți ani a trăit Adam cu totul?|Nouă sute treizeci|Nouă sute șaizeci și nouă|Opt sute|Șapte sute șaptezeci și șapte|Toate zilele pe care le-a trăit Adam au fost de nouă sute treizeci de ani; apoi a murit.
+at|3|1 5:23
+IT|Quanti anni visse Enok prima che Dio lo prendesse?|Trecentosessantacinque|Novecento|Cento|Seicento|Tutto il tempo che Enok visse fu di trecentosessantacinque anni.
+RO|Câți ani a trăit Enoh înainte să-l ia Dumnezeu?|Trei sute șaizeci și cinci|Nouă sute|O sută|Șase sute|Toate zilele lui Enoh au fost de trei sute șaizeci și cinci de ani.
+at|3|1 9:29
+IT|Quanti anni visse in tutto Noè?|Novecentocinquanta|Seicento|Novecentotrenta|Settecento|Tutto il tempo che Noè visse fu di novecentocinquant'anni; poi morì.
+RO|Câți ani a trăit Noe cu totul?|Nouă sute cincizeci|Șase sute|Nouă sute treizeci|Șapte sute|Toate zilele lui Noe au fost de nouă sute cincizeci de ani; apoi a murit.
+at|3|1 7:24
+IT|Per quanti giorni le acque rimasero alte sopra la terra durante il diluvio?|Centocinquanta|Quaranta|Settanta|Un anno intero|Le acque rimasero alte sopra la terra per centocinquanta giorni.
+RO|Câte zile au rămas apele mari deasupra pământului în timpul potopului?|O sută cincizeci|Patruzeci|Șaptezeci|Un an întreg|Apele au fost mari pe pământ timp de o sută cincizeci de zile.
+at|3|1 8:10
+IT|Quanti giorni aspettò Noè prima di mandare di nuovo la colomba?|Sette|Tre|Quaranta|Uno|Noè aspettò altri sette giorni, poi mandò di nuovo la colomba fuori dall'arca.
+RO|Câte zile a așteptat Noe până să trimită din nou porumbelul?|Șapte|Trei|Patruzeci|Una|Noe a mai așteptat alte șapte zile și a dat iarăși drumul porumbelului din corabie.
+at|3|1 17:1
+IT|Quanti anni aveva Abramo quando l'Eterno gli apparve dicendo: «Io sono il Dio onnipotente»?|Novantanove|Cento|Settantacinque|Ottantasei|Quando Abramo ebbe novantanove anni, l'Eterno gli apparve e gli disse: «Io sono il Dio onnipotente».
+RO|Câți ani avea Avram când i S-a arătat Domnul zicând: „Eu sunt Dumnezeul cel Atotputernic”?|Nouăzeci și nouă|O sută|Șaptezeci și cinci|Optzeci și șase|Când a fost Avram în vârstă de nouăzeci și nouă de ani, Domnul i S-a arătat și i-a zis: „Eu sunt Dumnezeul cel Atotputernic.”
+at|3|1 23:1
+IT|Quanti anni visse Sara?|Centoventisette|Novanta|Cento|Centosettantacinque|Sara visse centoventisette anni: questi furono gli anni della vita di Sara.
+RO|Ce vârstă a atins Sara, soția lui Avraam?|O sută douăzeci și șapte|Nouăzeci|O sută|O sută șaptezeci și cinci|Sara a trăit o sută douăzeci și șapte de ani: atâția au fost anii vieții Sarei.
+at|3|1 25:7
+IT|Quanti anni visse Abrahamo?|Centosettantacinque|Centoventisette|Cento|Centottanta|Il totale degli anni della vita di Abrahamo fu di centosettantacinque.
+RO|Până la ce vârstă a trăit Avraam?|O sută șaptezeci și cinci|O sută douăzeci și șapte|O sută|O sută optzeci|Zilele anilor vieții lui Avraam au fost de o sută șaptezeci și cinci de ani.
+at|3|1 25:20
+IT|Quanti anni aveva Isacco quando sposò Rebecca?|Quaranta|Trenta|Sessanta|Venti|Isacco aveva quarant'anni quando prese in moglie Rebecca.
+RO|Câți ani avea Isaac când s-a însurat cu Rebeca?|Patruzeci|Treizeci|Șaizeci|Douăzeci|Isaac era în vârstă de patruzeci de ani când a luat-o de nevastă pe Rebeca.
+at|3|1 35:28
+IT|Quanti anni visse Isacco?|Centottanta|Centosettantacinque|Centoventi|Centotrenta|Isacco visse centottant'anni; poi spirò e morì vecchio e sazio di giorni.
+RO|Până la ce vârstă a trăit Isaac?|O sută optzeci|O sută șaptezeci și cinci|O sută douăzeci|O sută treizeci|Zilele lui Isaac au fost de o sută optzeci de ani; apoi a murit bătrân și sătul de zile.
+at|3|1 37:2
+IT|Quanti anni aveva Giuseppe quando pascolava il gregge con i fratelli e fece i sogni?|Diciassette|Dodici|Trenta|Venti|Giuseppe, all'età di diciassette anni, pascolava il gregge con i suoi fratelli.
+RO|Câți ani avea Iosif când păștea turma cu frații lui și a avut visele?|Șaptesprezece|Doisprezece|Treizeci|Douăzeci|Iosif, în vârstă de șaptesprezece ani, păștea oile cu frații lui.
+at|3|1 46:27
+IT|Quante persone della famiglia di Giacobbe entrarono in Egitto?|Settanta|Dodici|Cento|Quaranta|Le persone della famiglia di Giacobbe che entrarono in Egitto erano in tutto settanta.
+RO|Câte suflete din casa lui Iacov au venit în Egipt?|Șaptezeci|Douăsprezece|O sută|Patruzeci|Toate sufletele din casa lui Iacov, care au venit în Egipt, erau șaptezeci.
+at|3|1 47:28
+IT|Quanti anni visse Giacobbe in tutto?|Centoquarantasette|Centotrenta|Centottanta|Centodieci|Gli anni della vita di Giacobbe furono centoquarantasette.
+RO|Câți ani a trăit Iacov cu totul?|O sută patruzeci și șapte|O sută treizeci|O sută optzeci|O sută zece|Zilele anilor vieții lui Iacov au fost de o sută patruzeci și șapte de ani.
+at|3|2 7:7
+IT|Che età aveva Mosè quando lui e Aaronne parlarono al Faraone?|Ottanta|Quaranta|Centoventi|Sessanta|Mosè aveva ottant'anni e Aaronne ottantatré, quando parlarono al Faraone.
+RO|Câți ani avea Moise când a vorbit lui Faraon?|Optzeci|Patruzeci|O sută douăzeci|Șaizeci|Moise era de optzeci de ani și Aaron de optzeci și trei, când au vorbit lui Faraon.
+at|3|2 12:37
+IT|Quanti uomini a piedi, senza contare i bambini, partirono da Ramses?|Circa seicentomila|Circa settantamila|Circa un milione|Circa diecimila|I figli d'Israele partirono da Ramses per Sukkoth, circa seicentomila uomini a piedi, senza contare i bambini.
+RO|Câți bărbați pedeștri, afară de copii, au plecat din Ramses?|Aproape șase sute de mii|Aproape șaptezeci de mii|Aproape un milion|Aproape zece mii|Copiii lui Israel au plecat din Ramses spre Sucot în număr de aproape șase sute de mii de bărbați pedeștri, afară de copii.
+at|3|2 26:1
+IT|Di quanti teli era fatto il tabernacolo?|Dieci|Sette|Dodici|Quattro|Farai il tabernacolo di dieci teli di lino fino ritorto, di filo violaceo, porporino e scarlatto.
+RO|Din câți covoare era făcut cortul?|Zece|Șapte|Douăsprezece|Patru|Să faci cortul din zece covoare de in subțire răsucit, de fir albastru, purpuriu și cârmâziu.
+at|3|2 28:21
+IT|Quante pietre preziose c'erano sul pettorale del sommo sacerdote?|Dodici|Sette|Dieci|Quattro|Le pietre corrisponderanno ai nomi dei figli d'Israele: saranno dodici, secondo i loro nomi.
+RO|Câte pietre scumpe erau pe pieptarul marelui preot?|Douăsprezece|Șapte|Zece|Patru|Pietrele să fie după numele fiilor lui Israel, douăsprezece, după numele lor.
+at|3|3 12:3
+IT|In quale giorno doveva essere circonciso il bambino maschio?|L'ottavo|Il settimo|Il primo|Il quarantesimo|L'ottavo giorno il bambino sarà circonciso.
+RO|În a câta zi trebuia tăiat împrejur pruncul de parte bărbătească?|A opta|A șaptea|Prima|A patruzecea|În ziua a opta, pruncul să fie tăiat împrejur.
+at|3|3 23:16
+IT|Quanti giorni si contavano dal giorno dopo il sabato della Pasqua fino alla festa delle Settimane?|Cinquanta|Quaranta|Sette|Settanta|Conterete cinquanta giorni fino al giorno dopo il settimo sabato, e offrirete all'Eterno una nuova oblazione.
+RO|Câte zile se numărau de a doua zi după Sabatul Paștelui până la sărbătoarea Săptămânilor?|Cincizeci|Patruzeci|Șapte|Șaptezeci|Să numărați cincizeci de zile până în ziua care vine după al șaptelea Sabat și să aduceți Domnului un nou dar de mâncare.
+at|3|4 1:46
+IT|Quanti erano gli uomini d'Israele atti alla guerra nel primo censimento nel deserto?|Seicentotremila cinquecento cinquanta|Seicentomila esatti|Settantamila|Un milione|Tutti quelli di cui fu fatto il censimento furono seicentotremilacinquecentocinquanta.
+RO|Câți bărbați ai lui Israel în stare să poarte armele au fost la prima numărătoare din pustie?|Șase sute trei mii cinci sute cincizeci|Exact șase sute de mii|Șaptezeci de mii|Un milion|Toți cei ce au fost numărați au fost șase sute trei mii cinci sute cincizeci.
+at|3|4 11:16
+IT|Quanti anziani Dio disse a Mosè di radunare per aiutarlo a portare il peso del popolo?|Settanta|Dodici|Sette|Cento|L'Eterno disse a Mosè: «Radunami settanta uomini fra gli anziani d'Israele».
+RO|Câți bătrâni i-a spus Dumnezeu lui Moise să strângă ca să-l ajute să poarte povara poporului?|Șaptezeci|Doisprezece|Șapte|O sută|Domnul a zis lui Moise: „Strânge-Mi șaptezeci de bărbați din bătrânii lui Israel.”
+at|3|4 13:25
+IT|Dopo quanti giorni tornarono gli esploratori di Canaan?|Quaranta|Sette|Dodici|Trenta|Alla fine di quaranta giorni tornarono dall'esplorare il paese.
+RO|După câte zile s-au întors iscoadele din Canaan?|Patruzeci|Șapte|Douăsprezece|Treizeci|După ce au iscodit țara, s-au întors după patruzeci de zile.
+at|3|4 33:39
+IT|Quanti anni aveva Aaronne quando morì sul monte Hor?|Centoventitré|Centoventi|Centodieci|Novanta|Aaronne aveva centoventitré anni quando morì sul monte Hor.
+RO|Câți ani avea Aaron când a murit pe muntele Hor?|O sută douăzeci și trei|O sută douăzeci|O sută zece|Nouăzeci|Aaron era în vârstă de o sută douăzeci și trei de ani când a murit pe muntele Hor.
+at|3|6 4:13
+IT|Quanti uomini armati di Ruben, Gad e mezza tribù di Manasse passarono il Giordano davanti al popolo?|Circa quarantamila|Circa dodicimila|Circa centomila|Circa settemila|Circa quarantamila uomini armati per la guerra passarono davanti all'Eterno, nelle pianure di Gerico.
+RO|Câți bărbați înarmați din Ruben, Gad și jumătate din Manase au trecut Iordanul înaintea poporului?|Aproape patruzeci de mii|Aproape douăsprezece mii|Aproape o sută de mii|Aproape șapte mii|Aproape patruzeci de mii de oameni înarmați de război au trecut înaintea Domnului, în câmpiile Ierihonului.
+at|3|7 3:8
+IT|Per quanti anni gli Israeliti servirono Kushan-Rishathaim, re di Mesopotamia?|Otto|Diciotto|Venti|Quaranta|I figli d'Israele furono asserviti a Kushan-Rishathaim per otto anni.
+RO|Câți ani au fost israeliții supuși lui Cușan-Rișeataim, împăratul Mesopotamiei?|Opt|Optsprezece|Douăzeci|Patruzeci|Copiii lui Israel au fost supuși lui Cușan-Rișeataim opt ani.
+at|3|7 13:1
+IT|Per quanti anni l'Eterno diede Israele nelle mani dei Filistei prima di Sansone?|Quaranta|Venti|Sette|Otto|L'Eterno li diede nelle mani dei Filistei per quarant'anni.
+RO|Câți ani i-a dat Domnul pe israeliți în mâinile filistenilor înainte de Samson?|Patruzeci|Douăzeci|Șapte|Opt|Domnul i-a dat în mâinile filistenilor patruzeci de ani.
+at|3|7 16:31
+IT|Per quanti anni Sansone giudicò Israele?|Venti|Quaranta|Sette|Dodici|Sansone era stato giudice d'Israele per vent'anni.
+RO|Câți ani l-a judecat Samson pe Israel?|Douăzeci|Patruzeci|Șapte|Doisprezece|Samson fusese judecător în Israel douăzeci de ani.
+at|3|9 4:15
+IT|Quanti anni aveva il sacerdote Eli quando morì?|Novantotto|Centoventi|Ottanta|Settanta|Eli aveva novantotto anni; i suoi occhi erano offuscati e non ci vedeva più.
+RO|Câți ani avea preotul Eli când a murit?|Nouăzeci și opt|O sută douăzeci|Optzeci|Șaptezeci|Eli era în vârstă de nouăzeci și opt de ani; avea ochii întunecați și nu mai putea să vadă.
+at|3|9 17:4
+IT|Quale era la statura del gigante Goliath di Gath?|Sei cubiti e un palmo|Tre cubiti|Dieci cubiti|Quattro cubiti e mezzo|Goliath, di Gath, era alto sei cubiti e un palmo.
+RO|Cât de înalt era Goliat?|Șase coți și o palmă|Trei coți|Zece coți|Patru coți și jumătate|Goliat, din Gat, avea o înălțime de șase coți și o palmă.
+at|3|10 5:5
+IT|Per quanti anni regnò Davide su Giuda a Hebron?|Sette anni e sei mesi|Quarant'anni|Due anni|Dieci anni|A Hebron regnò su Giuda sette anni e sei mesi, e a Gerusalemme regnò trentatré anni su tutto Israele e Giuda.
+RO|Câți ani a domnit David peste Iuda la Hebron?|Șapte ani și șase luni|Patruzeci de ani|Doi ani|Zece ani|La Hebron a domnit peste Iuda șapte ani și șase luni, iar la Ierusalim a domnit treizeci și trei de ani peste tot Israelul și Iuda.
+at|3|11 6:1
+IT|In quale anno dopo l'uscita dall'Egitto Salomone cominciò a costruire il tempio?|Nell'anno quattrocentottanta|Nell'anno quattrocento|Nell'anno settanta|Nell'anno quaranta|Nell'anno quattrocentottantesimo dopo l'uscita dei figli d'Israele dal paese d'Egitto… Salomone cominciò a costruire la casa dell'Eterno.
+RO|În al câtelea an după ieșirea din Egipt a început Solomon să zidească templul?|În al patru sute optzecilea|În al patru sutelea|În al șaptezecilea|În al patruzecilea|În al patru sute optzecilea an după ieșirea copiilor lui Israel din țara Egiptului… Solomon a început să zidească Casa Domnului.
+at|3|11 6:2
+IT|Quanti cubiti era lungo il tempio costruito da Salomone?|Sessanta|Cento|Trenta|Quaranta|La casa che il re Salomone costruì all'Eterno aveva sessanta cubiti di lunghezza, venti di larghezza e trenta di altezza.
+RO|Câți coți de lungă era casa zidită de Solomon?|Șaizeci|O sută|Treizeci|Patruzeci|Casa pe care a zidit-o împăratul Solomon pentru Domnul avea o lungime de șaizeci de coți, o lățime de douăzeci și o înălțime de treizeci.
+at|3|11 7:23
+IT|Quanti cubiti misurava da un orlo all'altro il «mare» di metallo fuso del tempio?|Dieci|Cinque|Venti|Trenta|Fece il mare di metallo fuso; aveva dieci cubiti da un orlo all'altro ed era di forma perfettamente rotonda.
+RO|Câți coți avea de la o margine la alta „marea” turnată a templului?|Zece|Cinci|Douăzeci|Treizeci|A făcut marea turnată; avea zece coți de la o margine la alta și era cu totul rotundă.
+at|3|11 7:25
+IT|Su quanti buoi di bronzo poggiava il «mare» del tempio di Salomone?|Dodici|Quattro|Sette|Venti|Il mare poggiava su dodici buoi: tre volti a settentrione, tre a occidente, tre a mezzogiorno e tre a oriente.
+RO|Pe câți boi de aramă stătea „marea” templului lui Solomon?|Doisprezece|Patru|Șapte|Douăzeci|Marea stătea pe doisprezece boi: trei întorși spre miazănoapte, trei spre apus, trei spre miazăzi și trei spre răsărit.
+at|3|11 10:14
+IT|Quanti talenti d'oro arrivavano a Salomone ogni anno?|Seicentosessantasei|Cento|Mille|Settanta|Il peso dell'oro che arrivava ogni anno a Salomone era di seicentosessantasei talenti d'oro.
+RO|Câți talanți de aur primea Solomon în fiecare an?|Șase sute șaizeci și șase|O sută|O mie|Șaptezeci|Greutatea aurului care venea lui Solomon pe fiecare an era de șase sute șaizeci și șase de talanți de aur.
+at|3|11 10:26
+IT|Quanti carri radunò il re Salomone?|Millequattrocento|Trecento|Diecimila|Settecento|Salomone radunò carri e cavalieri; aveva millequattrocento carri e dodicimila cavalieri.
+RO|Câte care avea Solomon?|O mie patru sute|Trei sute|Zece mii|Șapte sute|Solomon a strâns care și călăreți; avea o mie patru sute de care și douăsprezece mii de călăreți.
+at|3|11 11:3
+IT|Quante concubine ebbe Salomone?|Trecento|Settecento|Cento|Mille|Ebbe settecento principesse per mogli e trecento concubine.
+RO|Câte țiitoare a avut Solomon?|Trei sute|Șapte sute|O sută|O mie|A avut șapte sute de neveste, fiice de domnitori, și trei sute de țiitoare.
+at|3|12 25:8
+IT|In quale mese Nebuzaradan venne a Gerusalemme a bruciare il tempio?|Nel quinto mese|Nel primo mese|Nel settimo mese|Nel dodicesimo mese|Il settimo giorno del quinto mese… Nebuzaradan, capo delle guardie, venne a Gerusalemme.
+RO|În ce lună a venit Nebuzaradan la Ierusalim să ardă templul?|În luna a cincea|În luna întâi|În luna a șaptea|În luna a douăsprezecea|În ziua a șaptea a lunii a cincea… Nebuzaradan, căpetenia străjerilor, a venit la Ierusalim.
+at|3|15 2:64
+IT|Quante persone tornarono in tutto dalla cattività con Zorobabele?|Quarantaduemila trecentosessanta|Settanta|Diecimila|Seicentomila|L'assemblea tutta intera era di quarantaduemilatrecentosessanta persone.
+RO|Câte persoane s-au întors cu totul din robie cu Zorobabel?|Patruzeci și două de mii trei sute șaizeci|Șaptezeci|Zece mii|Șase sute de mii|Toată adunarea laolaltă era de patruzeci și două de mii trei sute șaizeci de persoane.
+at|3|17 1:1
+IT|Dall'India all'Etiopia, su quante province regnava Assuero?|Centoventisette|Dodici|Settanta|Mille|Assuero regnava dall'India all'Etiopia su centoventisette province.
+RO|Peste câte ținuturi domnea împăratul Ahașveroș?|O sută douăzeci și șapte|Douăsprezece|Șaptezeci|O mie|Ahașveroș domnea de la India până în Etiopia peste o sută douăzeci și șapte de ținuturi.
+at|3|17 1:4
+IT|Per quanti giorni il re Assuero mostrò le ricchezze del suo regno?|Centottanta|Sette|Quaranta|Trenta|Mostrò le ricchezze del suo glorioso regno per molti giorni, per centottanta giorni.
+RO|Câte zile a arătat împăratul Ahașveroș bogățiile împărăției lui?|O sută optzeci|Șapte|Patruzeci|Treizeci|A arătat bogăția slavei împărăției lui multe zile, o sută optzeci de zile.
+at|3|18 42:16
+IT|Quanti anni visse ancora Giobbe dopo la sua restaurazione?|Centoquaranta|Settanta|Cento|Quaranta|Dopo questo Giobbe visse ancora centoquarant'anni e vide i suoi figli e i figli dei suoi figli fino alla quarta generazione.
+RO|Câți ani a mai trăit Iov după ce a fost repus în starea lui?|O sută patruzeci|Șaptezeci|O sută|Patruzeci|După aceea, Iov a mai trăit o sută patruzeci de ani și a văzut pe fiii lui și pe fiii fiilor lui până la al patrulea neam.
+at|3|42 8:42
+IT|Quanti anni aveva la figlia di Iairo, che stava morendo?|Circa dodici|Sette|Diciotto|Tre|Aveva un'unica figlia di circa dodici anni, che stava morendo.
+RO|Câți ani avea fiica lui Iair, care era pe moarte?|Cam doisprezece|Șapte|Optsprezece|Trei|Avea o singură fiică, cam de doisprezece ani, care trăgea să moară.
+at|3|43 2:20
+IT|In quanti anni, dissero i Giudei, era stato costruito il tempio di Gerusalemme?|Quarantasei|Sette|Tredici|Settanta|I Giudei dissero: «Questo tempio è stato costruito in quarantasei anni, e tu lo faresti risorgere in tre giorni?».
+RO|În câți ani, au zis iudeii, fusese zidit templul din Ierusalim?|Patruzeci și șase|Șapte|Treisprezece|Șaptezeci|Iudeii au zis: „Au trebuit patruzeci și șase de ani ca să se zidească templul acesta, și Tu îl vei ridica în trei zile?”
+at|3|44 1:15
+IT|Quante persone erano radunate quando Pietro propose di sostituire Giuda?|Circa centoventi|Dodici|Settanta|Circa tremila|In quei giorni Pietro si alzò in mezzo ai fratelli (il numero delle persone riunite era di circa centoventi).
+RO|Câte persoane erau adunate când a propus Petru să fie înlocuit Iuda?|Aproape o sută douăzeci|Douăsprezece|Șaptezeci|Aproape trei mii|În zilele acelea, Petru s-a sculat în mijlocul fraților (numărul celor adunați era de aproape o sută douăzeci).
+at|4|44 23:23
+IT|Con quanti soldati fu scortato Paolo da Gerusalemme a Cesarea?|Duecento soldati, settanta cavalieri e duecento lancieri|Dodici soldati|Mille soldati|Solo il tribuno|«Tenete pronti duecento soldati per andare fino a Cesarea, settanta cavalieri e duecento lancieri».
+RO|Cu câți ostași a fost însoțit Pavel de la Ierusalim la Cezareea?|Două sute de ostași, șaptezeci de călăreți și două sute de sulițași|Doisprezece ostași|O mie de ostași|Numai căpitanul|„Pregătiți două sute de ostași, șaptezeci de călăreți și două sute de sulițași, ca să meargă până la Cezareea.”
+at|4|66 21:17
+IT|Quanti cubiti misurava il muro della nuova Gerusalemme?|Centoquarantaquattro|Dodici|Mille|Settanta|Misurò anche il muro: centoquarantaquattro cubiti, a misura d'uomo, cioè d'angelo.
+RO|Câți coți avea zidul Noului Ierusalim?|O sută patruzeci și patru|Doisprezece|O mie|Șaptezeci|A măsurat și zidul: o sută patruzeci și patru de coți, după măsura omului, care era și măsura îngerului.

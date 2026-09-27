@@ -1,0 +1,172 @@
+# Domande nuove — Vangeli di Marco e Luca
+miracoli|2|41 2:4
+IT|Come portarono il paralitico davanti a Gesù, a Capernaum, a causa della folla?|Scoperchiarono il tetto e lo calarono giù|Lo fecero passare dalla finestra|Aspettarono la sera|Lo portarono in barca|Non potendo accostarsi a causa della folla, scoperchiarono il tetto e calarono il lettuccio del paralitico.
+RO|Cum l-au adus pe slăbănog înaintea lui Isus, la Capernaum, din pricina mulțimii?|Au desfăcut acoperișul și l-au coborât|L-au trecut pe fereastră|Au așteptat până seara|L-au adus cu corabia|Neputând să se apropie din pricina norodului, au desfăcut acoperișul și au coborât patul pe care zăcea slăbănogul.
+personaggi|3|41 3:17
+IT|Quale soprannome diede Gesù a Giacomo e Giovanni?|Boanerges, figli del tuono|Figli della luce|Pietre vive|Pescatori di uomini|A Giacomo e Giovanni pose nome Boanerges, che significa «figli del tuono».
+RO|Ce nume le-a dat Isus lui Iacov și lui Ioan?|Boanerghes, fiii tunetului|Fiii luminii|Pietre vii|Pescari de oameni|Lui Iacov și lui Ioan le-a pus numele Boanerghes, care înseamnă „fiii tunetului”.
+miracoli|3|41 5:9
+IT|Che nome disse di avere lo spirito immondo nell'indemoniato di Gerasa?|Legione|Belzebù|Satana|Abaddon|«Il mio nome è Legione, perché siamo molti».
+RO|Ce nume a spus că are duhul necurat din îndrăcitul din Gadara?|Legiune|Beelzebul|Satana|Abadon|„Numele meu este Legiune, pentru că suntem mulți.”
+miracoli|2|41 5:22
+IT|Quale capo della sinagoga chiese a Gesù di guarire la figlia moribonda?|Iairo|Nicodemo|Zaccheo|Gamaliele|Venne uno dei capi della sinagoga, chiamato Iairo, e si gettò ai piedi di Gesù.
+RO|Ce fruntaș al sinagogii I-a cerut lui Isus să-i vindece fiica pe moarte?|Iair|Nicodim|Zacheu|Gamaliel|A venit unul din fruntașii sinagogii, numit Iair, și s-a aruncat la picioarele lui Isus.
+miracoli|3|41 5:41
+IT|Quali parole aramaiche disse Gesù alla figlia di Iairo?|«Talitha kumi»|«Effatha»|«Maranatha»|«Eli, Eli»|Presa la mano della bambina, le disse: «Talitha kumi», che significa: «Fanciulla, io ti dico, alzati».
+RO|Ce cuvinte aramaice i-a spus Isus fiicei lui Iair?|„Talita cumi”|„Efata”|„Maranata”|„Eli, Eli”|A apucat-o de mână și i-a zis: „Talita cumi”, care înseamnă: „Fetițo, scoală-te, îți spun Eu!”
+miracoli|3|41 7:34
+IT|Che cosa disse Gesù al sordomuto, guardando verso il cielo?|«Effatha», cioè «Apriti»|«Talitha kumi»|«Lazzaro, vieni fuori»|«Va' in pace»|Guardando verso il cielo, sospirò e gli disse: «Effatha», cioè: «Apriti».
+RO|Ce i-a zis Isus surdo-mutului, privind spre cer?|„Efata”, adică „Deschide-te!”|„Talita cumi”|„Lazăre, vino afară”|„Du-te în pace”|Și-a ridicat ochii spre cer, a suspinat și a zis: „Efata!”, adică: „Deschide-te!”
+miracoli|3|41 8:24
+IT|Che cosa vide all'inizio il cieco di Betsaida dopo il primo tocco di Gesù?|Uomini che sembravano alberi che camminano|Solo luce|Solo ombre|Le stelle|«Vedo degli uomini, perché li vedo come alberi che camminano».
+RO|Ce a văzut la început orbul din Betsaida după prima atingere a lui Isus?|Oameni care umblau ca niște copaci|Numai lumină|Numai umbre|Stelele|„Văd niște oameni umblând, dar mi se par ca niște copaci.”
+personaggi|2|41 10:46
+IT|Come si chiamava il mendicante cieco di Gerico, figlio di Timeo?|Bartimeo|Zaccheo|Lazzaro|Iairo|Il figlio di Timeo, Bartimeo, mendicante cieco, sedeva lungo la strada.
+RO|Cum se numea cerșetorul orb din Ierihon, fiul lui Timeu?|Bartimeu|Zacheu|Lazăr|Iair|Fiul lui Timeu, Bartimeu, un cerșetor orb, ședea lângă drum.
+personaggi|2|41 12:42
+IT|Quanto mise nella cassa delle offerte la vedova povera lodata da Gesù?|Due spiccioli|Un siclo d'argento|Un denaro|Niente|Venne una povera vedova e vi gettò due spiccioli, che fanno un quarto di soldo.
+RO|Cât a pus în vistierie văduva săracă lăudată de Isus?|Doi bănuți|Un siclu de argint|Un leu|Nimic|A venit și o văduvă săracă și a aruncat doi bănuți, care fac un gologan.
+nt|3|41 2:27
+IT|Per chi, disse Gesù, è stato fatto il sabato?|Per l'uomo|Per i sacerdoti|Per il tempio|Per gli angeli|«Il sabato è stato fatto per l'uomo, e non l'uomo per il sabato».
+RO|Pentru cine, a spus Isus, a fost făcut Sabatul?|Pentru om|Pentru preoți|Pentru templu|Pentru îngeri|„Sabatul a fost făcut pentru om, iar nu omul pentru Sabat.”
+nt|3|41 9:35
+IT|Chi vuole essere il primo, secondo Gesù in Marco 9?|Sia l'ultimo di tutti e il servo di tutti|Sia il più ricco|Sia il più forte|Sia il più sapiente|«Se qualcuno vuol essere il primo, sarà l'ultimo di tutti e il servo di tutti».
+RO|Cine vrea să fie cel dintâi, după Isus în Marcu 9?|Să fie cel mai de pe urmă și slujitorul tuturor|Să fie cel mai bogat|Să fie cel mai tare|Să fie cel mai înțelept|„Dacă vrea cineva să fie cel dintâi, trebuie să fie cel mai de pe urmă din toți și slujitorul tuturor!”
+personaggi|4|41 14:51
+IT|Chi fuggì nudo lasciando il lenzuolo, quando Gesù fu arrestato?|Un giovane che lo seguiva|Pietro|Giovanni|Malco|Un giovane lo seguiva, avvolto in un lenzuolo; lo afferrarono, ma egli, lasciato il lenzuolo, fuggì nudo.
+RO|Cine a fugit gol lăsând cearșaful, când a fost prins Isus?|Un tânăr care mergea după El|Petru|Ioan|Malhu|Un tânăr mergea după El, învelit cu o pânză de in; l-au prins, dar el a lăsat pânza și a fugit gol.
+personaggi|2|42 1:5
+IT|Come si chiamavano i genitori di Giovanni Battista?|Zaccaria ed Elisabetta|Giuseppe e Maria|Gioacchino e Anna|Simeone e Anna|C'era un sacerdote di nome Zaccaria; sua moglie era delle figlie di Aaronne e si chiamava Elisabetta.
+RO|Cum se numeau părinții lui Ioan Botezătorul?|Zaharia și Elisabeta|Iosif și Maria|Ioachim și Ana|Simeon și Ana|Era un preot numit Zaharia; nevasta lui era dintre fetele lui Aaron și se numea Elisabeta.
+miracoli|2|42 1:20
+IT|Che cosa accadde a Zaccaria perché non credette all'angelo?|Rimase muto fino alla nascita del figlio|Diventò cieco|Perse il sacerdozio|Si ammalò di lebbra|«Ecco, tu sarai muto e non potrai parlare fino al giorno che queste cose avverranno».
+RO|Ce i s-a întâmplat lui Zaharia pentru că n-a crezut pe înger?|A rămas mut până la nașterea fiului|A orbit|Și-a pierdut preoția|S-a umplut de lepră|„Iată că vei fi mut și nu vei putea vorbi până în ziua când se vor întâmpla aceste lucruri.”
+personaggi|2|42 1:26
+IT|Quale angelo fu mandato a Nazaret da Maria?|Gabriele|Michele|Raffaele|Un serafino|L'angelo Gabriele fu mandato da Dio in una città della Galilea, chiamata Nazaret.
+RO|Ce înger a fost trimis la Nazaret, la Maria?|Gavril|Mihail|Rafael|Un serafim|Îngerul Gavril a fost trimis de Dumnezeu într-o cetate din Galileea, numită Nazaret.
+personaggi|2|42 1:41
+IT|Che cosa accadde a Elisabetta quando udì il saluto di Maria?|Il bambino le sussultò nel grembo|Svenne|Si mise a piangere|Perse la voce|Appena Elisabetta udì il saluto di Maria, il bambino le sussultò nel grembo.
+RO|Ce s-a întâmplat cu Elisabeta când a auzit salutarea Mariei?|I-a săltat pruncul în pântece|A leșinat|A început să plângă|Și-a pierdut glasul|Cum a auzit Elisabeta salutarea Mariei, i-a săltat pruncul în pântece.
+nt|2|42 1:63
+IT|Che cosa scrisse Zaccaria su una tavoletta per il nome del figlio?|«Il suo nome è Giovanni»|«Si chiamerà Zaccaria»|«Chiamatelo Elia»|«Decidete voi»|Chiese una tavoletta e scrisse: «Il suo nome è Giovanni», e tutti si meravigliarono.
+RO|Ce a scris Zaharia pe o tăbliță despre numele fiului?|„Numele lui este Ioan”|„Se va numi Zaharia”|„Numiți-l Ilie”|„Hotărâți voi”|A cerut o tăbliță și a scris: „Ioan este numele lui.” Și toți s-au mirat.
+nt|1|42 2:1
+IT|Quale imperatore ordinò il censimento al tempo della nascita di Gesù?|Cesare Augusto|Tiberio|Nerone|Claudio|Uscì un decreto da parte di Cesare Augusto di fare il censimento di tutto l'impero.
+RO|Ce împărat a poruncit recensământul pe vremea nașterii lui Isus?|Cezar August|Tiberiu|Nero|Claudiu|A ieșit o poruncă de la Cezar August să se înscrie toată lumea.
+nt|1|42 2:7
+IT|Dove Maria pose il bambino Gesù appena nato?|In una mangiatoia|In una culla d'oro|In un cesto|Sul letto di una locanda|Lo fasciò e lo pose in una mangiatoia, perché non c'era posto per loro nell'albergo.
+RO|Unde L-a culcat Maria pe pruncul Isus după naștere?|Într-o iesle|Într-un leagăn de aur|Într-un coș|Pe un pat din han|L-a înfășat și L-a culcat într-o iesle, pentru că în casa de poposire nu era loc pentru ei.
+nt|2|42 2:8
+IT|A chi fu annunciata per primi la nascita di Gesù?|A dei pastori nei campi|Ai sacerdoti del tempio|Al re Erode|Ai magi|In quella stessa regione c'erano dei pastori che stavano nei campi e facevano la guardia al gregge.
+RO|Cui i s-a vestit mai întâi nașterea lui Isus?|Unor păstori de la câmp|Preoților templului|Împăratului Irod|Magilor|În ținutul acela erau niște păstori care stăteau afară în câmp și făceau de strajă noaptea împrejurul turmei.
+personaggi|2|42 2:25
+IT|Quale uomo giusto di Gerusalemme prese in braccio Gesù nel tempio?|Simeone|Zaccaria|Nicodemo|Giuseppe d'Arimatea|C'era a Gerusalemme un uomo di nome Simeone, giusto e timorato di Dio, che aspettava la consolazione d'Israele.
+RO|Ce om neprihănit din Ierusalim L-a luat pe Isus în brațe în templu?|Simeon|Zaharia|Nicodim|Iosif din Arimateea|În Ierusalim era un om numit Simeon; omul acesta era neprihănit și temător de Dumnezeu și aștepta mângâierea lui Israel.
+personaggi|3|42 2:36
+IT|Quale anziana profetessa lodava Dio nel tempio alla presentazione di Gesù?|Anna, figlia di Fanuel|Elisabetta|Maria di Magdala|Debora|C'era anche una profetessa, Anna, figlia di Fanuel, della tribù di Aser, molto avanti negli anni.
+RO|Ce proorociță bătrână Îl lăuda pe Dumnezeu în templu la aducerea lui Isus?|Ana, fiica lui Fanuel|Elisabeta|Maria Magdalena|Debora|Era și o proorociță, Ana, fiica lui Fanuel, din seminția lui Așer, înaintată în vârstă.
+nt|1|42 2:42
+IT|Quanti anni aveva Gesù quando rimase nel tempio fra i dottori?|Dodici|Otto|Trenta|Tredici|Quando ebbe dodici anni salirono a Gerusalemme, secondo l'usanza della festa.
+RO|Câți ani avea Isus când a rămas în templu în mijlocul învățătorilor?|Doisprezece|Opt|Treizeci|Treisprezece|Când a fost de doisprezece ani, s-au suit la Ierusalim, după obiceiul praznicului.
+nt|2|42 2:49
+IT|Che cosa rispose Gesù dodicenne ai genitori che lo cercavano?|«Non sapevate che devo occuparmi delle cose del Padre mio?»|«Mi sono perso»|«Stavo giocando»|«Aspettatemi a casa»|«Perché mi cercavate? Non sapevate che io devo occuparmi delle cose del Padre mio?».
+RO|Ce le-a răspuns Isus, la doisprezece ani, părinților care Îl căutau?|„Nu știați că trebuie să fiu în casa Tatălui Meu?”|„M-am rătăcit”|„Mă jucam”|„Așteptați-Mă acasă”|„De ce M-ați căutat? Nu știați că trebuie să fiu în casa Tatălui Meu?”
+nt|2|42 3:23
+IT|Quanti anni aveva circa Gesù quando cominciò il suo ministero?|Trenta|Dodici|Venti|Quaranta|Gesù, quando cominciò, aveva circa trent'anni.
+RO|Cam câți ani avea Isus când Și-a început lucrarea?|Treizeci|Doisprezece|Douăzeci|Patruzeci|Isus avea aproape treizeci de ani când a început să învețe pe norod.
+nt|2|42 4:16
+IT|Dove Gesù lesse il rotolo di Isaia il giorno di sabato, com'era sua abitudine?|Nella sinagoga di Nazaret|Nel tempio di Gerusalemme|Sul monte|Sulla riva del lago|Venne a Nazaret e, com'era solito, entrò di sabato nella sinagoga e si alzò per leggere.
+RO|Unde a citit Isus sulul lui Isaia în ziua Sabatului, după obiceiul Său?|În sinagoga din Nazaret|În templul din Ierusalim|Pe munte|Pe malul lacului|A venit în Nazaret și, după obiceiul Său, în ziua Sabatului a intrat în sinagogă și S-a sculat să citească.
+miracoli|2|42 5:6
+IT|Che cosa accadde quando Pietro gettò le reti su parola di Gesù dopo una notte senza pesca?|Presero tanti pesci che le reti si rompevano|Non presero nulla|Presero un pesce d'oro|La barca affondò|Presero una tale quantità di pesci che le reti si rompevano.
+RO|Ce s-a întâmplat când Petru a aruncat mrejele la cuvântul lui Isus, după o noapte fără pește?|Au prins atâția pești că li se rupeau mrejele|N-au prins nimic|Au prins un pește de aur|Corabia s-a scufundat|Au prins o așa mare mulțime de pești, că li se rupeau mrejele.
+miracoli|2|42 7:11
+IT|In quale città Gesù risuscitò il figlio unico di una vedova?|Nain|Cana|Betania|Sarepta|Gesù andò in una città chiamata Nain; portavano alla sepoltura il figlio unico di una vedova.
+RO|În ce cetate l-a înviat Isus pe singurul fiu al unei văduve?|Nain|Cana|Betania|Sarepta|Isus Se ducea într-o cetate numită Nain; scoteau afară un mort, singurul fiu al unei văduve.
+personaggi|3|42 7:38
+IT|Con che cosa la donna peccatrice asciugò i piedi di Gesù in casa del fariseo?|Con i suoi capelli|Con un panno di lino|Con il suo velo|Con l'olio|Cominciò a bagnargli i piedi con le lacrime e li asciugava con i capelli del suo capo.
+RO|Cu ce I-a șters femeia păcătoasă picioarele lui Isus în casa fariseului?|Cu părul capului ei|Cu un ștergar de in|Cu vălul ei|Cu mir|A început să-I ude picioarele cu lacrimile ei și să le șteargă cu părul capului ei.
+personaggi|2|42 10:39
+IT|Quale sorella di Marta sedeva ai piedi di Gesù ascoltando la sua parola?|Maria|Salome|Giovanna|Susanna|Marta aveva una sorella chiamata Maria, che, sedutasi ai piedi di Gesù, ascoltava la sua parola.
+RO|Care soră a Martei ședea la picioarele lui Isus ascultându-I cuvântul?|Maria|Salomea|Ioana|Suzana|Marta avea o soră numită Maria, care s-a așezat la picioarele lui Isus și asculta cuvintele Lui.
+nt|2|42 10:33
+IT|Chi si fermò ad aiutare l'uomo ferito, nella parabola del buon Samaritano?|Un Samaritano|Un sacerdote|Un levita|Un soldato romano|Un Samaritano, che era in viaggio, giunto presso di lui lo vide e ne ebbe compassione.
+RO|Cine s-a oprit să-l ajute pe omul rănit, în pilda samariteanului milostiv?|Un samaritean|Un preot|Un levit|Un ostaș roman|Un samaritean care era în călătorie a venit în locul unde era el și, când l-a văzut, i s-a făcut milă de el.
+nt|3|42 10:35
+IT|Quanti denari diede il buon Samaritano all'albergatore?|Due|Uno|Dieci|Trenta|Il giorno dopo tirò fuori due denari e li diede all'albergatore.
+RO|Câți lei i-a dat samariteanul milostiv hangiului?|Doi|Unul|Zece|Treizeci|A doua zi a scos doi lei, i-a dat hangiului și i-a zis: „Ai grijă de el.”
+nt|3|42 11:5
+IT|Quanti pani chiede l'amico a mezzanotte nella parabola di Luca 11?|Tre|Due|Cinque|Sette|«Amico, prestami tre pani».
+RO|Câte pâini cere prietenul la miezul nopții, în pilda din Luca 11?|Trei|Două|Cinci|Șapte|„Prietene, împrumută-mi trei pâini.”
+nt|3|42 12:18
+IT|Che cosa voleva fare il ricco stolto della parabola con i suoi raccolti?|Demolire i granai e costruirne di più grandi|Darli ai poveri|Venderli al mercato|Portarli al tempio|«Demolirò i miei granai e ne costruirò di più grandi».
+RO|Ce voia să facă bogatul nebun din pildă cu roadele lui?|Să-și strice grânarele și să zidească altele mai mari|Să le dea săracilor|Să le vândă la piață|Să le ducă la templu|„Îmi voi strica grânarele și voi zidi altele mai mari.”
+nt|3|42 13:7
+IT|Per quanti anni il padrone cercò frutto sul fico sterile della parabola?|Tre|Uno|Sette|Dieci|«Ecco, sono tre anni che vengo a cercar frutto su questo fico e non ne trovo».
+RO|Câți ani a căutat stăpânul rod în smochinul neroditor din pildă?|Trei|Unul|Șapte|Zece|„Iată, sunt trei ani de când vin și caut rod în smochinul acesta și nu găsesc.”
+nt|2|42 15:4
+IT|Quante pecore lascia il pastore per cercare quella smarrita?|Novantanove|Novanta|Dieci|Cinquanta|Chi di voi, avendo cento pecore, se ne perde una, non lascia le novantanove nel deserto e va dietro a quella perduta?
+RO|Câte oi lasă păstorul ca s-o caute pe cea pierdută?|Nouăzeci și nouă|Nouăzeci|Zece|Cincizeci|Cine dintre voi, dacă are o sută de oi și pierde una din ele, nu lasă pe celelalte nouăzeci și nouă în pustie și se duce după cea pierdută?
+nt|2|42 15:8
+IT|Che cosa perse la donna che accese la lampada e spazzò la casa?|Una dramma d'argento|Un anello|Un agnello|Una chiave|Quale donna, avendo dieci dramme, se ne perde una, non accende la lampada e non spazza la casa?
+RO|Ce a pierdut femeia care a aprins lumina și a măturat casa?|Un leu de argint|Un inel|Un miel|O cheie|Care femeie, dacă are zece lei de argint și pierde unul din ei, nu aprinde lumina și nu mătură casa?
+nt|2|42 15:16
+IT|Che cosa desiderava mangiare il figlio prodigo quando pascolava i porci?|Le carrube dei porci|Il pane del padrone|La carne dei porci|Le erbe dei campi|Desiderava riempirsi il ventre con le carrube che mangiavano i porci.
+RO|Ce dorea să mănânce fiul risipitor când păzea porcii?|Roșcovele porcilor|Pâinea stăpânului|Carnea porcilor|Ierburile câmpului|Ar fi dorit să se sature cu roșcovele pe care le mâncau porcii.
+nt|2|42 15:22
+IT|Che cosa fece mettere il padre al figlio prodigo tornato a casa?|La veste più bella, l'anello e i sandali|Un mantello da servo|Una corona|Le catene|«Portate qui la veste più bella e rivestitelo, mettetegli un anello al dito e dei sandali ai piedi».
+RO|Ce a poruncit tatăl să i se pună fiului risipitor întors acasă?|Haina cea mai bună, un inel și încălțăminte|O haină de slugă|O cunună|Lanțuri|„Aduceți repede haina cea mai bună și îmbrăcați-l cu ea; puneți-i un inel în deget și încălțăminte în picioare.”
+nt|2|42 16:20
+IT|Come si chiamava il povero coperto di ulcere alla porta del ricco?|Lazzaro|Bartimeo|Zaccheo|Iairo|Un mendicante, chiamato Lazzaro, giaceva alla sua porta tutto coperto di ulcere.
+RO|Cum se numea săracul plin de bube de la poarta bogatului?|Lazăr|Bartimeu|Zacheu|Iair|Un sărac, numit Lazăr, zăcea înaintea porții lui, plin de bube.
+miracoli|2|42 17:15-16
+IT|Dei dieci lebbrosi guariti, quanti tornarono a ringraziare Gesù?|Uno solo, un Samaritano|Tutti e dieci|Nove|Nessuno|Uno di loro, vedendo che era guarito, tornò glorificando Dio ad alta voce; ed era un Samaritano.
+RO|Dintre cei zece leproși vindecați, câți s-au întors să-I mulțumească lui Isus?|Numai unul, un samaritean|Toți zece|Nouă|Niciunul|Unul din ei, când s-a văzut vindecat, s-a întors slăvind pe Dumnezeu cu glas tare; și era samaritean.
+nt|2|42 18:13
+IT|Che cosa diceva il pubblicano nel tempio, stando a distanza?|«O Dio, sii placato verso me peccatore»|«Ti ringrazio perché non sono come gli altri»|«Io digiuno due volte la settimana»|«Io do la decima di tutto»|Il pubblicano si batteva il petto dicendo: «O Dio, sii placato verso me peccatore».
+RO|Ce zicea vameșul în templu, stând departe?|„Dumnezeule, ai milă de mine, păcătosul!”|„Îți mulțumesc că nu sunt ca ceilalți”|„Eu postesc de două ori pe săptămână”|„Dau zeciuială din tot”|Vameșul se bătea în piept și zicea: „Dumnezeule, ai milă de mine, păcătosul!”
+personaggi|1|42 19:4
+IT|Su quale albero salì Zaccheo per vedere Gesù?|Un sicomoro|Un fico|Un olivo|Una palma|Zaccheo corse avanti e salì sopra un sicomoro per vederlo, perché doveva passare di là.
+RO|În ce copac s-a suit Zacheu ca să-L vadă pe Isus?|Un dud|Un smochin|Un măslin|Un finic|Zacheu a alergat înainte și s-a suit într-un dud ca să-L vadă, pentru că avea să treacă pe drumul acela.
+personaggi|2|42 19:8
+IT|Quanto promise di restituire Zaccheo a chi aveva frodato?|Quattro volte tanto|Il doppio|La stessa somma|Dieci volte tanto|«Ecco, Signore, do la metà dei miei beni ai poveri e, se ho frodato qualcuno, gli rendo il quadruplo».
+RO|Cât a promis Zacheu să dea înapoi celor pe care îi înșelase?|Împătrit|Îndoit|Tot atât|De zece ori mai mult|„Iată, Doamne, jumătate din avuția mea o dau săracilor; și dacă am năpăstuit pe cineva cu ceva, îi dau înapoi împătrit.”
+miracoli|3|42 22:51
+IT|Che cosa fece Gesù all'orecchio del servo ferito durante l'arresto?|Lo toccò e lo guarì|Lo ignorò|Lo fece bendare|Rimproverò il servo|Gesù toccò l'orecchio di quell'uomo e lo guarì.
+RO|Ce a făcut Isus cu urechea robului rănit la prinderea Sa?|S-a atins de ea și l-a vindecat|N-a luat-o în seamă|A pus să fie legată|L-a mustrat pe rob|Isus S-a atins de urechea robului și l-a vindecat.
+nt|3|42 22:44
+IT|Che cosa accadde a Gesù mentre pregava in agonia sul monte degli Ulivi?|Il suo sudore divenne come grosse gocce di sangue|Si addormentò|Vide una colomba|Il cielo si oscurò|Il suo sudore divenne come grosse gocce di sangue che cadevano a terra.
+RO|Ce I s-a întâmplat lui Isus când Se ruga în chin pe Muntele Măslinilor?|Sudoarea Lui s-a făcut ca niște picături mari de sânge|A adormit|A văzut un porumbel|S-a întunecat cerul|Sudoarea Lui s-a făcut ca niște picături mari de sânge, care cădeau pe pământ.
+personaggi|3|42 23:7
+IT|Da quale altro governatore Pilato mandò Gesù perché era galileo?|Da Erode|Da Caiafa|Da Anna|Da Cesare|Saputo che era della giurisdizione di Erode, lo mandò da Erode, che si trovava a Gerusalemme.
+RO|La ce alt cârmuitor L-a trimis Pilat pe Isus, pentru că era galileean?|La Irod|La Caiafa|La Ana|La Cezar|Când a aflat că era din stăpânirea lui Irod, L-a trimis la Irod, care era și el în Ierusalim.
+nt|2|42 23:34
+IT|Che cosa disse Gesù sulla croce per quelli che lo crocifiggevano?|«Padre, perdona loro, perché non sanno quello che fanno»|«Maledetti voi»|«Scendete e salvatemi»|«Ricordatevi di me»|Gesù diceva: «Padre, perdona loro, perché non sanno quello che fanno».
+RO|Ce a zis Isus pe cruce despre cei ce-L răstigneau?|„Tată, iartă-i, căci nu știu ce fac!”|„Blestemați să fiți”|„Coborâți-Mă și scăpați-Mă”|„Aduceți-vă aminte de Mine”|Isus zicea: „Tată, iartă-i, căci nu știu ce fac!”
+nt|2|42 23:43
+IT|Che cosa promise Gesù al malfattore pentito sulla croce?|«Oggi tu sarai con me in paradiso»|«Sarai perdonato domani»|«Scenderai libero dalla croce»|«Pregherò per te»|Gesù gli disse: «In verità ti dico: oggi tu sarai con me in paradiso».
+RO|Ce i-a spus Isus tâlharului care se căise pe cruce?|„Astăzi vei fi cu Mine în rai”|„Mâine vei fi iertat”|„Vei coborî liber de pe cruce”|„Mă voi ruga pentru tine”|Isus i-a răspuns: „Adevărat îți spun că astăzi vei fi cu Mine în rai.”
+luoghi|2|42 24:13
+IT|Verso quale villaggio camminavano i due discepoli quando Gesù risorto li raggiunse?|Emmaus|Betania|Nain|Cana|Due di loro erano in cammino verso un villaggio chiamato Emmaus, distante sessanta stadi da Gerusalemme.
+RO|Spre ce sat mergeau cei doi ucenici când i-a ajuns Isus cel înviat?|Emaus|Betania|Nain|Cana|Doi dintre ei se duceau într-un sat numit Emaus, departe de Ierusalim cam la șaizeci de stadii.
+personaggi|3|42 24:18
+IT|Come si chiamava uno dei due discepoli di Emmaus?|Cleopa|Filippo|Natanaele|Mattia|Uno di loro, di nome Cleopa, gli rispose: «Sei tu l'unico forestiero in Gerusalemme…?».
+RO|Cum se numea unul din cei doi ucenici de la Emaus?|Cleopa|Filip|Natanael|Matia|Unul din ei, numit Cleopa, I-a răspuns: „Tu ești singurul străin în Ierusalim…?”
+miracoli|3|42 24:30-31
+IT|Quando i discepoli di Emmaus riconobbero Gesù?|Quando spezzò il pane|Quando vide le sue mani|Quando entrò a Gerusalemme|Quando citò Mosè|Mentre era a tavola con loro prese il pane, lo benedisse, lo spezzò… e i loro occhi si aprirono e lo riconobbero.
+RO|Când L-au cunoscut ucenicii de la Emaus pe Isus?|Când a frânt pâinea|Când I-au văzut mâinile|Când a intrat în Ierusalim|Când l-a pomenit pe Moise|Pe când ședea la masă cu ei, a luat pâinea, a binecuvântat, a frânt-o… atunci li s-au deschis ochii și L-au cunoscut.
+miracoli|3|42 24:42
+IT|Che cosa mangiò Gesù risorto davanti ai discepoli per mostrare di non essere uno spirito?|Un pezzo di pesce arrostito|Del pane azzimo|Dell'uva|Del miele soltanto|Gli diedero un pezzo di pesce arrostito e un favo di miele; egli li prese e ne mangiò in loro presenza.
+RO|Ce a mâncat Isus cel înviat înaintea ucenicilor, ca să arate că nu este duh?|O bucată de pește fript|Azimă|Struguri|Numai miere|I-au dat o bucată de pește fript și un fagure de miere; El le-a luat și a mâncat înaintea lor.
+luoghi|3|42 24:50
+IT|Presso quale villaggio Gesù benedisse i discepoli prima di salire al cielo, secondo Luca?|Betania|Emmaus|Betfage|Nazaret|Poi li condusse fuori fin verso Betania e, alzate le mani, li benedisse.
+RO|Lângă ce sat i-a binecuvântat Isus pe ucenici înainte de a Se înălța, după Luca?|Betania|Emaus|Betfaghe|Nazaret|Apoi i-a dus afară până spre Betania. Și-a ridicat mâinile și i-a binecuvântat.
+personaggi|4|42 8:3
+IT|Come si chiamava la moglie di Cuza, amministratore di Erode, che assisteva Gesù con i suoi beni?|Giovanna|Susanna|Salome|Marta|Giovanna, moglie di Cuza, amministratore di Erode, Susanna e molte altre lo assistevano con i loro beni.
+RO|Cum se numea nevasta lui Huza, ispravnicul lui Irod, care Îl ajuta pe Isus cu avutul ei?|Ioana|Suzana|Salomeea|Marta|Ioana, nevasta lui Huza, ispravnicul lui Irod, Suzana și multe altele Îl ajutau cu ce aveau.
+personaggi|4|42 3:1
+IT|Nell'anno quindicesimo di quale imperatore Giovanni cominciò a predicare?|Tiberio Cesare|Cesare Augusto|Claudio|Nerone|Nell'anno quindicesimo dell'impero di Tiberio Cesare, la parola di Dio fu rivolta a Giovanni.
+RO|În al cincisprezecelea an al cărui împărat a început Ioan să propovăduiască?|Tiberiu Cezar|Cezar August|Claudiu|Nero|În anul al cincisprezecelea al domniei lui Tiberiu Cezar, Cuvântul lui Dumnezeu a venit la Ioan.
+nt|4|42 14:28
+IT|Che cosa fa prima chi vuole costruire una torre, nell'esempio di Gesù in Luca 14?|Si siede a calcolare la spesa|Chiama gli operai|Compra il terreno|Chiede al re|«Chi di voi, volendo costruire una torre, non si siede prima a calcolare la spesa?».
+RO|Ce face mai întâi cine vrea să zidească un turn, în pilda lui Isus din Luca 14?|Stă și-și face socoteala cheltuielilor|Cheamă lucrătorii|Cumpără locul|Îl întreabă pe împărat|„Cine dintre voi, dacă vrea să zidească un turn, nu stă mai întâi să-și facă socoteala cheltuielilor?”

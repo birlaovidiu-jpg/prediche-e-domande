@@ -1,0 +1,133 @@
+# Domande nuove — Samuele, Re, Cronache (secondo giro)
+profeti|2|9 3:1
+IT|Com'era la parola dell'Eterno al tempo in cui il giovane Samuele serviva con Eli?|Rara|Molto frequente|Scritta sui muri|Proibita|In quel tempo la parola dell'Eterno era rara, e le visioni non erano frequenti.
+RO|Cum era cuvântul Domnului pe vremea când tânărul Samuel slujea cu Eli?|Rar|Foarte des|Scris pe ziduri|Oprit|Cuvântul Domnului era rar în vremea aceea, și vedeniile nu erau dese.
+profeti|3|9 3:3
+IT|Dove dormiva Samuele quando l'Eterno lo chiamò?|Nel tempio dell'Eterno, dov'era l'arca di Dio|Nella casa di suo padre|Sotto una palma|Nel deserto|Samuele era coricato nel tempio dell'Eterno, dove si trovava l'arca di Dio.
+RO|Unde dormea Samuel când l-a chemat Domnul?|În Templul Domnului, unde era chivotul lui Dumnezeu|În casa tatălui său|Sub un finic|În pustie|Samuel era culcat în Templul Domnului, unde era chivotul lui Dumnezeu.
+personaggi|3|9 4:18
+IT|Come morì il sacerdote Eli quando seppe che l'arca era stata presa?|Cadde dal sedile e si ruppe il collo|Fu ucciso dai Filistei|Morì di vecchiaia nel letto|Si ammalò|Appena il messaggero nominò l'arca di Dio, Eli cadde all'indietro dal suo sedile, si ruppe il collo e morì.
+RO|Cum a murit preotul Eli când a aflat că fusese luat chivotul?|A căzut de pe scaun și și-a rupt ceafa|A fost ucis de filisteni|A murit de bătrânețe în pat|S-a îmbolnăvit|Când a pomenit solul de chivotul lui Dumnezeu, Eli a căzut de pe scaun pe spate, și-a rupt ceafa și a murit.
+personaggi|3|9 4:21
+IT|Quale nome diede la nuora di Eli al figlio nato quando l'arca fu presa?|Ikabod|Ahitub|Fineas|Ebenezer|Chiamò il bambino Ikabod, dicendo: «La gloria se n'è andata da Israele», perché l'arca di Dio era stata presa.
+RO|Ce nume i-a dat nora lui Eli copilului născut când a fost luat chivotul?|I-Cabod|Ahitub|Fineas|Eben-Ezer|A pus copilului numele I-Cabod, zicând: „S-a dus slava din Israel!”, pentru că fusese luat chivotul lui Dumnezeu.
+at|3|9 6:7
+IT|Con che cosa i Filistei rimandarono l'arca in Israele?|Su un carro nuovo trainato da due vacche|Portata da sacerdoti|Su una nave|Su un cammello|Fate un carro nuovo e prendete due vacche che allattano… attaccate le vacche al carro.
+RO|Cum au trimis filistenii chivotul înapoi în Israel?|Într-un car nou tras de două vaci|Purtat de preoți|Cu o corabie|Pe o cămilă|Faceți un car nou și luați două vaci care alăptează… înhămați vacile la car.
+personaggi|3|9 8:3
+IT|Perché gli anziani d'Israele chiesero un re a Samuele?|Perché i suoi figli non seguivano le sue vie|Perché Samuele era morto|Perché i Filistei lo avevano ordinato|Perché lo voleva l'Eterno|I figli di Samuele non camminavano per le sue vie, ma cercavano il guadagno, accettavano regali e pervertivano la giustizia.
+RO|De ce au cerut bătrânii lui Israel un împărat de la Samuel?|Pentru că fiii lui nu umblau pe căile lui|Pentru că Samuel murise|Pentru că așa porunciseră filistenii|Pentru că așa voia Domnul|Fiii lui Samuel n-au călcat pe urmele lui, ci se dădeau la lăcomie, luau mită și călcau dreptatea.
+personaggi|3|9 10:22
+IT|Dove si era nascosto Saul quando fu estratto a sorte come re?|Fra i bagagli|In una caverna|Sotto un albero|Nel tempio|L'Eterno rispose: «Ecco, si è nascosto fra i bagagli».
+RO|Unde se ascunsese Saul când a fost ales prin sorți împărat?|Între vase (bagaje)|Într-o peșteră|Sub un copac|În templu|Domnul a răspuns: „Iată-l ascuns între vase.”
+personaggi|3|9 11:1
+IT|Quale città di Galaad fu minacciata da Nahash l'Ammonita, e salvata da Saul?|Jabesh di Galaad|Ramoth di Galaad|Mitspah|Mahanaim|Nahash l'Ammonita salì e si accampò contro Jabesh di Galaad.
+RO|Ce cetate din Galaad a fost amenințată de Nahaș, amonitul, și scăpată de Saul?|Iabesul din Galaad|Ramotul din Galaad|Mițpa|Mahanaim|Nahaș, amonitul, a venit și a împresurat Iabesul din Galaad.
+personaggi|3|9 14:27
+IT|Che cosa mangiò Gionathan senza sapere del giuramento di suo padre Saul?|Del miele|Del pane|Della carne|Dei fichi|Gionathan stese la punta del bastone, la intinse in un favo di miele e portò la mano alla bocca.
+RO|Ce a mâncat Ionatan fără să știe de jurământul tatălui său Saul?|Miere|Pâine|Carne|Smochine|Ionatan a întins vârful toiagului, l-a înmuiat într-un fagure de miere și și-a dus mâna la gură.
+personaggi|3|9 16:10
+IT|Quanti figli di Iesse passarono davanti a Samuele prima che venisse chiamato Davide?|Sette|Tre|Dodici|Cinque|Iesse fece passare sette dei suoi figli davanti a Samuele, ma Samuele disse: «L'Eterno non ha scelto nessuno di questi».
+RO|Câți fii ai lui Isai au trecut pe dinaintea lui Samuel înainte să fie chemat David?|Șapte|Trei|Doisprezece|Cinci|Isai a trecut pe dinaintea lui Samuel pe cei șapte fii ai lui, dar Samuel a zis: „Domnul n-a ales pe niciunul din ei.”
+personaggi|2|9 17:39
+IT|Perché Davide si tolse l'armatura di Saul prima di affrontare Goliath?|Non c'era abituato|Era troppo pesante d'oro|Era rotta|Glielo chiese Samuele|Davide disse a Saul: «Non posso camminare con quest'armatura, perché non ci sono abituato», e se la tolse.
+RO|De ce și-a scos David armura lui Saul înainte să iasă împotriva lui Goliat?|Nu era obișnuit cu ea|Era prea grea de aur|Era ruptă|I-a cerut Samuel|David a zis lui Saul: „Nu pot să umblu cu armura aceasta, căci nu sunt obișnuit”, și a scos-o de pe el.
+personaggi|3|9 17:49
+IT|Dove colpì la pietra di Davide il gigante Goliath?|Nella fronte|Nel petto|Nel ginocchio|Nell'occhio|La pietra si conficcò nella fronte del Filisteo, ed egli cadde con la faccia a terra.
+RO|Unde l-a lovit piatra lui David pe uriașul Goliat?|În frunte|În piept|În genunchi|În ochi|Piatra i s-a înfipt filisteanului în frunte, și el a căzut cu fața la pământ.
+personaggi|3|9 18:7
+IT|Che cosa cantavano le donne dopo la vittoria su Goliath, facendo ingelosire Saul?|«Saul ha ucciso i suoi mille, e Davide i suoi diecimila»|«Viva il re Saul»|«Gloria a Gionathan»|«Il Signore è grande»|Le donne cantavano: «Saul ha ucciso i suoi mille, e Davide i suoi diecimila».
+RO|Ce cântau femeile după biruința asupra lui Goliat, stârnind gelozia lui Saul?|„Saul a bătut miile lui, iar David zecile lui de mii”|„Trăiască împăratul Saul”|„Slavă lui Ionatan”|„Mare este Domnul”|Femeile cântau: „Saul a bătut miile lui, iar David zecile lui de mii.”
+personaggi|3|9 18:11
+IT|Che cosa scagliò Saul contro Davide mentre suonava l'arpa?|La sua lancia|Una pietra|Una coppa|Il suo scettro|Saul scagliò la lancia, pensando: «Inchioderò Davide al muro». Ma Davide lo schivò per due volte.
+RO|Ce a aruncat Saul asupra lui David pe când cânta cu harpa?|Sulița|O piatră|Un pahar|Toiagul|Saul și-a aruncat sulița, zicând în sine: „Îl voi pironi pe David în perete.” Dar David s-a ferit de două ori.
+personaggi|3|9 26:12
+IT|Che cosa prese Davide dal capezzale di Saul addormentato nel deserto di Zif?|La lancia e la brocca d'acqua|La corona|Il mantello|La spada di Goliath|Davide prese dunque la lancia e la brocca d'acqua che erano presso il capo di Saul, e se ne andarono.
+RO|Ce a luat David de la căpătâiul lui Saul adormit în pustia Zif?|Sulița și urciorul cu apă|Cununa|Mantaua|Sabia lui Goliat|David a luat sulița și urciorul cu apă de la căpătâiul lui Saul, și au plecat.
+personaggi|3|10 1:23
+IT|Di quali due uomini Davide cantò: «Erano più veloci delle aquile, più forti dei leoni»?|Saul e Gionathan|Abner e Joab|Uria e Joab|Samuele ed Eli|Davide compose un lamento per Saul e Gionathan: «Erano più veloci delle aquile, più forti dei leoni».
+RO|Despre care doi bărbați a cântat David: „Erau mai iuți decât vulturii, mai tari decât leii”?|Saul și Ionatan|Abner și Ioab|Urie și Ioab|Samuel și Eli|David a făcut o cântare de jale pentru Saul și Ionatan: „Erau mai iuți decât vulturii și mai tari decât leii.”
+personaggi|3|10 3:27
+IT|Chi uccise Abner alla porta di Hebron?|Joab|Davide|Abishai da solo|Ishbosheth|Quando Abner fu tornato a Hebron, Joab lo prese in disparte in mezzo alla porta e lo colpì al ventre.
+RO|Cine l-a ucis pe Abner la poarta Hebronului?|Ioab|David|Numai Abișai|Iș-Boșet|Când s-a întors Abner la Hebron, Ioab l-a luat deoparte în mijlocul porții și l-a lovit în pântece.
+personaggi|3|10 11:14
+IT|Che cosa mandò Davide a Joab per mezzo di Uria stesso?|Una lettera per farlo morire in battaglia|Un regalo d'oro|Un nuovo mantello|Un ordine di ritirata|Davide scrisse una lettera a Joab e la mandò per mezzo di Uria.
+RO|Ce i-a trimis David lui Ioab prin Urie însuși?|O scrisoare ca să-l facă să moară în luptă|Un dar de aur|O manta nouă|O poruncă de retragere|David a scris o scrisoare lui Ioab și a trimis-o prin Urie.
+personaggi|3|10 12:18
+IT|Che cosa accadde al primo figlio di Davide e Bath-Sceba?|Morì il settimo giorno|Diventò re|Fu venduto schiavo|Diventò profeta|Il settimo giorno il bambino morì.
+RO|Ce s-a întâmplat cu primul fiu al lui David și al Bat-Șebei?|A murit în ziua a șaptea|A ajuns împărat|A fost vândut rob|A ajuns proroc|În ziua a șaptea copilul a murit.
+personaggi|3|10 15:6
+IT|Come conquistò Absalom il cuore degli uomini d'Israele?|Salutandoli e promettendo giustizia alla porta|Con l'oro|Con la forza|Con i miracoli|Absalom faceva così con tutti gli Israeliti che venivano dal re per avere giustizia, e rubò il cuore degli uomini d'Israele.
+RO|Cum a câștigat Absalom inima oamenilor lui Israel?|Salutându-i și făgăduindu-le dreptate la poartă|Cu aur|Cu forța|Cu minuni|Absalom făcea așa cu toți cei din Israel care veneau la împărat să ceară dreptate, și a câștigat inima oamenilor lui Israel.
+personaggi|3|10 16:7
+IT|Quale uomo della famiglia di Saul maledisse Davide che fuggiva da Absalom?|Scimei|Ziba|Ahitofel|Hushai|Scimei, maledicendolo, diceva: «Vattene, vattene, uomo sanguinario!».
+RO|Ce om din familia lui Saul l-a blestemat pe David care fugea de Absalom?|Șimei|Țiba|Ahitofel|Hușai|Șimei zicea blestemându-l: „Du-te, du-te, om al sângelui!”
+personaggi|3|10 17:14
+IT|Il consiglio di chi fu seguito da Absalom, sventando quello di Ahitofel?|Di Hushai l'Archita|Di Joab|Di Scimei|Di Ziba|Absalom e tutti gli uomini d'Israele dissero: «Il consiglio di Hushai l'Archita è migliore di quello di Ahitofel».
+RO|Sfatul cui l-a urmat Absalom, dejucând sfatul lui Ahitofel?|Al lui Hușai, architul|Al lui Ioab|Al lui Șimei|Al lui Țiba|Absalom și toți bărbații lui Israel au zis: „Sfatul lui Hușai, architul, este mai bun decât sfatul lui Ahitofel.”
+personaggi|4|10 21:19
+IT|Chi uccise il fratello di Goliath di Gath, secondo 2 Samuele 21:19?|Elhanan|Davide|Abishai|Benaiah|Elhanan, figlio di Jaare-Oreghim, di Betlemme, uccise il fratello di Goliath di Gath.
+RO|Cine l-a ucis pe fratele lui Goliat din Gat, după 2 Samuel 21:19?|Elhanan|David|Abișai|Benaia|Elhanan, fiul lui Iaare-Oreghim din Betleem, a ucis pe fratele lui Goliat din Gat.
+personaggi|3|11 2:17
+IT|Quale donna chiese Adonijah come moglie, provocando la sua morte?|Abishag la Sunamita|Bath-Sceba|Tamar|Mikal|Adonijah disse: «Ti prego, di' al re Salomone… che mi dia in moglie Abishag la Sunamita».
+RO|Ce femeie a cerut-o Adonia de nevastă, aducându-și moartea?|Abișag, sunamita|Bat-Șeba|Tamar|Mical|Adonia a zis: „Spune, te rog, împăratului Solomon… să-mi dea de nevastă pe Abișag, sunamita.”
+at|3|11 6:7
+IT|Che cosa non si udì nel tempio mentre veniva costruito?|Il rumore di martelli, di scuri o di altri arnesi di ferro|Il canto dei leviti|Il suono delle trombe|Le preghiere|Mentre si costruiva la casa, non si udì nella casa rumore di martelli, di scuri o di alcun altro arnese di ferro.
+RO|Ce nu s-a auzit în templu cât timp a fost zidit?|Zgomot de ciocane, de securi sau de alte unelte de fier|Cântarea leviților|Sunetul trâmbițelor|Rugăciunile|Când s-a zidit casa, nu s-a auzit în ea niciun zgomot de ciocan, de secure sau de altă unealtă de fier.
+at|3|11 7:21
+IT|Come si chiamavano le due colonne di bronzo davanti al portico del tempio di Salomone?|Jakin e Boaz|Urim e Thummim|Efraim e Manasse|Ebal e Garizim|Eresse la colonna di destra e la chiamò Jakin; eresse la colonna di sinistra e la chiamò Boaz.
+RO|Cum se numeau cei doi stâlpi de aramă din fața pridvorului templului lui Solomon?|Iachin și Boaz|Urim și Tumim|Efraim și Manase|Ebal și Garizim|A ridicat stâlpul din dreapta și l-a numit Iachin; a ridicat stâlpul din stânga și l-a numit Boaz.
+at|3|11 8:9
+IT|Che cosa c'era nell'arca quando fu portata nel tempio di Salomone?|Soltanto le due tavole di pietra|La manna e la verga|Oro e argento|I rotoli dei profeti|Nell'arca non c'era nulla, eccetto le due tavole di pietra che Mosè vi aveva deposto a Horeb.
+RO|Ce era în chivot când a fost adus în templul lui Solomon?|Numai cele două table de piatră|Mana și toiagul|Aur și argint|Sulurile prorocilor|În chivot nu erau decât cele două table de piatră pe care le pusese Moise în el la Horeb.
+profeti|3|11 13:2
+IT|Che cosa profetizzò l'uomo di Dio venuto da Giuda contro l'altare di Bethel?|Che un figlio di Davide, Giosia, vi avrebbe bruciato ossa umane|Che sarebbe diventato d'oro|Che Geroboamo vi sarebbe stato sepolto|Che sarebbe durato per sempre|«Altare, altare! Ecco, nascerà un figlio alla casa di Davide, di nome Giosia; egli immolerà su di te i sacerdoti degli alti luoghi».
+RO|Ce a prorocit omul lui Dumnezeu venit din Iuda împotriva altarului din Betel?|Că un fiu al lui David, Iosia, va arde pe el oase omenești|Că se va face de aur|Că Ieroboam va fi îngropat acolo|Că va dăinui veșnic|„Altarule, altarule! Iată, se va naște un fiu casei lui David; numele lui va fi Iosia; el va junghia pe tine pe preoții înălțimilor.”
+profeti|3|11 13:24
+IT|Come morì l'uomo di Dio di Giuda che disubbidì mangiando a Bethel?|Un leone lo uccise per strada|Fu lapidato|Cadde da un monte|Fu ucciso dal re|Se ne andò, e un leone lo incontrò per strada e lo uccise.
+RO|Cum a murit omul lui Dumnezeu din Iuda care n-a ascultat, mâncând la Betel?|L-a omorât un leu pe drum|A fost ucis cu pietre|A căzut de pe un munte|L-a omorât împăratul|A plecat, și l-a întâlnit un leu pe drum și l-a omorât.
+profeti|3|11 14:2
+IT|Da quale profeta cieco Geroboamo mandò sua moglie travestita?|Ahijah|Elia|Micaiah|Jehu|Geroboamo disse a sua moglie: «Travestiti e va' a Scilo; là c'è il profeta Ahijah».
+RO|La ce proroc orb și-a trimis Ieroboam nevasta deghizată?|Ahia|Ilie|Mica|Iehu|Ieroboam a zis nevestei sale: „Schimbă-te și du-te la Silo; iată, acolo este prorocul Ahia.”
+profeti|3|11 17:1
+IT|Che cosa annunziò Elia al re Achab la prima volta?|Che non ci sarebbe stata né rugiada né pioggia|Che sarebbe morto|Che Jezebel sarebbe diventata regina|Che avrebbe vinto la guerra|«Non vi sarà né rugiada né pioggia in questi anni, se non alla mia parola».
+RO|Ce i-a vestit Ilie împăratului Ahab prima dată?|Că nu va fi nici rouă, nici ploaie|Că va muri|Că Izabela va ajunge împărăteasă|Că va câștiga războiul|„În anii aceștia nu va fi nici rouă, nici ploaie, decât la cuvântul meu.”
+profeti|3|11 18:46
+IT|Che cosa fece Elia, sostenuto dalla mano dell'Eterno, dopo la pioggia sul Carmelo?|Corse davanti al carro di Achab fino a Jezreel|Salì al cielo|Si nascose in una caverna|Tornò a Sarepta|La mano dell'Eterno fu su Elia; egli si cinse i fianchi e corse davanti ad Achab fino all'ingresso di Jezreel.
+RO|Ce a făcut Ilie, întărit de mâna Domnului, după ploaia de pe Carmel?|A alergat înaintea carului lui Ahab până la Izreel|S-a înălțat la cer|S-a ascuns într-o peșteră|S-a întors la Sarepta|Mâna Domnului a venit peste Ilie; el și-a încins mijlocul și a alergat înaintea lui Ahab până la intrarea în Izreel.
+profeti|3|11 19:6
+IT|Che cosa trovò Elia vicino alla sua testa quando l'angelo lo svegliò nel deserto?|Una focaccia cotta su pietre calde e una brocca d'acqua|Un mantello|Una lampada|Un bastone|Elia guardò, ed ecco vicino alla sua testa una focaccia cotta su pietre calde e una brocca d'acqua.
+RO|Ce a găsit Ilie la căpătâi când l-a trezit îngerul în pustie?|O turtă coaptă pe pietre înfierbântate și un urcior cu apă|O manta|O lampă|Un toiag|Ilie s-a uitat și a văzut la căpătâi o turtă coaptă pe pietre înfierbântate și un urcior cu apă.
+profeti|3|11 19:18
+IT|Quanti in Israele, disse Dio a Elia, non avevano piegato le ginocchia a Baal?|Settemila|Cento|Settanta|Mille|«Io ho lasciato in Israele settemila uomini, tutti quelli che non hanno piegato le ginocchia davanti a Baal».
+RO|Câți din Israel, i-a spus Dumnezeu lui Ilie, nu-și plecaseră genunchii înaintea lui Baal?|Șapte mii|O sută|Șaptezeci|O mie|„Dar voi lăsa în Israel șapte mii de bărbați, și anume pe toți cei ce nu și-au plecat genunchii înaintea lui Baal.”
+profeti|3|12 1:10
+IT|Che cosa cadde dal cielo sui capitani mandati da Achaziah a prendere Elia?|Il fuoco|La grandine|Una pioggia di sassi|Una nuvola|Elia rispose: «Se sono un uomo di Dio, scenda fuoco dal cielo e consumi te e i tuoi cinquanta».
+RO|Ce a căzut din cer peste căpeteniile trimise de Ahazia să-l prindă pe Ilie?|Foc|Grindină|O ploaie de pietre|Un nor|Ilie a răspuns: „Dacă sunt un om al lui Dumnezeu, să se pogoare foc din cer și să te mistuie, pe tine și pe cei cincizeci de oameni ai tăi!”
+profeti|3|12 1:8
+IT|Come fu riconosciuto Elia dalla descrizione dei messaggeri di Achaziah?|Un uomo peloso con una cintura di cuoio|Un uomo con una corona|Un uomo con un bastone d'oro|Un uomo con una lunga barba bianca|Gli risposero: «Era un uomo peloso, con una cintura di cuoio intorno ai fianchi». Egli disse: «È Elia, il Tishbita».
+RO|Cum a fost recunoscut Ilie după descrierea solilor lui Ahazia?|Un om păros, cu o curea de piele împrejurul coapselor|Un om cu o cunună|Un om cu un toiag de aur|Un om cu o barbă albă lungă|I-au răspuns: „Era un om păros și încins cu o curea de piele împrejurul coapselor.” Și el a zis: „Este Ilie, tișbitul.”
+profeti|3|12 3:15
+IT|Che cosa chiese Eliseo prima di profetizzare per i tre re nel deserto di Edom?|Un suonatore d'arpa|Un agnello|Dell'acqua|Il suo mantello|«Ora conducetemi un suonatore d'arpa». Mentre il suonatore suonava, la mano dell'Eterno fu sopra Eliseo.
+RO|Ce a cerut Elisei înainte să prorocească pentru cei trei împărați în pustia Edomului?|Un cântăreț cu harpa|Un miel|Apă|Mantaua lui|„Aduceți-mi acum un cântăreț cu harpa!” Și, pe când cânta cântărețul, mâna Domnului a fost peste Elisei.
+profeti|3|12 6:18
+IT|Con che cosa l'Eterno colpì l'esercito siro che era venuto a prendere Eliseo?|Con la cecità|Con la lebbra|Con il fuoco|Con la grandine|Eliseo pregò: «Colpisci questa gente di cecità». E l'Eterno la colpì di cecità.
+RO|Cu ce a lovit Domnul oștirea siriană venită să-l prindă pe Elisei?|Cu orbire|Cu lepră|Cu foc|Cu grindină|Elisei s-a rugat: „Lovește pe poporul acesta cu orbire!” Și Domnul i-a lovit cu orbire.
+profeti|3|12 7:1
+IT|Che cosa profetizzò Eliseo durante l'assedio di Samaria, quando c'era una grande fame?|Che l'indomani la farina sarebbe costata pochissimo|Che la città sarebbe caduta|Che il re sarebbe morto|Che sarebbe piovuto fuoco|«Domani a quest'ora, alla porta di Samaria, una misura di fior di farina si venderà per un siclo».
+RO|Ce a prorocit Elisei în timpul asedierii Samariei, când era foamete mare?|Că a doua zi făina va fi foarte ieftină|Că cetatea va cădea|Că împăratul va muri|Că va ploua foc|„Mâine, pe vremea aceasta, se va vinde o măsură de floarea făinii cu un siclu, la poarta Samariei.”
+personaggi|3|12 7:3
+IT|Chi scoprì per primo che il campo dei Siri era stato abbandonato durante l'assedio di Samaria?|Quattro lebbrosi|Il re|Eliseo|Le sentinelle|C'erano quattro lebbrosi all'ingresso della porta; andarono al campo dei Siri e non vi trovarono nessuno.
+RO|Cine a descoperit primul că tabăra sirienilor fusese părăsită în timpul asedierii Samariei?|Patru leproși|Împăratul|Elisei|Străjerii|Erau patru leproși la intrarea porții; s-au dus în tabăra sirienilor și n-au găsit pe nimeni.
+re|3|14 16:12
+IT|Di che cosa si ammalò il re Asa negli ultimi anni, senza cercare l'Eterno?|Dei piedi|Degli occhi|Di lebbra|Del cuore|Asa si ammalò gravemente ai piedi; eppure, nella sua malattia, non cercò l'Eterno ma i medici.
+RO|De ce s-a îmbolnăvit împăratul Asa în ultimii ani, fără să-L caute pe Domnul?|De picioare|De ochi|De lepră|De inimă|Asa s-a îmbolnăvit greu de picioare; chiar și în boala lui n-a căutat pe Domnul, ci a întrebat pe doctori.
+re|3|14 20:3
+IT|Che cosa proclamò Giosafat in tutto Giuda quando i nemici si avvicinavano?|Un digiuno|Una festa|Una leva militare|Un censimento|Giosafat ebbe paura, si dispose a cercare l'Eterno e proclamò un digiuno in tutto Giuda.
+RO|Ce a vestit Iosafat în tot Iuda când se apropiau vrăjmașii?|Un post|O sărbătoare|O strângere de oaste|O numărătoare|Iosafat s-a temut, și-a îndreptat fața să caute pe Domnul și a vestit un post pentru tot Iuda.
+re|4|14 20:15
+IT|Che cosa disse il levita Jahaziel al popolo davanti al grande esercito nemico?|«La battaglia non è vostra, ma di Dio»|«Fuggite sui monti»|«Arrendetevi»|«Chiedete aiuto all'Egitto»|«Non temete e non sgomentatevi davanti a questa grande moltitudine, perché la battaglia non è vostra, ma di Dio».
+RO|Ce i-a spus levitul Iahaziel poporului înaintea marii oștiri vrăjmașe?|„Nu voi veți lupta, ci Dumnezeu”|„Fugiți în munți”|„Predați-vă”|„Cereți ajutor Egiptului”|„Nu vă temeți și nu vă înspăimântați de mulțimea aceasta mare, căci nu voi veți lupta, ci Dumnezeu.”
+re|4|14 32:30
+IT|Quale fonte d'acqua chiuse Ezechia portando l'acqua a occidente della città di Davide?|Il Ghihon|Siloe|Il pozzo di Giacobbe|Il Kidron|Ezechia chiuse la sorgente superiore delle acque del Ghihon e le condusse giù, direttamente a occidente della città di Davide.
+RO|Ce izvor a astupat Ezechia, aducând apa la apus de cetatea lui David?|Ghihonul|Siloamul|Fântâna lui Iacov|Chedronul|Ezechia a astupat ieșirea de sus a apelor Ghihonului și le-a pogorât spre apus de cetatea lui David.

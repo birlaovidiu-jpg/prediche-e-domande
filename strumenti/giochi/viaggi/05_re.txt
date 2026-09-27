@@ -1,0 +1,183 @@
+# Viaggi dei libri dei Re e delle Cronache
+
+= salomone_unto | 🎺 | Salomone unto re a Ghihon | Solomon uns împărat la Ghihon | 11 1:33
+@ enroghel | 11 1:9
+it: Presso la pietra di Zoheleth, vicino a En-Roghel, Adonijah fece un banchetto per farsi proclamare re.
+ro: Lângă piatra Zohelet, aproape de En-Roguel, Adonia a dat un ospăț ca să fie vestit împărat.
+@ ghihon | 11 1:39
+it: Per ordine di Davide, Salomone fu portato a Ghihon sulla mula del re e unto con il corno dell'olio.
+ro: La porunca lui David, Solomon a fost dus la Ghihon pe catârul împăratului și uns cu cornul cu untdelemn.
+? personaggio | 11 1:39
+qi: Quale sacerdote unse Salomone a Ghihon?
+qr: Care preot l-a uns pe Solomon la Ghihon?
+ai: Tsadok | Abiathar | Eli | Hilkiah
+ar: Țadoc | Abiatar | Eli | Hilchia
+@ sion | 11 1:40
+it: Il popolo salì dietro a lui suonando i flauti, con una gioia così grande che la terra ne rimbombava.
+ro: Poporul s-a suit după el cântând din fluiere, cu o bucurie atât de mare încât se cutremura pământul.
+? evento | 11 1:39
+qi: Che cosa gridò tutto il popolo dopo l'unzione?
+qr: Ce a strigat tot poporul după ungere?
+ai: «Viva il re Salomone!» | «Osanna!» | «Davide vive!» | «Ecco il profeta!»
+ar: „Trăiască împăratul Solomon!” | „Osana!” | „David trăiește!” | „Iată prorocul!”
+@ tempio | 11 1:50 | l'altare | altarul
+it: Adonijah, avendo paura di Salomone, corse ad aggrapparsi ai corni dell'altare.
+ro: Adonia, temându-se de Solomon, a alergat și s-a apucat de coarnele altarului.
+? personaggio | 11 1:50
+qi: Chi corse ad aggrapparsi ai corni dell'altare per paura di Salomone?
+qr: Cine a alergat să se apuce de coarnele altarului de frica lui Solomon?
+ai: Adonijah | Joab | Nathan | Benaiah
+ar: Adonia | Ioab | Natan | Benaia
+
+= salomone_gabaon | 💭 | Il sogno di Salomone a Gabaon | Visul lui Solomon la Gabaon | 11 3:4
+@ gerusalemme | 11 3:4
+it: Il re Salomone andò a Gabaon per offrire sacrifici, perché quello era il principale alto luogo.
+ro: Împăratul Solomon s-a dus la Gabaon să aducă jertfe, căci acolo era cel mai de seamă loc înalt.
+@ gabaon | 11 3:5
+it: A Gabaon l'Eterno apparve in sogno a Salomone: «Chiedi ciò che vuoi che io ti dia».
+ro: La Gabaon, Domnul i s-a arătat lui Solomon în vis: „Cere ce vrei să-ți dau”.
+? domanda | 11 3:9
+qi: Che cosa chiese Salomone a Dio a Gabaon?
+qr: Ce i-a cerut Solomon lui Dumnezeu la Gabaon?
+ai: Un cuore intelligente per giudicare il popolo | Una lunga vita | Le ricchezze dei re | La vittoria sui nemici
+ar: O inimă pricepută ca să judece poporul | O viață lungă | Bogățiile împăraților | Biruință asupra vrăjmașilor
+@ gabaon | 11 3:4 | l'altare di Gabaon | altarul din Gabaon
+it: Salomone offrì a Gabaon un grande numero di olocausti sull'altare.
+ro: Solomon a adus la Gabaon un mare număr de arderi de tot pe altar.
+? domanda | 11 3:4
+qi: Quanti olocausti offrì Salomone a Gabaon?
+qr: Câte arderi de tot a adus Solomon la Gabaon?
+ai: 1000 | 100 | 12 | 40
+ar: 1000 | 100 | 12 | 40
+@ gerusalemme | 11 3:16 | il giudizio delle due donne | judecata celor două femei
+it: Tornato a Gerusalemme, Salomone giudicò con saggezza fra due donne che si contendevano un bambino.
+ro: Întors la Ierusalim, Solomon a judecat cu înțelepciune între două femei care se certau pentru un copil.
+? evento | 11 3:25
+qi: Che cosa ordinò Salomone per scoprire la vera madre?
+qr: Ce a poruncit Solomon ca să afle cine era adevărata mamă?
+ai: Di dividere il bambino in due con la spada | Di chiamare i vicini | Di lasciar scegliere il bambino | Di consultare il sommo sacerdote
+ar: Să se taie copilul în două cu sabia | Să fie chemați vecinii | Să aleagă copilul | Să fie întrebat marele preot
+
+= legno_libano | 🌲 | Il cedro del Libano per il tempio | Cedrul din Liban pentru Templu | 11 5:6
+@ libano | 11 5:6
+it: Salomone chiese a Hiram di far tagliare i cedri del Libano dai suoi servi, esperti nel lavoro del legno.
+ro: Solomon i-a cerut lui Hiram să pună pe slujitorii lui, pricepuți la lemn, să taie cedri din Liban.
+@ tiro | 11 5:11
+it: In cambio Salomone mandava ogni anno al re di Tiro grano e olio per la sua casa.
+ro: În schimb, Solomon îi trimitea în fiecare an împăratului Tirului grâu și untdelemn pentru casa lui.
+? personaggio | 11 5:1
+qi: Quale re di Tiro fornì il legname a Salomone?
+qr: Care împărat al Tirului i-a dat lemn lui Solomon?
+ai: Hiram | Ethbaal | Ben-Hadad | Neko
+ar: Hiram | Etbaal | Ben-Hadad | Neco
+@ joppe | 14 2:16
+it: Il legname fu legato in zattere e portato per mare fino a Joppe; di là salì a Gerusalemme.
+ro: Lemnele au fost legate în plute și duse pe mare până la Iope; de acolo au fost suite la Ierusalim.
+? domanda | 14 2:16
+qi: In che modo arrivò il legname del Libano a Joppe?
+qr: Cum au ajuns lemnele din Liban la Iope?
+ai: Per mare, in zattere | Su carri trainati da buoi | Sul fiume Giordano | Sui cammelli, nel deserto
+ar: Pe mare, în plute | Pe care trase de boi | Pe râul Iordan | Pe cămile, prin pustie
+@ tempio | 11 6:7
+it: Il tempio fu costruito con pietre già squadrate alla cava: non si udì rumore di martello né di attrezzi di ferro.
+ro: Templul a fost zidit cu pietre cioplite de la carieră: nu s-a auzit nici ciocan, nici vreo unealtă de fier.
+? evento | 11 6:7
+qi: Che cosa non si udì mentre si costruiva il tempio?
+qr: Ce nu s-a auzit cât s-a zidit Templul?
+ai: Il rumore di martelli e di attrezzi di ferro | Il canto dei leviti | La voce del re | Il suono delle trombe
+ar: Zgomotul ciocanelor și al uneltelor de fier | Cântarea leviților | Glasul împăratului | Sunetul trâmbițelor
+
+= regina_sceba | 🐪 | La regina di Sceba | Împărăteasa din Seba | 11 10:1
+@ sheba | 11 10:1
+it: La regina di Sceba sentì parlare della sapienza di Salomone e partì per metterlo alla prova con domande difficili.
+ro: Împărăteasa din Seba a auzit de faima lui Solomon și a pornit ca să-l încerce prin întrebări grele.
+@ tema | 11 10:2 | la via dell'Arabia | drumul Arabiei
+it: Viaggiò con un seguito numeroso e cammelli carichi di aromi, di oro e di pietre preziose.
+ro: A călătorit cu o suită foarte mare și cu cămile încărcate cu mirodenii, aur și pietre scumpe.
+? domanda | 11 10:2
+qi: Che cosa portavano i cammelli della regina?
+qr: Ce duceau cămilele împărătesei?
+ai: Aromi, oro e pietre preziose | Sale e grano | Stoffe e lana | Armi e scudi
+ar: Mirodenii, aur și pietre scumpe | Sare și grâu | Stofe și lână | Arme și scuturi
+@ gerusalemme | 11 10:5
+it: Vedendo la sapienza di Salomone, la sua casa e il servizio del tempio, la regina rimase senza fiato.
+ro: Când a văzut înțelepciunea lui Solomon, casa lui și slujba din Templu, împărăteasa a rămas uimită.
+? domanda | 11 10:7
+qi: Che cosa disse la regina a Salomone?
+qr: Ce i-a spus împărăteasa lui Solomon?
+ai: «Non me ne era stata riferita neppure la metà» | «Hai meno di quanto dicevano» | «Vieni con me a Sceba» | «Dammi la tua corona»
+ar: „Nu mi se spusese nici jumătate” | „Ai mai puțin decât se spunea” | „Vino cu mine în Seba” | „Dă-mi cununa ta”
+@ sheba | 11 10:13 | il ritorno a Sceba | întoarcerea în Seba
+it: Salomone le diede tutto quello che desiderava, e la regina tornò nel suo paese con i suoi servi.
+ro: Solomon i-a dat tot ce a dorit, iar împărăteasa s-a întors în țara ei cu slujitorii ei.
+? domanda | 11 10:10
+qi: Quanti talenti d'oro donò la regina a Salomone?
+qr: Câți talanți de aur i-a dăruit împărăteasa lui Solomon?
+ai: 120 | 12 | 666 | 1000
+ar: 120 | 12 | 666 | 1000
+
+= navi_ofir | ⛵ | Le navi di Salomone verso Ofir | Corăbiile lui Solomon spre Ofir | 11 9:26
+@ gerusalemme | 11 9:26
+it: Il re Salomone fece costruire una flotta, e Hiram gli mandò marinai esperti del mare.
+ro: Împăratul Solomon a făcut corăbii, iar Hiram i-a trimis marinari care cunoșteau marea.
+@ eziongeber | 11 9:26
+it: Le navi furono costruite a Etsion-Gheber, vicino a Elath, sulla riva del Mar Rosso, nel paese di Edom.
+ro: Corăbiile au fost făcute la Ețion-Gheber, lângă Elot, pe țărmul Mării Roșii, în țara Edomului.
+? luogo | 11 9:26
+qi: Su quale mare si trovava il porto di Etsion-Gheber?
+qr: La ce mare era portul Ețion-Gheber?
+ai: Il Mar Rosso | Il Mar Grande | Il Mar Morto | Il mare di Galilea
+ar: Marea Roșie | Marea cea Mare | Marea Moartă | Marea Galileii
+@ ofir | 11 9:28
+it: Le navi andarono a Ofir e ne riportarono l'oro per il re Salomone.
+ro: Corăbiile s-au dus la Ofir și au adus de acolo aur împăratului Solomon.
+? domanda | 11 9:28
+qi: Quanti talenti d'oro presero le navi a Ofir?
+qr: Câți talanți de aur au luat corăbiile din Ofir?
+ai: 420 | 120 | 40 | 1000
+ar: 420 | 120 | 40 | 1000
+@ gerusalemme | 11 10:22 | il tesoro del re | vistieria împăratului
+it: Ogni tre anni la flotta di Tarshish tornava con oro, argento, avorio, scimmie e pavoni.
+ro: O dată la trei ani, corăbiile din Tarsis se întorceau cu aur, argint, fildeș, maimuțe și păuni.
+? domanda | 11 10:22
+qi: Ogni quanti anni tornava la flotta di Tarshish?
+qr: La câți ani se întorceau corăbiile din Tarsis?
+ai: 3 | 1 | 7 | 10
+ar: 3 | 1 | 7 | 10
+
+= citta_salomone | 🏗️ | Le città costruite da Salomone | Cetățile zidite de Solomon | 11 9:15
+@ gerusalemme | 11 9:15
+it: Salomone impose lavori forzati per costruire il tempio, la sua casa, il Millo e le mura di Gerusalemme.
+ro: Solomon a pus oameni de corvoadă ca să zidească Templul, casa lui, Milo și zidul Ierusalimului.
+@ hazor | 11 9:15
+it: Salomone fortificò anche Hatsor, nel nord del paese.
+ro: Solomon a întărit și Hațorul, în miazănoaptea țării.
+? luogo | 11 9:15
+qi: Quale di queste città fu fortificata da Salomone?
+qr: Care dintre aceste cetăți a fost întărită de Solomon?
+ai: Meghiddo | Ninive | Babilonia | Susa
+ar: Meghido | Ninive | Babilon | Susa
+@ meghiddo | 11 9:15
+it: Meghiddo, che controllava la grande pianura, divenne una delle città di Salomone.
+ro: Meghido, care stăpânea câmpia cea mare, a ajuns una dintre cetățile lui Solomon.
+? domanda | 11 9:19
+qi: Che cosa custodiva Salomone nelle sue città fortificate?
+qr: Ce ținea Solomon în cetățile lui întărite?
+ai: I carri e i cavalieri | Il tesoro del tempio | L'arca dell'alleanza | Le sue mogli straniere
+ar: Carele și călăreții | Vistieria Templului | Chivotul legământului | Nevestele lui străine
+@ gezer | 11 9:16
+it: Ghezer era stata presa dal Faraone e data in dote a sua figlia, moglie di Salomone, che la ricostruì.
+ro: Ghezerul fusese luat de Faraon și dat ca zestre fetei lui, nevasta lui Solomon, care l-a zidit din nou.
+? personaggio | 11 9:16
+qi: Chi aveva dato Ghezer in dote alla moglie di Salomone?
+qr: Cine dăduse Ghezerul ca zestre nevestei lui Solomon?
+ai: Il Faraone, re d'Egitto | Hiram, re di Tiro | La regina di Sceba | Il re di Damasco
+ar: Faraon, împăratul Egiptului | Hiram, împăratul Tirului | Împărăteasa din Seba | Împăratul Damascului
+@ tadmor | 11 9:18
+it: Salomone costruì Baalath e Tadmor, nella parte deserta del paese.
+ro: Solomon a zidit Baalat și Tadmor, în pustia țării.
+? puzzle | 11 9:18
+qi: Ricomponi il nome della città costruita da Salomone nel deserto.
+qr: Refă numele cetății zidite de Solomon în pustie.
+ai: TADMOR
+ar: TADMOR

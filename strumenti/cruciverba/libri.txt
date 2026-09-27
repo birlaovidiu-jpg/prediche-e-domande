@@ -1,0 +1,51 @@
+# I libri della Bibbia con il nome di UNA parola, per il tema «Libri della Bibbia» del Cruciverba.
+# LIBRO|RISPOSTA ITALIANO|RISPOSTA RUMENO|indizio italiano|indizio rumeno
+# (i libri con più parole o con un numero — 1 Samuele, Cantico dei Cantici… — non entrano)
+1|GENESI|GENEZA|Il primo libro della Bibbia: racconta la creazione, il diluvio e i patriarchi|Prima carte a Bibliei: povestește crearea lumii, potopul și patriarhii
+2|ESODO|EXODUL|Libro che racconta l'uscita del popolo d'Israele dall'Egitto guidato da Mosè|Cartea care povestește ieșirea poporului Israel din Egipt sub conducerea lui Moise
+3|LEVITICO|LEVITICUL|Libro della Legge con le norme sui sacrifici, sui sacerdoti e sulle feste|Cartea Legii cu rânduieli despre jertfe, preoți și sărbători
+4|NUMERI|NUMERI|Libro dei censimenti del popolo e del lungo cammino nel deserto|Cartea numărătorilor poporului și a lungii călătorii prin pustie
+5|DEUTERONOMIO|DEUTERONOMUL|Ultimo libro della Legge: i discorsi di Mosè prima di entrare nella terra promessa|Ultima carte a Legii: cuvântările lui Moise înainte de intrarea în țara făgăduită
+6|GIOSUE|IOSUA|Libro che racconta la conquista di Canaan e la caduta di Gerico|Cartea care povestește cucerirea Canaanului și căderea Ierihonului
+7|GIUDICI|JUDECATORII|Libro dei condottieri d'Israele come Debora, Gedeone e Sansone|Cartea conducătorilor lui Israel, ca Debora, Ghedeon și Samson
+8|RUT|RUT|Breve libro sulla donna moabita fedele alla suocera Naomi|Scurtă carte despre femeia moabită credincioasă soacrei ei, Naomi
+15|ESDRA|EZRA|Libro del ritorno dall'esilio di Babilonia e della ricostruzione del tempio|Cartea întoarcerii din robia Babilonului și a zidirii Templului
+16|NEEMIA|NEEMIA|Libro sul coppiere del re persiano che ricostruì le mura di Gerusalemme|Cartea paharnicului împăratului perșilor care a zidit zidurile Ierusalimului
+17|ESTER|ESTERA|Libro della regina giudea che salvò il suo popolo dal piano di Haman|Cartea împărătesei iudeice care și-a scăpat poporul din planul lui Haman
+18|GIOBBE|IOV|Libro dell'uomo giusto messo alla prova da grandi sofferenze|Cartea omului neprihănit pus la mari încercări
+19|SALMI|PSALMII|Il libro dei centocinquanta canti e preghiere, molti di Davide|Cartea celor o sută cincizeci de cântări și rugăciuni, multe ale lui David
+20|PROVERBI|PROVERBELE|Libro di massime di sapienza, in gran parte attribuite a Salomone|Cartea de învățături de înțelepciune, în mare parte ale lui Solomon
+21|ECCLESIASTE|ECLESIASTUL|Libro che ripete: «Vanità delle vanità, tutto è vanità»|Cartea care repetă: «Deșertăciune a deșertăciunilor, totul este deșertăciune»
+23|ISAIA|ISAIA|Libro del profeta che annunciò il Servo sofferente e il Principe della pace|Cartea prorocului care a vestit pe Robul suferind și pe Domnul păcii
+24|GEREMIA|IEREMIA|Libro del profeta che avvisò Giuda prima della caduta di Gerusalemme|Cartea prorocului care a avertizat Iuda înainte de căderea Ierusalimului
+25|LAMENTAZIONI||Libro di canti funebri per Gerusalemme distrutta|
+26|EZECHIELE|EZECHIEL|Libro del profeta della visione delle ossa secche e del tempio nuovo|Cartea prorocului viziunii oaselor uscate și a Templului nou
+27|DANIELE|DANIEL|Libro del profeta nella fossa dei leoni e delle grandi visioni sui regni|Cartea prorocului din groapa cu lei și a marilor viziuni despre împărății
+28|OSEA|OSEA|Libro del profeta che sposò Gomer, segno dell'amore di Dio per Israele|Cartea prorocului care s-a însurat cu Gomer, semn al dragostei lui Dumnezeu pentru Israel
+29|GIOELE|IOEL|Libro del profeta dell'invasione delle locuste e dello Spirito su ogni carne|Cartea prorocului invaziei lăcustelor și a turnării Duhului peste orice făptură
+30|AMOS|AMOS|Libro del profeta pastore di Tekoa che denunciò l'ingiustizia|Cartea prorocului păstor din Tecoa care a osândit nedreptatea
+31|ABDIA|OBADIA|Il più breve libro dell'Antico Testamento, contro Edom|Cea mai scurtă carte din Vechiul Testament, împotriva Edomului
+32|GIONA|IONA|Libro del profeta inghiottito da un grande pesce e mandato a Ninive|Cartea prorocului înghițit de un pește mare și trimis la Ninive
+33|MICHEA|MICA|Libro del profeta che annunciò che il Messia sarebbe nato a Betlemme|Cartea prorocului care a vestit că Mesia se va naște la Betleem
+34|NAUM|NAUM|Libro del profeta che annunciò la caduta di Ninive|Cartea prorocului care a vestit căderea Ninivei
+35|ABACUC|HABACUC|Libro del profeta che scrisse: «Il giusto vivrà per la sua fede»|Cartea prorocului care a scris: «Cel neprihănit va trăi prin credința lui»
+36|SOFONIA|TEFANIA|Libro del profeta che annunciò il grande giorno dell'Eterno|Cartea prorocului care a vestit ziua cea mare a Domnului
+37|AGGEO|HAGAI|Libro del profeta che esortò a ricostruire il tempio dopo l'esilio|Cartea prorocului care a îndemnat la zidirea Templului după robie
+38|ZACCARIA|ZAHARIA|Libro del profeta delle visioni notturne e del re che entra su un asino|Cartea prorocului vedeniilor de noapte și a împăratului care intră călare pe un măgar
+39|MALACHIA|MALEAHI|L'ultimo libro dell'Antico Testamento|Ultima carte a Vechiului Testament
+40|MATTEO|MATEI|Il primo Vangelo, con il Discorso della montagna|Prima Evanghelie, cu Predica de pe munte
+41|MARCO|MARCU|Il più breve dei quattro Vangeli|Cea mai scurtă dintre cele patru Evanghelii
+42|LUCA|LUCA|Il Vangelo scritto dal medico compagno di viaggio di Paolo|Evanghelia scrisă de doctorul tovarăș de drum al lui Pavel
+43|GIOVANNI|IOAN|Il Vangelo che comincia con «In principio era la Parola»|Evanghelia care începe cu «La început era Cuvântul»
+44|ATTI||Libro della nascita della chiesa e dei viaggi di Paolo|
+45|ROMANI|ROMANI|La lettera di Paolo alla chiesa della capitale dell'impero|Epistola lui Pavel către biserica din capitala imperiului
+48|GALATI|GALATENI|Lettera di Paolo sulla libertà dalla legge e sulla giustificazione per fede|Epistola lui Pavel despre libertatea față de Lege și îndreptățirea prin credință
+49|EFESINI|EFESENI|Lettera di Paolo sull'armatura di Dio|Epistola lui Pavel despre armura lui Dumnezeu
+50|FILIPPESI|FILIPENI|Lettera di Paolo scritta dal carcere, piena di gioia|Epistola lui Pavel scrisă din închisoare, plină de bucurie
+51|COLOSSESI|COLOSENI|Lettera di Paolo che presenta Cristo come capo della chiesa e primo su tutto|Epistola lui Pavel care îl arată pe Hristos ca Cap al bisericii și întâi peste toate
+56|TITO|TIT|Lettera di Paolo al collaboratore lasciato a Creta|Epistola lui Pavel către ajutorul lăsat în Creta
+57|FILEMONE|FILIMON|Brevissima lettera di Paolo a favore dello schiavo fuggito Onesimo|Scurtă epistolă a lui Pavel în favoarea robului fugit Onisim
+58|EBREI|EVREI|Lettera che presenta Cristo come grande sommo sacerdote|Epistola care îl arată pe Hristos ca Mare Preot
+59|GIACOMO|IACOV|Lettera che dice che la fede senza le opere è morta|Epistola care spune că credința fără fapte este moartă
+65|GIUDA|IUDA|Brevissima lettera scritta dal fratello di Giacomo|Scurtă epistolă scrisă de fratele lui Iacov
+66|APOCALISSE|APOCALIPSA|L'ultimo libro della Bibbia, la visione data a Giovanni a Patmos|Ultima carte a Bibliei, viziunea dată lui Ioan în Patmos

@@ -1,0 +1,287 @@
+# Parole dell'Impiccato scritte a mano, ognuna con una piccola descrizione.
+# Solo parole sensate (animali, piante, cose, luoghi, persone, feste, virtù…), mai «perché» o «della».
+# Si aggiungono a quelle con la descrizione scritta a mano del Cruciverba (strumenti/cruciverba/indizi_*.txt).
+# PAROLA IT|PAROLA RO|livello 1-3|descrizione italiana|descrizione rumena
+# (una delle due parole può mancare: vale solo per l'altra lingua)
+# ---- animali
+PECORA|OAIE|1|L'animale mansueto che segue il pastore e ascolta la sua voce|Animalul blând care merge după păstor și ascultă de glasul lui
+LUPO|LUP|1|L'animale feroce che rapisce e disperde le pecore|Animalul fioros care răpește și risipește oile
+CAPRA|CAPRĂ|1|L'animale dal pelo lungo che i pastori tenevano insieme alle pecore|Animalul cu păr lung pe care păstorii îl țineau împreună cu oile
+VITELLO|VIȚEL|1|Il giovane bovino fatto d'oro da Aaronne ai piedi del Sinai|Tânărul bovin făcut din aur de Aaron la poalele Sinaiului
+TORO|TAUR|2|Il maschio dei bovini, offerto in sacrificio per il peccato del sacerdote|Masculul bovinelor, adus ca jertfă pentru păcatul preotului
+MONTONE|BERBEC|2|L'animale che Abrahamo trovò impigliato nel cespuglio e offrì al posto di Isacco|Animalul pe care Avraam l-a găsit încurcat în tufiș și l-a jertfit în locul lui Isaac
+CANE|CÂINE|1|L'animale che leccò le piaghe del povero Lazzaro|Animalul care lingea bubele săracului Lazăr
+MAIALE|PORC|1|L'animale impuro che il figlio prodigo dovette pascolare|Animalul necurat pe care fiul risipitor a trebuit să-l pască
+SERPENTE|ȘARPE|1|L'animale che nel giardino di Eden ingannò Eva|Animalul care în grădina Edenului a înșelat-o pe Eva
+ORSO|URS|2|L'animale che Davide uccise per difendere il gregge di suo padre|Animalul pe care David l-a ucis ca să apere turma tatălui său
+VOLPE|VULPE|2|L'animale astuto a cui Gesù paragonò il re Erode|Animalul viclean cu care Isus l-a asemănat pe împăratul Irod
+CERVO|CERB|2|L'animale che anela ai corsi d'acqua, come l'anima anela a Dio|Animalul care tânjește după izvoarele de apă, cum tânjește sufletul după Dumnezeu
+GAZZELLA|GAZELĂ|3|L'animale agile e veloce del deserto, simbolo di bellezza nel Cantico|Animalul sprinten și iute al pustiei, simbol al frumuseții în Cântarea Cântărilor
+PASSERO|VRABIE|2|Il piccolo uccello venduto per pochi soldi, di cui Dio non si dimentica|Pasărea mică vândută pe câțiva bani, pe care Dumnezeu n-o uită
+TORTORA|TURTUREA|2|L'uccello che i poveri potevano offrire in sacrificio al posto dell'agnello|Pasărea pe care săracii o puteau aduce jertfă în locul mielului
+CICOGNA|BARZĂ|3|L'uccello migratore che conosce le sue stagioni, mentre il popolo non conosce Dio|Pasărea călătoare care își cunoaște vremurile, dar poporul nu-L cunoaște pe Dumnezeu
+STRUZZO|STRUȚ|3|Il grande uccello del deserto che lascia le sue uova nella sabbia|Pasărea mare a pustiei care își lasă ouăle în nisip
+PESCE|PEȘTE|1|L'animale del mare che Gesù moltiplicò insieme ai pani|Vietatea mării pe care Isus a înmulțit-o împreună cu pâinile
+RANA|BROASCĂ|2|L'animale che invase le case degli Egiziani nella seconda piaga|Animalul care a umplut casele egiptenilor la a doua urgie
+MOSCA|MUSCĂ|2|L'insetto che venne a sciami sull'Egitto in una delle piaghe|Insecta care a venit în roiuri peste Egipt într-una din urgii
+VERME|VIERME|2|Il piccolo animale che rose la pianta di ricino di Giona|Vietatea mică ce a ros curcubetele lui Iona
+LEOPARDO|LEOPARD|3|L'animale maculato che nel regno di pace giacerà accanto al capretto|Animalul pătat care în împărăția păcii se va culca lângă ied
+MULO|CATÂR|3|L'animale su cui cavalcava Absalom quando rimase appeso alla quercia|Animalul pe care călărea Absalom când a rămas atârnat în stejar
+SCORPIONE|SCORPION|3|L'animale velenoso che il padre non dà al figlio che chiede un uovo|Animalul veninos pe care tatăl nu i-l dă fiului care îi cere un ou
+VIPERA|NĂPÂRCĂ|2|Il serpente velenoso che morse la mano di Paolo a Malta senza fargli male|Șarpele veninos care l-a mușcat de mână pe Pavel în Malta fără să-i facă rău
+QUAGLIE|PREPELIȚE|2|Gli uccelli che Dio mandò nel deserto perché il popolo avesse carne|Păsările pe care Dumnezeu le-a trimis în pustie ca poporul să aibă carne
+GALLINA|GĂINĂ|2|L'animale che raccoglie i suoi pulcini sotto le ali, come Gesù voleva fare con Gerusalemme|Pasărea care își strânge puii sub aripi, cum voia Isus să facă cu Ierusalimul
+CAPRETTO|IED|2|Il piccolo della capra, che Giacobbe usò per ingannare il padre|Puiul caprei, folosit de Iacov ca să-și înșele tatăl
+CINGHIALE|MISTREȚ|3|L'animale del bosco che devasta la vigna nel Salmo 80|Animalul din pădure care pustiește via în Psalmul 80
+PULCINI|PUI|2|I piccoli della gallina, raccolti sotto le sue ali|Cei mici ai găinii, strânși sub aripile ei
+BESTIA|FIARĂ|2|L'animale selvaggio che nelle profezie di Daniele e dell'Apocalisse rappresenta un regno|Animalul sălbatic care în proorociile lui Daniel și din Apocalipsa închipuie o împărăție
+DRAGONE|BALAUR|2|Il grande mostro rosso dell'Apocalisse, cioè il serpente antico|Fiara cea mare și roșie din Apocalipsa, adică șarpele cel vechi
+# ---- piante e cibo
+VITE|VIȚĂ|1|La pianta dell'uva: Gesù disse di essere quella vera, e noi i tralci|Planta strugurilor: Isus a spus că El este cea adevărată, iar noi mlădițele
+ULIVO|MĂSLIN|1|L'albero da cui si ricava l'olio, di cui la colomba portò una foglia a Noè|Pomul din care se scoate untdelemnul; porumbița i-a adus lui Noe o frunză din el
+PALMA|FINIC|2|L'albero con i cui rami la folla accolse Gesù a Gerusalemme|Pomul cu ale cărui ramuri mulțimea L-a întâmpinat pe Isus la Ierusalim
+GIGLIO|CRIN|2|Il fiore del campo vestito più splendidamente di Salomone|Floarea câmpului îmbrăcată mai frumos decât Solomon
+SENAPE|MUȘTAR|2|Il seme piccolissimo che diventa un grande albero, come il regno di Dio|Sămânța foarte mică ce ajunge un copac mare, ca împărăția lui Dumnezeu
+ORZO|ORZ|2|Il cereale dei cinque pani del ragazzo che Gesù moltiplicò|Cerealele celor cinci pâini ale băiatului, pe care Isus le-a înmulțit
+ZIZZANIA|NEGHINĂ|2|L'erba cattiva seminata dal nemico in mezzo al grano|Iarba rea semănată de vrăjmaș în mijlocul grâului
+SPINE|SPINI|1|Le piante pungenti con cui fu intrecciata la corona di Gesù|Plantele cu țepi din care a fost împletită cununa lui Isus
+ROVETO|RUG|2|Il cespuglio che ardeva senza consumarsi davanti a Mosè|Tufișul care ardea fără să se mistuie în fața lui Moise
+MELOGRANO|RODIE|3|Il frutto rosso ricamato sull'orlo del manto del sommo sacerdote|Rodul roșu brodat pe marginea mantiei marelui preot
+SICOMORO|SICOMOR|2|L'albero su cui salì Zaccheo per vedere Gesù|Copacul în care s-a suit Zaheu ca să-L vadă pe Isus
+QUERCIA|STEJAR|2|Il grande albero sotto cui Abrahamo si fermò a Mamre|Copacul mare sub care s-a oprit Avraam la Mamre
+CIPRESSO|CHIPAROS|3|L'albero sempreverde che crescerà al posto delle spine, dice Isaia|Pomul veșnic verde care va crește în locul spinilor, spune Isaia
+MIRRA|SMIRNĂ|2|La resina profumata portata dai magi, insieme all'oro e all'incenso|Rășina mirositoare adusă de magi, împreună cu aurul și tămâia
+UVA|STRUGURI|1|Il frutto della vite, portato dagli esploratori su una stanga|Rodul viței, adus de iscoade pe o prăjină
+VINO|VIN|1|La bevanda in cui Gesù trasformò l'acqua a Cana|Băutura în care Isus a prefăcut apa la Cana
+OLIO|UNTDELEMN|1|Il liquido dell'ulivo che non mancò mai nella giara della vedova|Lichidul din măslin care n-a lipsit niciodată din urciorul văduvei
+PANE|PÂINE|1|Il cibo di ogni giorno che Gesù ci insegnò a chiedere nella preghiera|Hrana de fiecare zi pe care Isus ne-a învățat s-o cerem în rugăciune
+FARINA|FĂINĂ|1|La polvere di grano con cui la vedova di Sarepta fece la focaccia per Elia|Grâul măcinat din care văduva din Sarepta a făcut turta pentru Ilie
+MIELE|MIERE|1|Il dolce cibo delle api che Giovanni Battista mangiava con le locuste|Hrana dulce a albinelor pe care Ioan Botezătorul o mânca cu lăcuste
+LENTICCHIE|LINTE|2|Il piatto rosso per cui Esaù vendette la primogenitura|Mâncarea roșie pentru care Esau și-a vândut dreptul de întâi născut
+CETRIOLI|CASTRAVEȚI|3|Gli ortaggi d'Egitto che il popolo rimpiangeva nel deserto|Legumele Egiptului după care poporul tânjea în pustie
+CIPOLLE|CEAPĂ|3|Gli ortaggi dal sapore forte che Israele rimpiangeva d'Egitto|Legumele cu gust tare după care Israel tânjea din Egipt
+AGLIO|USTUROI|3|L'ortaggio dall'odore forte rimpianto dal popolo nel deserto|Leguma cu miros tare după care tânjea poporul în pustie
+FRUTTO|ROD|1|Ciò che l'albero buono produce: dallo Spirito vengono amore, gioia, pace|Ceea ce face pomul bun: al Duhului este dragostea, bucuria, pacea
+SEME|SĂMÂNȚĂ|1|Ciò che il seminatore sparge: nella parabola è la parola di Dio|Ceea ce aruncă semănătorul: în pildă este Cuvântul lui Dumnezeu
+RADICE|RĂDĂCINĂ|2|La parte della pianta sotto terra: l'amore del denaro lo è di ogni male|Partea plantei de sub pământ: iubirea de bani este aceasta pentru toate relele
+RAMO|RAMURĂ|2|La parte dell'albero: Gesù è la vite e noi siamo questo|Partea pomului care crește din tulpină: Isus este vița, iar noi suntem acestea
+FOGLIA|FRUNZĂ|1|Adamo ed Eva ne cucirono di fico per coprirsi|Adam și Eva au cusut din cele de smochin ca să se acopere
+FIORE|FLOARE|1|Sboccia nel campo e appassisce: così è la gloria dell'uomo|Înflorește în câmp și se veștejește: așa este slava omului
+ERBA|IARBĂ|1|La pianta verde del prato: ogni carne è come lei, dice Isaia|Planta verde a câmpului: orice făptură este ca ea, spune Isaia
+PAGLIA|PAIE|2|Ciò che il popolo dovette andare a cercare da solo per fare i mattoni in Egitto|Ceea ce poporul a trebuit să caute singur ca să facă cărămizi în Egipt
+PULA|PLEAVĂ|3|Lo scarto del grano portato via dal vento, come gli empi|Coaja grâului luată de vânt, ca cei răi
+SPIGA|SPIC|2|Quelle che i discepoli colsero di sabato attraversando i campi|Cele pe care ucenicii le-au smuls în ziua de Sabat trecând prin lanuri
+VIGNA|VIE|1|Il campo coltivato a viti, protagonista di molte parabole di Gesù|Locul plantat cu viță, prezent în multe pilde ale lui Isus
+GIARDINO|GRĂDINĂ|1|Il luogo verde dove Dio pose l'uomo all'inizio, e dove Gesù pregò prima dell'arresto|Locul verde unde Dumnezeu l-a pus pe om la început și unde Isus S-a rugat înainte de arestare
+FORESTA|PĂDURE|2|Il luogo pieno di alberi dove Absalom fu sconfitto|Locul plin de copaci unde a fost învins Absalom
+CANNA|TRESTIE|2|La pianta fragile che Gesù non spezza quando è incrinata|Planta slabă pe care Isus n-o frânge când e ruptă
+ALOE|ALOE|3|La pianta profumata portata da Nicodemo per la sepoltura di Gesù|Planta mirositoare adusă de Nicodim pentru îngroparea lui Isus
+MANDRAGORE|MANDRAGORE|3|Le piante che Ruben trovò nei campi e che Rachele chiese a Lea|Plantele pe care Ruben le-a găsit în câmp și pe care Rahela le-a cerut Leei
+# ---- oggetti, armi, strumenti
+SPADA|SABIE|1|L'arma a due tagli: così è la parola di Dio, dice la lettera agli Ebrei|Arma cu două tăișuri: așa este Cuvântul lui Dumnezeu, spune epistola către Evrei
+SCUDO|SCUT|2|L'arma di difesa: quello della fede spegne i dardi infuocati del maligno|Arma de apărare: cel al credinței stinge săgețile arzătoare ale celui rău
+FRECCIA|SĂGEATĂ|2|Gionathan la scoccò per avvertire Davide del pericolo|Ionatan a tras-o ca să-l vestească pe David de primejdie
+TROMBA|TRÂMBIȚĂ|1|Lo strumento il cui suono fece crollare le mura di Gerico|Instrumentul la al cărui sunet s-au prăbușit zidurile Ierihonului
+CORNO|CORN|2|Il recipiente d'olio con cui Samuele unse Davide re|Vasul cu untdelemn cu care Samuel l-a uns pe David împărat
+FLAUTO|FLAUT|3|Lo strumento a fiato suonato alle feste e ai funerali|Instrumentul de suflat cântat la petreceri și la înmormântări
+ROTOLO|SUL|2|Il libro arrotolato che Gesù aprì nella sinagoga di Nazaret|Cartea făcută sul pe care Isus a deschis-o în sinagoga din Nazaret
+CANDELA|LUMÂNARE|2|La luce che la donna accende per cercare la dramma perduta|Lumina pe care femeia o aprinde ca să caute drahma pierdută
+BROCCA|ULCIOR|2|Il vaso d'acqua della donna samaritana al pozzo|Vasul de apă al femeii samaritene la fântână
+CALICE|PAHAR|2|La coppa della Santa Cena: il nuovo patto nel sangue di Gesù|Vasul Cinei Domnului: legământul cel nou în sângele lui Isus
+CESTE|COȘURI|2|Quelle che si riempirono con gli avanzi dopo che Gesù sfamò la folla|Cele care s-au umplut cu firimituri după ce Isus a hrănit mulțimea
+RETE|MREJĂ|1|Lo strumento dei pescatori, che si riempì di pesci alla parola di Gesù|Unealta pescarilor care s-a umplut de pești la cuvântul lui Isus
+BARCA|LUNTRE|1|L'imbarcazione dei pescatori di Galilea da cui Gesù insegnava alla folla|Ambarcațiunea pescarilor din Galileea din care Isus învăța mulțimea
+GIOGO|JUG|2|Il legno sulle spalle dei buoi: quello di Gesù è dolce e leggero|Lemnul de pe grumazul boilor: al lui Isus este bun și ușor
+MACINA|RÂȘNIȚĂ|3|La pietra per il grano: due donne macineranno insieme, una sarà presa|Piatra pentru grâu: două femei vor măcina împreună, una va fi luată
+AIA|ARIE|3|Il luogo dove si batteva il grano: Rut vi andò di notte da Boaz|Locul unde se treiera grâul: Rut a mers acolo noaptea la Boaz
+POZZO|FÂNTÂNĂ|1|Il luogo dell'acqua dove Gesù parlò con la donna samaritana|Locul cu apă unde Isus a vorbit cu femeia samariteancă
+BASTONE|TOIAG|1|Il legno che Mosè stese sul mar Rosso|Lemnul pe care Moise l-a întins peste Marea Roșie
+CHIODI|CUIE|2|Quelli con cui Gesù fu fissato alla croce|Cele cu care Isus a fost pironit pe cruce
+SPUGNA|BURETE|3|Fu imbevuta di aceto e portata alla bocca di Gesù sulla croce|A fost înmuiat în oțet și dus la gura lui Isus pe cruce
+ACETO|OȚET|3|La bevanda acida data a Gesù sulla croce|Băutura acră dată lui Isus pe cruce
+SIGILLO|PECETE|2|Il segno messo sulla pietra del sepolcro di Gesù|Semnul pus pe piatra mormântului lui Isus
+MANGIATOIA|IESLE|1|Il posto dove fu adagiato Gesù appena nato a Betlemme|Locul unde a fost culcat Isus când S-a născut la Betleem
+SANDALI|SANDALE|2|Quelle che Mosè si tolse davanti al pruno ardente|Cele pe care Moise și le-a scos în fața rugului aprins
+CINTURA|BRÂU|2|Quella della verità fa parte dell'armatura di Dio|Cel al adevărului face parte din armura lui Dumnezeu
+VELO|PERDEA|2|La tenda del tempio che si squarciò in due quando Gesù morì|Draperia templului care s-a rupt în două când a murit Isus
+SACCO|SAC|2|La veste ruvida del lutto e del pentimento, portata anche dai Niniviti|Haina aspră a jalei și a pocăinței, purtată și de niniviteni
+PORPORA|PURPURĂ|2|Il tessuto rosso prezioso venduto da Lidia di Tiatiri|Țesătura roșie și scumpă vândută de Lidia din Tiatira
+ORO|AUR|1|Il metallo prezioso delle strade della nuova Gerusalemme|Metalul prețios al ulițelor noului Ierusalim
+FERRO|FIER|2|Il metallo della scure che Eliseo fece galleggiare|Metalul securii pe care Elisei a făcut-o să plutească
+PERLA|MĂRGĂRITAR|2|Il mercante vendette tutto per comprarne una di gran valore|Negustorul a vândut tot ca să cumpere unul de mare preț
+SMERALDO|SMARALD|3|La pietra verde a cui somiglia l'arcobaleno intorno al trono di Dio|Piatra verde cu care seamănă curcubeul din jurul scaunului lui Dumnezeu
+ZAFFIRO|SAFIR|3|La pietra azzurra sotto i piedi del Dio d'Israele, vista sul monte|Piatra albastră de sub picioarele Dumnezeului lui Israel, văzută pe munte
+DIASPRO|IASPIS|3|La pietra preziosa del primo fondamento della nuova Gerusalemme|Piatra scumpă a primei temelii a noului Ierusalim
+TALENTO|TALANT|2|La grande somma di denaro che il servo pigro nascose sotto terra|Suma mare de bani pe care robul leneș a ascuns-o în pământ
+DENARO|DINAR|2|La moneta di un giorno di lavoro, pagata agli operai della vigna|Moneda pentru o zi de muncă, plătită lucrătorilor viei
+SICLO|SICLU|3|La moneta d'argento: Giuseppe fu venduto per venti|Moneda de argint: Iosif a fost vândut pe douăzeci
+DRAMMA|DRAHMĂ|2|La moneta d'argento che la donna perse e ritrovò spazzando la casa|Moneda de argint pe care femeia a pierdut-o și a găsit-o măturând casa
+SCURE|SECURE|2|Già posta alla radice degli alberi, predicava Giovanni Battista|E pusă deja la rădăcina pomilor, predica Ioan Botezătorul
+LETTO|PAT|2|Il paralitico lo prese e se ne andò a casa guarito|Slăbănogul și l-a luat și s-a dus acasă vindecat
+TAVOLA|MASĂ|2|Il mobile della cena pasquale di Gesù con i discepoli|Mobila la care Isus a mâncat Paștele cu ucenicii
+CHIAVE|CHEIE|2|Gesù ha quella della morte e del soggiorno dei morti|Isus are cea a morții și a Locuinței morților
+SPECCHIO|OGLINDĂ|3|Ora vediamo come in esso, in modo oscuro, scrive Paolo|Acum vedem ca în ea, în chip întunecos, scrie Pavel
+FIACCOLA|FĂCLIE|3|Gedeone e i suoi uomini le nascosero dentro le brocche|Ghedeon și oamenii lui le-au ascuns în ulcioare
+TAVOLE|TABLE|2|Le due pietre su cui Dio scrisse i dieci comandamenti|Cele două pietre pe care Dumnezeu a scris cele zece porunci
+SCETTRO|SCEPTRU|3|Il re Assuero lo porse a Ester per salvarle la vita|Împăratul Ahașveroș l-a întins spre Estera ca s-o cruțe
+MANTO|MANTIE|2|La veste di Elia che cadde su Eliseo|Haina lui Ilie care a căzut peste Elisei
+TUNICA|CĂMAȘĂ|2|La veste di Gesù senza cuciture, tirata a sorte dai soldati|Haina lui Isus fără cusătură, trasă la sorți de ostași
+PETTORALE|PIEPTAR|3|Il quadrato con dodici pietre portato sul petto dal sommo sacerdote|Pătratul cu douăsprezece pietre purtat pe piept de marele preot
+MITRA|MITRĂ|3|Il copricapo del sommo sacerdote con la lamina d'oro|Acoperământul capului marelui preot, cu tăblița de aur
+# ---- natura e luoghi comuni
+FONTE|IZVOR|2|L'acqua che scaturisce dalla terra: Gesù dà quella che zampilla in vita eterna|Apa care țâșnește din pământ: Isus dă cea care țâșnește în viața veșnică
+FIUME|RÂU|1|Quello dell'acqua della vita esce dal trono di Dio|Cel al apei vieții iese din scaunul lui Dumnezeu
+MARE|MARE|1|La grande acqua che Dio divise perché Israele passasse all'asciutto|Întinderea de apă pe care Dumnezeu a despărțit-o ca Israel să treacă pe uscat
+LAGO|LAC|2|Quello di Tiberiade, dove Gesù camminò sulle acque|Cel al Tiberiadei, unde Isus a umblat pe ape
+DESERTO|PUSTIE|1|La terra arida dove Israele camminò quarant'anni|Pământul uscat unde Israel a umblat patruzeci de ani
+MONTE|MUNTE|1|L'altura dove Gesù pronunciò il famoso sermone delle beatitudini|Înălțimea unde Isus a rostit predica fericirilor
+VALLE|VALE|2|Anche se cammino in quella dell'ombra della morte, non temo alcun male|Chiar dacă umblu prin cea a umbrei morții, nu mă tem de niciun rău
+COLLINA|DEAL|2|Una città posta su di essa non può restare nascosta|O cetate așezată pe el nu poate rămâne ascunsă
+GROTTA|PEȘTERĂ|2|Il luogo dove Elia si nascose sull'Horeb|Locul unde s-a ascuns Ilie pe Horeb
+ROCCIA|STÂNCĂ|1|L'uomo saggio vi costruì sopra la sua casa|Omul înțelept și-a zidit casa pe ea
+PIETRA|PIATRĂ|1|Davide ne lanciò una con la fionda e colpì Goliath|David a aruncat una cu praștia și l-a lovit pe Goliat
+POLVERE|ȚĂRÂNĂ|2|Ciò da cui fu fatto l'uomo e in cui ritornerà|Materia din care a fost făcut omul și în care se va întoarce
+CIELO|CER|1|La volta sopra la terra: Dio lo creò al principio insieme alla terra|Bolta de deasupra pământului: Dumnezeu l-a făcut la început împreună cu pământul
+STELLA|STEA|1|Quella che guidò i magi fino a Betlemme|Cea care i-a călăuzit pe magi până la Betleem
+SOLE|SOARE|1|L'astro che si fermò a Gabaon quando Giosuè pregò|Astrul care s-a oprit la Gabaon când s-a rugat Iosua
+LUNA|LUNĂ|1|La luce minore creata per governare la notte|Luminătorul cel mic făcut să stăpânească noaptea
+NUVOLA|NOR|2|Guidava Israele di giorno nel deserto|Îl călăuzea pe Israel ziua prin pustie
+PIOGGIA|PLOAIE|1|Cadde per quaranta giorni e quaranta notti al tempo di Noè|A căzut patruzeci de zile și patruzeci de nopți pe vremea lui Noe
+RUGIADA|ROUĂ|2|Gedeone la trovò solo sul vello e poi solo intorno|Ghedeon a găsit-o numai pe lână și apoi numai în jur
+NEVE|ZĂPADĂ|2|I peccati rossi come lo scarlatto diventeranno bianchi come lei|Păcatele roșii ca cârmâzul vor deveni albe ca ea
+VENTO|VÂNT|1|Soffia dove vuole, come lo Spirito, disse Gesù a Nicodemo|Suflă încotro vrea, ca Duhul, i-a spus Isus lui Nicodim
+TUONO|TUNET|2|Il rumore del cielo che accompagnò la legge sul Sinai|Zgomotul cerului care a însoțit darea Legii pe Sinai
+FULMINE|FULGER|2|Come esso da oriente a occidente, così sarà la venuta del Figlio dell'uomo|Cum iese el de la răsărit la apus, așa va fi venirea Fiului omului
+TERREMOTO|CUTREMUR|2|Aprì le porte della prigione di Filippi a mezzanotte|A deschis ușile temniței din Filipi la miezul nopții
+TEMPESTA|FURTUNĂ|1|Gesù la calmò sul lago con una parola|Isus a potolit-o pe lac cu un cuvânt
+ALBA|ZORI|2|All'ora del suo sorgere le donne andarono al sepolcro|La ivirea lor femeile au mers la mormânt
+NOTTE|NOAPTE|1|Nicodemo venne da Gesù durante le sue ore|Nicodim a venit la Isus în timpul ei
+SERA|SEARĂ|2|Fu ___ e poi fu mattina: il primo giorno della creazione|Așa a fost o ___, și apoi a fost o dimineață: ziua întâi a creației
+SETTIMANA|SĂPTĂMÂNĂ|2|I sette giorni: il primo di questi le donne trovarono il sepolcro vuoto|Cele șapte zile: în prima dintre ele femeile au găsit mormântul gol
+MIETITURA|SECERIȘ|2|Il tempo di raccogliere il grano: la messe è grande ma gli operai pochi|Vremea strângerii grâului: mare este el, dar puțini lucrători
+CARESTIA|FOAMETE|2|La mancanza di cibo che portò i fratelli di Giuseppe in Egitto|Lipsa de hrană care i-a adus pe frații lui Iosif în Egipt
+PIAGHE|URGII|2|Le dieci sventure mandate da Dio sull'Egitto|Cele zece nenorociri trimise de Dumnezeu asupra Egiptului
+# ---- edifici e città
+CASA|CASĂ|1|L'uomo saggio la costruì sulla roccia|Omul înțelept a zidit-o pe stâncă
+TENDA|CORT|1|L'abitazione di Abrahamo, che viveva da straniero|Locuința lui Avraam, care trăia ca străin
+PORTA|POARTĂ|1|Gesù disse: entrate per quella stretta|Isus a spus: intrați pe cea strâmtă
+MURA|ZIDURI|1|Quelle di Gerico caddero dopo sette giorni di marcia|Cele ale Ierihonului au căzut după șapte zile de înconjur
+TORRE|TURN|1|Quella di Babele doveva arrivare fino al cielo|Cel al Babelului trebuia să ajungă până la cer
+PALAZZO|PALAT|2|La casa del re: Daniele vi servì a Babilonia|Casa împăratului: Daniel a slujit acolo în Babilon
+TRONO|TRON|2|Il seggio del re: quello di Salomone era d'avorio e d'oro|Scaunul împăratului: al lui Solomon era de fildeș și de aur
+SINAGOGA|SINAGOGĂ|1|Il luogo di riunione dei Giudei dove Gesù insegnava di sabato|Locul de adunare al iudeilor unde Isus învăța în ziua Sabatului
+CORTILE|CURTE|2|Lo spazio aperto del tabernacolo dove stava l'altare dei sacrifici|Locul deschis al cortului unde era altarul jertfelor
+PRIGIONE|TEMNIȚĂ|1|Il luogo dove Paolo e Sila cantavano inni a mezzanotte|Locul unde Pavel și Sila cântau laude la miezul nopții
+CITTA|CETATE|1|Gerusalemme è quella del gran Re|Ierusalimul este cea a marelui Împărat
+VILLAGGIO|SAT|2|Betania era quello di Marta e Maria|Betania era cel al Martei și al Mariei
+STRADA|DRUM|1|Quella di Emmaus, dove Gesù camminò con due discepoli|Cel spre Emaus, unde Isus a mers cu doi ucenici
+LOCANDA|HAN|2|Il buon Samaritano vi portò l'uomo ferito|Samariteanul milostiv l-a dus acolo pe omul rănit
+SEPOLCRO|MORMÂNT|1|Il luogo scavato nella roccia dove fu posto Gesù|Locul săpat în stâncă unde a fost pus Isus
+GRANAIO|GRÂNAR|2|Il ricco stolto voleva costruirne di più grandi|Bogatul nebun voia să-și zidească unele mai mari
+SANTUARIO|SANCTUAR|2|Il luogo santo che Dio chiese di costruire per abitare in mezzo al popolo|Locașul sfânt pe care Dumnezeu a cerut să fie zidit ca să locuiască în mijlocul poporului
+# ---- persone e ruoli
+SACERDOTE|PREOT|1|L'uomo della tribù di Levi che offriva i sacrifici nel santuario|Omul din seminția lui Levi care aducea jertfele în sanctuar
+SCRIBA|CĂRTURAR|2|L'esperto della legge che copiava e spiegava le Scritture|Cunoscătorul Legii care copia și tâlcuia Scripturile
+SADDUCEO|SADUCHEU|3|Uno del gruppo che negava la risurrezione dei morti|Unul din gruparea care tăgăduia învierea morților
+PUBBLICANO|VAMEȘ|2|L'esattore delle tasse, come Matteo e Zaccheo|Strângătorul de dări, ca Matei și Zaheu
+SOLDATO|OSTAȘ|1|L'uomo d'armi: quelli romani si divisero le vesti di Gesù|Omul de război: cei romani au împărțit hainele lui Isus
+PASTORE|PĂSTOR|1|Gesù disse di essere quello buono che dà la vita per le pecore|Isus a spus că El este cel bun care își dă viața pentru oi
+PESCATORE|PESCAR|1|Il mestiere di Pietro e Andrea prima di seguire Gesù|Meseria lui Petru și Andrei înainte să-L urmeze pe Isus
+VASAIO|OLAR|2|Dio è come lui e noi siamo l'argilla nelle sue mani|Dumnezeu este ca el, iar noi suntem lutul în mâinile Lui
+FABBRO|FIERAR|3|L'artigiano del ferro: i Filistei non ne lasciavano in Israele|Meșterul fierului: filistenii nu lăsau niciunul în Israel
+GIUDICE|JUDECĂTOR|2|Quello ingiusto alla fine ascoltò la vedova insistente|Cel nedrept a ascultat-o până la urmă pe văduva stăruitoare
+SCHIAVO|ROB|2|Onesimo lo era, e Paolo lo rimandò a Filemone come fratello|Onisim era unul, iar Pavel l-a trimis înapoi la Filimon ca pe un frate
+MAESTRO|ÎNVĂȚĂTOR|1|Il titolo con cui i discepoli chiamavano Gesù|Titlul cu care ucenicii Îl chemau pe Isus
+DIACONO|DIACON|2|Stefano fu uno dei sette scelti per servire alle mense|Ștefan a fost unul din cei șapte aleși să slujească la mese
+ANZIANO|PREZBITER|3|Il conduttore della chiesa locale, che Paolo e Tito stabilivano in ogni città|Conducătorul bisericii locale, pe care Pavel și Tit îl rânduiau în fiecare cetate
+VEDOVA|VĂDUVĂ|1|Quella povera mise nel tesoro del tempio tutto ciò che aveva|Cea săracă a pus în vistieria templului tot ce avea
+STRANIERO|STRĂIN|2|Rut lo era in Israele, ma trovò grazia agli occhi di Boaz|Rut era una în Israel, dar a căpătat trecere înaintea lui Boaz
+LEBBROSO|LEPROS|2|Dei dieci guariti, solo uno tornò a ringraziare Gesù|Din cei zece vindecați, numai unul s-a întors să-I mulțumească lui Isus
+CIECO|ORB|1|Bartimeo lo era e gridava lungo la strada di Gerico|Bartimeu era unul și striga pe marginea drumului Ierihonului
+SORDO|SURD|2|Gesù gli toccò le orecchie e disse: Effatà|Isus i-a atins urechile și a zis: Efata
+ZOPPO|ȘCHIOP|2|Quello alla porta Bella fu guarito da Pietro e Giovanni|Cel de la poarta Frumoasă a fost vindecat de Petru și Ioan
+PARALITICO|SLĂBĂNOG|2|Quattro amici lo calarono dal tetto davanti a Gesù|Patru prieteni l-au coborât prin acoperiș înaintea lui Isus
+MENDICANTE|CERȘETOR|2|Lazzaro lo era, alla porta dell'uomo ricco|Lazăr era unul, la poarta omului bogat
+LADRO|HOȚ|2|Il giorno del Signore verrà come lui, nella notte|Ziua Domnului va veni ca el, noaptea
+BRIGANTI|TÂLHARI|2|Quelli che assalirono l'uomo sulla strada verso Gerico|Cei care l-au atacat pe omul de pe drumul Ierihonului
+GIGANTE|URIAȘ|2|Goliath lo era, alto più di sei cubiti|Goliat era unul, înalt de peste șase coți
+CHERUBINO|HERUVIM|3|L'angelo posto con la spada fiammeggiante a custodia del giardino di Eden|Îngerul pus cu sabia învăpăiată să păzească grădina Edenului
+SERAFINO|SERAFIM|3|L'essere con sei ali che toccò le labbra di Isaia con un carbone|Ființa cu șase aripi care a atins buzele lui Isaia cu un cărbune
+SATANA|SATANA|1|L'avversario che tentò Gesù nel deserto|Potrivnicul care L-a ispitit pe Isus în pustie
+PADRE|TATĂ|1|Così Gesù ci insegnò a chiamare Dio nella preghiera|Așa ne-a învățat Isus să-L chemăm pe Dumnezeu în rugăciune
+MADRE|MAMĂ|1|Maria lo era per Gesù|Maria era aceasta pentru Isus
+FIGLIO|FIU|1|Quello prodigo tornò a casa e il padre gli corse incontro|Cel risipitor s-a întors acasă și tatăl i-a alergat înainte
+FIGLIA|FIICĂ|1|Quella di Iairo fu risuscitata da Gesù|Cea a lui Iair a fost înviată de Isus
+FRATELLO|FRATE|1|Caino uccise il suo, Abele|Cain l-a ucis pe al său, pe Abel
+SORELLA|SORĂ|1|Maria lo era di Marta e di Lazzaro|Maria era aceasta pentru Marta și Lazăr
+SPOSA|MIREASĂ|2|La chiesa lo è per Cristo, che l'ha amata|Biserica este aceasta pentru Hristos, care a iubit-o
+SPOSO|MIRE|2|Le vergini sagge uscirono ad accoglierlo con le lampade|Fecioarele înțelepte au ieșit să-l întâmpine cu candelele
+NOZZE|NUNTĂ|1|La festa di Cana dove Gesù fece il primo miracolo|Petrecerea din Cana unde Isus a făcut prima minune
+SUOCERA|SOACRĂ|2|Naomi lo era per Rut; quella di Pietro fu guarita dalla febbre|Naomi era aceasta pentru Rut; a lui Petru a fost vindecată de friguri
+NUORA|NORĂ|3|Rut lo era per Naomi, e non volle lasciarla|Rut era aceasta pentru Naomi și n-a vrut s-o părăsească
+BAMBINO|PRUNC|1|Gesù ne prese uno e lo pose in mezzo ai discepoli|Isus a luat unul și l-a pus în mijlocul ucenicilor
+REGINA|ÎMPĂRĂTEASĂ|2|Quella di Sceba venne a sentire la sapienza di Salomone|Cea din Seba a venit să audă înțelepciunea lui Solomon
+PRINCIPE|PRINȚ|3|Isaia chiama il Messia così: della pace|Isaia Îl numește așa pe Mesia: al păcii
+# ---- fede, feste e virtù
+PREGHIERA|RUGĂCIUNE|1|Il parlare con Dio: Gesù insegnò il Padre nostro|Vorbirea cu Dumnezeu: Isus i-a învățat pe ucenici Tatăl nostru
+SABATO|SABAT|1|Il settimo giorno, benedetto e santificato da Dio alla creazione|Ziua a șaptea, binecuvântată și sfințită de Dumnezeu la creație
+PASQUA|PAȘTE|1|La festa che ricorda l'uscita dall'Egitto e il sangue dell'agnello|Sărbătoarea care amintește ieșirea din Egipt și sângele mielului
+PENTECOSTE|CINCIZECIME|2|La festa in cui lo Spirito Santo scese sui discepoli|Sărbătoarea în care Duhul Sfânt S-a coborât peste ucenici
+ESPIAZIONE|ISPĂȘIRE|3|Il giorno solenne in cui il sommo sacerdote entrava nel luogo santissimo|Ziua sfântă în care marele preot intra în Locul Preasfânt
+SACRIFICIO|JERTFĂ|1|L'offerta sull'altare: Gesù è quello perfetto, una volta per sempre|Darul de pe altar: Isus este cea desăvârșită, o dată pentru totdeauna
+OFFERTA|DAR|2|Ciò che si porta a Dio con cuore allegro|Ceea ce se aduce lui Dumnezeu cu inimă voioasă
+PRIMIZIE|PÂRGĂ|3|I primi frutti del raccolto, che appartengono a Dio|Primele roade ale recoltei, care sunt ale lui Dumnezeu
+UNZIONE|UNGERE|3|L'olio versato sul capo di chi Dio sceglieva come re o sacerdote|Untdelemnul turnat pe capul celui ales de Dumnezeu ca împărat sau preot
+PECCATO|PĂCAT|1|La trasgressione della legge di Dio|Călcarea Legii lui Dumnezeu
+PERDONO|IERTARE|1|Ciò che Gesù chiese al Padre per chi lo crocifiggeva|Ceea ce Isus a cerut Tatălui pentru cei ce Îl răstigneau
+SALVEZZA|MÂNTUIRE|1|Il dono di Dio per grazia, mediante la fede|Darul lui Dumnezeu prin har, prin credință
+RISURREZIONE|ÎNVIERE|2|Il ritorno alla vita di Gesù il terzo giorno|Întoarcerea la viață a lui Isus a treia zi
+VITA|VIAȚĂ|1|Gesù disse: io sono la via, la verità e questa|Isus a spus: Eu sunt calea, adevărul și aceasta
+MORTE|MOARTE|1|Il salario del peccato, scrive Paolo ai Romani|Plata păcatului, scrie Pavel romanilor
+PARADISO|RAI|2|Il ladrone pentito ricevette la promessa di esservi con Gesù|Tâlharul pocăit a primit făgăduința că va fi acolo cu Isus
+SPERANZA|NĂDEJDE|1|Insieme alla fede e all'amore rimane per sempre|Împreună cu credința și dragostea rămâne pentru totdeauna
+PACE|PACE|1|Gesù la lasciò ai discepoli, non come la dà il mondo|Isus a lăsat-o ucenicilor, nu cum o dă lumea
+PAZIENZA|RĂBDARE|2|La virtù di Giobbe, che sopportò tante prove|Virtutea lui Iov, care a suferit atâtea încercări
+UMILTA|SMERENIE|2|Precede la gloria, dicono i Proverbi|Merge înaintea slavei, spun Proverbele
+BONTA|BUNĂTATE|2|Uno dei frutti dello Spirito, insieme a pace e pazienza|Unul din roadele Duhului, împreună cu pacea și îndelunga răbdare
+SAPIENZA|ÎNȚELEPCIUNE|1|Il dono che Salomone chiese a Dio invece delle ricchezze|Darul pe care Solomon l-a cerut lui Dumnezeu în locul bogățiilor
+VERITA|ADEVĂR|1|Conoscerete questa, e vi farà liberi|Îl veți cunoaște, și el vă va face liberi
+MISERICORDIA|ÎNDURARE|2|Si rinnova ogni mattina, dicono le Lamentazioni|Se înnoiește în fiecare dimineață, spun Plângerile
+GLORIA|SLAVĂ|1|Gli angeli la cantarono a Dio nei luoghi altissimi a Betlemme|Îngerii au cântat-o lui Dumnezeu în locurile preaînalte la Betleem
+LODE|LAUDĂ|2|Ogni cosa che respira la renda al Signore, dice l'ultimo Salmo|Tot ce are suflare s-o aducă Domnului, spune ultimul Psalm
+SALMO|PSALM|2|Il canto sacro: Davide ne scrisse molti|Cântarea sfântă: David a scris multe
+CANTICO|CÂNTARE|2|Mosè e il popolo lo intonarono dopo aver passato il mar Rosso|Moise și poporul au cântat-o după trecerea Mării Roșii
+PARABOLA|PILDĂ|1|Il racconto con cui Gesù insegnava, come quello del seminatore|Istorisirea cu care învăța Isus, ca cea a semănătorului
+MIRACOLO|MINUNE|1|Il primo di Gesù fu a Cana, quando mutò l'acqua in vino|Prima lui Isus a fost la Cana, când a prefăcut apa în vin
+PROFEZIA|PROOROCIE|2|Il messaggio di Dio sul futuro, dato per mezzo dei suoi servitori|Mesajul lui Dumnezeu despre viitor, dat prin slujitorii Lui
+VISIONE|VEDENIE|2|Pietro ne ebbe una con una tovaglia piena di animali|Petru a avut una cu o față de masă plină cu animale
+SOGNO|VIS|1|Giuseppe spiegò quelli del faraone sulle vacche grasse e magre|Iosif le-a tâlcuit pe cele ale lui Faraon cu vacile grase și slabe
+TESTAMENTO|TESTAMENT|2|Ciascuna delle due grandi parti della Bibbia: Antico e Nuovo|Fiecare din cele două mari părți ale Bibliei: Vechi și Nou
+VANGELO|EVANGHELIE|1|La buona notizia di Gesù, da predicare a ogni creatura|Vestea bună despre Isus, de propovăduit la orice făptură
+CHIESA|BISERICĂ|1|Il corpo di Cristo, l'assemblea dei credenti|Trupul lui Hristos, adunarea credincioșilor
+IDOLO|IDOL|2|L'immagine di un falso dio che Dio vieta di adorare|Chipul unui dumnezeu fals pe care Dumnezeu interzice să fie adorat
+ELEMOSINA|MILOSTENIE|2|Il dono ai poveri, da fare senza suonare la tromba|Darul pentru săraci, de făcut fără să suni din trâmbiță
+TENTAZIONE|ISPITĂ|2|Gesù ci insegnò a pregare: non indurci in essa|Isus ne-a învățat să ne rugăm: nu ne duce în ea
+ADORAZIONE|ÎNCHINARE|2|Quella vera si fa in spirito e verità, disse Gesù alla Samaritana|Cea adevărată se face în duh și în adevăr, i-a spus Isus samaritencei
+MALEDIZIONE|BLESTEM|3|Balaam fu chiamato a pronunciarla su Israele, ma benedisse|Balaam a fost chemat să-l rostească asupra lui Israel, dar a binecuvântat
+GIURAMENTO|JURĂMÂNT|3|Gesù insegnò: il vostro parlare sia sì sì, no no, senza questo|Isus a învățat: vorbirea voastră să fie da, da, nu, nu, fără acesta
+EREDITA|MOȘTENIRE|2|Il figlio prodigo chiese la sua parte al padre|Fiul risipitor și-a cerut partea de la tatăl său
+REGNO|ÎMPĂRĂȚIE|1|Cercate prima quello di Dio e la sua giustizia|Căutați întâi pe cea a lui Dumnezeu și neprihănirea Lui
+CROCIFISSIONE|RĂSTIGNIRE|3|La morte di Gesù sul Golgota, fra due malfattori|Moartea lui Isus pe Golgota, între doi tâlhari
+ASCENSIONE|ÎNĂLȚARE|3|Il ritorno di Gesù in cielo dal monte degli Ulivi|Întoarcerea lui Isus la cer de pe Muntele Măslinilor
+CREAZIONE|CREAȚIE|2|L'opera dei sei giorni, conclusa dal riposo del settimo|Lucrarea celor șase zile, încheiată cu odihna zilei a șaptea
+MESSIA|MESIA|1|L'Unto promesso dai profeti: Andrea disse a Pietro di averlo trovato|Unsul făgăduit de prooroci: Andrei i-a spus lui Petru că L-a găsit
+AGNELLO|MIEL|1|Giovanni indicò Gesù come quello di Dio che toglie il peccato del mondo|Ioan L-a arătat pe Isus ca fiind cel al lui Dumnezeu care ridică păcatul lumii
+# ---- corpo
+CUORE|INIMĂ|1|Dio non guarda l'aspetto, ma guarda questo|Dumnezeu nu Se uită la înfățișare, ci Se uită la aceasta
+MANO|MÂNĂ|1|Quella di Mosè diventò lebbrosa e poi guarì|Cea a lui Moise s-a făcut leproasă și apoi s-a vindecat
+OCCHIO|OCHI|2|È la lampada del corpo, disse Gesù|Este lumina trupului, a spus Isus
+ORECCHIO|URECHE|2|Pietro lo tagliò al servo del sommo sacerdote|Petru a tăiat-o robului marelui preot
+BOCCA|GURĂ|1|Da essa parla l'abbondanza del cuore|Din ea vorbește prisosul inimii
+LINGUA|LIMBĂ|2|Piccolo membro del corpo, ma può incendiare una grande foresta, scrive Giacomo|Mădular mic al trupului, dar poate aprinde o pădure mare, scrie Iacov
+SANGUE|SÂNGE|1|Quello dell'agnello sulle porte salvò i primogeniti d'Israele|Cel al mielului de pe uși i-a scăpat pe întâii născuți ai lui Israel
+OSSA|OASE|2|Ezechiele vide una valle piena di quelle secche che tornarono a vivere|Ezechiel a văzut o vale plină de cele uscate care au înviat
+CAPELLI|PĂR|2|Quelli di Sansone erano il segno del suo voto a Dio|Cel al lui Samson era semnul juruinței lui față de Dumnezeu
+BARBA|BARBĂ|3|Gli ambasciatori di Davide furono umiliati tagliandola a metà|Solilor lui David li s-a tăiat pe jumătate, ca să fie batjocoriți
+PIEDI|PICIOARE|1|Gesù li lavò ai discepoli prima della cena|Isus le-a spălat ucenicilor înainte de cină
+LACRIME|LACRIMI|2|Una donna bagnò con esse i piedi di Gesù|O femeie a udat cu ele picioarele lui Isus

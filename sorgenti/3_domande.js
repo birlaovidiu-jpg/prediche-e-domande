@@ -3,14 +3,16 @@ const FD={ lg:'it', ambito:'tutta', libro:0, n:20, ordine:'casuale', q:'', dif:0
 
 function tutteDomande(){ return DOMANDE.concat(stato.domandeMie); }
 function nomeLibro(id,lg){ const L=LIBRI[id-1]; return L?(lg==='ro'?L[2]:L[1]):''; }
+/* «tutte» come lingua vuol dire: non scartare nessuna delle due */
+function codLg(l){ return (l&&l!=='tutte')?l:'it'; }
 function libriConDomande(lg){
-  const s=new Set(); tutteDomande().forEach(q=>{ if(q.lg===lg) s.add(q.L); });
+  const s=new Set(); tutteDomande().forEach(q=>{ if(lg==='tutte'||q.lg===lg) s.add(q.L); });
   return LIBRI.filter(L=>s.has(L[0]));
 }
 function filtra(){
   const q=ck(FD.q);
   return tutteDomande().filter(d=>{
-    if(d.lg!==FD.lg) return false;
+    if(FD.lg!=='tutte' && d.lg!==FD.lg) return false;
     if(FD.dif && (d.dif||2)!==FD.dif) return false;
     if(FD.ambito==='libro' && d.L!==FD.libro) return false;
     if(FD.ambito==='at' && d.L>39) return false;
@@ -23,50 +25,63 @@ function vDomande(){
   const lib=libriConDomande(FD.lg);
   if(FD.ambito==='libro' && !lib.some(L=>L[0]===FD.libro)) FD.libro=lib.length?lib[0][0]:0;
   const el=filtra();
-  const perDif=n=>tutteDomande().filter(d=>d.lg===FD.lg&&(d.dif||2)===n).length;
-  const perAmb=a=>tutteDomande().filter(d=>d.lg===FD.lg&&
+  const perDif=n=>tutteDomande().filter(d=>(FD.lg==='tutte'||d.lg===FD.lg)&&(d.dif||2)===n).length;
+  const perAmb=a=>tutteDomande().filter(d=>(FD.lg==='tutte'||d.lg===FD.lg)&&
     (a==='at'?d.L<=39:a==='nt'?d.L>39:true)).length.toLocaleString('it-IT');
   const quante=FD.n?Math.min(FD.n,el.length):el.length;
   pinta(`
-  <div class="occhiello">Quiz biblico</div>
+  <div class="quiz-pagina">
   <h1>Domande bibliche</h1>
-  <p class="sotto">Scegli che cosa vuoi chiedere e quante domande, poi presentale o condividile. Il versetto si apre a schermo intero toccando il riferimento.</p>
-  ${strisciaLingue(tutteDomande())}
-  ${strisciaViste('dom',el,chiaveDomanda)}
 
-  <div class="filtri filtri2" style="margin-top:14px">
-    <div class="fila-f">
-      <div class="campo stretto"><label>Lingua</label>
-        <div class="segm"><button class="${FD.lg==='it'?'on':''}" onclick="setD('lg','it')">🇮🇹 Italiano</button>
-        <button class="${FD.lg==='ro'?'on':''}" onclick="setD('lg','ro')">🇷🇴 Română</button></div></div>
-      <div class="campo largo"><label>Ambito</label>
-        <div class="segm scorre">
-          <button class="${FD.ambito==='tutta'?'on':''}" onclick="setD('ambito','tutta')">Tutta la Bibbia · ${perAmb('tutta')}</button>
-          <button class="${FD.ambito==='at'?'on':''}" onclick="setD('ambito','at')">Antico · ${perAmb('at')}</button>
-          <button class="${FD.ambito==='nt'?'on':''}" onclick="setD('ambito','nt')">Nuovo · ${perAmb('nt')}</button>
-          <button class="${FD.ambito==='libro'?'on':''}" onclick="setD('ambito','libro')">Un libro</button>
-        </div></div>
-      ${FD.ambito==='libro'?`<div class="campo" style="flex:0 1 175px"><label>Libro</label>
-        <select onchange="setD('libro',+this.value)">${lib.map(L=>
-          `<option value="${L[0]}" ${L[0]===FD.libro?'selected':''}>${esc(FD.lg==='ro'?L[2]:L[1])} (${tutteDomande().filter(d=>d.lg===FD.lg&&d.L===L[0]).length})</option>`).join('')}</select></div>`:''}
+  <div class="scelte scelte-3">
+    <div class="scelta" style="--ac:#5fd48f">
+      <div class="scelta-tit">🌐 Lingua</div>
+      <div class="scelta-op">
+        <button class="op ${FD.lg==='tutte'?'on':''}" onclick="setD('lg','tutte')">Tutte</button>
+        <button class="op ${FD.lg==='it'?'on':''}" onclick="setD('lg','it')">🇮🇹 Italiano</button>
+        <button class="op ${FD.lg==='ro'?'on':''}" onclick="setD('lg','ro')">🇷🇴 Română</button>
+      </div>
     </div>
-    <div class="fila-f">
-      <div class="campo largo piu"><label>Difficoltà</label>
-        <div class="segm scorre">
-          <button class="${!FD.dif?'on':''}" onclick="setD('dif',0)">Tutte</button>
-          ${[1,2,3,4].map(n=>`<button class="${FD.dif===n?'on':''}" onclick="setD('dif',${n})">${DIFF[n].ic} ${DIFF[n].et} · ${perDif(n)}</button>`).join('')}
-        </div></div>
-      <div class="campo" style="flex:0 0 92px"><label>Quante</label>
-        <select onchange="setD('n',+this.value)">${[10,15,20,25,30,40,50,100,0].map(n=>
-          `<option value="${n}" ${n===FD.n?'selected':''}>${n||'Tutte'}</option>`).join('')}</select></div>
-      <div class="campo stretto"><label>Ordine</label>
-        <div class="segm"><button class="${FD.ordine==='casuale'?'on':''}" onclick="setD('ordine','casuale')">🎲 Casuale</button>
-        <button class="${FD.ordine==='ordine'?'on':''}" onclick="setD('ordine','ordine')">📖 In ordine</button></div></div>
-      <div class="campo largo"><label>Cerca</label>
-        <div class="cerca"><input type="search" placeholder="Domanda, risposta o versetto…"
-          value="${esc(FD.q)}" oninput="FD.q=this.value; clearTimeout(window._tq); window._tq=setTimeout(vDomande,260)"></div></div>
+    ${strisciaViste('dom',el,chiaveDomanda)}
+    <div class="scelta larga" style="--ac:#7fb0ff">
+      <div class="scelta-tit">📖 Ambito</div>
+      <div class="scelta-op">
+        <button class="op ${FD.ambito==='tutta'?'on':''}" onclick="setD('ambito','tutta')">Tutta la Bibbia · ${perAmb('tutta')}</button>
+        <button class="op ${FD.ambito==='at'?'on':''}" onclick="setD('ambito','at')">Antico · ${perAmb('at')}</button>
+        <button class="op ${FD.ambito==='nt'?'on':''}" onclick="setD('ambito','nt')">Nuovo · ${perAmb('nt')}</button>
+        <button class="op ${FD.ambito==='libro'?'on':''}" onclick="setD('ambito','libro')">Un libro</button>
+      </div>
+      ${FD.ambito==='libro'?`<select style="margin-top:12px" onchange="setD('libro',+this.value)">${lib.map(L=>
+        `<option value="${L[0]}" ${L[0]===FD.libro?'selected':''}>${esc(FD.lg==='ro'?L[2]:L[1])} (${tutteDomande().filter(d=>(FD.lg==='tutte'||d.lg===FD.lg)&&d.L===L[0]).length})</option>`).join('')}</select>`:''}
+    </div>
+    <div class="scelta larga" style="--ac:#ffb37a">
+      <div class="scelta-tit">🎯 Difficoltà</div>
+      <div class="scelta-op">
+        <button class="op ${!FD.dif?'on':''}" onclick="setD('dif',0)">Tutte</button>
+        ${[1,2,3,4].map(n=>`<button class="op ${FD.dif===n?'on':''}" onclick="setD('dif',${n})">${DIFF[n].ic} ${DIFF[n].et} · ${perDif(n)}</button>`).join('')}
+      </div>
+    </div>
+    <div class="scelta" style="--ac:#d7a6ff">
+      <div class="scelta-tit">🔢 Quante</div>
+      <div class="scelta-op">
+        ${[10,15,20,25,30,40,50,100,0].map(n=>`<button class="op ${FD.n===n?'on':''}" onclick="setD('n',${n})">${n||'Tutte'}</button>`).join('')}
+      </div>
+    </div>
+    <div class="scelta" style="--ac:#ff9ecb">
+      <div class="scelta-tit">↕️ Ordine</div>
+      <div class="scelta-op">
+        <button class="op ${FD.ordine==='casuale'?'on':''}" onclick="setD('ordine','casuale')">🎲 Casuale</button>
+        <button class="op ${FD.ordine==='ordine'?'on':''}" onclick="setD('ordine','ordine')">📖 In ordine</button>
+      </div>
+    </div>
+    <div class="scelta" style="--ac:#8de08d">
+      <div class="scelta-tit">🔍 Cerca</div>
+      <div class="cerca"><input type="search" placeholder="Domanda, risposta o versetto…"
+        value="${esc(FD.q)}" oninput="FD.q=this.value; clearTimeout(window._tq); window._tq=setTimeout(vDomande,260)"></div>
     </div>
   </div>
+
+  <div>${strisciaLingue(tutteDomande())}</div>
 
   <div class="az-quiz">
     <div class="az-conta">
@@ -83,48 +98,17 @@ function vDomande(){
       <button class="bt pi" onclick="nuovaDomanda()" title="Scrivi una domanda tua">✚ Nuova domanda</button>
     </div>
   </div>
-
-  <h2>Elenco <span class="pill">${el.length.toLocaleString('it-IT')}</span>
-    <span style="flex:1"></span>
-    <span style="font-family:var(--sans);font-size:12.5px;color:var(--tx3);font-weight:400">tocca una domanda per sceglierla a mano</span></h2>
-  <div id="elD"></div>`);
-  elencoDomande();
+  </div>`);
 }
 function setD(k,v){ FD[k]=v; vDomande(); }
-function elencoDomande(){
-  const el=filtra(), mostra=el.slice(0,120);
-  const c=$('#elD'); if(!c) return;
-  c.innerHTML = el.length? `<div class="el">${mostra.map(d=>cartaDomanda(d)).join('')}</div>
-    ${el.length>mostra.length?`<p style="text-align:center;color:var(--tx3);margin-top:16px;font-size:13px">
-      Mostrate le prime ${mostra.length} di ${el.length.toLocaleString('it-IT')} — usa la ricerca o scegli un libro.</p>`:''}`
-    : `<div class="vuoto"><span class="em">🔍</span>Nessuna domanda con questi filtri.</div>`;
-}
-function cartaDomanda(d){
-  const let3=['a','b','c'];
-  const k=chiaveD(d), sel=FS.sel.has(k);
-  return `<div class="qp${sel?' sel':''}" onclick="tog('${k}')">
-    <div style="display:flex;gap:8px;align-items:baseline;margin-bottom:7px;flex-wrap:wrap">
-      <span class="tag ${d.L>39?'nt':'at'}">${esc(nomeLibro(d.L,d.lg))}</span>
-      ${d.mia?'<span class="tag">mia</span>':''}
-      <span class="tag">${DIFF[d.dif||2].ic} ${DIFF[d.dif||2].et}</span>
-      <span style="flex:1"></span>
-      ${sel?'<span class="tag at">✓ scelta</span>':''}
-      <button class="bt mini pi" onclick="event.stopPropagation();proiettaUna('${d.mia?'m':'d'}${d.i}')">▶︎</button>
-      ${d.mia?`<button class="bt mini pi" onclick="event.stopPropagation();nuovaDomanda('${d.i}')">✎</button>`:''}
-    </div>
-    <div class="qd">${esc(d.d)}</div>
-    ${d.o.map((t,i)=>`<div class="qo${i===d.g?' g':''}"><b>${let3[i]}</b><span>${esc(t)}</span></div>`).join('')}
-    ${d.v?`<div class="qv">📖 ${esc(d.v)}${testoVers(d.v)?' · testo disponibile':''}</div>`:''}
-  </div>`;
-}
 function testoVers(rif,lg){
-  const cod = lg || FD.lg || 'it';
+  const cod = codLg(lg||FD.lg);
   return (stato.versetti&&stato.versetti[rif]) || testoSubito(rif,cod) || TESTI[rif] || '';
 }
 
 /* ---------- avvio del quiz ---------- */
 function avviaQuiz(sorpresa){
-  let el = sorpresa ? tutteDomande().filter(d=>d.lg===FD.lg) : filtra();
+  let el = sorpresa ? tutteDomande().filter(d=>FD.lg==='tutte'||d.lg===FD.lg) : filtra();
   if(!el.length){ avvisa('Nessuna domanda da proiettare','no'); return; }
   const rnd=seme(Date.now()&0xffffff);
   const n=(sorpresa?20:FD.n)||el.length;
@@ -138,8 +122,14 @@ function avviaQuiz(sorpresa){
   const slide=el.map((d,k)=>{
     let o=d.o, g=d.g;
     if(stato.imp.quizMescOpz){ const idx=mescola([0,1,2],rnd); o=idx.map(i=>d.o[i]); g=idx.indexOf(d.g); }
-    return { t:'domanda', d:d.d, o, g, v:d.v, txt:testoVers(d.v),
-             libro:nomeLibro(d.L,d.lg), n:`${k+1} / ${el.length}`, fase:0 };
+    /* ogni domanda porta la SUA lingua: con «Tutte» attivo, italiano e
+       rumeno si mescolano nello stesso quiz, e il versetto giusto (e il
+       riferimento toccabile in basso) restano nella lingua di quella
+       domanda, non in quella (eventualmente «tutte») del filtro */
+    /* il libro in alto si vede solo se hai scelto tu «Un libro»: con «Tutta
+       la Bibbia»/Antico/Nuovo la domanda è generica, non serve scriverlo */
+    return { t:'domanda', d:d.d, o, g, v:d.v, lg:d.lg, txt:testoVers(d.v,d.lg),
+             libro:FD.ambito==='libro'?nomeLibro(d.L,d.lg):'', n:`${k+1} / ${el.length}`, fase:0 };
   });
   PROI.lingua=FD.lg;
   proietta(slide, stato.imp.sfondoProi, 'Quiz biblico');
@@ -149,12 +139,12 @@ function proiettaUna(key){
   const mia=key[0]==='m', i=+key.slice(1);
   const d = mia ? stato.domandeMie.find(x=>x.i===i) : DOMANDE[i];
   if(!d) return;
-  proietta([{t:'domanda',d:d.d,o:d.o,g:d.g,v:d.v,txt:testoVers(d.v),
+  proietta([{t:'domanda',d:d.d,o:d.o,g:d.g,v:d.v,lg:d.lg,txt:testoVers(d.v,d.lg),
              libro:nomeLibro(d.L,d.lg),fase:0}], stato.imp.sfondoProi,'Domanda');
 }
 /* il versetto in basso a destra apre la sua diapositiva */
 function mostraVersetto(rif,lg){
-  const cod=lg||PROI.lingua||FD.lg||'it';
+  const cod=codLg(lg||PROI.lingua||FD.lg);
   const s={t:'versetto',rif,txt:testoVers(rif,cod)};
   if(!s.txt){
     /* la Bibbia non è ancora aperta: la apro e poi ridisegno */
@@ -207,7 +197,7 @@ function eliminaDomanda(id){
 
 /* ---------- testi dei versetti ---------- */
 function gestisciVersetti(){
-  const usati=[...new Set(tutteDomande().filter(d=>d.lg===FD.lg&&d.v).map(d=>d.v))].sort();
+  const usati=[...new Set(tutteDomande().filter(d=>(FD.lg==='tutte'||d.lg===FD.lg)&&d.v).map(d=>d.v))].sort();
   const con=usati.filter(v=>testoVers(v)).length;
   apri('Testi dei versetti',`
     <p class="sotto" style="margin-top:0">Toccando il versetto in basso a destra durante la proiezione si apre la diapositiva con il testo.
@@ -224,7 +214,7 @@ function gestisciVersetti(){
   listaVersetti('');
 }
 function listaVersetti(q){
-  const usati=[...new Set(tutteDomande().filter(d=>d.lg===FD.lg&&d.v).map(d=>d.v))].sort();
+  const usati=[...new Set(tutteDomande().filter(d=>(FD.lg==='tutte'||d.lg===FD.lg)&&d.v).map(d=>d.v))].sort();
   const f=ck(q), el=(f?usati.filter(v=>ck(v).includes(f)):usati).slice(0,60);
   $('#vLista').innerHTML=el.map(v=>{
     const t=testoVers(v);

@@ -1,0 +1,119 @@
+# Personaggi dell'Antico Testamento.
+# RISPOSTA IT|RISPOSTA RO|livello 1-3|libro|tipo|indizio italiano|indizio rumeno
+ADAMO|ADAM|1|1|p|Il primo uomo, fatto da Dio con la polvere del suolo|Primul om, făcut de Dumnezeu din țărâna pământului
+EVA|EVA|1|1|p|La prima donna, formata da una costola di Adamo|Prima femeie, făcută dintr-o coastă a lui Adam
+CAINO|CAIN|1|1|p|Il figlio di Adamo che uccise suo fratello|Fiul lui Adam care și-a ucis fratele
+ABELE|ABEL|1|1|p|Il pastore ucciso dal fratello Caino|Păstorul ucis de fratele său Cain
+SET|SET|2|1|p|Il figlio nato ad Adamo ed Eva dopo la morte di Abele|Fiul născut lui Adam și Evei după moartea lui Abel
+ENOK|ENOH|2|1|p|Il patriarca che camminò con Dio e non morì, perché Dio lo prese|Patriarhul care a umblat cu Dumnezeu și n-a mai fost, căci Dumnezeu l-a luat
+NOE|NOE|1|1|p|L'uomo che costruì l'arca e salvò la sua famiglia dal diluvio|Omul care a zidit corabia și și-a scăpat familia de potop
+SEM|SEM|2|1|p|Il figlio di Noè da cui discese Abramo|Fiul lui Noe din care s-a coborât Avraam
+CAM|HAM|2|1|p|Il figlio di Noè che vide la nudità del padre e fu padre di Canaan|Fiul lui Noe care a văzut goliciunea tatălui său și a fost tatăl lui Canaan
+JAFET|IAFET|3|1|p|Uno dei tre figli di Noè, insieme a Sem e a Cam|Unul dintre cei trei fii ai lui Noe, alături de Sem și de Ham
+ABRAMO|AVRAAM|1|1|p|Il patriarca chiamato da Dio a lasciare Ur dei Caldei, padre dei credenti|Patriarhul chemat de Dumnezeu să părăsească Urul Haldeii, tatăl credincioșilor
+SARA|SARA|1|1|p|La moglie di Abramo che rise sentendo la promessa di un figlio in vecchiaia|Soția lui Avraam care a râs când a auzit făgăduința unui fiu la bătrânețe
+AGAR|AGAR|2|1|p|La serva egiziana di Sara, madre di Ismaele|Slujnica egipteană a Sarei, mama lui Ismael
+ISMAELE|ISMAEL|2|1|p|Il figlio di Abramo e di Agar, mandato via nel deserto|Fiul lui Avraam și al Agarei, trimis în pustie
+ISACCO|ISAAC|1|1|p|Il figlio della promessa, che Abramo era pronto a offrire sul monte Moria|Fiul făgăduinței, pe care Avraam era gata să-l aducă jertfă pe muntele Moria
+REBECCA|REBECA|1|1|p|La moglie di Isacco, incontrata al pozzo dal servo di Abramo|Soția lui Isaac, întâlnită la fântână de robul lui Avraam
+ESAU|ESAU|1|1|p|Il gemello peloso che vendette la primogenitura per un piatto di minestra|Fratele gemen păros care și-a vândut dreptul de întâi născut pentru o mâncare de linte
+GIACOBBE|IACOV|1|1|p|Il patriarca che sognò una scala fino al cielo e fu chiamato Israele|Patriarhul care a visat o scară până la cer și a fost numit Israel
+LEA|LEA|2|1|p|La moglie di Giacobbe data a lui al posto di Rachele|Soția lui Iacov dată lui în locul Rahelei
+RACHELE|RAHELA|1|1|p|La moglie amata da Giacobbe, madre di Giuseppe e di Beniamino|Soția iubită de Iacov, mama lui Iosif și a lui Beniamin
+LABANO|LABAN|2|1|p|Lo zio di Giacobbe, padre di Lea e di Rachele|Unchiul lui Iacov, tatăl Leei și al Rahelei
+RUBEN|RUBEN|2|1|p|Il primogenito di Giacobbe|Întâiul născut al lui Iacov
+SIMEONE|SIMEON|2|1|p|Il fratello di Giuseppe che fu tenuto prigioniero in Egitto|Fratele lui Iosif care a fost ținut prizonier în Egipt
+LEVI|LEVI|2|1|p|Il figlio di Giacobbe da cui discese la tribù dei sacerdoti|Fiul lui Iacov din care s-a coborât seminția preoților
+GIUDA|IUDA|1|1|p|Il figlio di Giacobbe da cui discese la tribù di Davide e di Gesù|Fiul lui Iacov din care s-a coborât seminția lui David și a lui Isus
+NEFTALI|NEFTALI|3|1|p|Il figlio di Giacobbe la cui tribù abitava in Galilea|Fiul lui Iacov a cărui seminție locuia în Galilea
+ASCER|ASER|3|1|p|L'ottavo figlio di Giacobbe, avuto dalla serva Zilpa|Al optulea fiu al lui Iacov, născut din roaba Zilpa
+ISSACAR|ISAHAR|3|1|p|Il figlio di Giacobbe paragonato a un asino robusto|Fiul lui Iacov asemănat cu un măgar tare la os
+ZABULON|ZABULON|3|1|p|Il figlio di Giacobbe che doveva abitare sulla riva del mare|Fiul lui Iacov care avea să locuiască pe țărmul mării
+GAD|GAD|3|1|p|Il figlio di Giacobbe la cui tribù si stabilì a est del Giordano|Fiul lui Iacov a cărui seminție s-a așezat la răsărit de Iordan
+GIUSEPPE|IOSIF|1|1|p|Il figlio di Giacobbe venduto dai fratelli e diventato governatore d'Egitto|Fiul lui Iacov vândut de frații lui și ajuns cârmuitor al Egiptului
+BENIAMINO|BENIAMIN|2|1|p|Il più giovane dei figli di Giacobbe|Cel mai tânăr dintre fiii lui Iacov
+EFRAIM|EFRAIM|2|1|p|Il figlio minore di Giuseppe, benedetto da Giacobbe con la mano destra|Fiul mai mic al lui Iosif, binecuvântat de Iacov cu mâna dreaptă
+MANASSE|MANASE|2|1|p|Il figlio maggiore di Giuseppe, nato in Egitto|Fiul cel mai mare al lui Iosif, născut în Egipt
+DINA|DINA|3|1|p|L'unica figlia di Giacobbe ricordata per nome nella Genesi|Singura fiică a lui Iacov amintită pe nume în Geneza
+TAMAR|TAMAR|3|1|p|La nuora di Giuda, madre dei gemelli Perez e Zerach|Nora lui Iuda, mama gemenilor Pereț și Zerah
+LOT|LOT|2|1|p|Il nipote di Abramo che abitava a Sodoma|Nepotul lui Avraam care locuia în Sodoma
+MELCHISEDEK|MELHISEDEC|2|1|p|Il re di Salem e sacerdote del Dio altissimo che benedisse Abramo|Împăratul Salemului și preotul Dumnezeului celui Prea Înalt care l-a binecuvântat pe Avraam
+POTIFAR|POTIFAR|3|1|p|L'ufficiale egiziano di cui Giuseppe fu servo|Dregătorul egiptean al cărui rob a fost Iosif
+FARAONE|FARAON|1|2|p|Il titolo dei re d'Egitto, come quello che si oppose a Mosè|Titlul împăraților Egiptului, ca cel care s-a împotrivit lui Moise
+MOSE|MOISE|1|2|p|Il condottiero salvato dalle acque del Nilo che ricevette la Legge sul Sinai|Conducătorul scăpat din apele Nilului care a primit Legea pe Sinai
+AARONNE|AARON|1|2|p|Il fratello di Mosè, primo sommo sacerdote d'Israele|Fratele lui Moise, primul mare preot al lui Israel
+MIRIAM|MARIA|2|2|p|La sorella di Mosè che cantò con il tamburello dopo il passaggio del Mar Rosso|Sora lui Moise care a cântat cu timpanul după trecerea Mării Roșii
+JETHRO|IETRO|3|2|p|Il suocero di Mosè, sacerdote di Madian|Socrul lui Moise, preot în Madian
+GIOSUE|IOSUA|1|6|p|Il successore di Mosè che guidò Israele nella terra promessa|Urmașul lui Moise care a condus pe Israel în țara făgăduită
+CALEB|CALEB|2|4|p|L'esploratore che con Giosuè riportò un buon rapporto su Canaan|Iscoada care împreună cu Iosua a adus o veste bună despre Canaan
+RAHAB|RAHAV|2|6|p|La donna di Gerico che nascose le spie e fu salvata|Femeia din Ierihon care a ascuns iscoadele și a fost scăpată
+OTNIEL|OTNIEL|3|7|p|Il primo giudice d'Israele, nipote di Caleb|Primul judecător al lui Israel, nepotul lui Caleb
+EHUD|EHUD|3|7|p|Il giudice mancino che uccise il re di Moab|Judecătorul stângaci care a omorât pe împăratul Moabului
+DEBORA|DEBORA|1|7|p|La profetessa e giudice che guidò Israele insieme a Barak|Prorocița și judecătoarea care a condus pe Israel împreună cu Barac
+BARAK|BARAC|2|7|p|Il generale che, con Debora, sconfisse Sisera|Căpetenia care, împreună cu Debora, l-a învins pe Sisera
+JAEL|IAEL|3|7|p|La donna che uccise Sisera con un picchetto di tenda|Femeia care l-a omorât pe Sisera cu un țăruș de cort
+GEDEONE|GHEDEON|1|7|p|Il giudice che sconfisse i Madianiti con trecento uomini, trombe e brocche|Judecătorul care a învins pe Madianiți cu trei sute de oameni, trâmbițe și ulcioare
+SANSONE|SAMSON|1|7|p|Il giudice nazireo di forza straordinaria tradito da Dalila|Judecătorul nazireu cu putere uriașă, trădat de Dalila
+DELILAH|DALILA|1|7|p|La donna filistea che scoprì il segreto della forza di Sansone|Femeia filisteană care a aflat taina puterii lui Samson
+JEFTE|IEFTA|3|7|p|Il giudice di Galaad che fece un voto legato alla sua unica figlia|Judecătorul din Galaad care a făcut o juruință legată de singura lui fiică
+ELI|ELI|2|9|p|Il sacerdote di Silo che allevò il giovane Samuele|Preotul din Silo care l-a crescut pe tânărul Samuel
+SAMUELE|SAMUEL|1|9|p|Il profeta chiamato da Dio da bambino, che unse Saul e Davide|Prorocul chemat de Dumnezeu din copilărie, care l-a uns pe Saul și pe David
+ANNA|ANA|2|9|p|La madre di Samuele, che pregò a lungo per avere un figlio|Mama lui Samuel, care s-a rugat mult ca să aibă un fiu
+ELKANAH|ELCANA|3|9|p|Il marito di Anna e padre di Samuele|Soțul Anei și tatăl lui Samuel
+RUTH|RUT|1|8|p|La moabita che disse a Naomi: «Il tuo popolo sarà il mio popolo»|Moabita care a zis Naomei: «Poporul tău va fi poporul meu»
+BOAZ|BOAZ|2|8|p|Il ricco parente di Betlemme che sposò Rut|Rudenia bogată din Betleem care s-a căsătorit cu Rut
+OBED|OBED|3|8|p|Il figlio di Rut e di Boaz, nonno di Davide|Fiul Rutei și al lui Boaz, bunicul lui David
+ISAI|ISAI|2|9|p|Il padre di Davide, di Betlemme|Tatăl lui David, din Betleem
+SAUL|SAUL|1|9|p|Il primo re d'Israele, della tribù di Beniamino|Primul împărat al lui Israel, din seminția lui Beniamin
+GIONATHAN|IONATAN|2|9|p|Il figlio di Saul, grande amico di Davide|Fiul lui Saul, marele prieten al lui David
+DAVIDE|DAVID|1|9|p|Il giovane pastore di Betlemme diventato re, autore di molti salmi|Tânărul păstor din Betleem ajuns împărat, autorul multor psalmi
+GOLIATH|GOLIAT|1|9|p|Il gigante filisteo ucciso da Davide con una pietra|Uriașul filistean omorât de David cu o piatră
+ABNER|ABNER|3|9|p|Il comandante dell'esercito di Saul|Căpetenia oștirii lui Saul
+JOAB|IOAB|3|10|p|Il comandante dell'esercito di Davide|Căpetenia oștirii lui David
+ABSALOM|ABSALOM|1|10|p|Il figlio ribelle di Davide, rimasto impigliato con la testa a una quercia|Fiul răzvrătit al lui David, rămas prins cu capul de un stejar
+BATHSCEBA|BATSEBA|2|10|p|La moglie di Uria che Davide prese per sé, madre di Salomone|Soția lui Urie pe care David a luat-o pentru el, mama lui Solomon
+NATHAN|NATAN|2|10|p|Il profeta che rimproverò Davide con la parabola della pecorella|Prorocul care l-a mustrat pe David prin pilda mielușelei
+URIA|URIE|3|10|p|Il soldato ittita fatto morire in battaglia per ordine di Davide|Ostașul hitit pus să moară în luptă din porunca lui David
+SALOMONE|SOLOMON|1|11|p|Il re famoso per la sua sapienza, che costruì il tempio|Împăratul faimos pentru înțelepciunea lui, care a zidit Templul
+ROBOAMO|ROBOAM|2|11|p|Il figlio di Salomone, sotto il quale il regno si divise|Fiul lui Solomon, sub care s-a împărțit împărăția
+GEROBOAMO|IEROBOAM|2|11|p|Il primo re del regno del nord dopo la divisione|Primul împărat al regatului de nord după împărțire
+ACHAB|AHAB|1|11|p|Il re d'Israele sposato con Izebel, nemico del profeta Elia|Împăratul lui Israel căsătorit cu Izabela, dușmanul prorocului Ilie
+JEZEBEL|IZABELA|1|11|p|La regina fenicia moglie di Achab, che fece uccidere Nabot|Împărăteasa feniciană, soția lui Ahab, care l-a pus să omoare pe Nabot
+ELIA|ILIE|1|11|p|Il profeta rapito in cielo su un carro di fuoco|Prorocul răpit la cer într-un car de foc
+ELISEO|ELISEI|2|12|p|Il profeta che ricevette il mantello di Elia|Prorocul care a primit mantaua lui Ilie
+NAAMAN|NAAMAN|2|12|p|Il generale siro guarito dalla lebbra nel Giordano|Căpetenia siriană vindecată de lepră în Iordan
+GHEHAZI|GHEHAZI|3|12|p|Il servo di Eliseo colpito dalla lebbra per la sua avidità|Slujitorul lui Elisei lovit de lepră pentru lăcomia lui
+JEHU|IEHU|3|12|p|Il re unto per sterminare la casa di Achab|Împăratul uns ca să nimicească casa lui Ahab
+EZECHIA|EZECHIA|2|12|p|Il re di Giuda a cui Dio aggiunse quindici anni di vita|Împăratul lui Iuda căruia Dumnezeu i-a adăugat cincisprezece ani de viață
+GIOSIA|IOSIA|2|12|p|Il giovane re di Giuda che ritrovò il libro della Legge nel tempio|Tânărul împărat al lui Iuda care a găsit cartea Legii în Templu
+ISAIA|ISAIA|1|23|p|Il profeta che vide il Signore su un trono alto ed elevato|Prorocul care a văzut pe Domnul pe un tron înalt și înălțat
+GEREMIA|IEREMIA|1|24|p|Il profeta chiamato «piangente», gettato in una cisterna|Prorocul numit «plângătorul», aruncat într-o cisternă
+EZECHIELE|EZECHIEL|1|26|p|Il profeta esiliato che vide la valle delle ossa secche|Prorocul aflat în robie care a văzut valea oaselor uscate
+DANIELE|DANIEL|1|27|p|Il giovane giudeo di Babilonia gettato nella fossa dei leoni|Tânărul iudeu din Babilon aruncat în groapa cu lei
+OSEA|OSEA|3|28|p|Il profeta che sposò Gomer come segno per Israele|Prorocul care s-a însurat cu Gomer ca semn pentru Israel
+GIOELE|IOEL|3|29|p|Il profeta che parlò dell'invasione delle locuste|Prorocul care a vorbit despre invazia lăcustelor
+AMOS|AMOS|3|30|p|Il profeta pastore di Tekoa|Prorocul păstor din Tecoa
+ABDIA|OBADIA|3|31|p|Il profeta autore del più breve libro dell'Antico Testamento|Prorocul autor al celei mai scurte cărți din Vechiul Testament
+GIONA|IONA|1|32|p|Il profeta rimasto tre giorni nel ventre di un grande pesce|Prorocul rămas trei zile în pântecele unui pește mare
+MICHEA|MICA|3|33|p|Il profeta che annunciò la nascita del Messia a Betlemme|Prorocul care a vestit nașterea lui Mesia la Betleem
+NAUM|NAUM|3|34|p|Il profeta che annunciò la rovina di Ninive|Prorocul care a vestit prăbușirea Ninivei
+HABACUC|HABACUC|3|35|p|Il profeta che scrisse: «Il giusto vivrà per la sua fede»|Prorocul care a scris: «Cel neprihănit va trăi prin credința lui»
+SOFONIA|TEFANIA|3|36|p|Il profeta che parlò del grande giorno dell'Eterno|Prorocul care a vorbit despre ziua cea mare a Domnului
+AGGEO|HAGAI|3|37|p|Il profeta che spronò a ricostruire il tempio dopo l'esilio|Prorocul care a stârnit poporul să zidească Templul după robie
+ZACCARIA|ZAHARIA|3|38|p|Il profeta delle visioni notturne, contemporaneo di Aggeo|Prorocul vedeniilor de noapte, contemporan cu Hagai
+MALACHIA|MALEAHI|3|39|p|L'ultimo dei profeti dell'Antico Testamento|Ultimul dintre proroci în Vechiul Testament
+ESDRA|EZRA|2|15|p|Lo scriba e sacerdote che guidò un gruppo di ritorno da Babilonia|Scribul și preotul care a condus un grup de întoarcere din Babilon
+NEHEMIA|NEEMIA|2|16|p|Il coppiere del re che ricostruì le mura di Gerusalemme|Paharnicul împăratului care a zidit zidurile Ierusalimului
+ESTER|ESTERA|1|17|p|La giovane giudea diventata regina di Persia|Tânăra iudeică ajunsă împărăteasă a Persiei
+MARDOCHEO|MARDOHEU|3|17|p|Il cugino che allevò Ester e non volle inchinarsi ad Haman|Vărul care a crescut-o pe Estera și n-a vrut să se închine înaintea lui Haman
+HAMAN|HAMAN|2|17|p|Il ministro persiano che voleva sterminare i giudei e finì impiccato|Slujitorul persan care voia să nimicească pe iudei și a sfârșit spânzurat
+ASSUERO|AHASVEROS|3|17|p|Il re persiano che sposò Ester|Împăratul persan care s-a căsătorit cu Estera
+CIRO|CIRUS|2|15|p|Il re persiano che permise agli ebrei di tornare a Gerusalemme|Împăratul persan care a lăsat pe evrei să se întoarcă la Ierusalim
+NEBUKADNETSAR|NEBUCADNETAR|2|27|p|Il re di Babilonia che sognò una grande statua e fece distruggere il tempio|Împăratul Babilonului care a visat o statuie mare și a nimicit Templul
+BELSHATSAR|BELSATAR|3|27|p|Il re babilonese al cui banchetto una mano scrisse sul muro|Împăratul babilonean la ospățul căruia o mână a scris pe perete
+DARIO|DARIUS|3|27|p|Il re dei Medi che gettò Daniele nella fossa dei leoni|Împăratul mezilor care l-a aruncat pe Daniel în groapa cu lei
+GIOBBE|IOV|1|18|p|L'uomo di Uz, integro e giusto, messo alla prova da Satana|Omul din Uț, neprihănit și fricos de Dumnezeu, pus la încercare de Satana
+SATANA|SATANA|2|18|p|L'accusatore che chiese a Dio di mettere alla prova Giobbe|Acuzatorul care a cerut lui Dumnezeu să-l pună la încercare pe Iov
+ABIGAIL|ABIGAIL|3|9|p|La donna saggia di Nabal che placò l'ira di Davide|Femeia înțeleaptă a lui Nabal care a potolit mânia lui David
+NABAL|NABAL|3|9|p|Il ricco stolto di Carmel, marito di Abigail|Bogatul nebun din Carmel, soțul Abigailei
+ZOROBABEL|ZOROBABEL|3|15|p|Il governatore di Giuda che guidò il primo ritorno da Babilonia|Dregătorul lui Iuda care a condus prima întoarcere din Babilon

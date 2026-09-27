@@ -1,0 +1,265 @@
+# Viaggi dei libri dei Re e delle Cronache: gli ultimi re
+
+= amatsiah | ⚔️ | Amatsiah, dalla valle del Sale a Beth-Scemesh | Amația, de la Valea Sării la Bet-Șemeș | 12 14:7
+@ gerusalemme | 12 14:1
+it: Amatsiah, figlio di Joas, divenne re di Giuda a Gerusalemme.
+ro: Amația, fiul lui Ioas, a ajuns împărat al lui Iuda la Ierusalim.
+@ valledelsale | 12 14:7
+it: Nella valle del Sale Amatsiah sconfisse diecimila Idumei.
+ro: În Valea Sării, Amația a bătut zece mii de edomiți.
+? domanda | 12 14:7
+qi: Quanti Idumei sconfisse Amatsiah nella valle del Sale?
+qr: Câți edomiți a bătut Amația în Valea Sării?
+ai: 10 000 | 1000 | 40 000 | 700
+ar: 10 000 | 1000 | 40 000 | 700
+@ sela | 12 14:7
+it: Amatsiah prese Sela e le diede il nome di Joktheel.
+ro: Amația a luat Sela și a numit-o Iocteel.
+? luogo | 12 14:7
+qi: Quale nome diede Amatsiah alla città di Sela?
+qr: Ce nume i-a dat Amația cetății Sela?
+ai: Joktheel | Bethel | Dan | Tsoar
+ar: Iocteel | Betel | Dan | Țoar
+@ betsemesh | 12 14:13
+it: Amatsiah sfidò Joas, re d'Israele, ma fu sconfitto e catturato a Beth-Scemesh.
+ro: Amația l-a chemat la luptă pe Ioas, împăratul lui Israel, dar a fost bătut și prins la Bet-Șemeș.
+? personaggio | 12 14:8
+qi: Quale re d'Israele sfidò Amatsiah?
+qr: Pe care împărat al lui Israel l-a chemat la luptă Amația?
+ai: Joas, figlio di Jehoahaz | Achab | Jehu | Geroboamo
+ar: Ioas, fiul lui Ioahaz | Ahab | Iehu | Ieroboam
+@ gerusalemme | 12 14:13 | le mura di Gerusalemme | zidurile Ierusalimului
+it: Joas andò a Gerusalemme e fece una breccia nelle sue mura.
+ro: Ioas s-a dus la Ierusalim și a făcut o spărtură în zidul lui.
+? domanda | 12 14:13
+qi: Quanto era lunga la breccia che Joas fece nelle mura di Gerusalemme?
+qr: Cât de lungă a fost spărtura făcută de Ioas în zidul Ierusalimului?
+ai: 400 cubiti | 40 cubiti | 1000 cubiti | 12 cubiti
+ar: 400 de coți | 40 de coți | 1000 de coți | 12 coți
+
+= samaria_cade | ⛓️ | La caduta di Samaria | Căderea Samariei | 12 17:5
+@ samaria | 12 17:5
+it: Il re di Assiria invase tutto il paese e assediò Samaria per tre anni.
+ro: Împăratul Asiriei a năvălit în toată țara și a împresurat Samaria trei ani.
+@ gozan | 12 17:6
+it: Samaria fu presa e gli Israeliti furono deportati in Assiria, a Halah e sull'Habor, fiume di Gozan.
+ro: Samaria a fost luată, iar israeliții au fost duși în Asiria, la Halah și la Habor, râul Gozanului.
+? domanda | 12 17:5
+qi: Per quanti anni durò l'assedio di Samaria?
+qr: Câți ani a ținut împresurarea Samariei?
+ai: 3 | 7 | 1 | 40
+ar: 3 | 7 | 1 | 40
+@ media | 12 17:6
+it: Altri Israeliti furono stabiliti nelle città dei Medi.
+ro: Alți israeliți au fost așezați în cetățile Mezilor.
+? domanda | 12 17:7
+qi: Perché Israele andò in esilio, secondo il libro dei Re?
+qr: De ce a fost dus Israel în robie, după cartea Împăraților?
+ai: Perché aveva peccato contro l'Eterno e servito altri dèi | Perché era troppo piccolo | Perché il re era malato | Perché non pagò i Filistei
+ar: Pentru că păcătuise împotriva Domnului și slujise altor dumnezei | Pentru că era prea mic | Pentru că împăratul era bolnav | Pentru că nu i-a plătit pe filisteni
+@ samaria | 12 17:25 | le città di Samaria | cetățile Samariei
+it: Il re d'Assiria portò gente da Babilonia e da altre città a Samaria; ma non temevano l'Eterno.
+ro: Împăratul Asiriei a adus oameni din Babilon și din alte cetăți în Samaria; dar ei nu se temeau de Domnul.
+? evento | 12 17:25
+qi: Che cosa mandò l'Eterno fra i nuovi abitanti di Samaria?
+qr: Ce a trimis Domnul între noii locuitori ai Samariei?
+ai: Dei leoni | La grandine | Le rane | Un terremoto
+ar: Lei | Grindină | Broaște | Un cutremur
+
+= sennacherib | 👼 | Ezechia e Sennacherib | Ezechia și Sanherib | 12 18:13
+@ lakish | 12 18:14
+it: Ezechia mandò a dire al re d'Assiria, a Lakish: «Ho peccato; ritirati», e gli pagò un grande tributo.
+ro: Ezechia a trimis să-i spună împăratului Asiriei, la Lachis: „Am greșit; retrage-te”, și i-a plătit un bir mare.
+@ gerusalemme | 12 18:17
+it: Il re d'Assiria mandò Rabshakeh con un grande esercito da Lakish a Gerusalemme, presso il canale della piscina superiore.
+ro: Împăratul Asiriei l-a trimis pe Rabșache cu o oaste mare de la Lachis la Ierusalim, lângă apeductul iazului de sus.
+? personaggio | 12 18:17
+qi: Chi parlò al popolo di Gerusalemme a nome del re d'Assiria?
+qr: Cine a vorbit poporului din Ierusalim în numele împăratului Asiriei?
+ai: Rabshakeh | Nebuzaradan | Hazael | Neko
+ar: Rabșache | Nebuzaradan | Hazael | Neco
+@ tempio | 12 19:14
+it: Ezechia prese la lettera di Sennacherib, salì al tempio e la distese davanti all'Eterno.
+ro: Ezechia a luat scrisoarea lui Sanherib, s-a suit la Templu și a întins-o înaintea Domnului.
+? personaggio | 12 19:20
+qi: Quale profeta mandò a dire a Ezechia che Dio aveva ascoltato la sua preghiera?
+qr: Care proroc i-a trimis vorbă lui Ezechia că Dumnezeu i-a ascultat rugăciunea?
+ai: Isaia | Geremia | Elia | Eliseo
+ar: Isaia | Ieremia | Ilie | Elisei
+@ libna | 12 19:35 | l'accampamento degli Assiri | tabăra asirienilor
+it: Quella notte l'angelo dell'Eterno uscì e colpì l'accampamento degli Assiri.
+ro: În noaptea aceea, Îngerul Domnului a ieșit și a lovit tabăra asirienilor.
+? domanda | 12 19:35
+qi: Quanti uomini colpì l'angelo nell'accampamento degli Assiri?
+qr: Câți oameni a lovit Îngerul în tabăra asirienilor?
+ai: 185 000 | 18 500 | 1000 | 40 000
+ar: 185 000 | 18 500 | 1000 | 40 000
+@ ninive | 12 19:36
+it: Sennacherib tornò a Ninive; mentre adorava nel tempio del suo dio Nisrok, due suoi figli lo uccisero.
+ro: Sanherib s-a întors la Ninive; pe când se închina în templul dumnezeului său Nisroc, doi dintre fiii lui l-au omorât.
+? ordina | 12 19:37
+qi: Metti in ordine la storia di Sennacherib.
+qr: Pune în ordine istoria lui Sanherib.
+ai: Il tributo di Ezechia a Lakish | Rabshakeh davanti a Gerusalemme | La lettera davanti all'Eterno | L'angelo nell'accampamento | Sennacherib torna a Ninive
+ar: Birul lui Ezechia la Lachis | Rabșache înaintea Ierusalimului | Scrisoarea înaintea Domnului | Îngerul în tabără | Sanherib se întoarce la Ninive
+
+= giosia | 📖 | Giosia e il libro della legge | Iosia și cartea legii | 12 22:8
+@ tempio | 12 22:8
+it: Il sommo sacerdote Hilkiah trovò nella casa dell'Eterno il libro della legge.
+ro: Marele preot Hilchia a găsit în Casa Domnului cartea legii.
+@ gerusalemme | 12 23:2
+it: Giosia lesse a tutto il popolo le parole del libro del patto e rinnovò l'alleanza davanti all'Eterno.
+ro: Iosia a citit înaintea întregului popor cuvintele cărții legământului și a înnoit legământul înaintea Domnului.
+? personaggio | 12 22:8
+qi: Chi trovò il libro della legge nel tempio?
+qr: Cine a găsit cartea legii în Templu?
+ai: Il sommo sacerdote Hilkiah | Il profeta Geremia | Il re Ezechia | Lo scriba Esdra
+ar: Marele preot Hilchia | Prorocul Ieremia | Împăratul Ezechia | Cărturarul Ezra
+@ betel | 12 23:16
+it: A Bethel Giosia bruciò sull'altare le ossa prese dai sepolcri, come aveva annunciato l'uomo di Dio secoli prima.
+ro: La Betel, Iosia a ars pe altar oasele scoase din morminte, cum vestise omul lui Dumnezeu cu mult înainte.
+? evento | 12 23:16
+qi: Che cosa bruciò Giosia sull'altare di Bethel?
+qr: Ce a ars Iosia pe altarul de la Betel?
+ai: Le ossa prese dai sepolcri | I vitelli d'oro | I libri dei maghi | Le vesti dei sacerdoti
+ar: Oasele scoase din morminte | Vițeii de aur | Cărțile vrăjitorilor | Hainele preoților
+@ gerusalemme | 12 23:22 | la grande Pasqua | Paștele cel mare
+it: Giosia celebrò una Pasqua come non se ne era mai fatta dal tempo dei giudici.
+ro: Iosia a prăznuit un Paște cum nu se mai prăznuise de pe vremea judecătorilor.
+? domanda | 12 23:22
+qi: Che cosa ebbe di speciale la Pasqua di Giosia?
+qr: Ce a avut deosebit Paștele lui Iosia?
+ai: Non se n'era celebrata una simile dal tempo dei giudici | Fu la prima Pasqua della storia | Durò un anno intero | Fu celebrata a Bethel
+ar: Nu se mai prăznuise unul ca el de pe vremea judecătorilor | A fost primul Paște din istorie | A ținut un an întreg | A fost prăznuit la Betel
+@ meghiddo | 12 23:29
+it: Giosia andò incontro al Faraone Neko e morì a Meghiddo.
+ro: Iosia a ieșit înaintea lui Faraon Neco și a murit la Meghido.
+? luogo | 12 23:29
+qi: Dove morì il re Giosia?
+qr: Unde a murit împăratul Iosia?
+ai: A Meghiddo | A Gerusalemme | A Babilonia | A Bethel
+ar: La Meghido | La Ierusalim | În Babilon | La Betel
+
+= gerusalemme_cade | 🔥 | La caduta di Gerusalemme | Căderea Ierusalimului | 12 25:1
+@ gerusalemme | 12 25:1
+it: Nel nono anno di Sedekia, Nebukadnetsar venne contro Gerusalemme e la cinse d'assedio.
+ro: În al nouălea an al lui Zedechia, Nebucadnețar a venit împotriva Ierusalimului și l-a împresurat.
+@ gerico | 12 25:5
+it: Sedekia fuggì di notte, ma l'esercito dei Caldei lo raggiunse nella pianura di Gerico.
+ro: Zedechia a fugit noaptea, dar oastea haldeilor l-a ajuns în câmpia Ierihonului.
+? personaggio | 12 25:1
+qi: Quale re di Babilonia assediò Gerusalemme?
+qr: Care împărat al Babilonului a împresurat Ierusalimul?
+ai: Nebukadnetsar | Sennacherib | Ciro | Evilmerodak
+ar: Nebucadnețar | Sanherib | Cirus | Evil-Merodac
+@ riblah | 12 25:6
+it: Sedekia fu condotto dal re di Babilonia a Riblah, dove fu giudicato.
+ro: Zedechia a fost dus la împăratul Babilonului, la Ribla, unde a fost judecat.
+? evento | 12 25:7
+qi: Che cosa fecero a Sedekia a Riblah?
+qr: Ce i-au făcut lui Zedechia la Ribla?
+ai: Gli cavarono gli occhi e lo legarono con catene di bronzo | Lo fecero re di Babilonia | Lo liberarono | Lo mandarono in Egitto
+ar: I-au scos ochii și l-au legat cu lanțuri de aramă | L-au făcut împărat al Babilonului | L-au lăsat liber | L-au trimis în Egipt
+@ gerusalemme | 12 25:9 | il tempio in fiamme | Templul în flăcări
+it: Nebuzaradan bruciò la casa dell'Eterno, il palazzo del re e tutte le case di Gerusalemme.
+ro: Nebuzaradan a ars Casa Domnului, casa împăratului și toate casele Ierusalimului.
+? personaggio | 12 25:8
+qi: Chi era il capo delle guardie che bruciò il tempio?
+qr: Cine era căpetenia străjerilor care a ars Templul?
+ai: Nebuzaradan | Rabshakeh | Hazael | Hilkiah
+ar: Nebuzaradan | Rabșache | Hazael | Hilchia
+@ babilonia | 12 25:11
+it: Il resto del popolo fu deportato a Babilonia; restarono soltanto i più poveri a coltivare le vigne.
+ro: Rămășița poporului a fost dusă în robie la Babilon; au rămas numai cei mai săraci să lucreze viile.
+? ordina | 12 25:11
+qi: Metti in ordine la caduta di Gerusalemme.
+qr: Pune în ordine căderea Ierusalimului.
+ai: L'assedio di Nebukadnetsar | La fuga di Sedekia | Il giudizio a Riblah | L'incendio del tempio | L'esilio a Babilonia
+ar: Împresurarea lui Nebucadnețar | Fuga lui Zedechia | Judecata de la Ribla | Arderea Templului | Robia din Babilon
+
+= jehoiakin | 👑 | Jehoiakin a Babilonia | Ioiachin în Babilon | 12 24:12
+@ gerusalemme | 12 24:12
+it: Il re Jehoiakin uscì incontro al re di Babilonia con sua madre, i servi e i capi, e fu fatto prigioniero.
+ro: Împăratul Ioiachin a ieșit la împăratul Babilonului cu mama sa, slujitorii și căpeteniile, și a fost luat prins.
+@ babilonia | 12 24:15
+it: Jehoiakin fu deportato a Babilonia insieme a molti prigionieri, agli artigiani e ai fabbri.
+ro: Ioiachin a fost dus în Babilon, împreună cu mulți prinși, cu meșteri și fierari.
+? domanda | 12 24:14
+qi: Quanti prigionieri, fra capi e uomini valorosi, furono deportati con Jehoiakin?
+qr: Câți prinși, căpetenii și oameni viteji, au fost duși în robie cu Ioiachin?
+ai: 10 000 | 1000 | 70 | 185 000
+ar: 10 000 | 1000 | 70 | 185 000
+@ babilonia | 12 25:27 | la grazia del re | îndurarea împăratului
+it: Nel trentasettesimo anno della prigionia, Evilmerodak fece uscire Jehoiakin di prigione e lo trattò con bontà.
+ro: În al treizeci și șaptelea an al robiei, Evil-Merodac l-a scos pe Ioiachin din temniță și i-a vorbit cu bunătate.
+? domanda | 12 25:29
+qi: Che cosa ricevette Jehoiakin dopo la grazia del re di Babilonia?
+qr: Ce a primit Ioiachin după îndurarea împăratului Babilonului?
+ai: Cambiò le vesti di prigioniero e mangiò sempre alla tavola del re | Il ritorno a Gerusalemme | Una città in dono | Un esercito
+ar: Și-a schimbat hainele de rob și a mâncat totdeauna la masa împăratului | Întoarcerea la Ierusalim | O cetate în dar | O oaste
+
+= giosafat_beraca | 🎶 | Giosafat e la valle di Benedizione | Iosafat și Valea Beraca | 14 20:1
+@ gerusalemme | 14 20:3
+it: Minacciato da una grande moltitudine, Giosafat proclamò un digiuno per tutto Giuda e cercò l'Eterno.
+ro: Amenințat de o mare mulțime, Iosafat a vestit post în tot Iuda și a căutat pe Domnul.
+@ tempio | 14 20:15
+it: Nel tempio lo Spirito dell'Eterno venne su Jahaziel, che disse: «Questa battaglia non è vostra, ma di Dio».
+ro: În Templu, Duhul Domnului a venit peste Iahaziel, care a zis: „Nu voi veți lupta, ci Dumnezeu”.
+? domanda | 14 20:15
+qi: Che cosa disse Jahaziel al popolo?
+qr: Ce i-a spus Iahaziel poporului?
+ai: «Questa battaglia non è vostra, ma di Dio» | «Fuggite nel deserto» | «Pagate il tributo» | «Chiamate l'Egitto»
+ar: „Nu voi veți lupta, ci Dumnezeu” | „Fugiți în pustie” | „Plătiți birul” | „Chemați Egiptul”
+@ tekoa | 14 20:21
+it: Nel deserto di Tekoa Giosafat mise i cantori davanti all'esercito, a lodare l'Eterno.
+ro: În pustia Tecoa, Iosafat i-a pus pe cântăreți înaintea oștirii, să laude pe Domnul.
+? evento | 14 20:21
+qi: Chi camminava davanti all'esercito di Giosafat?
+qr: Cine mergea înaintea oștirii lui Iosafat?
+ai: I cantori che lodavano l'Eterno | I carri da guerra | Gli arcieri | I sacerdoti con l'arca
+ar: Cântăreții care lăudau pe Domnul | Carele de război | Arcașii | Preoții cu chivotul
+@ beraca | 14 20:26
+it: Il quarto giorno si radunarono nella valle dove benedissero l'Eterno; per questo fu chiamata valle di Benedizione.
+ro: În ziua a patra s-au strâns în vale, unde au binecuvântat pe Domnul; de aceea s-a numit Valea Beraca.
+? domanda | 14 20:25
+qi: Quanti giorni impiegarono a raccogliere il bottino?
+qr: Câte zile au strâns prada?
+ai: 3 | 7 | 1 | 40
+ar: 3 | 7 | 1 | 40
+@ gerusalemme | 14 20:27 | il ritorno con gioia | întoarcerea cu bucurie
+it: Tornarono a Gerusalemme pieni di gioia, con arpe, cetre e trombe, alla casa dell'Eterno.
+ro: S-au întors la Ierusalim plini de bucurie, cu lăute, harpe și trâmbițe, la Casa Domnului.
+? ordina | 14 20:28
+qi: Metti in ordine la storia di Giosafat.
+qr: Pune în ordine istoria lui Iosafat.
+ai: Il digiuno per tutto Giuda | La parola di Jahaziel | I cantori davanti all'esercito | La valle di Benedizione | Il ritorno con gioia
+ar: Postul în tot Iuda | Cuvântul lui Iahaziel | Cântăreții înaintea oștirii | Valea Beraca | Întoarcerea cu bucurie
+
+= manasse | 🙇 | Manasse prigioniero e pentito | Manase, rob și pocăit | 14 33:11
+@ gerusalemme | 14 33:9
+it: Manasse sviò Giuda e gli abitanti di Gerusalemme, facendo peggio delle nazioni.
+ro: Manase a dus în rătăcire pe Iuda și pe locuitorii Ierusalimului, făcând mai rău decât neamurile.
+@ babilonia | 14 33:11
+it: I capi dell'esercito d'Assiria presero Manasse, lo legarono con catene di bronzo e lo portarono a Babilonia.
+ro: Căpeteniile oștirii Asiriei l-au prins pe Manase, l-au legat cu lanțuri de aramă și l-au dus la Babilon.
+? domanda | 14 33:11
+qi: Dove fu portato Manasse prigioniero?
+qr: Unde a fost dus Manase rob?
+ai: A Babilonia | A Ninive | In Egitto | A Damasco
+ar: La Babilon | La Ninive | În Egipt | La Damasc
+@ babilonia | 14 33:12 | la preghiera di Manasse | rugăciunea lui Manase
+it: Nell'angoscia Manasse implorò l'Eterno e si umiliò profondamente davanti al Dio dei suoi padri.
+ro: În strâmtorare, Manase s-a rugat Domnului și s-a smerit adânc înaintea Dumnezeului părinților lui.
+? evento | 14 33:12
+qi: Che cosa fece Manasse nell'avversità?
+qr: Ce a făcut Manase în strâmtorare?
+ai: Implorò l'Eterno e si umiliò | Maledisse Dio | Tentò di fuggire | Adorò gli dèi di Babilonia
+ar: S-a rugat Domnului și s-a smerit | L-a blestemat pe Dumnezeu | A încercat să fugă | S-a închinat dumnezeilor Babilonului
+@ gerusalemme | 14 33:13 | il ritorno nel regno | întoarcerea în împărăție
+it: Dio ascoltò la sua supplica e lo ricondusse a Gerusalemme; Manasse riconobbe che l'Eterno è Dio.
+ro: Dumnezeu i-a ascultat rugăciunea și l-a adus înapoi la Ierusalim; Manase a recunoscut că Domnul este Dumnezeu.
+? domanda | 14 33:15
+qi: Che cosa fece Manasse tornato a Gerusalemme?
+qr: Ce a făcut Manase după ce s-a întors la Ierusalim?
+ai: Tolse gli dèi stranieri e l'idolo dal tempio | Costruì un palazzo d'oro | Dichiarò guerra all'Assiria | Andò in pellegrinaggio a Bethel
+ar: A scos dumnezeii străini și idolul din Templu | A zidit o casă de aur | A pornit război împotriva Asiriei | A mers în pelerinaj la Betel

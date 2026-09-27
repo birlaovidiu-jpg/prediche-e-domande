@@ -1,7 +1,7 @@
 /* ================= HOME ================= */
 const TESSERE_D=[
-  {ic:'🎲',et:'Quiz a sorpresa',su:'venti domande a caso',c:'#e6203f',sf:'nebulosa',
-   az:"FD.ordine='casuale';FD.ambito='tutta';avviaQuiz(true)"},
+  {ic:'🎮',et:'Giochi biblici',su:'cruciverba, vero o falso, impiccato…',c:'#e6203f',sf:'nebulosa',
+   az:"vai('giochi')"},
   {ic:'📖',et:'Domande bibliche',su:()=>{const c=contaLingue(tutteDomande());
      return `🇮🇹 ${c.it.toLocaleString('it-IT')} · 🇷🇴 ${c.ro.toLocaleString('it-IT')}`;},c:'#ff7a5c',sf:'oro',
    az:"vai('domande')",n:()=>tutteDomande().length},
@@ -58,13 +58,23 @@ function vHome(){
 
 function rimettiPredica(i){ if(stato.predVia) delete stato.predVia[i]; salva(); vDati(); avvisa('Rimessa nell\'elenco','ok'); }
 function rimettiEsperienza(i){ if(stato.espVia) delete stato.espVia[i]; salva(); vDati(); avvisa('Rimessa nell\'elenco','ok'); }
-function rimettiTutte(){ stato.predVia={}; stato.espVia={}; salva(); vDati(); avvisa('Rimesse tutte','ok'); }
+function rimettiPoesia(i){ if(stato.poeVia) delete stato.poeVia[i]; salva(); vDati(); avvisa('Rimessa nell\'elenco','ok'); }
+function rimettiCantico(i){ if(stato.cantVia) delete stato.cantVia[i]; salva(); vDati(); avvisa('Rimesso nell\'elenco','ok'); }
+/* elimina per sempre UNA voce sola tolta dall'elenco (non tutte in blocco):
+   resta "tolta" com'era già (invisibile), ma sparisce anche da qui sotto e
+   non si può più rimettere — il campo *ViaDef ricorda quali non offrire più */
+function eliminaDefinitiva(campo,i,tit){
+  conferma('Vuoi eliminare definitivamente «'+(tit||'questa voce')+'»?\n\nNon la potrai più rimettere nell\'elenco.',()=>{
+    stato[campo]=stato[campo]||{}; stato[campo][i]=1;
+    salva(); vDati(); avvisa('Eliminata definitivamente','ok');
+  },'Elimina definitivamente');
+}
 /* ================= DATI ================= */
 function vDati(){
   const peso=(()=>{ try{ return Math.round(localStorage.getItem(LS).length/1024); }catch(e){ return 0; } })();
   pinta(`
   <div class="occhiello">Archivio</div>
-  <h1>Dati e copie di sicurezza</h1>
+  <h1>Dati e copie di sicurezza <span class="tag at" style="vertical-align:middle">Versione ${esc(VER)}</span></h1>
   <p class="sotto">Tutto quello che scrivi resta su questo dispositivo. Le domande e i cantici dell'archivio sono già dentro al programma.</p>
 
   <div class="griglia g3" style="margin:20px 0">
@@ -75,12 +85,20 @@ function vDati(){
 
   <h2>Copia di sicurezza</h2>
   <div class="scheda">
-    <p class="sotto" style="margin-top:0">Il file contiene le tue prediche, i tuoi cantici, le esperienze, le domande che hai scritto e i testi dei versetti. Conservalo ogni tanto.</p>
+    <p class="sotto" style="margin-top:0">Il file contiene tutto: le tue prediche, i cantici, le esperienze, le domande che hai scritto, i testi dei versetti, i lezionari con i loro PDF e i tuoi appunti, i libri con il segnalibro, gli allegati e la musica. Ricaricandolo su un altro dispositivo ritrovi tutto. Conservalo ogni tanto.</p>
     <div class="fila">
-      <button class="bt pr" onclick="salvaCopia()">💾 Scarica la copia</button>
-      <button class="bt" onclick="$('#fileCopia').click()">📂 Ricarica una copia</button>
-      <input type="file" id="fileCopia" accept=".json" style="display:none" onchange="leggiCopia(this)">
+      <button class="bt pr" onclick="salvaCopia()">💾 Backup</button>
+      <button class="bt" onclick="$('#fileCopia').click()">📂 Carica backup</button>
+      <input type="file" id="fileCopia" accept=".zip,.json,application/zip,application/json" style="display:none" onchange="leggiCopia(this)">
     </div>
+  </div>
+
+  <h2>PDF dei lezionari</h2>
+  <div class="scheda">
+    <p class="sotto" style="margin-top:0">I PDF dei lezionari (originali e copertine) sono già dentro al backup qui sopra.
+      Qui li scarichi da soli, tutti insieme in un unico file .zip — per esempio per portarli sul Mac
+      e pubblicarli col sito.</p>
+    <button class="bt pr" onclick="esportaLezionariPdf()">📦 Scarica tutti i PDF dei lezionari</button>
   </div>
 
   <h2>Impostazioni</h2>
@@ -101,18 +119,24 @@ function vDati(){
     </div>
   </div>
 
-  <h2>Prediche e esperienze tolte</h2>
+  <h2>Prediche, esperienze, poesie e cantici tolti</h2>
   <div class="scheda">
-    <p class="sotto" style="margin-top:0">Quando togli dall'elenco una predica che viene dai tuoi
-      file di Pages, non la butto via: resta qui e la puoi rimettere quando vuoi.</p>
-    ${(()=>{ const via=Object.keys(stato.predVia||{}), ve=Object.keys(stato.espVia||{});
-      if(!via.length && !ve.length) return '<p style="color:var(--tx3);font-size:13px;margin:0">Non hai tolto niente.</p>';
+    <p class="sotto" style="margin-top:0">Quando togli dall'elenco una predica, un'esperienza, una
+      poesia o un cantico che viene dai tuoi file, non lo butto via: resta qui e lo puoi rimettere quando vuoi.</p>
+    ${(()=>{ const noDef=(via,def)=>Object.keys(via||{}).filter(k=>!(def&&def[k]));
+      const via=noDef(stato.predVia,stato.predViaDef), ve=noDef(stato.espVia,stato.espViaDef),
+            vp=noDef(stato.poeVia,stato.poeViaDef), vc=noDef(stato.cantVia,stato.cantViaDef);
+      if(!via.length && !ve.length && !vp.length && !vc.length) return '<p style="color:var(--tx3);font-size:13px;margin:0">Non hai tolto niente.</p>';
+      const coppia=(tit,btRimetti,btDef)=>`<span class="via-coppia"><button class="bt mini pi" onclick="${btRimetti}">↺ ${esc(tit)}</button><button class="bt mini pi" style="color:#ff8b9c" onclick="${btDef}" title="Elimina definitivamente">🗑</button></span>`;
       return `<div class="fila" style="flex-wrap:wrap;gap:7px">${via.map(k=>{
-        const p=PREDICHE.find(x=>x.i===k)||{tit:k};
-        return `<button class="bt mini pi" onclick="rimettiPredica('${k}')">↺ ${esc(p.tit)}</button>`;}).join('')}
-        ${ve.map(k=>{ const e=ESPERIENZE.find(x=>x.i===k)||{tit:k};
-        return `<button class="bt mini pi" onclick="rimettiEsperienza('${k}')">↺ ${esc(e.tit)}</button>`;}).join('')}
-        <button class="bt mini pr" onclick="rimettiTutte()">↺ Rimettile tutte (${via.length+ve.length})</button></div>`;
+        const p=PREDICHE.concat(stato.prediche).find(x=>x.i===k)||{tit:k}, t=esc(p.tit).replace(/'/g,"\\'");
+        return coppia(p.tit,`rimettiPredica('${k}')`,`eliminaDefinitiva('predViaDef','${k}','${t}')`);}).join('')}
+        ${ve.map(k=>{ const e=ESPERIENZE.concat(stato.esperienze).find(x=>x.i===k)||{tit:k}, t=esc(e.tit).replace(/'/g,"\\'");
+        return coppia(e.tit,`rimettiEsperienza('${k}')`,`eliminaDefinitiva('espViaDef','${k}','${t}')`);}).join('')}
+        ${vp.map(k=>{ const q=POESIE.concat((stato.poesie||[])).find(x=>x.i===k)||{tit:k}, t=esc(q.tit).replace(/'/g,"\\'");
+        return coppia(q.tit,`rimettiPoesia('${k}')`,`eliminaDefinitiva('poeViaDef','${k}','${t}')`);}).join('')}
+        ${vc.map(k=>{ const n=CANTICI.find(x=>x.i===k)||{tit:k}, t=esc(n.tit).replace(/'/g,"\\'");
+        return coppia(n.tit,`rimettiCantico('${k}')`,`eliminaDefinitiva('cantViaDef','${k}','${t}')`);}).join('')}</div>`;
     })()}
   </div>
 
@@ -125,39 +149,179 @@ function vDati(){
   <h2>Controllo interno</h2>
   <div class="scheda"><div class="fila">
     <button class="bt pi" onclick="mostraTest()">🔎 Esegui i controlli</button>
-    <span id="esitoTest" style="color:var(--tx3);font-size:13.5px"></span></div></div>`);
+    <span id="esitoTest" style="color:var(--tx3);font-size:13.5px"></span></div></div>
+
+  <p class="sotto dati-firma">Questa app è stata realizzata da Ovidiu Birla.</p>`);
 }
 function provaSfondo(k){ proietta([{t:'p-tit',tit:SFONDI[k].et,occ:'Prova dello sfondo'}],k,'Sfondo'); }
-function salvaCopia(){
-  const d={ programma:'Prediche e Domande', versione:VER, quando:new Date().toISOString(), stato };
-  scarica(_te.encode(JSON.stringify(d)),`Copia Prediche e Domande ${oggi()}.json`,'application/json');
-  avvisa('Copia scaricata','ok');
+/* Il backup, invece di andare sempre nei Download, prova prima il foglio di condivisione del sistema:
+   da lì «Salva in File» lascia scegliere DAVVERO la cartella, su Mac come su iPad e iPhone. Il file è UNO
+   solo e si chiama sempre «prediche.zip» (prima «prediche.json», che si ricarica ancora). Al foglio di
+   condivisione passo SOLO il file, senza titolo: con il titolo l'iPad salvava accanto un «Testo.txt». */
+/* Il backup contiene TUTTO: lo stato (prediche, cantici, esperienze, domande, versetti, lezionari con i
+   loro appunti, libri con il segnalibro, giocatori, impostazioni) E tutti i file veri che stanno a parte
+   nella memoria del dispositivo — i PDF dei lezionari e delle copertine, i PDF dei libri, gli allegati
+   delle prediche e delle esperienze, la musica dei cantici. Prima c'era solo lo stato: sul dispositivo
+   nuovo i lezionari si vedevano in copertina ma non si aprivano. È uno .zip (senza compressione) con
+   dentro «stato.json» e una cartella «allegati»: i file restano dove sono in memoria finché non si
+   scrive, senza doverli copiare tutti insieme (anche con molti PDF l'iPhone ce la fa). */
+async function zipBlob(voci,passo){
+  const parti=[], centr=[]; let off=0;
+  const u16=n=>[n&255,(n>>8)&255], u32=n=>[n&255,(n>>>8)&255,(n>>>16)&255,(n>>>24)&255];
+  for(let k=0;k<voci.length;k++){
+    const v=voci[k], nome=_te.encode(v.nome);
+    const blob = v.blob instanceof Blob ? v.blob : new Blob([v.blob]);
+    const c=crc32(new Uint8Array(await blob.arrayBuffer())), len=blob.size;
+    const loc=new Uint8Array([...u32(0x04034b50),...u16(20),...u16(0x0800),...u16(0),...u16(0),...u16(0),
+      ...u32(c),...u32(len),...u32(len),...u16(nome.length),...u16(0)]);
+    parti.push(loc,nome,blob);
+    centr.push({nome,c,len,off});
+    off+=loc.length+nome.length+len;
+    if(passo) passo(k+1,voci.length);
+  }
+  let cdLen=0;
+  centr.forEach(e=>{
+    const h=new Uint8Array([...u32(0x02014b50),...u16(20),...u16(20),...u16(0x0800),...u16(0),...u16(0),...u16(0),
+      ...u32(e.c),...u32(e.len),...u32(e.len),...u16(e.nome.length),...u16(0),...u16(0),...u16(0),...u16(0),
+      ...u32(0),...u32(e.off)]);
+    parti.push(h,e.nome); cdLen+=h.length+e.nome.length;
+  });
+  parti.push(new Uint8Array([...u32(0x06054b50),...u16(0),...u16(0),...u16(centr.length),...u16(centr.length),
+    ...u32(cdLen),...u32(off),...u16(0)]));
+  return new Blob(parti,{type:'application/zip'});
 }
-function leggiCopia(inp){
+/* legge uno .zip senza compressione (come quelli scritti qui): per ogni file il nome e il suo pezzo */
+async function leggiZipBlob(f){
+  const dv=async(da,n)=>new DataView(await f.slice(da,da+n).arrayBuffer());
+  const fine=await dv(f.size-22,22);
+  if(fine.getUint32(0,true)!==0x06054b50) throw new Error('lo zip non si legge');
+  const quanti=fine.getUint16(10,true), cdLen=fine.getUint32(12,true), cdOff=fine.getUint32(16,true);
+  const cd=await dv(cdOff,cdLen), td=new TextDecoder(), out=[];
+  let p=0;
+  for(let k=0;k<quanti;k++){
+    if(cd.getUint32(p,true)!==0x02014b50) throw new Error('lo zip è rovinato');
+    const metodo=cd.getUint16(p+10,true), len=cd.getUint32(p+20,true);
+    const nl=cd.getUint16(p+28,true), el=cd.getUint16(p+30,true), cl=cd.getUint16(p+32,true), lo=cd.getUint32(p+42,true);
+    const nome=td.decode(new Uint8Array(cd.buffer,cd.byteOffset+p+46,nl));
+    if(metodo!==0) throw new Error('questo zip è compresso: usa il backup fatto dal programma');
+    const lh=await dv(lo,30), inizio=lo+30+lh.getUint16(26,true)+lh.getUint16(28,true);
+    out.push({nome, dati:f.slice(inizio,inizio+len)});
+    p+=46+nl+el+cl;
+  }
+  return out;
+}
+async function salvaCopia(){
+  avvisa('Preparo il backup con tutti i file…');
+  let blob;
+  try{
+    const chiavi=(await kvChiavi()).filter(k=>typeof k==='string' && k.startsWith('all:'));
+    const elenco=[], voci=[];
+    for(const k of chiavi){
+      try{ const b=await kvGet(k); if(!(b instanceof Blob)) continue;
+        elenco.push({k, tipo:b.type||'', nome:b.name||''});
+        voci.push({nome:'allegati/'+encodeURIComponent(k.slice(4)), blob:b}); }catch(e){}
+    }
+    const d={ programma:'Prediche e Domande', versione:VER, quando:new Date().toISOString(), stato, allegati:elenco };
+    voci.unshift({nome:'stato.json', blob:new Blob([_te.encode(JSON.stringify(d))],{type:'application/json'})});
+    blob=await zipBlob(voci,(n,t)=>{ if(t>5 && n%5===0) avvisa(`Backup: ${n} file su ${t}…`); });
+  }catch(e){ console.error(e); avvisa('Non riesco a fare il backup: '+e.message,'no'); return; }
+  const nome='prediche.zip';
+  try{
+    const file=new File([blob],nome,{type:'application/zip'});
+    if(navigator.canShare && navigator.canShare({files:[file]})){
+      await navigator.share({files:[file]});
+      avvisa('Backup condiviso','ok'); return;
+    }
+  }catch(e){ if(e && e.name==='AbortError') return; }
+  await salvaFile(nome,'application/zip',async()=>blob);
+}
+function rimettiStato(nuovo){
+  stato=Object.assign(JSON.parse(JSON.stringify(BASE)),nuovo);
+  stato.imp=Object.assign({},BASE.imp,nuovo.imp||{});
+}
+async function leggiCopia(inp){
   const f=inp.files[0]; if(!f) return;
-  const r=new FileReader();
-  r.onload=()=>{
-    try{
-      const d=JSON.parse(r.result);
-      if(d.domande&&!d.stato){ /* file di un quiz condiviso */
-        let n=0;
-        d.domande.forEach(q=>{
-          const L=(LIBRI.find(x=>x[1]===q.libro||x[2]===q.libro)||[0])[0];
-          stato.domandeMie.push({i:uid(),d:q.d,o:q.o,g:q.g,L:L||1,v:q.v||'',lg:q.lg||'it',mia:true}); n++;
-          if(q.v&&q.testo) stato.versetti[q.v]=q.testo;
-        });
-        salva(); avvisa(`Importate ${n} domande`,'ok'); vai('domande'); return;
-      }
-      if(!d.stato) throw new Error('non è una copia di questo programma');
-      conferma('Ricaricando la copia, quello che hai adesso viene sostituito. Vuoi procedere?',()=>{
-        stato=Object.assign(JSON.parse(JSON.stringify(BASE)),d.stato);
-        stato.imp=Object.assign({},BASE.imp,d.stato.imp||{});
-        salva(); vai('home'); avvisa('Copia ricaricata','ok');
+  inp.value='';
+  try{
+    const testa=new Uint8Array(await f.slice(0,4).arrayBuffer());
+    /* il backup nuovo, con tutti i file dentro */
+    if(testa[0]===0x50 && testa[1]===0x4b){
+      const voci=await leggiZipBlob(f);
+      const st=voci.find(v=>v.nome==='stato.json');
+      if(!st) throw new Error('non è un backup di questo programma');
+      const d=JSON.parse(await st.dati.text());
+      if(!d.stato) throw new Error('non è un backup di questo programma');
+      const tipi={}; (d.allegati||[]).forEach(a=>{ tipi[a.k]=a; });
+      const file=voci.filter(v=>v.nome.startsWith('allegati/'));
+      conferma(`Ricaricando il backup, quello che hai adesso viene sostituito.\nDentro ci sono anche ${file.length} file (PDF dei lezionari e dei libri, allegati, musica). Vuoi procedere?`,async()=>{
+        try{
+          const ids=[];
+          for(let k=0;k<file.length;k++){
+            const id=decodeURIComponent(file[k].nome.slice('allegati/'.length)), a=tipi['all:'+id]||{};
+            let b=new Blob([await file[k].dati.arrayBuffer()],{type:a.tipo||''});
+            if(a.nome){ try{ b=new File([b],a.nome,{type:a.tipo||''}); }catch(e){} }
+            await kvSet('all:'+id,b); ids.push(id);
+            if(file.length>5 && (k+1)%5===0) avvisa(`Rimetto i file: ${k+1} su ${file.length}…`);
+          }
+          rimettiStato(d.stato);
+          salva();
+          await riprendiAllegati(ids);
+          vai('home'); avvisa(`Backup ricaricato, con ${file.length} file`,'ok');
+        }catch(e){ console.error(e); avvisa('Non riesco a ricaricare il backup: '+e.message,'no'); }
       },'Sì, ricarica');
-    }catch(e){ avvisa('File non valido: '+e.message,'no'); }
-    inp.value='';
-  };
-  r.readAsText(f);
+      return;
+    }
+    const d=JSON.parse(await f.text());
+    if(d.tipo==='archivio'&&!d.stato){ caricaArchivio(d); return; }
+    if(d.domande&&!d.stato){ /* file di un quiz condiviso */
+      let n=0;
+      d.domande.forEach(q=>{
+        const L=(LIBRI.find(x=>x[1]===q.libro||x[2]===q.libro)||[0])[0];
+        stato.domandeMie.push({i:uid(),d:q.d,o:q.o,g:q.g,L:L||1,v:q.v||'',lg:q.lg||'it',mia:true}); n++;
+        if(q.v&&q.testo) stato.versetti[q.v]=q.testo;
+      });
+      salva(); avvisa(`Importate ${n} domande`,'ok'); vai('domande'); return;
+    }
+    if(!d.stato) throw new Error('non è una copia di questo programma');
+    /* un backup vecchio (prediche.json): c'è solo lo stato, i PDF non c'erano */
+    conferma('Ricaricando la copia, quello che hai adesso viene sostituito. Questo è un backup vecchio: dentro non ci sono i PDF dei lezionari e dei libri. Vuoi procedere?',()=>{
+      rimettiStato(d.stato);
+      salva(); vai('home'); avvisa('Copia ricaricata','ok');
+    },'Sì, ricarica');
+  }catch(e){ avvisa('File non valido: '+e.message,'no'); }
+}
+
+/* Il file con le prediche, le poesie e le esperienze che prima stavano dentro al programma
+   (strumenti/archivio/esporta.py): si AGGIUNGONO alle tue, senza sostituire niente, e da lì
+   in poi sono tue come le altre (anche nel backup). Hanno gli stessi identificativi di prima,
+   così i tuoi appunti/stili/luoghi/diapositive su quelle voci si ritrovano; quelle che hai
+   già (o che avevi eliminato per sempre) non si aggiungono una seconda volta. */
+function caricaArchivio(d){
+  const pr=d.prediche||[], po=d.poesie||[], es=d.esperienze||[];
+  conferma(`In questo file ci sono ${pr.length} prediche, ${po.length} poesie e ${es.length} esperienze.\nLe aggiungo a quelle che hai già (quelle che ci sono già non si doppiano). Vuoi procedere?`,()=>{
+    stato.poesie=stato.poesie||[]; stato.predAnnot=stato.predAnnot||{};
+    const c={pr:0,po:0,es:0};
+    const gia=(el,i)=>el.some(x=>x.i===i);
+    pr.forEach(p=>{
+      if(gia(stato.prediche,p.i) || (stato.predViaDef||{})[p.i]) return;
+      /* titolo/tema/riferimento che avevi corretto da ⚙ restavano a parte (meta): ora vanno dentro */
+      const an=stato.predAnnot[p.i], m=an&&an.meta;
+      const x=Object.assign({},p,m||{}); if(m) delete an.meta;
+      x.sfondo=x.sfondo||sfondoDaTema(x.tit); x.blocchi=analizzaPredica(x.testo||'');
+      stato.prediche.push(x); c.pr++;
+    });
+    po.forEach(p=>{
+      if(gia(stato.poesie,p.i) || (stato.poeViaDef||{})[p.i]) return;
+      const x=Object.assign({},p); x.blocchi=analizzaPoesia(x.testo||'');
+      stato.poesie.push(x); c.po++;
+    });
+    es.forEach(e=>{
+      if(gia(stato.esperienze,e.i) || (stato.espViaDef||{})[e.i]) return;
+      stato.esperienze.push(Object.assign({},e)); c.es++;
+    });
+    salva(); menu(); vai('dati');
+    avvisa(`Aggiunte ${c.pr} prediche, ${c.po} poesie e ${c.es} esperienze`,'ok');
+  },'Sì, aggiungi');
 }
 
 /* ================= GUIDA ================= */

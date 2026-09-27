@@ -1,0 +1,60 @@
+# Personaggi del Nuovo Testamento (e ai due lati della nascita di Gesù).
+# RISPOSTA IT|RISPOSTA RO|livello 1-3|libro|tipo|indizio italiano|indizio rumeno
+GESU|ISUS|1|40|p|Il Salvatore, nato a Betlemme, morto in croce e risorto il terzo giorno|Mântuitorul, născut în Betleem, mort pe cruce și înviat a treia zi
+MARIA|MARIA|1|42|p|La giovane di Nazaret che fu la madre di Gesù|Tânăra din Nazaret care a fost mama lui Isus
+GIUSEPPE|IOSIF|1|40|p|Il falegname di Nazaret, sposo di Maria|Dulgherul din Nazaret, soțul Mariei
+GIOVANNI|IOAN|1|43|p|Il Battista che preparò la via a Gesù e battezzava nel Giordano|Botezătorul care a pregătit calea lui Isus și boteza în Iordan
+GIOVANNI|IOAN|1|43|p|Il discepolo prediletto, autore di un Vangelo e dell'Apocalisse|Ucenicul preaiubit, autorul unei Evanghelii și al Apocalipsei
+ELISABETTA|ELISABETA|2|42|p|La madre di Giovanni Battista, parente di Maria|Mama lui Ioan Botezătorul, rudă cu Maria
+ZACCARIA|ZAHARIA|2|42|p|Il sacerdote rimasto muto per aver dubitato dell'angelo, padre di Giovanni Battista|Preotul rămas mut pentru că s-a îndoit de înger, tatăl lui Ioan Botezătorul
+SIMEONE|SIMEON|2|42|p|L'uomo giusto che prese in braccio Gesù bambino nel tempio|Omul drept care a luat în brațe pe Isus copil în Templu
+ANNA|ANA|3|42|p|La profetessa vedova che lodava Dio nel tempio quando Gesù fu presentato|Prorociță văduvă care lăuda pe Dumnezeu în Templu când a fost adus Isus
+ERODE|IROD|2|40|p|Il re che ordinò la strage dei bambini di Betlemme|Împăratul care a poruncit uciderea pruncilor din Betleem
+GABRIELE|GAVRIL|2|42|p|L'angelo che annunciò a Maria la nascita di Gesù|Îngerul care a vestit Mariei nașterea lui Isus
+MICHELE|MIHAIL|3|66|p|L'arcangelo che combatté contro il drago|Arhanghelul care s-a luptat cu balaurul
+PIETRO|PETRU|1|41|p|Il pescatore di Galilea che rinnegò Gesù tre volte|Pescarul din Galileea care s-a lepădat de Isus de trei ori
+ANDREA|ANDREI|2|43|p|Il fratello di Pietro, uno dei primi discepoli|Fratele lui Petru, unul dintre primii ucenici
+GIACOMO|IACOV|2|41|p|Il fratello di Giovanni, figlio di Zebedeo|Fratele lui Ioan, fiul lui Zebedei
+FILIPPO|FILIP|2|43|p|L'apostolo di Betsaida che condusse Natanaele a Gesù|Apostolul din Betsaida care l-a adus pe Natanael la Isus
+BARTOLOMEO|BARTOLOMEU|3|40|p|Uno dei dodici apostoli, spesso identificato con Natanaele|Unul dintre cei doisprezece apostoli, adesea socotit același cu Natanael
+MATTEO|MATEI|2|40|p|L'esattore delle tasse chiamato da Gesù a seguirlo|Vameșul chemat de Isus să-L urmeze
+TOMMASO|TOMA|1|43|p|L'apostolo che volle vedere e toccare i segni dei chiodi|Apostolul care a vrut să vadă și să pipăie semnele cuielor
+TADDEO|TADEU|3|40|p|Uno dei dodici apostoli, chiamato anche Lebbeo|Unul dintre cei doisprezece apostoli, numit și Lebeu
+SIMONE|SIMON|3|40|p|Uno dei dodici apostoli, detto lo Zelota|Unul dintre cei doisprezece apostoli, numit Zelotul
+GIUDA|IUDA|1|40|p|L'apostolo che tradì Gesù per trenta monete d'argento|Apostolul care a vândut pe Isus pe treizeci de arginți
+MATTIA|MATIA|3|44|p|Quello scelto a sorte per prendere il posto di Giuda tra i dodici|Cel ales prin tragere la sorți în locul lui Iuda între cei doisprezece
+PAOLO|PAVEL|1|44|p|L'apostolo dei pagani, prima chiamato Saulo|Apostolul neamurilor, numit mai întâi Saul
+BARNABA|BARNABA|2|44|p|Il compagno di Paolo nel primo viaggio, «figlio di consolazione»|Tovarășul lui Pavel în prima călătorie, «fiul îndemnării»
+MARCO|MARCU|2|44|p|Il giovane cugino di Barnaba, autore di un Vangelo|Tânărul văr al lui Barnaba, autorul unei Evanghelii
+LUCA|LUCA|2|44|p|Il medico amato, compagno di Paolo, autore di un Vangelo e degli Atti|Doctorul preaiubit, tovarășul lui Pavel, autorul unei Evanghelii și al Faptelor
+TIMOTEO|TIMOTEI|2|54|p|Il giovane collaboratore di Paolo, cresciuto dalla nonna Loide|Tânărul ajutor al lui Pavel, crescut de bunica sa Loida
+TITO|TIT|3|56|p|Il collaboratore di Paolo lasciato a Creta|Ajutorul lui Pavel lăsat în Creta
+FILEMONE|FILIMON|3|57|p|Il credente il cui schiavo Onesimo era fuggito|Credinciosul al cărui rob Onisim fugise
+ONESIMO|ONISIM|3|57|p|Lo schiavo fuggito che Paolo rimandò al suo padrone|Robul fugit pe care Pavel l-a trimis înapoi stăpânului său
+STEFANO|STEFAN|2|44|p|Il primo martire cristiano, lapidato a Gerusalemme|Primul mucenic creștin, ucis cu pietre la Ierusalim
+CORNELIO|CORNELIU|2|44|p|Il centurione romano di Cesarea che ricevette lo Spirito Santo|Sutașul roman din Cezareea care a primit Duhul Sfânt
+LIDIA|LIDIA|2|44|p|La commerciante di porpora convertita a Filippi|Negustoreasa de purpură convertită la Filipi
+PRISCILLA|PRISCILA|3|44|p|La moglie di Aquila, collaboratrice di Paolo|Soția lui Aquila, ajutoarea lui Pavel
+AQUILA|AQUILA|3|44|p|Il fabbricante di tende di Corinto, marito di Priscilla|Fabricantul de corturi din Corint, soțul Priscilei
+APOLLO|APOLO|3|44|p|Il giudeo eloquente di Alessandria istruito da Aquila e Priscilla|Iudeul plin de grai din Alexandria, învățat de Aquila și Priscila
+LAZZARO|LAZAR|1|43|p|L'amico di Gesù risuscitato dopo quattro giorni nella tomba|Prietenul lui Isus înviat după patru zile în mormânt
+MARTA|MARTA|1|42|p|La sorella affaccendata di Betania che serviva Gesù|Sora din Betania care se îngrijora și slujea lui Isus
+ZACCHEO|ZACHEU|2|42|p|Il capo dei pubblicani di Gerico salito su un sicomoro|Căpetenia vameșilor din Ierihon care s-a suit într-un sicomor
+NICODEMO|NICODIM|2|43|p|Il fariseo che andò da Gesù di notte|Fariseul care a venit la Isus noaptea
+BARABBA|BARABA|2|41|p|Il prigioniero liberato al posto di Gesù|Tâlharul eliberat în locul lui Isus
+PILATO|PILAT|1|43|p|Il governatore romano che si lavò le mani davanti alla folla|Dregătorul roman care și-a spălat mâinile înaintea mulțimii
+CAIAFA|CAIAFA|2|43|p|Il sommo sacerdote che presiedette il processo a Gesù|Marele preot care a prezidat judecata lui Isus
+MALCO|MALHU|3|43|p|Il servo del sommo sacerdote a cui Pietro tagliò l'orecchio|Robul marelui preot căruia Petru i-a tăiat urechea
+IAIRO|IAIR|3|41|p|Il capo della sinagoga la cui figlia fu risuscitata da Gesù|Căpetenia sinagogii a cărei fiică a fost înviată de Isus
+TABITHA|TABITA|3|44|p|La discepola di Ioppe, ricca di opere buone, risuscitata da Pietro|Ucenica din Iope, bogată în fapte bune, înviată de Petru
+EUTICO|EUTIH|3|44|p|Il giovane che si addormentò durante il lungo discorso di Paolo e cadde dalla finestra|Tânărul care a adormit în timpul lungii cuvântări a lui Pavel și a căzut de la fereastră
+FESTO|FESTUS|3|44|p|Il governatore romano a cui Paolo si appellò a Cesare|Dregătorul roman la care Pavel a făcut apel la Cezar
+AGRIPPA|AGRIPA|3|44|p|Il re davanti al quale Paolo si difese: «Per poco non mi persuadi a farmi cristiano»|Împăratul înaintea căruia s-a apărat Pavel: «Cu puțin și m-ai face creștin»
+FELICE|FELIX|3|44|p|Il governatore romano che tremò ascoltando Paolo parlare del giudizio|Dregătorul roman care a tremurat auzind pe Pavel vorbind despre judecată
+GALLIONE|GALION|3|44|p|Il proconsole di Acaia che a Corinto rifiutò di giudicare Paolo|Guvernatorul Ahaiei care la Corint a refuzat să judece pe Pavel
+ERODIADE|IRODIADA|2|41|p|La moglie di Erode che ottenne la testa di Giovanni Battista|Soția lui Irod care a cerut capul lui Ioan Botezătorul
+GAIO|GAIUS|3|64|p|L'amico caro a cui Giovanni scrisse la sua terza lettera|Prietenul iubit căruia Ioan i-a scris a treia epistolă
+EPAFRODITO|EPAFRODIT|3|50|p|Il messaggero dei Filippesi che portò aiuti a Paolo in prigione|Trimisul filipenilor care a adus ajutoare lui Pavel în închisoare
+TICHICO|TIHIC|3|49|p|Il fedele collaboratore che portò le lettere di Paolo a Efeso e a Colosse|Ajutorul credincios care a dus epistolele lui Pavel la Efes și la Colose
+NATANAELE|NATANAEL|2|43|p|L'israelita in cui non c'era frode, visto da Gesù sotto un fico|Israelitul fără vicleșug, văzut de Isus sub un smochin
+BATTISTA|BOTEZATORUL|2|40|p|Il soprannome di Giovanni, che battezzava nel Giordano|Numele dat lui Ioan, care boteza în Iordan

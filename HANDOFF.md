@@ -1,234 +1,155 @@
 # Handoff — Prediche e Domande (SDARM)
 
-> Updated 11 September 2026 — resume in a new Claude Code session.
-> **Reply to Ovidiu in Italian, plainly, no jargon.** He is not a programmer.
-> Current delivered version: **v7.8**.
+> Generated on 26 September 2026 — resume in a new Claude Code session.
+> **Answer Ovidiu in Italian, plainly, no jargon.** He is not a programmer; short messages, often several in a row (also mid-turn), iPad/iPhone screenshots.
+> Do not spawn subagents unless he asks.
+> **Standing rules (memory `regole-lavoro-ovidiu`):** do **exactly and only** what he asks; an unrelated defect is **told in words, never fixed silently**.
+> When a request is ambiguous ask ONE multiple-choice question.
+> Never modify his real files (`/Users/ovidio/Desktop/ovidiu/chiesa/…`, Pages sermons, PowerPoints): read-only, copy to the scratchpad for tests.
+> Sister folders `programma tesoreria`, `pubblicazioni` are separate projects — leave them alone. Downloads need his explicit yes.
+> **After every tested round:** new version (odometer `X.Y.Z`), `costruisci.py` + `pubblica.py`, verify online with `curl`, reapply the Finder icon,
+> delete the previous build — **BUT keep `Prediche_e_Domande_v8.0.4.html`** («non cancellare questa fino quando non faccio io tutte le prove»): ask him before removing it.
+> **Current = 8.2.2 (published 27 Sep 2026, verified `const VER="8.2.2"`). Next = 8.2.3.**
+> 8.1.9 projection/fit of all games, versetto, lezionario keyboard+note width, gara 1 question per player · 8.2.0 codici 300 + 3D temple (sorgenti/6p_tempio3d.js)
+> · 8.2.1 viaggi 200 (strumenti/giochi/viaggi/*.txt) · 8.2.2 misteri 240/1000 (see below).
+> **IN PROGRESS — Misteri to 1000 (asked: «almeno 1000 per ogni lingua»):** new cases are written in the short bilingual format
+> `strumenti/misteri/casi_1NN_*.txt` (format documented at the top of `strumenti/misteri/genera.py`; one «IT || RO» per line), plan + list of ids
+> in `strumenti/misteri/elenco.txt` (Genesi → 2 Re 7 done; continue from 2 Re: iehu, ioas, cassa, frecce_eliseo…). Italian names = Nuova Diodati
+> (check with `v.py`-style lookup in dati/bibbia.json; helper fix_it.py changes only the IT half). 6 cases per file, num auto-assigned in file order:
+> never insert files before existing ones (unlock order). Validate with `python3 strumenti/misteri/genera.py`. Publish every ~200 cases.
+> **v8.0.4 file disappeared from the folder on 27 Sep (not deleted by Claude; probably Ovidiu in Finder) — tell him, don't recreate.**
+> Previous handoff: `handoff-history/HANDOFF-2026-09-25.md` (v8.0.4 state: 16 games, Libri, backup ZIP).
 
 ---
 
 ## 🎯 Goal
 
-One self-contained HTML file (~13 MB, no internet needed) that Ovidiu — an SDARM
-church officer working in Italian and Romanian on Mac/iPad/iPhone — uses to run
-church meetings: Bible quizzes, hymns, sermons, poems, experiences, a Bible
-reader, sunrise/sunset, and a Sabbath-School lesson reader with PDF-style
-annotation. Everything projects to a second screen.
-"Done" = he can run a whole meeting from it on the iPad.
+One self-contained offline HTML app (~22 MB, installed on iPad/iPhone Home Screen, published on GitHub Pages
+`https://birlaovidiu-jpg.github.io/prediche-e-domande/`) that Ovidiu — an SDARM church officer (Italian + Romanian) — uses to run
+church meetings: Bible quizzes, 16 Bible games, hymns, sermons/poems/experiences (editable «foglio» + projection), Bible reader,
+sunrise/sunset, Sabbath-School lesson reader («lezionario»), PDF «Libri». «Done» = he runs a whole meeting from the iPad.
 
 ---
 
-## 📍 Where everything lives
+## 📍 Current State
 
-| | |
-|---|---|
-| Project | `/Users/ovidio/Desktop/ovidiu/claude/prediche e domande/` |
-| GitHub | **public** repo `birlaovidiu-jpg/prediche-e-domande` |
-| Live app | https://birlaovidiu-jpg.github.io/prediche-e-domande/ (branch `gh-pages`) |
-| Build | `python3 costruisci.py 7.9` → `Prediche_e_Domande_v7.9.html` |
-| Publish | `python3 pubblica.py 7.9` — builds + updates the site (uses a git worktree, never touches the working tree) |
-| Test server | `python3 -m http.server 8796`, then `…v7.9.html?nc=1` (the `?nc=` avoids a stale cache — this cost a long false-alarm debugging session once) |
-| Self-tests | open in a browser, run `autoTest()` in the console — **216 checks, `falliti` must be empty** |
+**v8.1.7 built and published. `autoTest()` all passing: 715 (1180×820), 714 (744×1133), 713 (390×844).
+Folder holds only `Prediche_e_Domande_v8.0.4.html` (kept for him) + `Prediche_e_Domande_v8.1.7.html`, icon applied. Nothing half-finished.
+NOTHING tested on a real iPad/iPhone** (zoom, page turn, keyboard, Apple Pencil, fullscreen, AirPlay all only desktop-simulated).
 
-**The data is now inside the repo** (`dati/`, ~15 MB). The old temporary-scratchpad
-paths are still in `costruisci.py`'s `CARTELLE` list as a fallback, but the old
-scratchpad has already been wiped once — do not rely on it.
-
----
-
-## ✅ Current state — what works
-
-- **Domande bibliche** — 10.000 (5.000 it + 5.000 ro), 2.500 per each of 4 difficulty
-  levels, all 66 books. The ~4.900 new ones are machine-built from the Bible text by
-  `dati/`-fed generators with four self-verifying shapes (which book · what the
-  reference says · complete the verse · which chapter).
-- **Chi ha detto?** — 4.816 phrases, speaker verified on the text.
-- **Memoria delle presentazioni** — what he has already presented never comes back until
-  the pool is exhausted; remembered forever (`stato.viste`, 7-char hashes of the text, so
-  it survives rebuilds). Round counter + "Ricomincia il giro" button.
-- **Per-language totals** on the home tiles and above both sections.
-- **Bibbia** — 3 versions embedded (LND it, Cornilescu ro, KJV en). Tapping a verse projects
-  the **whole chapter** starting there, so forward/back works.
-- **Cantici** — 1.549 in 4 collections; backing-track play button in projection and regia,
-  never automatic.
-- **Prediche** — 62, extracted from his `.pages` files **with their formatting** (colours,
-  fonts, sizes, bold, italic) by the IWA parser. Full-screen sheet, **one** toolbar,
-  Word-like editing, images, pinch zoom, custom **🎞 Diapositive** (PowerPoint-like) that
-  can be placed anywhere in the sermon, trash button, total in the top bar.
-  New sermon → metadata dialog, then straight into the full-page white sheet in edit mode.
-- **Esperienze** — 183 so far (77 `vera` + 106 `racconto`). Two filter buttons, a badge on
-  every one, and a notice in the reader saying which it is. They open in the **same
-  full-page sheet as the sermons**.
-- **Scuola del Sabato** — page fits an iPad without scrolling; annotations cross between the
-  Italian and Romanian editions **onto the same words** (see below); highlighter and
-  underline stop **at the letter**; PDF rendered at 3× density.
-- **Home** — clean blue logo in the top bar, sky panel whose backlight follows the real sky
-  colour continuously, moon always visible in its true direction with its real phase and
-  the day's real apparent size.
-- **Web app** — service worker (`sorgenti/sw.js`, version baked in at publish time) caches
-  the whole program; opens instantly and offline after the first visit, and tells him when
-  a new version is ready.
+### Done this session (25–26 Sep), by version
+- **8.0.5** Prediche: paste fix (first line → title), foglio saved when leaving/⚙ (`salvaFoglioAperto`); «📄 Importa PDF» / «📝 Importa Word» (`7f_importa_documenti.js`);
+  Libri open in the lezionario reader with notes sidebar + multiple dated bookmarks; built-in sermons/poems/experiences REMOVED (`costruisci.py` PR=PO=ES=[]),
+  archive file `archivio_prediche_poesie_esperienze.json` (144+34+292) loaded via «📂 Carica backup» (`caricaArchivio`, adds as his own).
+- **8.0.6–8.0.8** 5-minute return rule (`USCITA_MS`, `pd_uscita`), position refreshed always, Libri Scorri/Sfoglia, Codice segreto 200/lang + 12 on screen,
+  `adattaGioco` (all games fit the screen).
+- **8.0.9** Ruota: **2000 new hand-written questions per language** (`strumenti/giochi/domande_nuove/01…39_*.txt`, total 2162); reading full screen
+  (`body.pred-legge`, books open `#lettore.libro.nudo`); **zoom flicker fixed** (`zoomNativo()`/`largFinestra()` in `1_nucleo.js`, used by every resize
+  handler; `zoomMio()` blocks native gestures where we zoom; lettore pinch uses a snapshot `#letLente`); **no blank page on page turn** (`preparaPag`);
+  games also fixed in PORTRAIT (`gioSchermoFisso()`), auto-grow up to 1.5×, bigger fonts (×1.15–1.35 in gio-fissa blocks).
+- **8.1.0** poesie/esperienze ⚙ saves the foglio + title sync; «Scorri» stays lit (`aggiornaModo()` in `setStru`).
+- **8.1.1** Lezionario flips like books (`lbSfoglia` generic); next page pre-rendered (`precaricaPag`); scroll mode draws visible then ahead;
+  note window above keyboard (`txSopraTastiera`, visualViewport); new note width = lesson text right margin (`larghezzaAppunto`).
+- **8.1.2** ✏️ Pen on sermons/poems/experiences (`5b_penna.js`, SVG over the foglio, strokes anchored to paragraphs, `annot(i).penna[lg]`).
+- **8.1.3** Import PDF → **editable styled text** (pdf.js items + per-word colour sampled from the rendered page, paragraphs rebuilt).
+- **8.1.4** **PowerPoint faithful copy** (`7g_pptx_fedele.js`): theme colours, shapes→SVG, p:style, shadows, rotation, crop, inherited text styles, backgrounds, master/layout shapes, tables.
+- **8.1.5** **Gara** (competition) in all games except X e O (`6n_gara.js`): turns, striscia, podium, `stato.gare`, «Vincitori delle gare».
+- **8.1.6** **🕯️ Mistero Biblico replaces Blitz** (tile only; Blitz code still there and still tested) — engine `6o_mistero.js`, 30 cases as data;
+  all games: `adattaScritte` (question/answer text grows to fill its box, up to 2.6×); «Proietta» = fullscreen + no bars + big gara scores.
+- **8.1.7** Difficulty row **above** the players row (`.gio-livelli` inside wrapper `#gioGioc.gio-testa-gioc`, not in Cruciverba); players row wraps;
+  gara auto-proposes the next player (`garaProponi` 1.6 s after a final result; series games end a turn at `GARA_SERIE`: completa 10, chisono 5, versetto 5, cruciverba 100%).
 
 ---
 
-## 🧩 The hard part: cross-language annotations
-
-Three failed designs before this worked. The current one, in `6d_lettore.js`:
-
-1. **Group** = `t<year>-<quarter>`, taken from the **median Sabbath date** of the detected
-   lessons — not from the year printed on the cover, which the two editions write differently.
-2. **`schemaGruppo(l)`** decides *how* to write an address, looking at **all** lezionari of
-   that quarter at once, so both editions necessarily agree:
-   - dates only if **every** edition has them (`completaDate()` fills gaps by counting
-     7 days per lesson from any one known date);
-   - weekdays only if **every** edition detects them, and only the weekday numbers in the
-     **intersection** (`giorniComuni`) — otherwise the Italian, which doesn't print
-     "Sabato" on the lesson page, would count pages from a different origin;
-   - otherwise the lesson's **ordinal**, normalised to 13 if the editions count a different
-     number of lessons.
-3. **The key is the DAY, not the page** (`chiaveNota` returns `S<date>G<k>` with no page
-   offset). The same sentence can be on page 87 in Italian and page 88 in Romanian.
-4. **Every mark stores a text anchor** (`ancoraDa`): which paragraph *of the whole day*
-   (paragraphs are stitched back together across page breaks when the previous one doesn't
-   end in sentence punctuation), **which sentence**, and the character offsets inside that
-   sentence. `rettDaAncora` maps it back onto the other edition's own words.
-   Sentence-level is the key: proportional mapping over a whole paragraph drifts by a line.
-5. `rettDi(a,n)` returns the rectangles for the current page: from the anchor when there is
-   one (so the mark follows the text onto whatever page holds it), otherwise from `a.off`
-   (the page offset within the day) for marks with no text under them — empty answer lines,
-   pen strokes, text notes.
-
-Verified with real PDFs: highlighting *«Come Fratello maggiore della nostra razza, Egli
-conosce le necessità di coloro che…»* in Italian lands exactly on *«Ca Frate mai mare al
-neamului nostru, El cunoaște nevoile celor care…»* in Romanian, across a page break.
-
----
-
-## 📁 Files
+## 📁 Relevant Files
 
 | File | Role |
 |------|------|
-| `costruisci.py` | Build. `CARTELLE` lists where to find data; `dati/` first. |
-| `pubblica.py` | Build + publish to GitHub Pages. Uses a **git worktree** — an earlier version used `git stash` and left the repo on an orphan branch. |
-| `sorgenti/1_nucleo.js` | State, IndexedDB, `apri()`, navigation, **presentation memory** (`chiaveVista`, `pescaNuove`, `segnaViste`), `contaLingue`/`strisciaLingue` |
-| `sorgenti/2_proiezione.js` | Projection, slides, regia, `p-img` slide type, hymn backing track (`BASE_MU`) |
-| `sorgenti/3_domande.js` | Questions view + filters (two rows incl. search) |
-| `sorgenti/4_cantici.js` | Hymns |
-| `sorgenti/5_prediche.js` | **Sermons + the shared full-page sheet** (experiences use it too via `trovaPredica` falling through to `tutteEsperienze`), custom slides, pinch zoom |
-| `sorgenti/6_esperienze.js` | Experiences list, `vera`/`racconto` filter |
-| `sorgenti/6c_sabato.js` | Lezionari: language/year/quarter/lesson/day detection, `completaDate`, compact page |
-| `sorgenti/6d_lettore.js` | **PDF reader** — the most delicate file. Annotations, anchors, tools, undo, canvas lifecycle |
-| `sorgenti/6e_sole.js` | Astronomy, continuous sky colours (`CIELO_FASI`), moon |
-| `sorgenti/6f_bibbia.js` | Bibles, reference parsing |
-| `sorgenti/6g_chihadetto.js` | "Chi ha detto?" |
-| `sorgenti/7b/7c/7d_*.js` | PPTX, PDF, sermon PDF |
-| `sorgenti/8_home_dati_guida.js` | Home tiles, data/backup (incl. restoring removed sermons/experiences), guide |
-| `sorgenti/9_avvio.js` | **216 self-tests** + boot + service-worker registration |
-| `sorgenti/sw.js` | Service worker template (`__VER__` replaced at publish) |
-| `sorgenti/stile.css` | All CSS (~75 KB) |
-| `dati/` | Bible, questions, hymns, sermons, experiences, pdf.js, icons |
+| `sorgenti/6o_mistero.js` | Mistero Biblico engine (MIS state, archivio/intro/scena/prove/fine, taccuino, aiuti, punteggio, stelle, trofei `mis_*`, `misSblocco`, caso del giorno, inCorso, gara same case via `MIS.garaCaso`) |
+| `strumenti/misteri/casi_01…06.json` + `genera.py` | **Cases as data** (it+ro). `genera.py` validates (both languages, ≥6 elements, ≥5 real clues, 3 hints, ≥3 prove, answers exist, unique id/num) and writes `dati/misteri.json` → `MISTERI`. x,y auto-assigned if missing |
+| `sorgenti/6n_gara.js` | Gara: `GARA`, `apriGara`, `iniziaGara`, `garaRegistra`, `garaProponi`, `garaProssimo`, `garaFine`, `htmlGara`, `vincitoriGare`, `GARA_SERIE` |
+| `sorgenti/6j_giocatori.js` | Players/partite; `htmlGiocatori` (levels row above, gara button), `salvaRisultato` → `garaRegistra` |
+| `sorgenti/6h_giochi.js` | Hub tiles, routing, `adattaGioco` (scale 0.6–1.5, `_gioZ` memo per game+size+projection), `adattaScritte`, `_gioEsce`, `proiettaGioco`/`_schermoIntero` |
+| `sorgenti/7g_pptx_fedele.js` | Faithful PPTX (`pptxFedele`, `htmlPptxFedele`); `7e_importa_pptx.js` stores `diapoPptx[k].fedele={html,sfondo,alt}` (images as `__PF_id__`) |
+| `sorgenti/7f_importa_documenti.js` | `pdfInFoglio` (editable), `docxInFoglio` |
+| `sorgenti/5b_penna.js` | Pen on the foglio |
+| `sorgenti/6d_lettore.js`, `6k_libri.js` | Reader: `preparaPag`/`precaricaPag`, `letLente`, `larghezzaAppunto`, `txSopraTastiera`, `lbSfoglia` (books AND lezionari) |
+| `strumenti/giochi/domande_nuove/`, `controlla_domande.py`, `sostituisci.py` | Ruota questions; check **all files together** (single-file check misses cross-file duplicates) |
+| `sorgenti/9_avvio.js` | `autoTest()` (async, ~715 checks) |
+| Claude memory | `programma-prediche-domande.md` (top line = last version, full technical log), `regole-lavoro-ovidiu.md` |
 
 ---
 
-## ❌ Failed attempts — do not repeat
+## ❌ Failed Attempts
 
-### Annotations keyed by page position
-Marks landed at the same *place on the sheet* in the other language, not on the same words.
-He sent photos proving it. → text anchors, see above.
-
-### Anchoring proportionally over the whole paragraph
-An 824-character paragraph drifts 40–80 characters between translations — a whole clause.
-The Italian «Il Suo stesso esempio…» landed on the Romanian «El știe că solii…».
-→ anchor **per sentence**.
-
-### Anchoring per page
-The same paragraph is cut by the page break at different points in the two editions, so the
-paragraph on "page 87" is not the same paragraph. → stitch paragraphs across the day's pages,
-and key annotations by day.
-
-### Word-level highlight selection
-He asked for letter precision. Snapping to whole words also dragged in one extra word at each
-end. → clip the band at the finger's exact X, clamped to the row's text extent.
-
-### `git stash` inside `pubblica.py`
-Left the repo checked out on an orphan branch with the work stashed. → `git worktree`.
-
-### `IntersectionObserver` for lazy page rendering
-After freeing a canvas the observer does not fire again for an element whose intersection
-state has not *changed*, so pages stayed blank. → scroll listener + 350 ms interval safety net;
-`liberaLontane` never frees a visible page.
-
-### Rendering every page's canvas at once
-iOS silently returns **blank canvases** past a total-canvas-memory limit. → keep only pages
-within `raggioVivo()` (computed from a 190 MB budget at the current density) and free the rest.
-
-### `scrollIntoView({behavior:'smooth'})`
-Did not move over long distances inside the scroller. → `portaAPagina(n)` sets `scrollTop`.
-
-### Highlighter drawn with `globalAlpha`
-Washed colours and darkening overlaps. → dedicated `.let-evid` canvas with
-`mix-blend-mode: multiply`, all rectangles of one mark filled in a **single** `fill(Path2D)`.
-
-### Duplicate top-level `const` across source files
-All files are concatenated into ONE script — `SyntaxError: Identifier has already been
-declared` kills the **entire app** silently. Happened with `MESI`, `COL_EVID`, `BASE`.
-**Always grep `sorgenti/` before adding a global.**
-
-### Lookbehind regex `(?<=…)`
-Unsupported by older iPad Safari → parse error → whole app dead. It slipped back in twice.
-
-### Quarter detection by first month name found
-Romanian **"mai"** means "more". → look for the month **range** first, then whole words
-skipping "mai".
-
-### Weekday detection by full name only
-The Italian lezionario writes "Dom, 6 Set". → full name *or* abbreviation followed by a day
-number, with word boundaries so "mar" does not match "Marco".
-
-### Positional sermon ids (`'p'+i`)
-Changing the sermon list moved his annotations onto the wrong sermons. → ids are now
-`'pr'+numero` (from the filename), with a one-time migration table `_MAPPR` applied by
-`spostaAppuntiPrediche()`.
+- **Quick Look as PPTX reference** (`qlmanage -t -s 1280`): it ignores rotations, gradients and p:style fills and substitutes Calibri/Constantia with Times —
+  don't "fix" the renderer to match it; check the XML instead.
+- **`cupsfilter`/`textutil`** couldn't make test PDFs in the sandbox → test PDFs are written by hand (`$SCRATCH/fai_pdf.py`, `predica_prova.pdf`).
+- **PDF colour per item** failed when pdf.js merged runs of different colours → sample colour per word + `unisciCol` palette.
+- **Game auto-grow first version** made Ruota's wheel smaller → added «header rows must not wrap» and «main area share ≥ −8 pts» limits.
+- **adattaScritte v1** reduced every game to 0.82: inline font sizes weren't reset before recomputing, and the horizontally scrolling players row counted as overflow → both fixed.
+- **Removing cross-file duplicate questions** by line offset: `controlla_domande.py` reports the HEADER line number (IT = n+1).
+- Browser pane: screenshots stale when the pane is hidden (`document.visibilityState==='hidden'`, timers throttled → flaky autoTest). Front the tab / scroll once; rerun.
 
 ---
 
-## ➡️ Next steps (in his order)
+## ✅ Working Solutions
 
-1. **Esperienze → 500**: he wants **200 `vera` + 300 `racconto`**. Now at 77 + 106.
-   Write them in `<scratchpad>/esp/g*.json` (racconti) and `v*.json` (vere), then
-   `python3 _unisci.py` writes `dati/esperienze_500.json`. Each entry needs
-   `tit, lg, tipo, rif, testo` and >420 characters; duplicates are keyed by (lg, title).
-   **He was told and accepted** that the `racconto` ones are written by me — keep them free
-   of invented named real people, and keep the `vera` ones factually checkable.
-2. **Translate the 52 Romanian sermons into Italian**, preserving colours/italics/layout.
-   They become separate entries in the list (the in-sermon language switch was removed).
-3. **Giochi** — at least 300, replacing "Quiz a sorpresa" on the home: maxims/phrases with a
-   spiritual reflection, crosswords, tic-tac-toe and more.
+- Any new game content = data file + generator with validation; engine untouched (Ruota `genera.py`, Mistero `strumenti/misteri/genera.py`).
+- Game fitting pipeline: `adattaGioco` (reset text sizes → scale z) → `adattaScritte` (common text multiplier) → `adattaRuota` if wheel.
+- Gara hooks into the existing save path (`salvaRisultato` → `garaRegistra`); Mistero's gara plays the same case for everyone.
+- Every resize handler first checks `zoomNativo()`; widths via `largFinestra()`.
+- Bibles: IT = Nuova Diodati, RO = Cornilescu (e.g. Tsiba, Ahithofel, Scemaiah, Mikal, Bethel in ND; Iafo, Tars, «valea Terebinților» in RO).
 
 ---
 
-## ⚠️ Gotchas
+## 🔧 Dependencies & Setup
 
-- **Ovidiu's standing rule** (memory `regole-lavoro-ovidiu`): do *exactly* what he asks,
-  nothing else. No unrequested buttons, sections or "improvements". If you spot a defect,
-  tell him in words and wait. Never delete his files.
-- Reply **in Italian**, plainly. Never use his real data (names, churches) in examples.
-- Every message is a precise list of requests — do all of them, one build, one delivery.
-- He sends new requests **while you are still working**. Keep a list; don't drop the earlier ones.
-- **Before adding any top-level `const`/`function`, grep `sorgenti/`.**
-- No lookbehind regex, no `??=`/`.at()`/`structuredClone` in our own code (old iPad Safari).
-- `[hidden]` loses to `display:flex` — use `.x[hidden]{display:none!important}`.
-- The browser preview pane used for testing is often `document.hidden` → `requestAnimationFrame`
-  and programmatic scroll events do not fire. Do not mistake that for a real bug.
-- Delete test PDFs from the project folder before delivering (`lez_*.pdf`, `anc_*.pdf`, `sp_*.pdf`).
-- Deliver with `SendUserFile`, and publish with `pubblica.py` so the iPad link updates.
-- His sermon `.pages` files are in `/Users/ovidio/Desktop/predici/` (61 files, `<numero>-<titolo>.pages`).
-  Apple Pages is **not installed**: they are read by the IWA parser now kept in
-  `strumenti/` (`iwa.py` → Snappy, `iwa2.py` → protobuf walker, `estrai_predica.py` → styles
-  to HTML, `tutte_prediche.py` → the whole folder).
-- **The question and «Chi ha detto» generators were lost** when a temporary scratchpad was
-  wiped. The *output* is safe in `dati/domande_10000.json` and `dati/chihadetto_nuovo.json`;
-  only the scripts are gone. The method is written up in the section above — rewrite them if
-  more are needed. `strumenti/` is there so this does not happen again.
-- The repo is **public** and contains the three Bible translations. He was warned about the
-  copyright and chose to publish anyway. If a takedown ever arrives, build a public version
-  without the Bibles.
+```bash
+cd "/Users/ovidio/Desktop/ovidiu/claude/prediche e domande"
+SCRATCH=/private/tmp/claude-501/-Users-ovidio-Desktop-ovidiu-claude/<session>/scratchpad   # new session = new scratchpad
+python3 strumenti/misteri/genera.py            # after editing strumenti/misteri/casi_*.json
+python3 strumenti/giochi/genera.py             # after editing strumenti/giochi/*
+python3 costruisci.py 8.1.8                    # ALWAYS pass the version
+ln -sf "$PWD/Prediche_e_Domande_v8.1.8.html" "$SCRATCH/app.html"; (cd "$SCRATCH" && python3 -m http.server 8797 &)
+# console: r=await autoTest(); JSON.stringify({n:r.n,passati:r.passati.length,errori:r.errori})   at 1180×820, 744×1133, 390×844
+DeRez -only icns Prediche_e_Domande_v8.1.7.html > "$SCRATCH/icona.r"   # icon resource (old scratchpad copy is gone in a new session)
+python3 pubblica.py 8.1.8
+Rez -append "$SCRATCH/icona.r" -o Prediche_e_Domande_v8.1.8.html && SetFile -a C Prediche_e_Domande_v8.1.8.html && rm Prediche_e_Domande_v8.1.7.html   # keep v8.0.4!
+for i in $(seq 1 12); do V=$(curl -s "https://birlaovidiu-jpg.github.io/prediche-e-domande/?x=$RANDOM" | grep -o 'const VER="[^"]*"' | head -1); echo $V; case "$V" in *8.1.8*) break;; esac; sleep 20; done
+```
+Pure Python 3 stdlib + vanilla JS/CSS (pdf.js 3.11 embedded from `dati/pdf*.min.js`). **No** lookbehind regex, `??=`, `?.`, `.at()`, `structuredClone`;
+object spread avoided (use `Object.assign`). One strict-mode script concatenated by filename: `grep` for duplicate top-level names before adding.
+Test origin localhost:8797 holds test data only (players Anna, Marco, Luca, zzMis…, test lezionari, test book, test sermons).
+
+---
+
+## ➡️ Next Steps
+
+1. **Wait for Ovidiu's feedback on the real iPad/iPhone** for 8.1.7: pinch zoom (no flicker), page turn, note window with keyboard, Apple Pencil pen,
+   Proietta fullscreen + AirPlay, game text sizes, Mistero Biblico on iPhone, gara proposal.
+2. **Still pending from his requests:** «almeno 1000 domande nuove per lingua» in the OTHER games (Versetto 43, Parola 64, Tempio 20+15, Viaggio 7,
+   Impiccato ~865, Codice 200…) — only the Ruota got its 2000. More Mistero cases whenever he asks («tantissime soluzioni»).
+3. Told but NOT fixed (fix only if he asks): Viaggio card text «…per sbloccarlo» cut on small iPad portrait; pen strokes not in PDF/print/projection;
+   EMF/WMF images in PowerPoint can't be shown; Mistero archive shows the Bible reference only after solving; «metti in ordine» is tap-in-sequence, not drag.
+4. Old PowerPoints imported before 8.1.4 need re-import to get the faithful copy.
+
+---
+
+## ⚠️ Gotchas / Traps
+
+- Odometer: 8.1.7 → **8.1.8** → … → 8.1.9 → 8.2.0.
+- Mistero unlock: `misSblocco` — first 3 easy open; easy i≥3 needs i−1 solved; medium needs 2+i; expert 5+i (by index within difficulty, cases sorted by `num`).
+- Gara: `GARA` is in memory only (not saved); finished gare are in `stato.gare`. Tris has no gara (already 2 players).
+- `gio-fissa` for Mistero only in intro/scena/prove (`vMistero` toggles it); archive/fine scroll.
+- `_GIO_SCRITTE` selector list decides which texts grow; add new game text classes there.
+- `adattaGioco` memo `_gioZ` key = game + window size + projection flag; the scale only shrinks within the same game/screen after the first fit.
+- `9_avvio.js` tests snapshot/restore player data; the Blitz tests still run on dormant Blitz code.
+
+---
+
+## 💬 Notes
+
+- His sermons are `.pages` files in `/Users/ovidio/Desktop/ovidiu/chiesa/predici` (read-only); PowerPoints in `…/chiesa/Pawer Point/` and `…/întrebări biblice/`.
+- No audio exists in any game (told him); AirPlay mirroring keeps the iPad aspect ratio (bands on a wide TV — told him).
+- He adds requests mid-turn: fold them in, finish, and report everything at the end with honest numbers and what was NOT tested on a real device.

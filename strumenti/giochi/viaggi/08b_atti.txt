@@ -1,0 +1,426 @@
+# Viaggi degli Atti (seconda parte), dell'Apocalisse e delle lettere
+
+= terzo_viaggio_efeso | 🏛️ | Il terzo viaggio di Paolo: Efeso | A treia călătorie a lui Pavel: Efes | 44 18:23
+@ antiochia | 44 18:23
+it: Dopo un po' di tempo ad Antiochia, Paolo ripartì per il suo terzo viaggio.
+ro: După ce a stat câtva timp în Antiohia, Pavel a plecat în a treia lui călătorie.
+@ galazia | 44 18:23
+it: Paolo percorse la Galazia e la Frigia, confermando nella fede tutti i discepoli.
+ro: Pavel a străbătut ținutul Galatiei și Frigiei, întărind pe toți ucenicii.
+? domanda | 44 18:23
+qi: Che cosa faceva Paolo passando per la Galazia e la Frigia?
+qr: Ce făcea Pavel trecând prin Galatia și Frigia?
+ai: Confermava nella fede tutti i discepoli | Cercava lavoro | Fondava scuole greche | Si riposava
+ar: Întărea pe toți ucenicii | Își căuta de lucru | Întemeia școli grecești | Se odihnea
+@ efeso | 44 19:7
+it: A Efeso Paolo trovò circa dodici discepoli che non avevano ricevuto lo Spirito Santo.
+ro: În Efes, Pavel a găsit cam doisprezece ucenici care nu primiseră Duhul Sfânt.
+? domanda | 44 19:10
+qi: Per quanto tempo Paolo insegnò nella scuola di Tiranno?
+qr: Cât timp a învățat Pavel în școala lui Tiran?
+ai: Due anni | Tre mesi | Sette anni | Quaranta giorni
+ar: Doi ani | Trei luni | Șapte ani | Patruzeci de zile
+@ efeso | 44 19:34 | il teatro di Efeso | teatrul din Efes
+it: L'orafo Demetrio sollevò la città; la folla gridò per quasi due ore: «Grande è la Diana degli Efesini!».
+ro: Argintarul Dimitrie a răsculat cetatea; mulțimea a strigat aproape două ceasuri: „Mare este Diana efesenilor!”
+? personaggio | 44 19:24
+qi: Chi sollevò la città di Efeso contro Paolo?
+qr: Cine a răsculat cetatea Efes împotriva lui Pavel?
+ai: Demetrio, l'orafo | Alessandro il ramaio | Il cancelliere | Tiranno
+ar: Dimitrie, argintarul | Alexandru, căldărarul | Logofătul | Tiran
+@ macedonia | 44 20:1
+it: Cessato il tumulto, Paolo salutò i discepoli e partì per la Macedonia.
+ro: După ce s-a potolit tulburarea, Pavel și-a luat rămas bun de la ucenici și a plecat în Macedonia.
+? ordina | 44 20:1
+qi: Metti in ordine il viaggio.
+qr: Pune în ordine călătoria.
+ai: Antiochia | Galazia e Frigia | Efeso, i dodici discepoli | Il tumulto nel teatro | La Macedonia
+ar: Antiohia | Galatia și Frigia | Efes, cei doisprezece ucenici | Tulburarea din teatru | Macedonia
+
+= terzo_viaggio_troas | 🕯️ | Da Corinto a Mileto | De la Corint la Milet | 44 20:2
+@ macedonia | 44 20:2
+it: Paolo attraversò la Macedonia esortando i fratelli con molte parole.
+ro: Pavel a străbătut Macedonia, îmbărbătând pe frați cu multe cuvinte.
+@ corinto | 44 20:3 | la Grecia | Grecia
+it: Paolo rimase tre mesi in Grecia; per un complotto dei Giudei decise di tornare per la Macedonia.
+ro: Pavel a stat trei luni în Grecia; din pricina unei uneltiri a iudeilor, a hotărât să se întoarcă prin Macedonia.
+? domanda | 44 20:3
+qi: Quanto tempo rimase Paolo in Grecia?
+qr: Cât timp a stat Pavel în Grecia?
+ai: Tre mesi | Un anno | Due settimane | Sette giorni
+ar: Trei luni | Un an | Două săptămâni | Șapte zile
+@ troas | 44 20:9
+it: A Troas, mentre Paolo parlava fino a mezzanotte, il giovane Eutico cadde dal terzo piano.
+ro: La Troa, pe când Pavel vorbea până la miezul nopții, tânărul Eutih a căzut de la catul al treilea.
+? personaggio | 44 20:9
+qi: Come si chiamava il giovane caduto dalla finestra a Troas?
+qr: Cum se numea tânărul care a căzut pe fereastră la Troa?
+ai: Eutico | Timoteo | Trofimo | Gaio
+ar: Eutih | Timotei | Trofim | Gaiu
+@ assos | 44 20:13
+it: Paolo volle andare a piedi fino ad Asso, dove gli altri lo presero a bordo.
+ro: Pavel a vrut să meargă pe jos până la Asos, unde ceilalți l-au luat în corabie.
+? domanda | 44 20:13
+qi: Come andò Paolo da Troas ad Asso?
+qr: Cum a mers Pavel de la Troa la Asos?
+ai: A piedi | In nave con gli altri | A cavallo | In carro
+ar: Pe jos | Cu corabia, cu ceilalți | Călare | În car
+@ mileto | 44 20:35
+it: A Mileto Paolo salutò gli anziani di Efeso, ricordando le parole del Signore Gesù.
+ro: La Milet, Pavel și-a luat rămas bun de la prezbiterii din Efes, amintindu-le cuvintele Domnului Isus.
+? domanda | 44 20:35
+qi: Quali parole del Signore Gesù ricordò Paolo agli anziani di Efeso?
+qr: Ce cuvinte ale Domnului Isus le-a amintit Pavel prezbiterilor din Efes?
+ai: «Vi è più felicità nel dare che nel ricevere» | «Amate i vostri nemici» | «Io sono la vite» | «Beati i puri di cuore»
+ar: „Este mai ferice să dai decât să primești” | „Iubiți pe vrăjmașii voștri” | „Eu sunt Vița” | „Ferice de cei cu inima curată”
+
+= ritorno_gerusalemme | ⛓️ | Da Mileto a Gerusalemme | De la Milet la Ierusalim | 44 21:1
+@ mileto | 44 21:1
+it: Staccatisi dagli anziani di Efeso, salparono e andarono diritti a Cos.
+ro: După ce s-au smuls din brațele prezbiterilor din Efes, au plecat pe mare și s-au dus drept la Cos.
+@ rodi | 44 21:1
+it: Il giorno seguente arrivarono a Rodi e di là a Patara.
+ro: A doua zi au ajuns la Rodos și de acolo la Patara.
+? ordina | 44 21:1
+qi: Metti in ordine la navigazione.
+qr: Pune în ordine călătoria pe mare.
+ai: Cos | Rodi | Patara | Tiro
+ar: Cos | Rodos | Patara | Tir
+@ tiro | 44 21:4
+it: A Tiro rimasero sette giorni; i discepoli, mossi dallo Spirito, dicevano a Paolo di non salire a Gerusalemme.
+ro: La Tir au rămas șapte zile; ucenicii, mânați de Duhul, îi spuneau lui Pavel să nu se suie la Ierusalim.
+? domanda | 44 21:4
+qi: Quanti giorni si fermarono a Tiro?
+qr: Câte zile au rămas la Tir?
+ai: 7 | 3 | 40 | 1
+ar: 7 | 3 | 40 | 1
+@ cesarea | 44 21:9
+it: A Cesarea alloggiarono da Filippo l'evangelista, che aveva quattro figlie che profetizzavano.
+ro: În Cezareea au găzduit la Filip, evanghelistul, care avea patru fiice care prooroceau.
+? evento | 44 21:11
+qi: Che cosa fece il profeta Agabo con la cintura di Paolo?
+qr: Ce a făcut prorocul Agab cu brâul lui Pavel?
+ai: Si legò mani e piedi, annunciando che Paolo sarebbe stato legato a Gerusalemme | La bruciò | La regalò a Filippo | La gettò in mare
+ar: Și-a legat picioarele și mâinile, vestind că Pavel va fi legat la Ierusalim | A ars-o | I-a dăruit-o lui Filip | A aruncat-o în mare
+@ gerusalemme | 44 21:17
+it: Giunti a Gerusalemme, i fratelli li accolsero con gioia.
+ro: Când am ajuns la Ierusalim, frații ne-au primit cu bucurie.
+? domanda | 44 21:13
+qi: Che cosa rispose Paolo a chi piangeva perché non salisse a Gerusalemme?
+qr: Ce le-a răspuns Pavel celor ce plângeau ca să nu se suie la Ierusalim?
+ai: «Sono pronto non solo a essere legato, ma anche a morire per il nome del Signore» | «Allora resterò qui» | «Andrò a Roma invece» | «Decida Filippo»
+ar: „Eu sunt gata nu numai să fiu legat, ci chiar să mor pentru Numele Domnului” | „Atunci voi rămâne aici” | „Mă voi duce mai bine la Roma” | „Să hotărască Filip”
+
+= paolo_arrestato | 🛡️ | Paolo arrestato a Gerusalemme | Pavel prins la Ierusalim | 44 21:30
+@ tempio | 44 21:30
+it: Nel tempio alcuni Giudei d'Asia sollevarono la folla: Paolo fu trascinato fuori e le porte furono chiuse.
+ro: În Templu, niște iudei din Asia au răsculat mulțimea: Pavel a fost târât afară și porțile au fost închise.
+@ fortezza | 44 21:40
+it: Il comandante lo fece portare nella fortezza; dalla gradinata Paolo parlò al popolo in lingua ebraica.
+ro: Căpitanul l-a dus în cetățuie; de pe trepte, Pavel a vorbit norodului în limba evreiască.
+? domanda | 44 21:40
+qi: In quale lingua parlò Paolo al popolo dalla gradinata?
+qr: În ce limbă a vorbit Pavel norodului de pe trepte?
+ai: In ebraico | In greco | In latino | In aramaico di Galilea
+ar: În evreiește | În grecește | În latinește | În dialectul Galileii
+@ sinedrio | 44 23:6
+it: Davanti al sinedrio Paolo gridò: «Io sono fariseo»; farisei e sadducei cominciarono a litigare fra loro.
+ro: Înaintea soborului, Pavel a strigat: „Eu sunt fariseu”; fariseii și saducheii au început să se certe între ei.
+? evento | 44 23:6
+qi: Che cosa accadde nel sinedrio quando Paolo disse di essere fariseo?
+qr: Ce s-a întâmplat în sobor când Pavel a spus că este fariseu?
+ai: Farisei e sadducei litigarono fra loro | Tutti lo applaudirono | Fu subito liberato | Fu condannato a morte
+ar: Fariseii și saducheii s-au certat între ei | Toți l-au aplaudat | A fost slobozit îndată | A fost osândit la moarte
+@ fortezza | 44 23:16 | la congiura | uneltirea
+it: Il figlio della sorella di Paolo scoprì una congiura per ucciderlo e corse ad avvisarlo nella fortezza.
+ro: Fiul surorii lui Pavel a aflat de o uneltire ca să-l omoare și a alergat să-l înștiințeze în cetățuie.
+? domanda | 44 23:13
+qi: Quanti erano quelli che avevano fatto la congiura?
+qr: Câți erau cei ce făcuseră uneltirea?
+ai: Più di quaranta | Dodici | Settanta | Sette
+ar: Peste patruzeci | Doisprezece | Șaptezeci | Șapte
+@ antipatride | 44 23:31
+it: Di notte i soldati condussero Paolo fino ad Antipàdride.
+ro: Noaptea, ostașii l-au dus pe Pavel până la Antipatrida.
+? domanda | 44 23:23
+qi: Quanti soldati, cavalieri e lancieri preparò il comandante per scortare Paolo?
+qr: Câți ostași, călăreți și sulițași a pregătit căpitanul ca să-l însoțească pe Pavel?
+ai: 200 soldati, 70 cavalieri e 200 lancieri | 12 soldati | 40 cavalieri | 1000 soldati
+ar: 200 de ostași, 70 de călăreți și 200 de sulițași | 12 ostași | 40 de călăreți | 1000 de ostași
+@ cesarea | 44 23:33
+it: I cavalieri portarono Paolo a Cesarea e lo presentarono al governatore Felice.
+ro: Călăreții l-au dus pe Pavel la Cezareea și l-au înfățișat dregătorului Felix.
+? personaggio | 44 23:24
+qi: A quale governatore fu portato Paolo a Cesarea?
+qr: La care dregător a fost dus Pavel în Cezareea?
+ai: Felice | Festo | Pilato | Gallione
+ar: Felix | Festus | Pilat | Galion
+
+= apollo | 📚 | Il viaggio di Apollo | Călătoria lui Apolo | 44 18:24
+@ alessandria | 44 18:24
+it: Apollo era un Giudeo nativo di Alessandria, uomo eloquente e ferrato nelle Scritture.
+ro: Apolo era un iudeu de neam din Alexandria, om elocvent și puternic în Scripturi.
+@ efeso | 44 18:26
+it: A Efeso Aquila e Priscilla lo ascoltarono nella sinagoga e gli esposero più a fondo la via di Dio.
+ro: În Efes, Acuila și Priscila l-au auzit în sinagogă și i-au arătat mai temeinic Calea lui Dumnezeu.
+? personaggio | 44 18:26
+qi: Chi spiegò ad Apollo più a fondo la via di Dio?
+qr: Cine i-a arătat lui Apolo mai temeinic Calea lui Dumnezeu?
+ai: Aquila e Priscilla | Paolo e Sila | Pietro e Giovanni | Timoteo e Tito
+ar: Acuila și Priscila | Pavel și Sila | Petru și Ioan | Timotei și Tit
+@ corinto | 44 19:1
+it: Apollo passò in Acaia e, mentre si trovava a Corinto, fu di grande aiuto ai credenti.
+ro: Apolo a trecut în Ahaia și, pe când era în Corint, i-a ajutat mult pe cei ce crezuseră.
+? luogo | 44 18:24
+qi: Di quale città era nativo Apollo?
+qr: Din ce cetate era de neam Apolo?
+ai: Alessandria | Tarso | Antiochia | Roma
+ar: Alexandria | Tars | Antiohia | Roma
+
+= aquila_priscilla | ⛺ | Aquila e Priscilla | Acuila și Priscila | 44 18:2
+@ roma | 44 18:2
+it: L'imperatore Claudio aveva ordinato a tutti i Giudei di lasciare Roma.
+ro: Împăratul Claudiu poruncise ca toți iudeii să iasă din Roma.
+@ corinto | 44 18:3
+it: A Corinto Paolo abitò e lavorò con Aquila e Priscilla, perché erano dello stesso mestiere.
+ro: În Corint, Pavel a locuit și a lucrat cu Acuila și Priscila, pentru că aveau același meșteșug.
+? domanda | 44 18:3
+qi: Quale mestiere facevano Paolo, Aquila e Priscilla?
+qr: Ce meșteșug aveau Pavel, Acuila și Priscila?
+ai: Fabbricanti di tende | Pescatori | Vasai | Tessitori di lino
+ar: Făcători de corturi | Pescari | Olari | Țesători de in
+@ cencrea | 44 18:18
+it: A Cencrea Paolo si fece radere il capo per un voto e partì con Priscilla e Aquila.
+ro: La Chencrea, Pavel și-a tuns capul pentru o juruință și a plecat cu Priscila și Acuila.
+? luogo | 44 18:2
+qi: Da quale regione era originario Aquila?
+qr: Din ce ținut era de neam Acuila?
+ai: Dal Ponto | Dall'Egitto | Dalla Galilea | Dalla Cilicia
+ar: Din Pont | Din Egipt | Din Galileea | Din Cilicia
+@ efeso | 44 18:19
+it: A Efeso Paolo lasciò Priscilla e Aquila, che vi rimasero e aiutarono la chiesa.
+ro: În Efes, Pavel i-a lăsat pe Priscila și Acuila, care au rămas acolo și au ajutat biserica.
+? ordina | 44 18:19
+qi: Metti in ordine il viaggio di Aquila e Priscilla.
+qr: Pune în ordine drumul lui Acuila și Priscila.
+ai: Lasciano Roma per l'ordine di Claudio | Lavorano con Paolo a Corinto | Salpano da Cencrea | Restano a Efeso
+ar: Pleacă din Roma din porunca lui Claudiu | Lucrează cu Pavel în Corint | Pleacă din Chencrea | Rămân în Efes
+
+= sette_chiese | 🕯️ | Le sette chiese dell'Apocalisse | Cele șapte biserici din Apocalipsa | 66 1:11
+@ patmo | 66 1:9
+it: Giovanni era nell'isola di Patmos a motivo della Parola di Dio quando ricevette la rivelazione.
+ro: Ioan era în ostrovul Patmos din pricina Cuvântului lui Dumnezeu când a primit descoperirea.
+@ efeso | 66 2:4
+it: Alla chiesa di Efeso: «Ho questo contro di te: che hai lasciato il tuo primo amore».
+ro: Bisericii din Efes: „Am împotriva ta că ți-ai părăsit dragostea dintâi”.
+? domanda | 66 2:4
+qi: Che cosa rimproverò il Signore alla chiesa di Efeso?
+qr: Ce a mustrat Domnul la biserica din Efes?
+ai: Di aver lasciato il primo amore | Di essere tiepida | Di seguire Iezabel | Di essere morta
+ar: Că și-a părăsit dragostea dintâi | Că este căldicică | Că o urmează pe Izabela | Că este moartă
+@ smirne | 66 2:10
+it: Alla chiesa di Smirne: «Sii fedele fino alla morte e io ti darò la corona della vita».
+ro: Bisericii din Smirna: „Fii credincios până la moarte, și-ți voi da cununa vieții”.
+? domanda | 66 2:10
+qi: Per quanti giorni avrebbe avuto tribolazione la chiesa di Smirne?
+qr: Câte zile avea să aibă necaz biserica din Smirna?
+ai: 10 | 3 | 7 | 40
+ar: 10 | 3 | 7 | 40
+@ pergamo | 66 2:13
+it: Alla chiesa di Pergamo: «So dove abiti, là dove Satana ha il suo trono».
+ro: Bisericii din Pergam: „Știu unde locuiești: acolo unde este scaunul de domnie al Satanei”.
+? domanda | 66 2:13
+qi: Come descrive il Signore il luogo dove abitava la chiesa di Pergamo?
+qr: Cum descrie Domnul locul unde locuia biserica din Pergam?
+ai: Là dove Satana ha il suo trono | Una città sul monte | Il porto del mare | La città delle palme
+ar: Acolo unde este scaunul de domnie al Satanei | O cetate pe munte | Portul mării | Cetatea finicilor
+@ tiatiri | 66 2:20
+it: Alla chiesa di Tiatiri: «Tu permetti a quella donna Iezabel, che si dice profetessa, di insegnare».
+ro: Bisericii din Tiatira: „Lași ca femeia aceea, Izabela, care se zice prorociță, să învețe”.
+? personaggio | 66 2:20
+qi: Quale falsa profetessa era tollerata nella chiesa di Tiatiri?
+qr: Ce prorociță mincinoasă era îngăduită în biserica din Tiatira?
+ai: Iezabel | Delilah | Atalia | Erodiade
+ar: Izabela | Dalila | Atalia | Irodiada
+@ sardi | 66 3:1
+it: Alla chiesa di Sardi: «Hai la reputazione di vivere, ma sei morto».
+ro: Bisericii din Sardes: „Îți merge numele că trăiești, dar ești mort”.
+? luogo | 66 3:1
+qi: A quale chiesa fu detto: «Hai la reputazione di vivere, ma sei morto»?
+qr: Cărei biserici i s-a spus: „Îți merge numele că trăiești, dar ești mort”?
+ai: Sardi | Smirne | Filadelfia | Pergamo
+ar: Sardes | Smirna | Filadelfia | Pergam
+@ filadelfia | 66 3:8
+it: Alla chiesa di Filadelfia: «Ti ho posto davanti una porta aperta, che nessuno può chiudere».
+ro: Bisericii din Filadelfia: „Ți-am pus înainte o ușă deschisă, pe care nimeni n-o poate închide”.
+? domanda | 66 3:8
+qi: Che cosa pose il Signore davanti alla chiesa di Filadelfia?
+qr: Ce a pus Domnul înaintea bisericii din Filadelfia?
+ai: Una porta aperta che nessuno può chiudere | Una corona d'oro | Una lampada | Un libro sigillato
+ar: O ușă deschisă pe care nimeni n-o poate închide | O cunună de aur | Un sfeșnic | O carte pecetluită
+@ laodicea | 66 3:16
+it: Alla chiesa di Laodicea: «Perché sei tiepido, e non sei né freddo né caldo, sto per vomitarti dalla mia bocca».
+ro: Bisericii din Laodiceea: „Pentru că ești căldicel, nici rece, nici în clocot, am să te vărs din gura Mea”.
+? ordina | 66 1:11
+qi: Metti in ordine le sette chiese, come nell'Apocalisse.
+qr: Pune în ordine cele șapte biserici, ca în Apocalipsa.
+ai: Efeso | Smirne | Pergamo | Tiatiri | Sardi | Filadelfia | Laodicea
+ar: Efes | Smirna | Pergam | Tiatira | Sardes | Filadelfia | Laodiceea
+
+= onesimo | ✉️ | Onesimo torna a Colosse | Onisim se întoarce la Colose | 57 1:10
+@ roma | 57 1:10
+it: In prigione Paolo generò alla fede Onesimo, lo schiavo fuggito da Filemone.
+ro: În lanțuri, Pavel l-a născut la credință pe Onisim, robul fugit de la Filimon.
+@ efeso | 51 4:7 | la strada per l'Asia | drumul spre Asia
+it: Paolo mandò Tichico con Onesimo a portare notizie alla chiesa di Colosse.
+ro: Pavel l-a trimis pe Tihic împreună cu Onisim să ducă vești bisericii din Colose.
+? personaggio | 51 4:7
+qi: Chi accompagnò Onesimo con la lettera di Paolo?
+qr: Cine l-a însoțit pe Onisim cu scrisoarea lui Pavel?
+ai: Tichico | Timoteo | Tito | Sila
+ar: Tihic | Timotei | Tit | Sila
+@ colosse | 51 4:9
+it: Onesimo tornò a Colosse, «fedele e caro fratello, che è dei vostri».
+ro: Onisim s-a întors la Colose, „credinciosul și iubitul frate, care este dintre ai voștri”.
+? domanda | 57 1:16
+qi: Come chiese Paolo a Filemone di accogliere Onesimo?
+qr: Cum i-a cerut Pavel lui Filimon să-l primească pe Onisim?
+ai: Non più come schiavo, ma come un fratello carissimo | Come un servo punito | Come un soldato | Come un ospite qualsiasi
+ar: Nu ca pe un rob, ci ca pe un frate preaiubit | Ca pe un rob pedepsit | Ca pe un ostaș | Ca pe un oaspete oarecare
+
+= epafrodito | 🎁 | Epafrodito fra Filippi e Roma | Epafrodit între Filipi și Roma | 50 2:25
+@ filippi | 50 4:18
+it: La chiesa di Filippi mandò per mezzo di Epafrodito un aiuto a Paolo prigioniero.
+ro: Biserica din Filipi i-a trimis lui Pavel, întemnițat, un ajutor prin Epafrodit.
+@ roma | 50 2:27
+it: A Roma Epafrodito si ammalò gravemente, vicino alla morte; ma Dio ebbe pietà di lui.
+ro: La Roma, Epafrodit s-a îmbolnăvit greu, aproape de moarte; dar Dumnezeu a avut milă de el.
+? domanda | 50 4:18
+qi: Come chiamò Paolo il dono dei Filippesi?
+qr: Cum a numit Pavel darul filipenilor?
+ai: Un profumo di odor soave, un sacrificio gradito a Dio | Un peso | Un debito | Un'eredità
+ar: Un miros de bună mireasmă, o jertfă bine primită de Dumnezeu | O povară | O datorie | O moștenire
+@ filippi | 50 2:28 | il ritorno a Filippi | întoarcerea la Filipi
+it: Paolo lo rimandò a Filippi, perché i fratelli si rallegrassero rivedendolo.
+ro: Pavel l-a trimis înapoi la Filipi, ca frații să se bucure văzându-l.
+? personaggio | 50 2:25
+qi: Come chiamò Paolo Epafrodito?
+qr: Cum l-a numit Pavel pe Epafrodit?
+ai: Fratello, compagno d'opera e di lotta | Figlio mio | Maestro | Servo inutile
+ar: Frate, tovarăș de lucru și de luptă | Fiul meu | Învățător | Rob netrebnic
+
+= febe | 📨 | Febe porta la lettera ai Romani | Febe duce Epistola către romani | 45 16:1
+@ corinto | 45 16:23
+it: Paolo scrisse la lettera ai Romani mentre era ospite di Gaio, che ospitava tutta la chiesa.
+ro: Pavel a scris Epistola către romani pe când era găzduit la Gaius, care găzduia toată biserica.
+@ cencrea | 45 16:1
+it: Febe era una sorella al servizio della chiesa di Cencrea, il porto di Corinto.
+ro: Fivi era o soră în slujba bisericii din Chencrea, portul Corintului.
+? personaggio | 45 16:1
+qi: Chi raccomandò Paolo ai Romani nell'ultimo capitolo della lettera?
+qr: Pe cine le-a recomandat Pavel romanilor în ultimul capitol al epistolei?
+ai: Febe, della chiesa di Cencrea | Lidia di Tiatiri | Rode | Tabitha
+ar: Pe Fivi, din biserica din Chencrea | Pe Lidia din Tiatira | Pe Rode | Pe Tabita
+@ roma | 45 16:2
+it: Paolo chiese ai Romani di accoglierla nel Signore e di assisterla in qualunque cosa avesse bisogno.
+ro: Pavel le-a cerut romanilor s-o primească în Domnul și s-o ajute în orice ar avea nevoie.
+? domanda | 45 16:2
+qi: Che cosa chiese Paolo ai Romani riguardo a Febe?
+qr: Ce le-a cerut Pavel romanilor cu privire la Fivi?
+ai: Di accoglierla nel Signore e di assisterla | Di mandarla subito indietro | Di farla sacerdote | Di darle una casa a Roma
+ar: S-o primească în Domnul și s-o ajute | S-o trimită înapoi îndată | S-o facă preoteasă | Să-i dea o casă în Roma
+
+= tito | ⚓ | I viaggi di Tito | Călătoriile lui Tit | 56 1:5
+@ creta | 56 1:5
+it: Paolo lasciò Tito a Creta perché mettesse ordine e costituisse anziani in ogni città.
+ro: Pavel l-a lăsat pe Tit în Creta ca să rânduiască lucrurile și să așeze prezbiteri în fiecare cetate.
+@ nicopoli | 56 3:12
+it: Paolo chiese a Tito di raggiungerlo a Nicopoli, dove aveva deciso di passare l'inverno.
+ro: Pavel i-a cerut lui Tit să vină la el la Nicopole, unde hotărâse să-și petreacă iarna.
+? domanda | 56 1:5
+qi: Perché Paolo aveva lasciato Tito a Creta?
+qr: De ce îl lăsase Pavel pe Tit în Creta?
+ai: Per costituire degli anziani in ogni città | Per costruire una nave | Per riposarsi | Per imparare il greco
+ar: Ca să așeze prezbiteri în fiecare cetate | Ca să facă o corabie | Ca să se odihnească | Ca să învețe grecește
+@ illiria | 55 4:10 | la Dalmazia | Dalmația
+it: Più tardi, scrivendo a Timoteo, Paolo ricordò che Tito era andato in Dalmazia.
+ro: Mai târziu, scriindu-i lui Timotei, Pavel a amintit că Tit plecase în Dalmația.
+? luogo | 56 3:12
+qi: In quale città Paolo voleva passare l'inverno?
+qr: În ce cetate voia Pavel să-și petreacă iarna?
+ai: Nicopoli | Roma | Creta | Corinto
+ar: Nicopole | Roma | Creta | Corint
+
+= timoteo | 📜 | Il cammino di Timoteo | Drumul lui Timotei | 44 16:1
+@ listra | 44 16:1
+it: A Listra c'era un discepolo di nome Timoteo, figlio di una donna giudea credente e di padre greco.
+ro: În Listra era un ucenic numit Timotei, fiul unei femei iudeice credincioase și al unui tată grec.
+@ filippi | 50 2:22
+it: Timoteo servì con Paolo nell'evangelo come un figlio con il padre, anche a Filippi.
+ro: Timotei a slujit cu Pavel în Evanghelie cum slujește un copil cu tatăl său, și la Filipi.
+? domanda | 44 16:1
+qi: Di che origine era il padre di Timoteo?
+qr: De ce neam era tatăl lui Timotei?
+ai: Greco | Giudeo | Romano | Egiziano
+ar: Grec | Iudeu | Roman | Egiptean
+@ efeso | 54 1:3
+it: Paolo pregò Timoteo di restare a Efeso per correggere chi insegnava dottrine diverse.
+ro: Pavel l-a rugat pe Timotei să rămână în Efes ca să-i oprească pe cei ce învățau o altă învățătură.
+? luogo | 54 1:3
+qi: In quale città Paolo chiese a Timoteo di rimanere?
+qr: În ce cetate i-a cerut Pavel lui Timotei să rămână?
+ai: Efeso | Listra | Tessalonica | Antiochia
+ar: Efes | Listra | Tesalonic | Antiohia
+@ troas | 55 4:13 | Troade, la casa di Carpo | Troa, la Carp
+it: Paolo chiese a Timoteo di portargli il mantello lasciato a Troade presso Carpo, e i libri.
+ro: Pavel i-a cerut lui Timotei să-i aducă mantaua lăsată în Troa la Carp și cărțile.
+? domanda | 55 4:13
+qi: Che cosa chiese Paolo a Timoteo di portargli da Troade?
+qr: Ce i-a cerut Pavel lui Timotei să-i aducă din Troa?
+ai: Il mantello, i libri e le pergamene | Una spada | Del denaro | Delle lettere di Pietro
+ar: Mantaua, cărțile și pergamentele | O sabie | Bani | Scrisorile lui Petru
+@ roma | 55 4:9
+it: Dalla prigione di Roma Paolo scrisse: «Fa' di tutto per venire presto da me».
+ro: Din temnița din Roma, Pavel a scris: „Caută să vii în curând la mine”.
+? ordina | 55 4:9
+qi: Metti in ordine il cammino di Timoteo.
+qr: Pune în ordine drumul lui Timotei.
+ai: Listra | Filippi con Paolo | Efeso | Troade | Roma
+ar: Listra | Filipi cu Pavel | Efes | Troa | Roma
+
+= pentecoste_nazioni | 🔥 | I pellegrini della Pentecoste | Pelerinii de la Cincizecime | 44 2:9
+@ media | 44 2:9 | la Media e la Partia | Media și Partia
+it: A Gerusalemme per la festa c'erano Giudei devoti di ogni nazione: Parti, Medi ed Elamiti.
+ro: La Ierusalim, pentru praznic, erau iudei cucernici din toate neamurile: parți, mezi și elamiți.
+@ babilonia | 44 2:9 | la Mesopotamia | Mesopotamia
+it: C'erano abitanti della Mesopotamia, della Giudea e della Cappadocia.
+ro: Erau locuitori din Mesopotamia, din Iudeea și din Capadocia.
+? domanda | 44 2:8
+qi: Che cosa sentiva ognuno dei pellegrini il giorno di Pentecoste?
+qr: Ce auzea fiecare dintre pelerini în ziua Cincizecimii?
+ai: Gli apostoli parlare nella propria lingua natia | Un tuono | Il suono delle trombe del tempio | Un canto in greco
+ar: Pe apostoli vorbind în limba lui de naștere | Un tunet | Sunetul trâmbițelor din Templu | O cântare în grecește
+@ cappadocia | 44 2:9
+it: C'erano pellegrini della Cappadocia, del Ponto e dell'Asia.
+ro: Erau pelerini din Capadocia, din Pont și din Asia.
+? luogo | 44 2:9
+qi: Quale di queste regioni è nominata fra quelle dei pellegrini?
+qr: Care dintre aceste ținuturi este pomenit printre cele ale pelerinilor?
+ai: La Cappadocia | La Gallia | La Spagna | La Persia
+ar: Capadocia | Galia | Spania | Persia
+@ cirene | 44 2:10
+it: C'erano pellegrini dall'Egitto e dalle parti della Libia vicino a Cirene.
+ro: Erau pelerini din Egipt și din părțile Libiei dinspre Cirena.
+? domanda | 44 2:11
+qi: Di che cosa parlavano gli apostoli nelle lingue dei pellegrini?
+qr: Despre ce vorbeau apostolii în limbile pelerinilor?
+ai: Delle grandi cose di Dio | Del raccolto | Dei re della terra | Dei viaggi per mare
+ar: Despre lucrurile minunate ale lui Dumnezeu | Despre seceriș | Despre împărații pământului | Despre călătoriile pe mare
+@ gerusalemme | 44 2:41
+it: Tutti li udivano parlare delle grandi cose di Dio; quel giorno furono aggiunte circa tremila persone.
+ro: Toți îi auzeau vorbind despre lucrurile minunate ale lui Dumnezeu; în ziua aceea s-au adăugat cam trei mii de suflete.
+? domanda | 44 2:3
+qi: Che cosa apparve sugli apostoli il giorno di Pentecoste?
+qr: Ce s-a arătat peste apostoli în ziua Cincizecimii?
+ai: Delle lingue come di fuoco | Una colomba | Una nuvola | Una stella
+ar: Niște limbi ca de foc | Un porumbel | Un nor | O stea

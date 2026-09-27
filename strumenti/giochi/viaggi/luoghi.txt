@@ -1,0 +1,376 @@
+# I luoghi dei viaggi: chiave | nome italiano (Nuova Diodati) | nome rumeno (Cornilescu) | latitudine | longitudine
+# Le coordinate sono quelle dei luoghi identificati oggi (per i luoghi incerti, la posizione più accettata).
+# --- Mesopotamia e oriente
+ur | Ur dei Caldei | Ur din Haldeea | 30.96 | 46.10
+haran | Haran | Haran | 36.86 | 39.03
+nahor | la città di Nahor | cetatea lui Nahor | 36.80 | 39.10
+babilonia | Babilonia | Babilon | 32.54 | 44.42
+ninive | Ninive | Ninive | 36.36 | 43.15
+susa | Susa | Susa | 32.19 | 48.26
+ecbatana | Ecbatana | Ecbatana | 34.80 | 48.52
+carchemish | Karkemish | Carchemiș | 36.83 | 38.02
+chebar | il fiume Kebar | râul Chebar | 32.10 | 45.10
+telabib | Tel-abib | Tel-Abib | 32.20 | 45.00
+ahava | il fiume Ahava | râul Ahava | 33.00 | 43.80
+pethor | Pethor | Petor | 36.70 | 38.20
+gozan | Gozan, sul fiume Habor | Gozan, lângă râul Habor | 36.60 | 40.00
+riblah | Riblah | Ribla | 34.46 | 36.55
+hamath | Hamath | Hamat | 35.13 | 36.75
+tadmor | Tadmor | Tadmor | 34.55 | 38.27
+damasco | Damasco | Damasc | 33.51 | 36.29
+hobah | Hobah | Hoba | 33.70 | 36.40
+arabia | l'Arabia | Arabia | 30.30 | 35.60
+tema | Tema | Tema | 27.63 | 38.55
+sheba | Sceba | Seba | 15.43 | 45.33
+# --- Egitto e deserto
+egitto | Egitto | Egipt | 29.85 | 31.25
+menfi | Menfi | Nof | 29.85 | 31.25
+gosen | la terra di Goscen | ținutul Gosen | 30.80 | 31.83
+ramses | Ramses | Ramses | 30.80 | 31.83
+tanis | Tsoan | Țoan | 30.97 | 31.88
+on | On | On | 30.13 | 31.29
+tahpanhes | Tahpanhes | Tahpanhes | 30.87 | 32.05
+succoth_eg | Sukkoth | Sucot | 30.55 | 32.10
+etham | Etham | Etam | 30.45 | 32.35
+pihahiroth | Pi-Hahiroth | Pi-Hahirot | 30.10 | 32.50
+marrosso | il Mar Rosso | Marea Roșie | 29.90 | 32.55
+shur | il deserto di Shur | pustia Șur | 30.20 | 33.20
+mara | Mara | Mara | 29.30 | 32.95
+elim | Elim | Elim | 29.10 | 33.10
+sin | il deserto di Sin | pustia Sin | 28.90 | 33.30
+refidim | Refidim | Refidim | 28.65 | 33.80
+sinai | il monte Sinai | muntele Sinai | 28.54 | 33.97
+oreb | l'Horeb, il monte di Dio | Horeb, muntele lui Dumnezeu | 28.54 | 33.97
+madian | Madian | Madian | 28.20 | 35.30
+tabera | Taberah | Tabeera | 28.90 | 34.20
+kibroth | Kibroth-Hattaavah | Chibrot-Hataava | 29.10 | 34.35
+hazeroth | Hatseroth | Hațerot | 29.20 | 34.50
+paran | il deserto di Paran | pustia Paran | 30.20 | 34.80
+kadesh | Kadesh | Cades | 30.69 | 34.49
+hor | il monte Hor | muntele Hor | 30.32 | 35.41
+eziongeber | Etsion-Gheber | Ețion-Gheber | 29.53 | 34.95
+punon | Punon | Punon | 30.64 | 35.46
+oboth | Oboth | Obot | 30.85 | 35.60
+edom | Edom | Edom | 30.60 | 35.60
+sela | Sela | Sela | 30.33 | 35.44
+bozra | Botsrah | Boțra | 30.73 | 35.61
+beerlahairoi | Beer-Lahai-Roi | Beer-Lahai-Roi | 30.90 | 34.40
+# --- Moab, Ammon, Galaad, Basan (oltre il Giordano)
+arnon | il torrente Arnon | pârâul Arnon | 31.45 | 35.72
+dibon | Dibon | Dibon | 31.50 | 35.78
+jahaz | Jahats | Iahța | 31.60 | 35.80
+chesbon | Heshbon | Hesbon | 31.80 | 35.80
+nebo | il monte Nebo | muntele Nebo | 31.77 | 35.73
+moab | le pianure di Moab | câmpiile Moabului | 31.82 | 35.62
+sittim | Scittim | Sitim | 31.85 | 35.66
+bamoth | Bamoth-Baal | Bamot-Baal | 31.70 | 35.75
+peor | il monte Peor | vârful Peor | 31.80 | 35.70
+kirhareseth | Kir-Hareseth | Chir-Hareset | 31.18 | 35.70
+aroer | Aroer | Aroer | 31.47 | 35.80
+rabba | Rabbah degli Ammoniti | Raba fiilor lui Amon | 31.95 | 35.93
+jabesh | Jabesh di Galaad | Iabeș din Galaad | 32.40 | 35.62
+ramoth | Ramoth di Galaad | Ramot din Galaad | 32.50 | 36.02
+mizpagalaad | Mitspah di Galaad | Mițpa din Galaad | 32.25 | 35.80
+galaad | Galaad | Galaad | 32.10 | 35.75
+mahanaim | Mahanaim | Mahanaim | 32.19 | 35.66
+penuel | Peniel | Peniel | 32.18 | 35.70
+succoth | Sukkoth | Sucot | 32.20 | 35.62
+jabbok | il torrente Jabbok | vadul Iabocului | 32.17 | 35.64
+edrei | Edrei | Edrei | 32.62 | 36.10
+tob | il paese di Tob | ținutul Tob | 32.60 | 36.00
+bezer | Betser | Bețer | 31.60 | 35.90
+golan | Golan | Golan | 32.80 | 35.90
+karkor | Karkor | Carcor | 31.00 | 36.20
+machero | la fortezza di Macheronte | fortăreața Macheronte | 31.57 | 35.62
+betabara | Betabara, al di là del Giordano | Betabara, dincolo de Iordan | 31.84 | 35.55
+gerasa | il paese dei Gadareni | ținutul gadarenilor | 32.83 | 35.65
+decapoli | la Decapoli | Decapole | 32.66 | 35.68
+# --- Giordano e Mar Morto
+giordano | il fiume Giordano | râul Iordan | 31.84 | 35.55
+guado | i guadi del Giordano | vadurile Iordanului | 31.95 | 35.55
+gerico | Gerico | Ierihon | 31.87 | 35.44
+ghilgal | Ghilgal | Ghilgal | 31.86 | 35.49
+sodoma | Sodoma | Sodoma | 31.05 | 35.40
+tsoar | Tsoar | Țoar | 31.00 | 35.50
+engedi | En-Ghedi | En-Ghedi | 31.46 | 35.39
+cherit | il torrente Kerith | pârâul Cherit | 31.88 | 35.52
+abelmehola | Abel-Meholah | Abel-Mehola | 32.36 | 35.55
+adam | la città di Adam | cetatea Adam | 32.10 | 35.55
+# --- Giudea
+gerusalemme | Gerusalemme | Ierusalim | 31.778 | 35.235
+tempio | il tempio di Gerusalemme | Templul din Ierusalim | 31.778 | 35.235
+moriah | il monte Moriah | muntele Moria | 31.778 | 35.235
+sion | la città di Davide | cetatea lui David | 31.773 | 35.236
+ghihon | Ghihon | Ghihon | 31.773 | 35.237
+ulivi | il monte degli Ulivi | Muntele Măslinilor | 31.778 | 35.245
+getsemani | il Getsemani | Ghetsimani | 31.779 | 35.240
+golgota | il Golgota | Golgota | 31.778 | 35.230
+siloe | la vasca di Siloe | scăldătoarea Siloam | 31.770 | 35.235
+betesda | la vasca di Betesda | scăldătoarea Betesda | 31.781 | 35.236
+chedron | il torrente Kidron | pârâul Chedron | 31.774 | 35.239
+betania | Betania | Betania | 31.771 | 35.262
+betfage | Betfage | Betfaghe | 31.779 | 35.255
+bahurim | Bahurim | Bahurim | 31.785 | 35.260
+betlemme | Betlemme | Betleem | 31.705 | 35.207
+efrata | Efrata (Betlemme) | Efrata (Betleem) | 31.705 | 35.207
+migdaleder | Migdal-Eder | Migdal-Eder | 31.690 | 35.220
+montiGiuda | le montagne di Giuda | munții lui Iuda | 31.770 | 35.160
+emmaus | Emmaus | Emaus | 31.840 | 34.990
+tekoa | Tekoa | Tecoa | 31.640 | 35.240
+beraca | la Valle di Benedizione | Valea Beraca | 31.640 | 35.200
+ebron | Hebron | Hebron | 31.530 | 35.100
+mamre | Mamre, presso Hebron | Mamre, lângă Hebron | 31.550 | 35.100
+macpela | la grotta di Makpelah | peștera Macpela | 31.525 | 35.110
+betsemesh | Beth-Scemesh | Bet-Șemeș | 31.750 | 34.980
+kiriath | Kirjath-Jearim | Chiriat-Iearim | 31.810 | 35.100
+adullam | la caverna di Adullam | peștera Adulam | 31.650 | 34.960
+keila | Keilah | Cheila | 31.610 | 34.990
+zif | il deserto di Zif | pustia Zif | 31.480 | 35.130
+maon | Maon | Maon | 31.420 | 35.120
+carmelgiuda | Karmel di Giuda | Carmel din Iuda | 31.430 | 35.130
+elah | la valle del Terebinto | valea terebinților | 31.690 | 34.960
+soco | Soko | Soco | 31.680 | 34.970
+azekah | Azekah | Azeca | 31.700 | 34.940
+lakish | Lakish | Lachis | 31.560 | 34.850
+libna | Libnah | Libna | 31.640 | 34.870
+makkeda | Makkedah | Macheda | 31.600 | 34.900
+debir | Debir | Debir | 31.400 | 34.960
+beerseba | Beer-Sceba | Beer-Șeba | 31.250 | 34.790
+gerar | Gherar | Gherar | 31.380 | 34.600
+negev | il Neghev | ținutul de miazăzi | 31.000 | 34.800
+ziklag | Tsiklag | Țiclag | 31.370 | 34.680
+besor | il torrente Besor | pârâul Besor | 31.250 | 34.450
+timna | Timnah | Timna | 31.780 | 34.910
+zora | Tsorah | Țorea | 31.770 | 34.970
+estaol | Eshtaol | Eștaol | 31.780 | 35.000
+sorek | la valle di Sorek | valea Sorec | 31.760 | 34.950
+lehi | Lehi | Lehi | 31.740 | 34.960
+anatot | Anathoth | Anatot | 31.810 | 35.260
+nob | Nob | Nob | 31.790 | 35.240
+gabaon | Gabaon | Gabaon | 31.850 | 35.180
+ghibea | Ghibeah | Ghibea | 31.820 | 35.230
+gheba | Gheba | Gheba | 31.860 | 35.260
+micmas | Mikmash | Micmaș | 31.870 | 35.280
+rama | Ramah | Rama | 31.850 | 35.200
+ramatim | Ramathaim-Tsofim | Ramataim-Țofim | 31.850 | 35.200
+mizpa | Mitspah | Mițpa | 31.880 | 35.210
+bethoron | Beth-Horon | Bet-Horon | 31.880 | 35.120
+aialon | la valle di Ajalon | valea Aialon | 31.850 | 35.020
+gezer | Ghezer | Ghezer | 31.860 | 34.920
+betel | Bethel | Betel | 31.930 | 35.220
+ai | Ai | Ai | 31.920 | 35.260
+efraim | Efraim, vicino al deserto | Efraim, lângă pustie | 31.950 | 35.300
+monteefraim | la regione montuosa di Efraim | muntele lui Efraim | 32.000 | 35.250
+silo | Sciloh | Silo | 32.060 | 35.290
+ebenezer | Ebenezer | Eben-Ezer | 32.100 | 34.930
+afek | Afek | Afec | 32.100 | 34.930
+lidda | Lidda | Lida | 31.950 | 34.890
+joppe | Joppe | Iope | 32.050 | 34.750
+antipatride | Antipàdride | Antipatrida | 32.100 | 34.930
+cesarea | Cesarea | Cezareea | 32.500 | 34.890
+# --- Filistea
+gaza | Gaza | Gaza | 31.500 | 34.470
+ascalon | Ashkelon | Ascalon | 31.660 | 34.550
+asdod | Ashdod | Asdod | 31.750 | 34.660
+azoto | Azot | Azot | 31.750 | 34.660
+gat | Gath | Gat | 31.700 | 34.850
+ekron | Ekron | Ecron | 31.780 | 34.850
+viagaza | la strada da Gerusalemme a Gaza | drumul de la Ierusalim la Gaza | 31.600 | 34.700
+# --- Samaria
+sichem | Sichem | Sihem | 32.210 | 35.280
+sicar | Sichar | Sihar | 32.210 | 35.280
+ebal | il monte Ebal | muntele Ebal | 32.230 | 35.270
+samaria | Samaria | Samaria | 32.280 | 35.200
+tirza | Tirtsah | Tirța | 32.290 | 35.360
+dotan | Dothan | Dotan | 32.410 | 35.240
+aruma | Arumah | Aruma | 32.140 | 35.300
+tebes | Thebets | Tebeț | 32.320 | 35.380
+ofra | Ofrah | Ofra | 32.500 | 35.300
+# --- Galilea e nord
+izreel | Jezreel | Izreel | 32.560 | 35.330
+ghilboa | il monte Ghilboa | muntele Ghilboa | 32.450 | 35.400
+endor | En-Dor | En-Dor | 32.640 | 35.360
+sunem | Shunem | Sunem | 32.610 | 35.330
+harod | la sorgente di Harod | izvorul Harod | 32.550 | 35.360
+more | la collina di Moreh | dealul More | 32.620 | 35.350
+betsean | Beth-Scean | Bet-Șean | 32.500 | 35.500
+meghiddo | Meghiddo | Meghido | 32.585 | 35.185
+kishon | il torrente Kishon | pârâul Chison | 32.650 | 35.100
+carmelo | il monte Karmel | muntele Carmel | 32.660 | 35.090
+tabor | il monte Tabor | muntele Tabor | 32.690 | 35.390
+kedes | Kedesh di Neftali | Chedeș din Neftali | 33.110 | 35.530
+hazor | Hatsor | Hațor | 33.020 | 35.570
+merom | le acque di Merom | apele Merom | 33.050 | 35.500
+dan | Dan | Dan | 33.250 | 35.650
+lais | Laish | Laiș | 33.250 | 35.650
+abelbet | Abel-Beth-Maakah | Abel-Bet-Maaca | 33.260 | 35.580
+ijon | Ijon | Iion | 33.330 | 35.580
+nazaret | Nazaret | Nazaret | 32.700 | 35.300
+cana | Cana di Galilea | Cana din Galileea | 32.750 | 35.340
+nain | Nain | Nain | 32.630 | 35.350
+capernaum | Capernaum | Capernaum | 32.880 | 35.575
+betsaida | Betsaida | Betsaida | 32.910 | 35.630
+corazin | Corazin | Horazin | 32.910 | 35.560
+magdala | Magdala | Magdala | 32.825 | 35.515
+genezaret | Gennesaret | Ghenezaret | 32.860 | 35.530
+tiberiade | il mare di Tiberiade | Marea Tiberiadei | 32.830 | 35.590
+mareGalilea | il mare di Galilea | Marea Galileii | 32.830 | 35.590
+montebeatitudini | il monte delle Beatitudini | muntele Fericirilor | 32.880 | 35.555
+gathefer | Gath-Hefer | Gat-Hefer | 32.740 | 35.330
+cesareafil | Cesarea di Filippo | Cezareea lui Filip | 33.250 | 35.690
+ermon | il monte Hermon | muntele Hermon | 33.420 | 35.860
+tiro | Tiro | Tir | 33.270 | 35.200
+sidone | Sidone | Sidon | 33.560 | 35.370
+sarepta | Sarepta di Sidone | Sarepta Sidonului | 33.460 | 35.300
+libano | il Libano | Liban | 33.900 | 35.800
+tolemaide | Tolemaide | Ptolemaida | 32.920 | 35.080
+akko | Akko | Aco | 32.920 | 35.080
+ghesur | Gheshur | Gheșur | 32.900 | 35.800
+# --- Asia Minore, Siria, Cipro
+tarso | Tarso | Tars | 36.920 | 34.890
+antiochia | Antiochia di Siria | Antiohia din Siria | 36.200 | 36.160
+seleucia | Seleucia | Seleucia | 36.120 | 35.930
+salamina | Salamina di Cipro | Salamina din Cipru | 35.180 | 33.900
+pafo | Pafo | Pafos | 34.760 | 32.410
+perga | Perga | Perga | 36.960 | 30.850
+attalia | Attalia | Atalia | 36.890 | 30.700
+antiochiapis | Antiochia di Pisidia | Antiohia Pisidiei | 38.300 | 31.190
+iconio | Iconio | Iconia | 37.870 | 32.480
+listra | Listra | Listra | 37.580 | 32.450
+derbe | Derbe | Derbe | 37.350 | 33.360
+galazia | la Galazia | Galatia | 39.930 | 32.860
+frigia | la Frigia | Frigia | 38.700 | 30.500
+troas | Troas | Troa | 39.750 | 26.160
+assos | Asso | Asos | 39.490 | 26.340
+mitilene | Mitilene | Mitilene | 39.100 | 26.550
+chio | Chio | Hios | 38.370 | 26.140
+samo | Samo | Samos | 37.750 | 26.980
+mileto | Mileto | Milet | 37.530 | 27.280
+efeso | Efeso | Efes | 37.940 | 27.340
+cos | Cos | Cos | 36.890 | 27.290
+rodi | Rodi | Rodos | 36.430 | 28.220
+patara | Patara | Patara | 36.260 | 29.310
+mira | Mira di Licia | Mira din Licia | 36.260 | 29.980
+cnido | Cnido | Cnid | 36.690 | 27.370
+smirne | Smirne | Smirna | 38.420 | 27.140
+pergamo | Pergamo | Pergam | 39.120 | 27.180
+tiatiri | Tiatiri | Tiatira | 38.920 | 27.840
+sardi | Sardi | Sardes | 38.490 | 28.040
+filadelfia | Filadelfia | Filadelfia | 38.350 | 28.520
+laodicea | Laodicea | Laodiceea | 37.840 | 29.110
+colosse | Colosse | Colose | 37.790 | 29.260
+ierapoli | Gerapoli | Ierapole | 37.920 | 29.130
+patmo | Patmos | Patmos | 37.320 | 26.550
+cipro | Cipro | Cipru | 35.100 | 33.400
+creta | Creta | Creta | 35.200 | 24.900
+buoniporti | Beiporti | Limanuri bune | 34.930 | 24.800
+alessandria | Alessandria d'Egitto | Alexandria | 31.200 | 29.920
+# --- Grecia, Macedonia, Italia
+neapoli | Neapoli | Neapole | 40.940 | 24.410
+filippi | Filippi | Filipi | 41.010 | 24.290
+anfipoli | Anfipoli | Amfipolis | 40.820 | 23.850
+apollonia | Apollonia | Apolonia | 40.630 | 23.490
+tessalonica | Tessalonica | Tesalonic | 40.640 | 22.940
+berea | Berea | Bereea | 40.520 | 22.200
+atene | Atene | Atena | 37.970 | 23.720
+corinto | Corinto | Corint | 37.900 | 22.880
+cencrea | Cencrea | Chencrea | 37.880 | 22.990
+nicopoli | Nicopoli | Nicopole | 39.000 | 20.730
+macedonia | la Macedonia | Macedonia | 40.700 | 22.500
+illiria | l'Illiria | Iliria | 42.000 | 19.500
+malta | Malta | Malta | 35.900 | 14.400
+siracusa | Siracusa | Siracuza | 37.070 | 15.290
+reggio | Reggio | Regio | 38.110 | 15.650
+pozzuoli | Pozzuoli | Puteoli | 40.820 | 14.120
+foroappio | il Foro Appio | Forul lui Apiu | 41.460 | 12.980
+tretaverne | le Tre Taverne | Cele Trei Cârciumi | 41.600 | 12.800
+roma | Roma | Roma | 41.890 | 12.490
+# --- aggiunti per i viaggi della Genesi
+rehobot | Rehoboth | Rehobot | 30.95 | 34.50
+atad | l'aia di Atad | aria lui Atad | 31.83 | 35.53
+caverna_lot | la caverna sulle montagne | peștera din munte | 31.02 | 35.55
+# --- aggiunti per Esodo, Numeri, Giosuè
+beer | Beer, il pozzo | Beer, fântâna | 31.60 | 35.80
+montigerico | i monti vicino a Gerico | munții de lângă Ierihon | 31.88 | 35.40
+acor | la valle di Akor | valea Acor | 31.78 | 35.43
+timnatserah | Timnath-Serah | Timnat-Serah | 32.05 | 35.10
+geliloth | Ghelilot, presso il Giordano | Ghelilot, lângă Iordan | 31.95 | 35.52
+# --- aggiunti per Giudici e Rut
+seirah | Seirah | Seira | 31.97 | 35.33
+harosheth | Harosceth delle nazioni | Haroșet-Goim | 32.72 | 35.10
+tsaannaim | la quercia di Tsaannaim | stejarul Țaanaim | 33.10 | 35.50
+betbarah | Beth-Barah | Bet-Bara | 32.22 | 35.56
+campoboaz | il campo di Boaz | ogorul lui Boaz | 31.71 | 35.21
+# --- aggiunti per i libri di Samuele
+tseltsah | Tseltsah, la tomba di Rachele | Țelțah, mormântul Rahelei | 31.83 | 35.22
+naioth | Naioth, a Ramah | Naiot, lângă Rama | 31.85 | 35.20
+telaim | Telaim | Telaim | 31.20 | 34.90
+amalek | la città di Amalek | cetatea lui Amalec | 30.85 | 34.60
+hereth | la foresta di Hereth | pădurea Heret | 31.60 | 35.02
+mizpamoab | Mitspah di Moab | Mițpa din Moab | 31.20 | 35.75
+nakon | l'aia di Nakon | aria lui Nacon | 31.79 | 35.17
+obededom | la casa di Obed-Edom | casa lui Obed-Edom | 31.78 | 35.20
+lodebar | Lodebar | Lodebar | 32.55 | 35.65
+baalhazor | Baal-Hatsor | Baal-Hațor | 31.98 | 35.28
+forestaefraim | la foresta di Efraim | pădurea lui Efraim | 32.30 | 35.70
+araunah | l'aia di Araunah | aria lui Aravna | 31.778 | 35.235
+bezek | Bezek | Bezec | 32.37 | 35.37
+# --- aggiunti per i libri dei Re e delle Cronache
+enroghel | En-Roghel | En-Roguel | 31.768 | 35.235
+ofir | Ofir | Ofir | 16.90 | 42.50
+valledelsale | la valle del Sale | Valea Sării | 31.05 | 35.25
+stradaekron | la strada per Ekron | drumul spre Ecron | 31.95 | 35.00
+ginestra | il deserto, sotto la ginestra | pustia, sub ienupăr | 31.10 | 34.95
+campisiri | l'accampamento dei Siri | tabăra sirienilor | 32.30 | 35.25
+deserto_edom | il deserto di Edom | pustia Edomului | 30.90 | 35.40
+media | le città dei Medi | cetățile Mezilor | 34.80 | 48.52
+# --- aggiunti per profeti ed esilio
+marejona | il mare in tempesta | marea învolburată | 32.40 | 33.90
+eufrate | l'Eufrate | Eufratul | 36.10 | 38.10
+geruth | Geruth-Kimham, presso Betlemme | Gherut-Chimham, lângă Betleem | 31.72 | 35.19
+casavasaio | la casa del vasaio | casa olarului | 31.772 | 35.231
+beninnom | la valle del figlio di Hinnom | valea Ben-Hinom | 31.768 | 35.229
+dura | la pianura di Dura | valea Dura | 32.45 | 44.35
+ulai | il fiume Ulai, presso Susa | râul Ulai, lângă Susa | 32.23 | 48.30
+oltrefiume | la regione oltre il Fiume | ținutul de dincolo de Râu | 33.60 | 36.40
+portavalle | la porta della Valle | poarta Văii | 31.772 | 35.229
+sorgentedrago | la sorgente del Dragone | izvorul Balaurului | 31.769 | 35.230
+portaletame | la porta del Letame | poarta Gunoiului | 31.768 | 35.233
+arabah | l'Arabah, verso il Mar Morto | Araba, spre Marea Moartă | 31.60 | 35.45
+# --- aggiunti per i Vangeli
+campipastori | i campi dei pastori | câmpia păstorilor | 31.700 | 35.228
+oriente | l'Oriente | Răsăritul | 32.54 | 44.42
+stradagalilea | la strada verso la Galilea | drumul spre Galileea | 31.950 | 35.250
+desertogiuda | il deserto di Giudea | pustia Iudeii | 31.700 | 35.350
+monteregni | un monte altissimo | un munte foarte înalt | 31.860 | 35.420
+enon | Enon, vicino a Salim | Enon, aproape de Salim | 32.350 | 35.530
+confinesamgal | fra la Samaria e la Galilea | între Samaria și Galileea | 32.450 | 35.450
+stradagerico | la strada da Gerusalemme a Gerico | drumul de la Ierusalim la Ierihon | 31.820 | 35.320
+locanda | la locanda | casa de oaspeți | 31.822 | 35.370
+cenacolo | la sala di sopra | odaia de sus | 31.771 | 35.229
+casacaiafa | la casa del sommo sacerdote | casa marelui preot | 31.772 | 35.231
+pretorio | il pretorio di Pilato | pretoriul lui Pilat | 31.780 | 35.234
+sepolcro | il sepolcro nel giardino | mormântul din grădină | 31.7785 | 35.2296
+prigioneerode | la prigione di Erode | temnița lui Irod | 31.570 | 35.620
+rivatiberiade | la riva del lago di Tiberiade | țărmul mării Tiberiadei | 32.860 | 35.560
+villaggiosamaritano | un villaggio di Samaritani | un sat al samaritenilor | 32.280 | 35.200
+# --- aggiunti per gli Atti e le lettere
+stradadamasco | la strada di Damasco | drumul Damascului | 33.30 | 36.10
+prigionegerusalemme | la prigione di Gerusalemme | temnița din Ierusalim | 31.780 | 35.232
+casamaria | la casa di Maria, madre di Marco | casa Mariei, mama lui Marcu | 31.776 | 35.229
+fortezza | la fortezza Antonia | cetățuia | 31.780 | 35.234
+sinedrio | il sinedrio | sinedriul | 31.777 | 35.234
+portabella | la porta Bella del tempio | Poarta Frumoasă a Templului | 31.778 | 35.237
+fenicia | la Fenicia | Fenicia | 33.60 | 35.40
+cappadocia | la Cappadocia | Capadocia | 38.60 | 35.00
+ponto | il Ponto | Pont | 40.60 | 36.50
+cirene | la Libia, presso Cirene | Libia, dinspre Cirena | 32.80 | 21.90
+# --- aggiunti per gli ultimi viaggi
+ararat | le montagne di Ararat | munții Ararat | 39.70 | 44.30
+babele | Babele, nella pianura di Scinear | Babel, în câmpia Șinear | 32.54 | 44.42
+samotracia | Samotracia | Samotracia | 40.47 | 25.53
+ono | la pianura di Ono | valea Ono | 32.03 | 34.86
+tselah | Tselah, nel paese di Beniamino | Țela, în țara lui Beniamin | 31.83 | 35.20
+pozzosira | la cisterna di Sirah | fântâna Sira | 31.57 | 35.10
+bitinia | la Bitinia | Bitinia | 40.40 | 30.00
+etiopia | l'Etiopia | Etiopia | 16.90 | 33.70

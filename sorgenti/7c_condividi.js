@@ -71,7 +71,7 @@ function scelte(soloProva){
 }
 function provaSel(){
   const s=scelte(true); if(!s) return;
-  proietta(s.map((d,k)=>({t:'domanda',d:d.d,o:d.o,g:d.g,v:d.v,txt:testoVers(d.v),
+  proietta(s.map((d,k)=>({t:'domanda',d:d.d,o:d.o,g:d.g,v:d.v,lg:d.lg,txt:testoVers(d.v,d.lg),
     libro:nomeLibro(d.L,d.lg),n:`${k+1} / ${s.length}`,fase:0})), stato.imp.sfondoProi,'Anteprima');
 }
 function nomeFile(est){
@@ -87,7 +87,7 @@ function espPptx(){
   salvaFile(nomeFile('pptx'),_TIPI.pptx[1],async()=>{
       const sl=[];
       s.forEach((d,k)=>{
-        const dd={d:d.d,o:d.o,g:d.g,v:d.v,txt:testoVers(d.v),libro:nomeLibro(d.L,d.lg)};
+        const dd={d:d.d,o:d.o,g:d.g,v:d.v,txt:testoVers(d.v,d.lg),libro:nomeLibro(d.L,d.lg)};
         /* le stesse 5 fasi del programma: domanda · a · b · c · risposta */
         for(let f=0;f<=4;f++) sl.push(ppDomanda(dd,f,k+1,s.length));
       });
@@ -192,7 +192,7 @@ function espPdf(){
       const L=1600,H=900, imgs=[];
       const fasi = stato.imp.pdfFasi ? [0,1,2,3,4] : [3,4];
       s.forEach((d,k)=>{
-        const dd={d:d.d,o:d.o,g:d.g,v:d.v,txt:testoVers(d.v),libro:nomeLibro(d.L,d.lg)};
+        const dd={d:d.d,o:d.o,g:d.g,v:d.v,txt:testoVers(d.v,d.lg),libro:nomeLibro(d.L,d.lg)};
         fasi.forEach(f=>imgs.push(telaDomanda(dd,f,k+1,s.length,L,H).toDataURL('image/jpeg',0.86)));
       });
       avvisa(`PDF pronto — ${imgs.length} pagine`,'ok');

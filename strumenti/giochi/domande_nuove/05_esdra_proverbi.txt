@@ -1,0 +1,169 @@
+# Domande nuove — Esdra, Neemia, Ester, Giobbe, Salmi, Proverbi, Ecclesiaste
+personaggi|2|15 7:6
+IT|Quale scriba esperto nella legge di Mosè tornò da Babilonia a Gerusalemme?|Esdra|Neemia|Baruc|Mardocheo|Esdra era uno scriba esperto nella legge di Mosè, che l'Eterno aveva data.
+RO|Ce cărturar priceput în legea lui Moise s-a întors din Babilon la Ierusalim?|Ezra|Neemia|Baruc|Mardoheu|Ezra era un cărturar iscusit în legea lui Moise, dată de Domnul.
+personaggi|3|15 7:10
+IT|Che cosa aveva disposto il suo cuore a fare Esdra?|Studiare la legge, metterla in pratica e insegnarla|Ricostruire le mura|Diventare re|Tornare in Persia|Esdra aveva disposto il cuore a studiare la legge dell'Eterno, a metterla in pratica e a insegnare in Israele.
+RO|La ce își pusese Ezra inima?|Să cerceteze legea, s-o împlinească și s-o învețe pe alții|Să zidească zidurile|Să ajungă împărat|Să se întoarcă în Persia|Ezra își pusese inima să cerceteze legea Domnului, s-o împlinească și să învețe pe Israel.
+personaggi|1|16 1:11
+IT|Quale lavoro faceva Neemia presso il re Artaserse?|Il coppiere del re|Il generale|Il tesoriere|Lo scriba|Neemia era coppiere del re.
+RO|Ce slujbă avea Neemia la împăratul Artaxerxe?|Paharnicul împăratului|Generalul|Vistiernicul|Scriitorul|Neemia era paharnicul împăratului.
+personaggi|2|16 2:4
+IT|Che cosa fece Neemia prima di rispondere al re che gli chiese che cosa desiderava?|Pregò il Dio del cielo|Consultò gli amici|Chiese tempo|Pianse|Allora io pregai il Dio del cielo e poi risposi al re.
+RO|Ce a făcut Neemia înainte să-i răspundă împăratului care l-a întrebat ce dorește?|S-a rugat Dumnezeului cerurilor|Și-a întrebat prietenii|A cerut timp|A plâns|M-am rugat Dumnezeului cerurilor și am răspuns împăratului.
+at|2|16 6:15
+IT|In quanti giorni furono ricostruite le mura di Gerusalemme sotto Neemia?|Cinquantadue|Quaranta|Sette|Centoventi|Le mura furono terminate il venticinquesimo giorno di Elul, in cinquantadue giorni.
+RO|În câte zile a fost zidit zidul Ierusalimului sub Neemia?|Cincizeci și două|Patruzeci|Șapte|O sută douăzeci|Zidul a fost isprăvit în ziua a douăzeci și cincea a lunii Elul, în cincizeci și două de zile.
+personaggi|3|16 2:19
+IT|Quali uomini derisero Neemia mentre ricostruiva le mura?|Sanballat e Tobiah|Hanani e Hananiah|Esdra e Zorobabele|Aman e Mardocheo|Sanballat, Tobiah e Ghescem l'Arabo si fecero beffe di noi e ci disprezzarono.
+RO|Ce oameni și-au bătut joc de Neemia când zidea zidurile?|Sanbalat și Tobia|Hanani și Hanania|Ezra și Zorobabel|Haman și Mardoheu|Sanbalat, Tobia și Gheșem, arabul, și-au bătut joc de noi și ne-au disprețuit.
+at|3|16 4:17
+IT|Come lavoravano i costruttori delle mura al tempo di Neemia?|Con una mano lavoravano e con l'altra tenevano un'arma|Solo di notte|In silenzio|Solo il sabato|Con una mano lavoravano e con l'altra tenevano l'arma.
+RO|Cum lucrau zidarii zidului pe vremea lui Neemia?|Cu o mână lucrau și cu cealaltă țineau o armă|Numai noaptea|În tăcere|Numai în Sabat|Cu o mână lucrau, iar cu cealaltă țineau sabia.
+at|2|16 8:8
+IT|Che cosa fecero i leviti mentre si leggeva la legge al popolo?|Ne davano il senso per far capire la lettura|Suonavano le trombe|Offrivano sacrifici|Cantavano i salmi|Leggevano nel libro della legge in modo chiaro e ne davano il senso, per far capire la lettura.
+RO|Ce făceau leviții când se citea legea poporului?|Arătau înțelesul, ca să se priceapă cele citite|Sunau din trâmbițe|Aduceau jertfe|Cântau psalmi|Citeau desluşit în cartea legii și arătau înțelesul, ca să-i facă să priceapă ce citiseră.
+personaggi|1|17 2:7
+IT|Quale era il nome ebraico della regina Ester?|Hadassah|Vashti|Tamar|Zeresh|Mardocheo aveva allevato Hadassah, cioè Ester, figlia di suo zio.
+RO|Care era numele evreiesc al împărătesei Estera?|Hadasa|Vasti|Tamar|Zereș|Mardoheu o creștea pe Hadasa, adică Estera, fata unchiului său.
+personaggi|2|17 1:12
+IT|Quale regina rifiutò di presentarsi al re Assuero?|Vashti|Ester|Zeresh|Jezebel|La regina Vashti rifiutò di venire secondo l'ordine del re.
+RO|Ce împărăteasă n-a vrut să vină la împăratul Ahașveroș?|Vasti|Estera|Zereș|Izabela|Împărăteasa Vasti n-a vrut să vină la porunca împăratului.
+personaggi|2|17 3:2
+IT|Chi rifiutò di inchinarsi davanti ad Aman?|Mardocheo|Neemia|Esdra|Daniele|Tutti si inchinavano ad Aman, ma Mardocheo non si inchinava né si prostrava.
+RO|Cine n-a vrut să se plece înaintea lui Haman?|Mardoheu|Neemia|Ezra|Daniel|Toți se plecau înaintea lui Haman, dar Mardoheu nu se pleca și nu se închina.
+personaggi|3|17 4:13-14
+IT|Chi disse a Ester: «Chi sa se non sei giunta al regno proprio per un tempo come questo»?|Mardocheo|Hathak|Il re Assuero|Hegai|Mardocheo esortò Ester a presentarsi al re per il suo popolo.
+RO|Cine i-a spus Esterei: „Cine știe dacă nu pentru o vreme ca aceasta ai ajuns la împărăție?”|Mardoheu|Hatac|Împăratul Ahașveroș|Hegai|Mardoheu a îndemnat-o pe Estera să meargă la împărat pentru poporul ei.
+personaggi|2|17 4:16
+IT|Per quanti giorni Ester chiese ai Giudei di digiunare per lei?|Tre|Sette|Uno|Quaranta|«Digiunate per me: non mangiate e non bevete per tre giorni, notte e giorno».
+RO|Câte zile le-a cerut Estera iudeilor să postească pentru ea?|Trei|Șapte|Una|Patruzeci|„Postiți pentru mine, fără să mâncați și să beți trei zile, nici noaptea, nici ziua.”
+personaggi|3|17 7:10
+IT|Su che cosa fu appeso Aman?|Sul patibolo che aveva preparato per Mardocheo|Su un albero del giardino|Sulle mura della città|Su una torre|Aman fu appeso al patibolo che aveva preparato per Mardocheo.
+RO|Pe ce a fost spânzurat Haman?|Pe spânzurătoarea pregătită pentru Mardoheu|Într-un copac din grădină|Pe zidurile cetății|Pe un turn|Haman a fost spânzurat pe spânzurătoarea pe care o pregătise pentru Mardoheu.
+at|3|17 9:26
+IT|Quale festa nacque dalla liberazione dei Giudei al tempo di Ester?|Purim|Pasqua|Capanne|Dedicazione|Quei giorni furono chiamati Purim, dal nome «pur», la sorte.
+RO|Ce sărbătoare a luat naștere din izbăvirea iudeilor pe vremea Esterei?|Purim|Paștele|Corturile|Târnosirea|Zilele acelea au fost numite Purim, după numele „pur”, soarta.
+luoghi|2|18 1:1
+IT|In quale paese abitava Giobbe?|Nel paese di Uz|In Canaan|In Egitto|A Babilonia|C'era nel paese di Uz un uomo chiamato Giobbe.
+RO|În ce țară locuia Iov?|În țara Uț|În Canaan|În Egipt|În Babilon|Era în țara Uț un om care se numea Iov.
+personaggi|2|18 1:2
+IT|Quanti figli e quante figlie aveva Giobbe all'inizio?|Sette figli e tre figlie|Dieci figli|Tre figli e sette figlie|Dodici figli|Gli erano nati sette figli e tre figlie.
+RO|Câți fii și câte fiice avea Iov la început?|Șapte fii și trei fiice|Zece fii|Trei fii și șapte fiice|Doisprezece fii|I s-au născut șapte fii și trei fiice.
+personaggi|2|18 1:21
+IT|Quali parole pronunciò Giobbe dopo aver perso i figli e i beni?|«L'Eterno ha dato, l'Eterno ha tolto; sia benedetto il nome dell'Eterno»|«Maledetto il giorno in cui nacqui»|«Dio mi ha abbandonato»|«Perché proprio a me?»|Giobbe non peccò e non attribuì a Dio nulla di sconveniente.
+RO|Ce a spus Iov după ce a pierdut totul?|„Domnul a dat și Domnul a luat; binecuvântat fie Numele Domnului!”|„Blestemată fie ziua în care m-am născut”|„Dumnezeu m-a părăsit”|„De ce tocmai eu?”|În toate acestea Iov n-a păcătuit și n-a vorbit nimic necuviincios împotriva lui Dumnezeu.
+personaggi|3|18 2:9
+IT|Chi disse a Giobbe: «Maledici Dio e muori»?|Sua moglie|Elifaz|Satana|Suo figlio|Sua moglie gli disse: «Rimani ancora fermo nella tua integrità? Maledici Dio e muori!».
+RO|Cine i-a zis lui Iov: „Blestemă pe Dumnezeu și mori”?|Nevasta lui|Elifaz|Satana|Fiul său|Nevasta lui i-a zis: „Tot ții cu tărie la neprihănirea ta? Blestemă pe Dumnezeu și mori!”
+personaggi|3|18 2:11
+IT|Quali erano i tre amici di Giobbe?|Elifaz, Bildad e Tsofar|Elihu, Nahor e Bildad|Sem, Cam e Jafet|Hanania, Mishael e Azaria|I tre amici di Giobbe erano Elifaz di Teman, Bildad di Shuah e Tsofar di Naamah.
+RO|Care erau cei trei prieteni ai lui Iov?|Elifaz, Bildad și Țofar|Elihu, Nahor și Bildad|Sem, Ham și Iafet|Hanania, Mișael și Azaria|Cei trei prieteni ai lui Iov erau Elifaz din Teman, Bildad din Șuah și Țofar din Naama.
+personaggi|3|18 19:25
+IT|Quale grande dichiarazione di fede fece Giobbe nella sofferenza?|«Io so che il mio Redentore vive»|«Io sono giusto»|«Dio non esiste»|«Tornerò ricco»|«Io so che il mio Redentore vive e che alla fine si leverà sulla polvere».
+RO|Ce mărturisire mare de credință a făcut Iov în suferință?|„Știu că Răscumpărătorul meu este viu”|„Eu sunt neprihănit”|„Dumnezeu nu există”|„Voi fi iar bogat”|„Știu că Răscumpărătorul meu este viu și că Se va ridica la urmă pe pământ.”
+at|3|18 38:4
+IT|Con quale domanda Dio cominciò a rispondere a Giobbe dal turbine?|«Dov'eri tu quando io fondavo la terra?»|«Perché ti lamenti?»|«Chi sono io?»|«Che cosa hai fatto?»|L'Eterno rispose a Giobbe dal turbine: «Dov'eri tu quando io fondavo la terra?».
+RO|Cu ce întrebare a început Dumnezeu să-i răspundă lui Iov din furtună?|„Unde erai tu când am întemeiat pământul?”|„De ce te plângi?”|„Cine sunt Eu?”|„Ce ai făcut?”|Domnul i-a răspuns lui Iov din mijlocul furtunii: „Unde erai tu când am întemeiat pământul?”
+at|2|18 42:10
+IT|Quanto diede l'Eterno a Giobbe alla fine rispetto a prima?|Il doppio|Lo stesso|La metà|Dieci volte tanto|L'Eterno ridiede a Giobbe il doppio di tutto quello che aveva posseduto.
+RO|Cât i-a dat Domnul lui Iov la urmă, față de cât avusese?|Îndoit|Tot atât|Jumătate|De zece ori mai mult|Domnul i-a dat lui Iov îndoit decât tot ce avusese.
+at|1|19 23:1
+IT|Come comincia il Salmo 23?|«L'Eterno è il mio pastore»|«Beato l'uomo»|«Dio è il nostro rifugio»|«Lodate l'Eterno»|«L'Eterno è il mio pastore, nulla mi mancherà».
+RO|Cum începe Psalmul 23?|„Domnul este Păstorul meu”|„Ferice de omul”|„Dumnezeu este adăpostul nostru”|„Lăudați pe Domnul”|„Domnul este Păstorul meu: nu voi duce lipsă de nimic.”
+at|2|19 1:3
+IT|A che cosa è paragonato l'uomo giusto nel Salmo 1?|A un albero piantato lungo rivi d'acqua|A una roccia|A una stella|A un leone|Egli sarà come un albero piantato lungo i rivi d'acqua, che dà il suo frutto nella sua stagione.
+RO|Cu ce este asemănat omul neprihănit în Psalmul 1?|Cu un pom sădit lângă un izvor de apă|Cu o stâncă|Cu o stea|Cu un leu|El este ca un pom sădit lângă un izvor de apă, care își dă rodul la vremea lui.
+at|2|19 19:1
+IT|Che cosa raccontano i cieli, secondo il Salmo 19?|La gloria di Dio|La storia dei re|Il futuro|I segreti dell'uomo|«I cieli raccontano la gloria di Dio e il firmamento annunzia l'opera delle sue mani».
+RO|Ce spun cerurile, după Psalmul 19?|Slava lui Dumnezeu|Istoria împăraților|Viitorul|Tainele omului|„Cerurile spun slava lui Dumnezeu, și întinderea lor vestește lucrarea mâinilor Lui.”
+at|2|19 119:105
+IT|Che cosa è la parola di Dio per il salmista, nel Salmo 119?|Una lampada al mio piede e una luce sul mio sentiero|Una spada|Un pane dolce|Un muro di difesa|«La tua parola è una lampada al mio piede e una luce sul mio sentiero».
+RO|Ce este Cuvântul lui Dumnezeu pentru psalmist, în Psalmul 119?|O candelă pentru picioarele mele și o lumină pe cărarea mea|O sabie|O pâine dulce|Un zid de apărare|„Cuvântul Tău este o candelă pentru picioarele mele și o lumină pe cărarea mea.”
+at|3|19 119:11
+IT|Perché il salmista custodiva la parola di Dio nel suo cuore?|Per non peccare contro Dio|Per diventare ricco|Per vincere le guerre|Per essere lodato|«Ho riposto la tua parola nel mio cuore per non peccare contro di te».
+RO|De ce păstra psalmistul Cuvântul lui Dumnezeu în inima lui?|Ca să nu păcătuiască împotriva lui Dumnezeu|Ca să se îmbogățească|Ca să câștige războaie|Ca să fie lăudat|„Strâng Cuvântul Tău în inima mea, ca să nu păcătuiesc împotriva Ta!”
+at|2|19 46:1
+IT|Che cosa è Dio per noi, secondo il Salmo 46?|Il nostro rifugio e la nostra forza|Il nostro giudice severo|Un Dio lontano|Il re dei re soltanto|«Dio è il nostro rifugio e la nostra forza, un aiuto sempre pronto nelle avversità».
+RO|Ce este Dumnezeu pentru noi, după Psalmul 46?|Adăpostul și sprijinul nostru|Judecătorul nostru aspru|Un Dumnezeu depărtat|Numai Împăratul împăraților|„Dumnezeu este adăpostul și sprijinul nostru, un ajutor care nu lipsește niciodată în nevoi.”
+at|3|19 90:10
+IT|Secondo il Salmo 90, quanto dura di solito la vita dell'uomo?|Settant'anni, e per i più forti ottanta|Cento anni|Cinquant'anni|Centoventi anni|«I giorni dei nostri anni arrivano a settant'anni, e per i più forti a ottant'anni».
+RO|După Psalmul 90, cât ține de obicei viața omului?|Șaptezeci de ani, iar pentru cei mai tari optzeci|O sută de ani|Cincizeci de ani|O sută douăzeci de ani|„Zilele anilor noștri se ridică la șaptezeci de ani, iar pentru cei mai tari, la optzeci de ani.”
+personaggi|3|19 90:1
+IT|A chi è attribuito il Salmo 90?|A Mosè|A Davide|A Salomone|Ad Asaf|Il Salmo 90 è la «preghiera di Mosè, uomo di Dio».
+RO|Cui îi este atribuit Psalmul 90?|Lui Moise|Lui David|Lui Solomon|Lui Asaf|Psalmul 90 este „Rugăciunea lui Moise, omul lui Dumnezeu”.
+at|2|19 91:11
+IT|Che cosa ordinerà Dio ai suoi angeli, secondo il Salmo 91?|Di proteggerti in tutte le tue vie|Di punirti|Di cantare per te|Di portarti in cielo|«Egli comanderà ai suoi angeli di proteggerti in tutte le tue vie».
+RO|Ce le va porunci Dumnezeu îngerilor Săi, după Psalmul 91?|Să te păzească în toate căile tale|Să te pedepsească|Să cânte pentru tine|Să te ducă la cer|„El va porunci îngerilor Săi să te păzească în toate căile tale.”
+at|2|19 103:12
+IT|Quanto allontana Dio da noi le nostre trasgressioni, secondo il Salmo 103?|Quanto è lontano l'oriente dall'occidente|Quanto è alto il cielo|Quanto è profondo il mare|Per mille anni|«Quanto è lontano l'oriente dall'occidente, tanto ha egli allontanato da noi le nostre trasgressioni».
+RO|Cât de departe îndepărtează Dumnezeu fărădelegile noastre, după Psalmul 103?|Cât este de departe răsăritul de apus|Cât este de înalt cerul|Cât este de adâncă marea|Pentru o mie de ani|„Cât este de departe răsăritul de apus, atât de mult depărtează El fărădelegile noastre de la noi.”
+at|3|19 51:10
+IT|Che cosa chiese Davide nel Salmo 51 dopo il suo peccato?|«O Dio, crea in me un cuore puro»|«Dammi un regno più grande»|«Punisci i miei nemici»|«Fammi dimenticare»|«O Dio, crea in me un cuore puro e rinnova dentro di me uno spirito saldo».
+RO|Ce a cerut David în Psalmul 51 după păcatul lui?|„Zidește în mine o inimă curată, Dumnezeule”|„Dă-mi o împărăție mai mare”|„Pedepsește-mi vrăjmașii”|„Fă-mă să uit”|„Zidește în mine o inimă curată, Dumnezeule, pune în mine un duh nou și statornic!”
+at|2|19 150:6
+IT|Con quale invito finisce il libro dei Salmi?|«Ogni cosa che respira lodi l'Eterno»|«Amen e amen»|«Benedetto l'Eterno in eterno»|«Pace su Israele»|«Ogni cosa che respira lodi l'Eterno. Alleluia».
+RO|Cu ce îndemn se încheie cartea Psalmilor?|„Tot ce are suflare să laude pe Domnul!”|„Amin și amin”|„Binecuvântat să fie Domnul în veci”|„Pace peste Israel”|„Tot ce are suflare să laude pe Domnul! Lăudați pe Domnul!”
+at|3|19 137:1
+IT|Presso quali fiumi gli esuli piangevano ricordando Sion, nel Salmo 137?|I fiumi di Babilonia|Il Giordano|Il Nilo|L'Eufrate e il Tigri d'Assiria|«Là, presso i fiumi di Babilonia, sedevamo e piangevamo ricordandoci di Sion».
+RO|Lângă ce râuri plângeau robii amintindu-și de Sion, în Psalmul 137?|Râurile Babilonului|Iordanul|Nilul|Eufratul și Tigrul Asiriei|„Pe malurile râurilor Babilonului ședeam jos și plângeam, când ne aduceam aminte de Sion.”
+at|2|19 127:1
+IT|Secondo il Salmo 127, che cosa succede se l'Eterno non edifica la casa?|Invano vi faticano i costruttori|Crolla subito|Nessuno ci abita|Diventa un tempio|«Se l'Eterno non edifica la casa, invano vi faticano i costruttori».
+RO|După Psalmul 127, ce se întâmplă dacă nu zidește Domnul casa?|Degeaba lucrează cei ce o zidesc|Se prăbușește îndată|Nu locuiește nimeni în ea|Devine templu|„Dacă nu zidește Domnul o casă, degeaba lucrează cei ce o zidesc.”
+at|3|19 139:14
+IT|Perché il salmista loda Dio nel Salmo 139?|Perché è stato fatto in modo stupendo e meraviglioso|Perché è diventato re|Perché ha vinto una battaglia|Perché è ricco|«Io ti celebrerò, perché sono stato fatto in modo stupendo e meraviglioso».
+RO|De ce Îl laudă psalmistul pe Dumnezeu în Psalmul 139?|Pentru că este o făptură așa de minunată|Pentru că a ajuns împărat|Pentru că a câștigat o luptă|Pentru că este bogat|„Te laud că sunt o făptură așa de minunată.”
+at|2|20 1:7
+IT|Qual è il principio della conoscenza, secondo Proverbi?|Il timore dell'Eterno|La ricchezza|L'età avanzata|I viaggi|«Il timore dell'Eterno è il principio della conoscenza».
+RO|Care este începutul cunoștinței, după Proverbe?|Frica de Domnul|Bogăția|Vârsta înaintată|Călătoriile|„Frica Domnului este începutul științei.”
+at|2|20 3:5
+IT|In chi dobbiamo confidare «con tutto il cuore», secondo Proverbi 3?|Nell'Eterno|Nella nostra intelligenza|Nei principi|Negli amici|«Confida nell'Eterno con tutto il tuo cuore e non appoggiarti sul tuo intendimento».
+RO|În cine trebuie să ne încredem „din toată inima”, după Proverbe 3?|În Domnul|În priceperea noastră|În domnitori|În prieteni|„Încrede-te în Domnul din toată inima ta și nu te bizui pe înțelepciunea ta.”
+at|2|20 6:6
+IT|Quale animale Proverbi indica al pigro come esempio?|La formica|L'ape|La cicala|Il ragno|«Va', pigro, dalla formica; considera le sue vie e diventa saggio».
+RO|Ce viețuitoare îi dau Proverbele leneșului ca pildă?|Furnica|Albina|Greierele|Păianjenul|„Du-te la furnică, leneșule; uită-te cum lucrează ea și înțelepțește-te!”
+at|2|20 15:1
+IT|Che cosa calma il furore, secondo Proverbi 15?|Una risposta dolce|Il silenzio|Un dono|Una punizione|«La risposta dolce calma il furore, ma la parola aspra eccita l'ira».
+RO|Ce potolește mânia, după Proverbe 15?|Un răspuns blând|Tăcerea|Un dar|O pedeapsă|„Un răspuns blând potolește mânia, dar o vorbă aspră ațâță mânia.”
+at|3|20 16:18
+IT|Che cosa precede la rovina, secondo Proverbi 16?|L'orgoglio|La povertà|La malattia|La guerra|«Prima della rovina viene l'orgoglio, e prima della caduta lo spirito altero».
+RO|Ce merge înaintea pieirii, după Proverbe 16?|Mândria|Sărăcia|Boala|Războiul|„Mândria merge înaintea pieirii, și trufia merge înaintea căderii.”
+at|2|20 22:6
+IT|Che cosa consiglia Proverbi 22 sull'educazione del fanciullo?|Insegnargli la via che deve seguire|Lasciarlo libero|Mandarlo lontano|Farlo lavorare presto|«Insegna al fanciullo la via da seguire, ed egli non se ne allontanerà neppure quando sarà vecchio».
+RO|Ce sfătuiesc Proverbele 22 despre creșterea copilului?|Să-l înveți calea pe care trebuie s-o urmeze|Să-l lași liber|Să-l trimiți departe|Să-l pui devreme la muncă|„Învață pe copil calea pe care trebuie s-o urmeze, și când va îmbătrâni, nu se va abate de la ea.”
+at|3|20 31:10
+IT|Di quale donna Proverbi 31 dice che il suo valore supera di molto quello delle perle?|La donna virtuosa|La regina|La profetessa|La vedova|«Chi troverà una donna virtuosa? Il suo valore supera di molto quello delle perle».
+RO|Despre ce femeie spun Proverbele 31 că prețul ei întrece cu mult pe al mărgăritarelor?|Femeia cinstită|Împărăteasa|Proorocița|Văduva|„Cine poate găsi o femeie cinstită? Ea este mult mai de preț decât mărgăritarele.”
+at|3|20 25:21
+IT|Che cosa consiglia Proverbi 25 di fare se il nemico ha fame?|Dargli da mangiare|Evitarlo|Denunciarlo|Aspettare che se ne vada|«Se il tuo nemico ha fame, dagli da mangiare pane».
+RO|Ce sfătuiesc Proverbele 25 să faci dacă vrăjmașului tău îi este foame?|Să-i dai să mănânce|Să-l ocolești|Să-l pârăști|Să aștepți să plece|„Dacă este flămând vrăjmașul tău, dă-i pâine să mănânce.”
+at|2|21 3:1
+IT|Secondo l'Ecclesiaste, che cosa c'è per ogni cosa sotto il cielo?|Il suo tempo|Il suo prezzo|Il suo nome|Il suo padrone|«Per ogni cosa c'è il suo tempo, c'è il suo momento per ogni cosa sotto il cielo».
+RO|După Eclesiastul, ce are fiecare lucru sub cer?|Vremea lui|Prețul lui|Numele lui|Stăpânul lui|„Toate își au vremea lor și fiecare lucru de sub ceruri își are ceasul lui.”
+at|3|21 12:1
+IT|Quando bisogna ricordarsi del Creatore, secondo l'Ecclesiaste?|Nei giorni della giovinezza|Solo nella vecchiaia|Solo nei giorni di festa|Quando si è malati|«Ricordati del tuo Creatore nei giorni della tua giovinezza».
+RO|Când trebuie să ne aducem aminte de Făcătorul nostru, după Eclesiastul?|În zilele tinereții|Numai la bătrânețe|Numai în zilele de sărbătoare|Când suntem bolnavi|„Adu-ți aminte de Făcătorul tău în zilele tinereții tale.”
+at|3|21 12:13
+IT|Qual è la conclusione di tutto il discorso dell'Ecclesiaste?|Temi Dio e osserva i suoi comandamenti|Mangia e bevi|Tutto è vanità, dunque riposa|Cerca la sapienza sopra ogni cosa|«Temi Dio e osserva i suoi comandamenti, perché questo è il tutto per l'uomo».
+RO|Care este încheierea întregii vorbiri a Eclesiastului?|Teme-te de Dumnezeu și păzește poruncile Lui|Mănâncă și bea|Totul este deșertăciune, deci odihnește-te|Caută înțelepciunea mai presus de toate|„Teme-te de Dumnezeu și păzește poruncile Lui. Aceasta este datoria oricărui om.”
+at|2|21 1:2
+IT|Con quale frase famosa comincia l'Ecclesiaste?|«Vanità delle vanità, tutto è vanità»|«Nel principio era la Parola»|«Beato l'uomo»|«Ascolta, figlio mio»|«Vanità delle vanità, dice l'Ecclesiaste, vanità delle vanità, tutto è vanità».
+RO|Cu ce frază cunoscută începe Eclesiastul?|„Deșertăciunea deșertăciunilor, totul este deșertăciune”|„La început era Cuvântul”|„Ferice de omul”|„Ascultă, fiul meu”|„O, deșertăciune a deșertăciunilor, totul este deșertăciune.”
+at|3|22 8:7
+IT|Che cosa non possono spegnere le grandi acque, secondo il Cantico dei Cantici?|L'amore|Il fuoco del tempio|La luce del sole|La speranza|«Le grandi acque non potrebbero spegnere l'amore, né i fiumi sommergerlo».
+RO|Ce nu pot stinge apele cele mari, după Cântarea Cântărilor?|Dragostea|Focul templului|Lumina soarelui|Nădejdea|„Apele cele mari nu pot să stingă dragostea, și râurile n-ar putea s-o înece.”
+personaggi|4|16 13:15
+IT|Che cosa vide Neemia fare in Giuda in giorno di sabato, e rimproverò?|Pigiare nei tini e portare carichi|Pregare nel tempio|Leggere la legge|Riposare nelle case|Vidi in Giuda gente che pigiava nei tini in giorno di sabato e portava covoni caricati sugli asini.
+RO|Ce a văzut Neemia că se face în Iuda în ziua Sabatului, și a mustrat?|Călcau la teascuri și cărau poveri|Se rugau în templu|Citeau legea|Se odihneau în case|Am văzut în Iuda oameni care călcau la teascuri în ziua Sabatului și cărau snopi încărcați pe măgari.
+personaggi|4|15 3:12
+IT|Che cosa fecero gli anziani che avevano visto il primo tempio, alla posa delle fondamenta del nuovo?|Piansero ad alta voce|Cantarono di gioia|Se ne andarono|Suonarono le trombe|Molti vecchi che avevano visto la prima casa piangevano ad alta voce, mentre molti altri gridavano di gioia.
+RO|Ce au făcut bătrânii care văzuseră templul dintâi, la punerea temeliei celui nou?|Au plâns tare|Au cântat de bucurie|Au plecat|Au sunat din trâmbițe|Mulți bătrâni care văzuseră casa dintâi plângeau tare, iar mulți alții strigau de bucurie.
+at|4|20 30:15
+IT|Secondo Proverbi 30, quante figlie ha la sanguisuga, che dicono «Da'! Da'!»?|Due|Tre|Quattro|Sette|«La sanguisuga ha due figlie: “Da'! Da'!”».
+RO|După Proverbe 30, câte fiice are lipitoarea, care zic „Dă! Dă!”?|Două|Trei|Patru|Șapte|„Lipitoarea are două fete: „Dă! Dă!””
+at|4|18 1:3
+IT|Quanti cammelli possedeva Giobbe prima delle sue prove?|Tremila|Settemila|Mille|Cinquecento|Possedeva settemila pecore, tremila cammelli, cinquecento paia di buoi e cinquecento asine.
+RO|Câte cămile avea Iov înainte de încercări?|Trei mii|Șapte mii|O mie|Cinci sute|Avea șapte mii de oi, trei mii de cămile, cinci sute de perechi de boi și cinci sute de măgărițe.
+at|4|19 90:4
+IT|Secondo il Salmo 90, a che cosa sono simili mille anni agli occhi di Dio?|A ieri che è passato|A un'ora|A un anno|A un secolo|«Mille anni ai tuoi occhi sono come il giorno di ieri che è passato, come una veglia nella notte».
+RO|După Psalmul 90, cu ce sunt asemenea o mie de ani înaintea lui Dumnezeu?|Cu ziua de ieri care a trecut|Cu un ceas|Cu un an|Cu un veac|„O mie de ani sunt înaintea Ta ca ziua de ieri care a trecut, ca o strajă din noapte.”

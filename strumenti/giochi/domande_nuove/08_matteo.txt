@@ -1,0 +1,232 @@
+# Domande nuove — Vangelo di Matteo
+nt|2|40 1:21
+IT|Perché l'angelo disse a Giuseppe di chiamare il bambino Gesù?|Perché avrebbe salvato il suo popolo dai suoi peccati|Perché era il nome del nonno|Perché era nato a Betlemme|Perché lo aveva deciso Erode|«Tu gli porrai nome Gesù, perché egli salverà il suo popolo dai loro peccati».
+RO|De ce i-a spus îngerul lui Iosif să-I pună copilului numele Isus?|Pentru că va mântui pe poporul Său de păcatele sale|Pentru că era numele bunicului|Pentru că se născuse la Betleem|Pentru că așa hotărâse Irod|„Îi vei pune numele Isus, pentru că El va mântui pe poporul Său de păcatele sale.”
+nt|1|40 2:1
+IT|Chi venne dall'oriente a Gerusalemme cercando il re dei Giudei appena nato?|I magi|I pastori|I sacerdoti|I soldati romani|Alcuni magi d'oriente giunsero a Gerusalemme dicendo: «Dov'è il re dei Giudei che è nato?».
+RO|Cine a venit de la răsărit la Ierusalim, căutând pe Împăratul iudeilor care S-a născut?|Magii|Păstorii|Preoții|Ostașii romani|Niște magi de la răsărit au venit la Ierusalim și au întrebat: „Unde este Împăratul de curând născut al iudeilor?”
+nt|2|40 2:11
+IT|Quali doni offrirono i magi a Gesù?|Oro, incenso e mirra|Oro, argento e bronzo|Pane, vino e olio|Agnelli e colombe|Aperti i loro tesori, gli offrirono dei doni: oro, incenso e mirra.
+RO|Ce daruri I-au adus magii lui Isus?|Aur, tămâie și smirnă|Aur, argint și aramă|Pâine, vin și untdelemn|Miei și porumbei|Și-au deschis vistieriile și I-au adus daruri: aur, tămâie și smirnă.
+luoghi|2|40 2:14
+IT|In quale paese fuggì Giuseppe con Maria e il bambino?|In Egitto|In Siria|A Babilonia|In Arabia|Giuseppe si alzò, prese il bambino e sua madre di notte e si rifugiò in Egitto.
+RO|În ce țară a fugit Iosif cu Maria și cu Pruncul?|În Egipt|În Siria|În Babilon|În Arabia|Iosif s-a sculat, a luat Pruncul și pe mama Lui, noaptea, și a plecat în Egipt.
+re|2|40 2:16
+IT|Quale re fece uccidere i bambini di Betlemme dai due anni in giù?|Erode|Pilato|Archelao|Cesare Augusto|Erode, vedendosi beffato dai magi, mandò a uccidere tutti i bambini di Betlemme dai due anni in giù.
+RO|Ce împărat a poruncit să fie omorâți pruncii din Betleem de la doi ani în jos?|Irod|Pilat|Arhelau|Cezar August|Irod, când a văzut că fusese înșelat de magi, a trimis să omoare pe toți pruncii din Betleem de la doi ani în jos.
+personaggi|2|40 3:4
+IT|Di che cosa si nutriva Giovanni Battista nel deserto?|Di locuste e miele selvatico|Di pane e pesce|Di manna|Di frutta e latte|Giovanni portava un vestito di pelo di cammello e si nutriva di locuste e miele selvatico.
+RO|Cu ce se hrănea Ioan Botezătorul în pustie?|Cu lăcuste și miere sălbatică|Cu pâine și pește|Cu mană|Cu fructe și lapte|Ioan purta o haină de păr de cămilă, iar hrana lui erau lăcuste și miere sălbatică.
+miracoli|2|40 3:16
+IT|In quale forma scese lo Spirito di Dio su Gesù al battesimo?|Come una colomba|Come fuoco|Come un vento forte|Come una nuvola|Gesù vide lo Spirito di Dio scendere come una colomba e venire su di lui.
+RO|În ce chip S-a pogorât Duhul lui Dumnezeu peste Isus la botez?|Ca un porumbel|Ca un foc|Ca un vânt puternic|Ca un nor|Isus a văzut pe Duhul lui Dumnezeu pogorându-Se în chip de porumbel și venind peste El.
+nt|2|40 4:2
+IT|Per quanti giorni digiunò Gesù nel deserto?|Quaranta|Sette|Tre|Dodici|Dopo che ebbe digiunato quaranta giorni e quaranta notti, alla fine ebbe fame.
+RO|Cât timp a postit Isus în pustie înainte de ispitire?|Patruzeci|Șapte|Trei|Douăsprezece|După ce a postit patruzeci de zile și patruzeci de nopți, la urmă a flămânzit.
+nt|2|40 4:4
+IT|Con quale risposta Gesù vinse la prima tentazione, quella del pane?|«Non di pane soltanto vivrà l'uomo»|«Vattene, Satana»|«Non tentare il Signore»|«Il mio cibo è fare la volontà del Padre»|«Sta scritto: L'uomo non vivrà di pane soltanto, ma di ogni parola che procede dalla bocca di Dio».
+RO|Cu ce răspuns a biruit Isus prima ispită, cea a pâinii?|„Omul nu trăiește numai cu pâine”|„Înapoia Mea, Satano”|„Să nu ispitești pe Domnul”|„Mâncarea Mea este să fac voia Tatălui”|„Este scris: Omul nu trăiește numai cu pâine, ci cu orice cuvânt care iese din gura lui Dumnezeu.”
+personaggi|1|40 4:18
+IT|Quali due fratelli stavano gettando la rete quando Gesù li chiamò per primi?|Simone Pietro e Andrea|Giacomo e Giovanni|Matteo e Tommaso|Filippo e Bartolomeo|Gesù vide due fratelli, Simone detto Pietro e Andrea, che gettavano la rete in mare.
+RO|Care doi frați aruncau mreaja când i-a chemat Isus cei dintâi?|Simon Petru și Andrei|Iacov și Ioan|Matei și Toma|Filip și Bartolomeu|Isus a văzut doi frați, pe Simon, zis Petru, și pe fratele său Andrei, care aruncau o mreajă în mare.
+nt|2|40 4:19
+IT|Che cosa promise Gesù di fare dei pescatori che lo seguivano?|Pescatori di uomini|Re d'Israele|Sacerdoti del tempio|Uomini ricchi|«Seguitemi, e io vi farò pescatori di uomini».
+RO|Ce le-a promis Isus pescarilor care aveau să-L urmeze?|Că îi va face pescari de oameni|Împărați ai lui Israel|Preoți ai templului|Oameni bogați|„Veniți după Mine, și vă voi face pescari de oameni.”
+nt|1|40 5:3
+IT|Di chi è il regno dei cieli secondo la prima beatitudine?|Dei poveri in spirito|Dei ricchi|Dei forti|Dei sapienti|«Beati i poveri in spirito, perché di loro è il regno dei cieli».
+RO|Ale cui este Împărăția cerurilor, după prima fericire?|Ale celor săraci în duh|Ale celor bogați|Ale celor tari|Ale celor înțelepți|„Ferice de cei săraci în duh, căci a lor este Împărăția cerurilor!”
+nt|2|40 5:9
+IT|Come saranno chiamati quelli che si adoperano per la pace?|Figli di Dio|Re della terra|Servi fedeli|Amici del re|«Beati quelli che si adoperano per la pace, perché saranno chiamati figli di Dio».
+RO|Cum vor fi chemați cei împăciuitori?|Fii ai lui Dumnezeu|Împărați ai pământului|Robi credincioși|Prietenii împăratului|„Ferice de cei împăciuitori, căci ei vor fi chemați fii ai lui Dumnezeu!”
+nt|2|40 5:14
+IT|Che cosa disse Gesù ai discepoli nel Sermone sul monte: «Voi siete…»?|La luce del mondo|Il pane della vita|La porta delle pecore|Il vino nuovo|«Voi siete la luce del mondo; una città posta sopra un monte non può essere nascosta».
+RO|Ce le-a spus Isus ucenicilor în Predica de pe munte: „Voi sunteți…”?|Lumina lumii|Pâinea vieții|Ușa oilor|Vinul nou|„Voi sunteți lumina lumii. O cetate așezată pe un munte nu poate să rămână ascunsă.”
+nt|2|40 5:44
+IT|Che cosa insegnò Gesù di fare per i nemici?|Amarli e pregare per loro|Evitarli|Vendicarsi|Ignorarli|«Amate i vostri nemici… e pregate per quelli che vi maltrattano e vi perseguitano».
+RO|Ce ne-a învățat Isus să facem pentru vrăjmași?|Să-i iubim și să ne rugăm pentru ei|Să-i ocolim|Să ne răzbunăm|Să nu-i băgăm în seamă|„Iubiți pe vrăjmașii voștri… și rugați-vă pentru cei ce vă asupresc și vă prigonesc.”
+nt|2|40 6:19
+IT|Dove Gesù insegnò a non accumulare tesori?|Sulla terra|In cielo|Nel tempio|Nelle case dei poveri|«Non accumulate tesori sulla terra, dove la tignola e la ruggine consumano».
+RO|Unde ne-a învățat Isus să nu ne strângem comori?|Pe pământ|În cer|În templu|În casele săracilor|„Nu vă strângeți comori pe pământ, unde le mănâncă moliile și rugina.”
+nt|2|40 6:24
+IT|Quali due padroni, disse Gesù, non si possono servire insieme?|Dio e Mammona|Il re e il sacerdote|Il padre e la madre|Roma e Gerusalemme|«Nessuno può servire due padroni… Voi non potete servire Dio e Mammona».
+RO|Care doi stăpâni, a spus Isus, nu pot fi slujiți în același timp?|Dumnezeu și Mamona|Împăratul și preotul|Tatăl și mama|Roma și Ierusalimul|„Nimeni nu poate sluji la doi stăpâni… Nu puteți sluji lui Dumnezeu și lui Mamona.”
+nt|2|40 6:26
+IT|Quali creature indicò Gesù per insegnare a non preoccuparsi del cibo?|Gli uccelli del cielo|I pesci del mare|Le formiche|Le pecore|«Guardate gli uccelli del cielo: non seminano… e il Padre vostro celeste li nutre».
+RO|Ce viețuitoare a arătat Isus ca să ne învețe să nu ne îngrijorăm de hrană?|Păsările cerului|Peștii mării|Furnicile|Oile|„Uitați-vă la păsările cerului: ele nici nu seamănă… și totuși Tatăl vostru cel ceresc le hrănește.”
+nt|2|40 6:33
+IT|Che cosa bisogna cercare prima di tutto, secondo Gesù?|Il regno di Dio e la sua giustizia|Il pane quotidiano|La salute|La pace con tutti|«Cercate prima il regno di Dio e la sua giustizia, e tutte queste cose vi saranno date in più».
+RO|Ce trebuie să căutăm mai întâi, după Isus?|Împărăția lui Dumnezeu și neprihănirea Lui|Pâinea cea de toate zilele|Sănătatea|Pacea cu toți|„Căutați mai întâi Împărăția lui Dumnezeu și neprihănirea Lui, și toate aceste lucruri vi se vor da pe deasupra.”
+nt|2|40 7:13
+IT|Da quale porta Gesù invita a entrare?|Dalla porta stretta|Dalla porta del tempio|Dalla porta d'oro|Dalla porta grande|«Entrate per la porta stretta, perché larga è la porta e spaziosa la via che conduce alla perdizione».
+RO|Pe ce poartă ne îndeamnă Isus să intrăm?|Pe poarta cea strâmtă|Pe poarta templului|Pe poarta de aur|Pe poarta cea largă|„Intrați pe poarta cea strâmtă. Căci largă este poarta, lată este calea care duce la pierzare.”
+nt|2|40 7:24
+IT|Su che cosa costruì la casa l'uomo avveduto della parabola?|Sulla roccia|Sulla sabbia|Sul monte|Vicino al fiume|L'uomo avveduto ha costruito la sua casa sulla roccia.
+RO|Pe ce și-a zidit casa omul cu judecată din pildă?|Pe stâncă|Pe nisip|Pe munte|Lângă râu|Omul cu judecată și-a zidit casa pe stâncă.
+miracoli|2|40 8:5
+IT|Quale ufficiale romano chiese a Gesù di guarire il suo servo con una sola parola?|Un centurione|Il governatore|Un tribuno|Un soldato semplice|Un centurione disse: «Di' soltanto una parola e il mio servo sarà guarito».
+RO|Ce ofițer roman I-a cerut lui Isus să-i vindece robul doar cu un cuvânt?|Un sutaș|Dregătorul|Un căpitan|Un ostaș de rând|Un sutaș I-a zis: „Zi numai un cuvânt, și robul meu se va tămădui.”
+miracoli|2|40 8:14-15
+IT|Chi guarì Gesù dalla febbre in casa di Pietro?|La suocera di Pietro|La moglie di Pietro|La figlia di Iairo|La madre di Giacomo|Gesù le toccò la mano e la febbre la lasciò; ella si alzò e si mise a servirlo.
+RO|Pe cine a vindecat Isus de friguri în casa lui Petru?|Pe soacra lui Petru|Pe nevasta lui Petru|Pe fiica lui Iair|Pe mama lui Iacov|Isus i S-a atins de mână, și au lăsat-o frigurile; ea s-a sculat și a început să-I slujească.
+miracoli|2|40 8:26
+IT|Che cosa fece Gesù quando i discepoli lo svegliarono nella tempesta?|Sgridò i venti e il mare|Remò con loro|Tornò a dormire|Scese dalla barca|Gesù sgridò i venti e il mare, e si fece gran bonaccia.
+RO|Ce a făcut Isus când L-au trezit ucenicii în furtună?|A certat vânturile și marea|A vâslit cu ei|S-a culcat iar|S-a coborât din corabie|Isus a certat vânturile și marea, și s-a făcut o liniște mare.
+miracoli|3|40 8:32
+IT|In quali animali entrarono i demoni scacciati dagli indemoniati di Gadara?|In un branco di porci|In un gregge di pecore|In una mandria di buoi|In uno stormo di corvi|I demoni entrarono nei porci, e tutto il branco si precipitò nel mare.
+RO|În ce animale au intrat dracii scoși din îndrăciții din Gadara?|Într-o turmă de porci|Într-o turmă de oi|Într-o cireadă de boi|Într-un stol de corbi|Dracii au intrat în porci, și toată turma s-a aruncat în mare.
+personaggi|2|40 9:9
+IT|Dove si trovava Matteo quando Gesù lo chiamò?|Al banco delle imposte|In barca|Nel tempio|Nel campo|Gesù vide un uomo chiamato Matteo, seduto al banco delle imposte, e gli disse: «Seguimi».
+RO|Unde se afla Matei când l-a chemat Isus?|La vamă|În corabie|În templu|În câmp|Isus a văzut un om, numit Matei, șezând la vamă, și i-a zis: „Vino după Mine!”
+miracoli|2|40 9:20
+IT|Che cosa toccò la donna malata da dodici anni per essere guarita?|Il lembo del mantello di Gesù|La mano di Gesù|I piedi di Gesù|Il bastone di Pietro|Una donna, malata di un flusso di sangue da dodici anni, toccò il lembo del suo mantello.
+RO|Ce a atins femeia bolnavă de doisprezece ani ca să se vindece?|Poala hainei lui Isus|Mâna lui Isus|Picioarele lui Isus|Toiagul lui Petru|O femeie, care avea o scurgere de sânge de doisprezece ani, s-a atins de poala hainei Lui.
+nt|3|40 10:16
+IT|Come Gesù mandò i discepoli, secondo Matteo 10?|Come pecore in mezzo ai lupi|Come re in mezzo ai sudditi|Come soldati in guerra|Come pastori con il gregge|«Io vi mando come pecore in mezzo ai lupi; siate dunque prudenti come i serpenti e semplici come le colombe».
+RO|Cum i-a trimis Isus pe ucenici, după Matei 10?|Ca pe niște oi în mijlocul lupilor|Ca pe niște împărați între supuși|Ca pe niște ostași la război|Ca pe niște păstori cu turma|„Iată, vă trimit ca pe niște oi în mijlocul lupilor. Fiți dar înțelepți ca șerpii și fără răutate ca porumbeii.”
+nt|2|40 11:28
+IT|A chi Gesù rivolse l'invito: «Venite a me… e io vi darò riposo»?|A tutti gli affaticati e oppressi|Ai sacerdoti|Ai ricchi|Solo ai discepoli|«Venite a me, voi tutti che siete affaticati e oppressi, e io vi darò riposo».
+RO|Cui le-a adresat Isus chemarea: „Veniți la Mine… și Eu vă voi da odihnă”?|Tuturor celor trudiți și împovărați|Preoților|Bogaților|Numai ucenicilor|„Veniți la Mine, toți cei trudiți și împovărați, și Eu vă voi da odihnă.”
+nt|3|40 12:8
+IT|Di che cosa disse Gesù di essere Signore, in Matteo 12?|Del sabato|Del tempio|Della legge|Della terra|«Il Figlio dell'uomo è Signore anche del sabato».
+RO|Al cui Domn a spus Isus că este, în Matei 12?|Al Sabatului|Al templului|Al legii|Al pământului|„Fiul omului este Domn și al Sabatului.”
+nt|3|40 12:40
+IT|Quale segno diede Gesù citando la storia di Giona?|Tre giorni e tre notti nel cuore della terra|Un fuoco dal cielo|Una stella a oriente|Una grande tempesta|Come Giona fu tre giorni e tre notti nel ventre del pesce, così il Figlio dell'uomo sarà tre giorni e tre notti nel cuore della terra.
+RO|Ce semn a dat Isus amintind istoria lui Iona?|Trei zile și trei nopți în inima pământului|Un foc din cer|O stea la răsărit|O furtună mare|Cum a stat Iona trei zile și trei nopți în pântecele chitului, așa va sta Fiul omului trei zile și trei nopți în inima pământului.
+nt|2|40 13:3-4
+IT|Nella parabola del seminatore, dove caddero alcuni semi che gli uccelli mangiarono?|Lungo la strada|Tra le spine|Sulla buona terra|Nei luoghi rocciosi|Mentre seminava, una parte del seme cadde lungo la strada e gli uccelli vennero e la mangiarono.
+RO|În pilda semănătorului, unde au căzut unele semințe pe care le-au mâncat păsările?|Lângă drum|Între spini|În pământ bun|În locuri stâncoase|Pe când semăna, o parte din sămânță a căzut lângă drum și au venit păsările și au mâncat-o.
+nt|2|40 13:31
+IT|A quale piccolo seme Gesù paragonò il regno dei cieli?|Al granello di senape|Al chicco di grano|Al seme d'orzo|Al seme di fico|Il regno dei cieli è simile a un granello di senape, il più piccolo di tutti i semi.
+RO|Cu ce sămânță mică a asemănat Isus Împărăția cerurilor?|Cu un grăunte de muștar|Cu un bob de grâu|Cu o sămânță de orz|Cu o sămânță de smochin|Împărăția cerurilor se aseamănă cu un grăunte de muștar, cea mai mică dintre toate semințele.
+nt|3|40 13:33
+IT|A che cosa nascosta in tre misure di farina è simile il regno dei cieli?|Al lievito|Al sale|All'olio|Al miele|Il regno dei cieli è simile al lievito che una donna prende e nasconde in tre misure di farina.
+RO|Cu ce ascuns în trei măsuri de făină se aseamănă Împărăția cerurilor?|Cu aluatul|Cu sarea|Cu untdelemnul|Cu mierea|Împărăția cerurilor se aseamănă cu aluatul pe care l-a luat o femeie și l-a pus în trei măsuri de făină.
+nt|3|40 13:46
+IT|Che cosa vendette il mercante che trovò una perla di grande valore?|Tutto quello che aveva|Metà dei suoi beni|La sua casa|Il suo campo soltanto|Il mercante andò, vendette tutto quello che aveva e la comprò.
+RO|Ce a vândut negustorul care a găsit un mărgăritar de mare preț?|Tot ce avea|Jumătate din avere|Casa lui|Numai ogorul|Negustorul s-a dus, a vândut tot ce avea și l-a cumpărat.
+personaggi|2|40 14:10
+IT|Come morì Giovanni Battista?|Fu decapitato in prigione|Fu lapidato|Fu crocifisso|Morì di vecchiaia|Erode mandò a decapitare Giovanni nella prigione.
+RO|Cum a murit Ioan Botezătorul?|I s-a tăiat capul în temniță|A fost ucis cu pietre|A fost răstignit|A murit de bătrânețe|Irod a trimis să-i taie capul lui Ioan în temniță.
+miracoli|1|40 14:17
+IT|Con quanti pani e pesci Gesù sfamò cinquemila uomini?|Cinque pani e due pesci|Sette pani e pochi pesci|Dodici pani e un pesce|Due pani e cinque pesci|«Non abbiamo qui altro che cinque pani e due pesci».
+RO|Cu câte pâini și pești a săturat Isus cinci mii de bărbați?|Cinci pâini și doi pești|Șapte pâini și câțiva pești|Douăsprezece pâini și un pește|Două pâini și cinci pești|„N-avem aici decât cinci pâini și doi pești.”
+miracoli|2|40 14:29
+IT|Quale discepolo camminò sulle acque verso Gesù?|Pietro|Giovanni|Andrea|Tommaso|Pietro scese dalla barca e camminò sulle acque per andare da Gesù.
+RO|Care ucenic a umblat pe ape spre Isus?|Petru|Ioan|Andrei|Toma|Petru s-a pogorât din corabie și a umblat pe ape, ca să meargă la Isus.
+luoghi|3|40 16:13
+IT|In quale regione Gesù chiese ai discepoli: «Chi dice la gente che sia il Figlio dell'uomo?»|Nella regione di Cesarea di Filippo|A Betania|A Gerico|Sul monte degli Ulivi|Giunto nelle parti di Cesarea di Filippo, Gesù domandò ai suoi discepoli chi dicesse la gente che egli fosse.
+RO|În ce ținut i-a întrebat Isus pe ucenici: „Cine zic oamenii că sunt Eu, Fiul omului?”|În părțile Cezareii lui Filip|La Betania|La Ierihon|Pe Muntele Măslinilor|Când a ajuns în părțile Cezareii lui Filip, Isus i-a întrebat pe ucenici cine zic oamenii că este El.
+personaggi|2|40 16:16
+IT|Chi rispose: «Tu sei il Cristo, il Figlio del Dio vivente»?|Simone Pietro|Giovanni|Andrea|Natanaele|Simone Pietro rispose: «Tu sei il Cristo, il Figlio del Dio vivente».
+RO|Cine a răspuns: „Tu ești Hristosul, Fiul Dumnezeului celui viu”?|Simon Petru|Ioan|Andrei|Natanael|Simon Petru a răspuns: „Tu ești Hristosul, Fiul Dumnezeului celui viu!”
+miracoli|2|40 17:2
+IT|Che cosa accadde al volto di Gesù sul monte della trasfigurazione?|Risplendette come il sole|Divenne triste|Si coprì di un velo|Divenne invisibile|Fu trasfigurato davanti a loro: la sua faccia risplendette come il sole.
+RO|Ce s-a întâmplat cu fața lui Isus pe muntele schimbării la față?|A strălucit ca soarele|S-a întristat|S-a acoperit cu un văl|S-a făcut nevăzută|S-a schimbat la față înaintea lor: fața Lui a strălucit ca soarele.
+personaggi|2|40 17:3
+IT|Chi apparve con Gesù sul monte della trasfigurazione?|Mosè ed Elia|Abrahamo e Davide|Isaia e Geremia|Enok ed Elia|Apparvero loro Mosè ed Elia, che conversavano con lui.
+RO|Cine s-a arătat cu Isus pe muntele schimbării la față?|Moise și Ilie|Avraam și David|Isaia și Ieremia|Enoh și Ilie|Li s-au arătat Moise și Ilie, care vorbeau cu El.
+miracoli|3|40 17:27
+IT|Dove Pietro trovò la moneta per pagare la tassa del tempio?|Nella bocca di un pesce|Sotto una pietra|Nella borsa di Giuda|In un campo|«Va' al mare, getta l'amo… aprigli la bocca e vi troverai uno statere».
+RO|Unde a găsit Petru banul pentru darea templului?|În gura unui pește|Sub o piatră|În punga lui Iuda|Într-un câmp|„Du-te la mare, aruncă undița… deschide-i gura și vei găsi un ban.”
+nt|2|40 18:22
+IT|Quante volte, disse Gesù a Pietro, bisogna perdonare?|Fino a settanta volte sette|Sette volte|Tre volte|Una volta sola|«Io non ti dico fino a sette volte, ma fino a settanta volte sette».
+RO|De câte ori, i-a spus Isus lui Petru, trebuie să iertăm?|Până la șaptezeci de ori câte șapte|De șapte ori|De trei ori|O singură dată|„Eu nu-ți zic până la șapte ori, ci până la șaptezeci de ori câte șapte.”
+nt|2|40 19:14
+IT|Chi disse Gesù di lasciar venire a lui, perché di loro è il regno dei cieli?|I piccoli fanciulli|I poveri|I pescatori|Gli anziani|«Lasciate i piccoli fanciulli venire a me, perché di tali è il regno dei cieli».
+RO|Pe cine a spus Isus să fie lăsați să vină la El, căci a lor este Împărăția cerurilor?|Pe copilași|Pe săraci|Pe pescari|Pe bătrâni|„Lăsați copilașii să vină la Mine… căci Împărăția cerurilor este a celor ca ei.”
+nt|3|40 19:24
+IT|Che cosa è più facile, disse Gesù, che un ricco entri nel regno di Dio?|Che un cammello passi per la cruna di un ago|Che un monte si sposti|Che il sole si fermi|Che il mare si asciughi|«È più facile per un cammello passare attraverso la cruna di un ago, che per un ricco entrare nel regno di Dio».
+RO|Ce este mai ușor, a spus Isus, decât să intre un bogat în Împărăția lui Dumnezeu?|Să treacă o cămilă prin urechea acului|Să se mute un munte|Să se oprească soarele|Să sece marea|„Mai lesne este să treacă o cămilă prin urechea acului decât să intre un bogat în Împărăția lui Dumnezeu.”
+nt|3|40 20:16
+IT|Con quale frase finisce la parabola dei lavoratori della vigna?|«Gli ultimi saranno primi e i primi ultimi»|«Chi ha orecchi da udire oda»|«Molti sono i chiamati»|«Vegliate dunque»|«Così gli ultimi saranno primi e i primi ultimi».
+RO|Cu ce frază se încheie pilda lucrătorilor din vie?|„Cei din urmă vor fi cei dintâi, și cei dintâi vor fi cei din urmă”|„Cine are urechi de auzit să audă”|„Mulți sunt chemați”|„Vegheați dar”|„Tot așa, cei din urmă vor fi cei dintâi, și cei dintâi vor fi cei din urmă.”
+nt|1|40 21:9
+IT|Che cosa gridavano le folle quando Gesù entrò a Gerusalemme?|«Osanna al Figlio di Davide!»|«Crocifiggilo!»|«Viva Cesare!»|«Amen!»|Le folle gridavano: «Osanna al Figlio di Davide! Benedetto colui che viene nel nome del Signore!».
+RO|Ce strigau noroadele când a intrat Isus în Ierusalim?|„Osana, Fiul lui David!”|„Răstignește-L!”|„Trăiască Cezarul!”|„Amin!”|Noroadele strigau: „Osana, Fiul lui David! Binecuvântat este Cel ce vine în Numele Domnului!”
+nt|2|40 21:13
+IT|Come chiamò Gesù il tempio quando cacciò i venditori?|Casa di preghiera|Casa del re|Casa dei sacrifici|Casa della legge|«Sta scritto: La mia casa sarà chiamata casa di preghiera, ma voi ne fate un covo di ladroni».
+RO|Cum a numit Isus templul când i-a scos afară pe vânzători?|Casă de rugăciune|Casa împăratului|Casa jertfelor|Casa legii|„Este scris: Casa Mea se va chema o casă de rugăciune. Dar voi ați făcut din ea o peșteră de tâlhari.”
+miracoli|3|40 21:19
+IT|Quale albero seccò subito dopo che Gesù non vi trovò frutti?|Un fico|Un olivo|Una vite|Una palma|Gesù disse al fico: «Non nasca mai più frutto da te», e subito il fico si seccò.
+RO|Ce pom s-a uscat îndată după ce Isus n-a găsit roade în el?|Un smochin|Un măslin|O viță|Un finic|Isus a zis smochinului: „De acum încolo în veac să nu mai dea rod din tine!”, și îndată smochinul s-a uscat.
+nt|2|40 22:21
+IT|Che cosa rispose Gesù sulla moneta con l'immagine di Cesare?|«Rendete a Cesare ciò che è di Cesare e a Dio ciò che è di Dio»|«Non pagate le tasse»|«Date tutto ai poveri»|«Portatela al tempio»|«Rendete dunque a Cesare ciò che è di Cesare e a Dio ciò che è di Dio».
+RO|Ce a răspuns Isus despre banul cu chipul Cezarului?|„Dați Cezarului ce este al Cezarului și lui Dumnezeu ce este al lui Dumnezeu”|„Nu plătiți birul”|„Dați totul săracilor”|„Duceți-l la templu”|„Dați dar Cezarului ce este al Cezarului și lui Dumnezeu ce este al lui Dumnezeu.”
+nt|2|40 22:37
+IT|Qual è il più grande comandamento, secondo Gesù?|Amare il Signore Dio con tutto il cuore, l'anima e la mente|Non uccidere|Osservare il sabato|Onorare i genitori|«Ama il Signore Dio tuo con tutto il tuo cuore, con tutta l'anima tua e con tutta la tua mente. Questo è il primo e il gran comandamento».
+RO|Care este cea mai mare poruncă, după Isus?|Să iubești pe Domnul Dumnezeul tău cu toată inima, cu tot sufletul și cu tot cugetul|Să nu ucizi|Să păzești Sabatul|Să cinstești părinții|„Să iubești pe Domnul Dumnezeul tău cu toată inima ta, cu tot sufletul tău și cu tot cugetul tău. Aceasta este cea dintâi și cea mai mare poruncă.”
+profezie|2|40 24:14
+IT|Che cosa deve essere predicato in tutto il mondo prima che venga la fine?|Il vangelo del regno|La legge di Mosè|La storia d'Israele|I salmi|«Questo vangelo del regno sarà predicato in tutto il mondo… e allora verrà la fine».
+RO|Ce trebuie propovăduit în toată lumea înainte să vină sfârșitul?|Evanghelia Împărăției|Legea lui Moise|Istoria lui Israel|Psalmii|„Evanghelia aceasta a Împărăției va fi propovăduită în toată lumea… Atunci va veni sfârșitul.”
+profezie|2|40 24:27
+IT|A che cosa paragonò Gesù la sua venuta, visibile da oriente a occidente?|Al lampo|Al tuono|Al sole che sorge|A un ladro|«Come il lampo esce da oriente e brilla fino a occidente, così sarà la venuta del Figlio dell'uomo».
+RO|Cu ce a asemănat Isus venirea Lui, văzută de la răsărit la apus?|Cu fulgerul|Cu tunetul|Cu soarele care răsare|Cu un hoț|„Cum iese fulgerul de la răsărit și se vede până la apus, așa va fi și venirea Fiului omului.”
+profezie|3|40 24:36
+IT|Chi conosce il giorno e l'ora della venuta di Gesù?|Solo il Padre|Gli angeli|I profeti|I sacerdoti|«Quanto a quel giorno e a quell'ora, nessuno li sa, neppure gli angeli del cielo, ma il Padre mio solo».
+RO|Cine știe ziua și ceasul venirii lui Isus?|Numai Tatăl|Îngerii|Prorocii|Preoții|„Despre ziua aceea și despre ceasul acela nu știe nimeni: nici îngerii din ceruri, ci numai Tatăl Meu.”
+nt|2|40 25:2
+IT|Nella parabola delle dieci vergini, quante erano avvedute?|Cinque|Tre|Sette|Due|Cinque di loro erano stolte e cinque avvedute.
+RO|În pilda celor zece fecioare, câte erau înțelepte?|Cinci|Trei|Șapte|Două|Cinci dintre ele erau nechibzuite și cinci înțelepte.
+nt|3|40 25:15
+IT|Quanti talenti ricevette il servo che poi nascose il suo denaro nella terra?|Uno|Due|Cinque|Dieci|A uno diede cinque talenti, a un altro due e a un altro uno; quest'ultimo scavò in terra e vi nascose il denaro.
+RO|Câți talanți a primit robul care apoi a ascuns banii în pământ?|Unul|Doi|Cinci|Zece|Unuia i-a dat cinci talanți, altuia doi și altuia unul; acesta din urmă a săpat în pământ și a ascuns banii.
+nt|2|40 25:40
+IT|Che cosa dirà il Re a chi ha aiutato uno dei suoi fratelli più piccoli?|«L'avete fatto a me»|«Siete stati bravi»|«Non era necessario»|«Avete perso tempo»|«In quanto l'avete fatto a uno di questi miei minimi fratelli, l'avete fatto a me».
+RO|Ce le va spune Împăratul celor care au ajutat pe unul din frații Lui cei mai neînsemnați?|„Mie mi le-ați făcut”|„Ați fost buni”|„Nu era nevoie”|„V-ați pierdut vremea”|„Ori de câte ori ați făcut aceste lucruri unuia din acești foarte neînsemnați frați ai Mei, Mie mi le-ați făcut.”
+personaggi|2|40 26:15
+IT|Quanto ricevette Giuda per tradire Gesù?|Trenta sicli d'argento|Venti monete d'oro|Cento denari|Un talento|Gli pesarono trenta sicli d'argento.
+RO|Cât a primit Iuda ca să-L vândă pe Isus?|Treizeci de arginți|Douăzeci de galbeni|O sută de lei|Un talant|I-au cântărit treizeci de arginți.
+nt|2|40 26:26
+IT|Che cosa disse Gesù prendendo il pane nell'ultima cena?|«Prendete, mangiate, questo è il mio corpo»|«Questo è il pane degli angeli»|«Mangiatelo in fretta»|«Questo è il pane di Mosè»|Gesù prese il pane, lo benedisse, lo spezzò e disse: «Prendete, mangiate; questo è il mio corpo».
+RO|Ce a spus Isus luând pâinea la Cina cea de taină?|„Luați, mâncați; acesta este trupul Meu”|„Aceasta este pâinea îngerilor”|„Mâncați-o în grabă”|„Aceasta este pâinea lui Moise”|Isus a luat o pâine, a binecuvântat, a frânt-o și a zis: „Luați, mâncați; acesta este trupul Meu.”
+luoghi|2|40 26:36
+IT|In quale luogo Gesù andò a pregare dopo l'ultima cena?|Getsemani|Betania|Golgota|Il tempio|Gesù andò con loro in un podere chiamato Getsemani e disse: «Sedetevi qui, mentre io vado là a pregare».
+RO|În ce loc S-a dus Isus să Se roage după Cină?|Ghetsimani|Betania|Golgota|Templul|Isus a venit cu ei într-un loc numit Ghetsimani și a zis: „Ședeți aici până Mă voi duce acolo să Mă rog.”
+nt|2|40 26:39
+IT|Che cosa pregò Gesù nel Getsemani?|«Non come voglio io, ma come vuoi tu»|«Liberami dai nemici»|«Dammi forza per fuggire»|«Punisci Giuda»|«Padre mio, se è possibile, passi da me questo calice! Però non come voglio io, ma come vuoi tu».
+RO|Ce S-a rugat Isus în Ghetsimani?|„Nu cum voiesc Eu, ci cum voiești Tu”|„Scapă-Mă de vrăjmași”|„Dă-Mi putere să fug”|„Pedepsește-l pe Iuda”|„Tată, dacă este cu putință, depărtează de la Mine paharul acesta! Totuși facă-se nu ce voiesc Eu, ci ce voiești Tu.”
+personaggi|2|40 26:49
+IT|Con quale segno Giuda indicò Gesù ai soldati?|Con un bacio|Con una stretta di mano|Indicandolo con il dito|Chiamandolo per nome|Giuda si avvicinò a Gesù e disse: «Salve, Maestro!», e lo baciò.
+RO|Prin ce semn L-a arătat Iuda pe Isus ostașilor?|Printr-o sărutare|Printr-o strângere de mână|Arătându-L cu degetul|Strigându-L pe nume|Iuda s-a apropiat de Isus și a zis: „Plecăciune, Învățătorule!” Și L-a sărutat.
+personaggi|3|40 26:57
+IT|Da quale sommo sacerdote fu condotto Gesù dopo l'arresto?|Caiafa|Anna|Nicodemo|Gamaliele|Quelli che avevano preso Gesù lo condussero da Caiafa, il sommo sacerdote.
+RO|La ce mare preot a fost dus Isus după ce a fost prins?|Caiafa|Ana|Nicodim|Gamaliel|Cei ce prinseseră pe Isus L-au dus la Caiafa, marele preot.
+personaggi|2|40 27:19
+IT|Chi mandò a dire a Pilato: «Non avere nulla a che fare con quel giusto»?|Sua moglie|Erode|Caiafa|Il centurione|Sua moglie gli mandò a dire di non avere nulla a che fare con quel giusto, perché aveva sofferto molto in sogno.
+RO|Cine i-a trimis vorbă lui Pilat: „Să n-ai nimic a face cu neprihănitul acesta”?|Nevasta lui|Irod|Caiafa|Sutașul|Nevasta lui i-a trimis vorbă să n-aibă nimic cu neprihănitul acela, căci suferise mult în vis.
+personaggi|1|40 27:21
+IT|Quale prigioniero la folla chiese a Pilato di liberare al posto di Gesù?|Barabba|Giuda|Stefano|Pietro|«Quale dei due volete che vi liberi?». Essi dissero: «Barabba».
+RO|Pe ce întemnițat a cerut mulțimea lui Pilat să-l elibereze în locul lui Isus?|Pe Baraba|Pe Iuda|Pe Ștefan|Pe Petru|„Pe care din amândoi voiți să vi-l slobozesc?” Ei au răspuns: „Pe Baraba.”
+personaggi|2|40 27:24
+IT|Che cosa fece Pilato davanti alla folla per dichiararsi innocente?|Si lavò le mani|Si stracciò le vesti|Si inginocchiò|Spezzò il bastone|Pilato prese dell'acqua e si lavò le mani davanti alla folla dicendo: «Io sono innocente del sangue di questo giusto».
+RO|Ce a făcut Pilat înaintea norodului ca să se arate nevinovat?|Și-a spălat mâinile|Și-a rupt hainele|A îngenuncheat|A rupt toiagul|Pilat a luat apă și și-a spălat mâinile înaintea norodului, zicând: „Eu sunt nevinovat de sângele neprihănitului acestuia.”
+personaggi|3|40 27:33
+IT|Come si chiamava il luogo della crocifissione, che significa «luogo del teschio»?|Golgota|Getsemani|Ghabbatha|Betesda|Giunti al luogo detto Golgota, che vuol dire «luogo del teschio».
+RO|Cum se numea locul răstignirii, care înseamnă „locul căpățânii”?|Golgota|Ghetsimani|Gabata|Betesda|Au ajuns la un loc numit Golgota, care înseamnă „locul căpățânii”.
+miracoli|2|40 27:51
+IT|Che cosa accadde al velo del tempio quando Gesù morì?|Si squarciò in due da cima a fondo|Prese fuoco|Cadde a terra intero|Diventò bianco|La cortina del tempio si squarciò in due, da cima a fondo, la terra tremò e le rocce si schiantarono.
+RO|Ce s-a întâmplat cu perdeaua templului când a murit Isus?|S-a rupt în două de sus până jos|A luat foc|A căzut întreagă la pământ|S-a albit|Perdeaua dinăuntrul templului s-a rupt în două, de sus până jos, pământul s-a cutremurat și stâncile s-au despicat.
+personaggi|2|40 27:57
+IT|Quale uomo ricco chiese il corpo di Gesù e lo pose nella sua tomba nuova?|Giuseppe d'Arimatea|Nicodemo|Zaccheo|Lazzaro|Venne un uomo ricco di Arimatea, chiamato Giuseppe, che era anch'egli discepolo di Gesù.
+RO|Ce om bogat a cerut trupul lui Isus și L-a pus în mormântul lui nou?|Iosif din Arimateea|Nicodim|Zacheu|Lazăr|A venit un om bogat din Arimateea, numit Iosif, care era și el ucenic al lui Isus.
+miracoli|2|40 28:2
+IT|Chi rotolò la pietra dal sepolcro di Gesù?|Un angelo del Signore|Le donne|Pietro e Giovanni|Le guardie|Un angelo del Signore, sceso dal cielo, venne e rotolò la pietra dall'apertura e si sedette sopra di essa.
+RO|Cine a prăvălit piatra de la mormântul lui Isus?|Un înger al Domnului|Femeile|Petru și Ioan|Străjerii|Un înger al Domnului s-a pogorât din cer, a venit și a prăvălit piatra de la ușa mormântului și a șezut pe ea.
+nt|1|40 28:19
+IT|Che cosa comandò Gesù ai discepoli prima di salire al cielo, in Matteo 28?|Di andare e fare discepoli di tutte le nazioni|Di restare a Gerusalemme per sempre|Di costruire un tempio|Di tornare a pescare|«Andate dunque e fate discepoli di tutte le nazioni, battezzandoli nel nome del Padre, del Figlio e dello Spirito Santo».
+RO|Ce le-a poruncit Isus ucenicilor, în Matei 28?|Să meargă și să facă ucenici din toate neamurile|Să rămână pentru totdeauna în Ierusalim|Să zidească un templu|Să se întoarcă la pescuit|„Duceți-vă și faceți ucenici din toate neamurile, botezându-i în Numele Tatălui și al Fiului și al Sfântului Duh.”
+nt|2|40 28:20
+IT|Fino a quando Gesù promise di essere con i suoi discepoli?|Fino alla fine dell'età presente|Per quaranta giorni|Fino alla caduta del tempio|Per mille anni|«Ecco, io sono con voi tutti i giorni, fino alla fine dell'età presente».
+RO|Până când a promis Isus că va fi cu ucenicii Săi?|Până la sfârșitul veacului|Patruzeci de zile|Până la căderea templului|O mie de ani|„Iată că Eu sunt cu voi în toate zilele, până la sfârșitul veacului.”
+personaggi|4|40 1:5
+IT|Chi era la madre di Boaz, nominata nella genealogia di Gesù?|Rahab|Rut|Tamar|Bath-Sceba|Salmon generò Boaz da Rahab; Boaz generò Obed da Rut.
+RO|Cine era mama lui Boaz, pomenită în spița neamului lui Isus?|Rahav|Rut|Tamar|Bat-Șeba|Salmon a născut pe Boaz din Rahav; Boaz a născut pe Obed din Rut.
+luoghi|4|40 4:13
+IT|In quale città sul mare Gesù andò ad abitare dopo aver lasciato Nazaret?|Capernaum|Betsaida|Tiberiade|Cana|Lasciata Nazaret, venne ad abitare a Capernaum, città sul mare, ai confini di Zabulon e di Neftali.
+RO|În ce cetate de lângă mare S-a dus Isus să locuiască după ce a părăsit Nazaretul?|Capernaum|Betsaida|Tiberiada|Cana|A părăsit Nazaretul și a venit de a locuit în Capernaum, lângă mare, în ținutul lui Zabulon și al lui Neftali.
+nt|4|40 23:24
+IT|Che cosa filtrano e che cosa inghiottono le guide cieche, secondo Gesù?|Filtrano il moscerino e inghiottono il cammello|Filtrano l'acqua e bevono il vino|Filtrano la farina e mangiano la crusca|Filtrano l'oro e buttano l'argento|«Guide cieche, che filtrate il moscerino e inghiottite il cammello!».
+RO|Ce strecoară și ce înghit călăuzele oarbe, după Isus?|Strecoară țânțarul și înghit cămila|Strecoară apa și beau vinul|Cern făina și mănâncă tărâțele|Strecoară aurul și aruncă argintul|„Povățuitori orbi, care strecurați țânțarul și înghițiți cămila!”
+miracoli|4|40 27:52
+IT|Che cosa accadde ai sepolcri alla morte di Gesù, secondo Matteo?|Si aprirono e molti santi risuscitarono|Crollarono|Si riempirono d'acqua|Rimasero sigillati|I sepolcri si aprirono e molti corpi dei santi che dormivano risuscitarono.
+RO|Ce s-a întâmplat cu mormintele la moartea lui Isus, după Matei?|S-au deschis și mulți sfinți au înviat|S-au prăbușit|S-au umplut cu apă|Au rămas pecetluite|Mormintele s-au deschis și multe trupuri ale sfinților care muriseră au înviat.

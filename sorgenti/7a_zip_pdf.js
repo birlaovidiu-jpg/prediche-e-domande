@@ -12,7 +12,9 @@ function zip(file){
     const nome=_te.encode(f.nome);
     const dati = f.dati instanceof Uint8Array ? f.dati : _te.encode(f.dati);
     const c=crc32(dati);
-    const loc=[...u32(0x04034b50),...u16(20),...u16(0),...u16(0),...u16(0),...u16(0),
+    /* bit 0x0800 = "nome scritto in UTF-8": senza, chi legge lo zip (es. Python)
+       indovina i nomi con gli accenti sbagliati (le lettere rumene ă â î ș ț) */
+    const loc=[...u32(0x04034b50),...u16(20),...u16(0x0800),...u16(0),...u16(0),...u16(0),
       ...u32(c),...u32(dati.length),...u32(dati.length),...u16(nome.length),...u16(0)];
     parti.push(new Uint8Array(loc),nome,dati);
     centr.push({nome,c,len:dati.length,off});
@@ -20,7 +22,7 @@ function zip(file){
   });
   const cd=[]; let cdLen=0;
   centr.forEach(e=>{
-    const h=[...u32(0x02014b50),...u16(20),...u16(20),...u16(0),...u16(0),...u16(0),...u16(0),
+    const h=[...u32(0x02014b50),...u16(20),...u16(20),...u16(0x0800),...u16(0),...u16(0),...u16(0),
       ...u32(e.c),...u32(e.len),...u32(e.len),...u16(e.nome.length),...u16(0),...u16(0),...u16(0),...u16(0),
       ...u32(0),...u32(e.off)];
     cd.push(new Uint8Array(h),e.nome); cdLen+=h.length+e.nome.length;
@@ -31,8 +33,12 @@ function zip(file){
   [...parti,...cd,fine].forEach(a=>{ out.set(a,p); p+=a.length; });
   return out;
 }
-/* --- PDF da immagini JPEG (una pagina per immagine) --- */
-function pdfDaImmagini(imgs,L,H){
+/* --- PDF da immagini JPEG (una pagina per immagine) ---
+   L,H = misura della pagina; pxL,pxH = pixel veri dell'immagine, se più
+   grandi (foglio ad alta risoluzione ma pagina della stessa misura di sempre).
+   Senza pxL/pxH restano uguali a L,H, come prima. */
+function pdfDaImmagini(imgs,L,H,pxL,pxH){
+  pxL=pxL||L; pxH=pxH||H;
   const enc=s=>_te.encode(s);
   let oggetti=[], buf=[], pos=0;
   const push=u8=>{ buf.push(u8); pos+=u8.length; };
@@ -49,7 +55,7 @@ function pdfDaImmagini(imgs,L,H){
     const bin=atob(b64.split(',')[1]); const u8=new Uint8Array(bin.length);
     for(let i=0;i<bin.length;i++) u8[i]=bin.charCodeAt(i);
     const idImg=id++, idCon=id++, idPag=id++;
-    scriviFlusso(idImg,`<< /Type /XObject /Subtype /Image /Width ${L} /Height ${H} /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length ${u8.length} >>`,u8);
+    scriviFlusso(idImg,`<< /Type /XObject /Subtype /Image /Width ${pxL} /Height ${pxH} /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length ${u8.length} >>`,u8);
     const cont=`q ${L} 0 0 ${H} 0 0 cm /I0 Do Q`;
     scriviFlusso(idCon,`<< /Length ${cont.length} >>`,enc(cont));
     scrivi(idPag,`<< /Type /Page /Parent ${idPagine} 0 R /MediaBox [0 0 ${L} ${H}] /Resources << /XObject << /I0 ${idImg} 0 R >> >> /Contents ${idCon} 0 R >>`);

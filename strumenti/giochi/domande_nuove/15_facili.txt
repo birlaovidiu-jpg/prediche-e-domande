@@ -1,0 +1,181 @@
+# Domande nuove — livello facile, da tutta la Bibbia
+personaggi|1|1 3:20
+IT|Come chiamò Adamo sua moglie, perché era la madre di tutti i viventi?|Eva|Sara|Ada|Lea|Adamo chiamò sua moglie Eva, perché è stata la madre di tutti i viventi.
+RO|Cum și-a numit Adam nevasta, pentru că a fost mama tuturor celor vii?|Eva|Sara|Ada|Lea|Adam a pus nevestei sale numele Eva, pentru că ea a fost mama tuturor celor vii.
+personaggi|1|1 6:22
+IT|Chi fece tutto quello che Dio gli aveva comandato per costruire l'arca?|Noè|Mosè|Abrahamo|Salomone|Noè fece così; fece tutto quello che Dio gli aveva comandato.
+RO|Cine a făcut tot ce-i poruncise Dumnezeu pentru zidirea corăbiei?|Noe|Moise|Avraam|Solomon|Noe a făcut tot ce-i poruncise Dumnezeu; așa a făcut.
+at|1|1 8:11
+IT|Che cosa portò la colomba a Noè nel becco la seconda volta?|Una foglia d'ulivo|Un ramo di palma|Una spiga di grano|Un fiore|La colomba tornò da lui verso sera, ed ecco, aveva nel becco una foglia d'ulivo appena colta.
+RO|Ce i-a adus porumbelul lui Noe în cioc a doua oară?|O frunză de măslin|O ramură de finic|Un spic de grâu|O floare|Porumbelul s-a întors la el spre seară, și iată că în ciocul lui avea o frunză de măslin ruptă de curând.
+personaggi|1|1 17:19
+IT|Quale nome Dio disse di dare al figlio di Abrahamo e Sara?|Isacco|Ismaele|Giacobbe|Esaù|«Sara, tua moglie, ti partorirà un figlio e tu lo chiamerai Isacco».
+RO|Ce nume a spus Dumnezeu să-i pună fiului lui Avraam și al Sarei?|Isaac|Ismael|Iacov|Esau|„Sara, nevasta ta, îți va naște un fiu și-i vei pune numele Isaac.”
+personaggi|1|1 25:25
+IT|Quale dei gemelli nacque per primo, rossiccio e peloso?|Esaù|Giacobbe|Beniamino|Ruben|Il primo uscì rossiccio, tutto peloso come un mantello, e lo chiamarono Esaù.
+RO|Care dintre gemeni s-a născut primul, roșcat și păros?|Esau|Iacov|Beniamin|Ruben|Cel dintâi a ieșit roșcat de tot, ca o manta de păr, și i-au pus numele Esau.
+personaggi|1|1 29:18
+IT|Quale figlia di Labano amava Giacobbe?|Rachele|Lea|Dina|Zilpa|Giacobbe amava Rachele e disse: «Io ti servirò sette anni per Rachele, tua figlia minore».
+RO|Pe care fiică a lui Laban o iubea Iacov?|Pe Rahela|Pe Lea|Pe Dina|Pe Zilpa|Iacov o iubea pe Rahela și a zis: „Îți voi sluji șapte ani pentru Rahela, fata ta cea mai mică.”
+personaggi|1|1 35:22-23
+IT|Quanti figli ebbe Giacobbe?|Dodici|Dieci|Sette|Tredici|I figli di Giacobbe erano dodici.
+RO|Câți fii a avut Iacov?|Doisprezece|Zece|Șapte|Treisprezece|Fiii lui Iacov erau doisprezece.
+personaggi|1|1 39:2
+IT|Chi era con Giuseppe in casa di Potifar, facendo prosperare tutto?|L'Eterno|Suo padre|I suoi fratelli|Il Faraone|L'Eterno era con Giuseppe, ed egli prosperava.
+RO|Cine era cu Iosif în casa lui Potifar, făcând să-i meargă bine în toate?|Domnul|Tatăl său|Frații lui|Faraon|Domnul a fost cu Iosif, și el propășea în tot ce făcea.
+personaggi|1|1 41:40
+IT|Quale incarico diede il Faraone a Giuseppe?|Lo mise a capo di tutto l'Egitto|Lo fece sacerdote|Lo fece cuoco del re|Lo mandò via|«Tu sarai sopra la mia casa; solo per il trono sarò più grande di te».
+RO|Ce slujbă i-a dat Faraon lui Iosif?|L-a pus peste toată țara Egiptului|L-a făcut preot|L-a făcut bucătarul împăratului|L-a izgonit|„Te pun mai mare peste casa mea; numai scaunul de domnie mă va face mai mare decât tine.”
+personaggi|1|2 3:10-11
+IT|Chi mandò Dio dal Faraone per far uscire Israele dall'Egitto?|Mosè|Giosuè|Aaronne da solo|Giuseppe|«Ora va', io ti mando dal Faraone, perché tu faccia uscire dall'Egitto il mio popolo».
+RO|Pe cine a trimis Dumnezeu la Faraon ca să scoată pe Israel din Egipt?|Pe Moise|Pe Iosua|Numai pe Aaron|Pe Iosif|„Vino acum și te voi trimite la Faraon și vei scoate din Egipt pe poporul Meu.”
+at|1|2 14:22
+IT|Come passarono gli Israeliti in mezzo al mare?|All'asciutto|Su una barca|A nuoto|Su un ponte|I figli d'Israele entrarono in mezzo al mare all'asciutto; le acque erano come un muro a destra e a sinistra.
+RO|Cum au trecut israeliții prin mijlocul mării?|Ca pe uscat|Cu o corabie|Înotând|Pe un pod|Copiii lui Israel au intrat în mijlocul mării ca pe uscat, iar apele le stăteau ca un zid.
+at|1|2 20:8
+IT|Quale giorno ordina il quarto comandamento di ricordare per santificarlo?|Il giorno di sabato|Il primo giorno della settimana|Il giorno di Pasqua|Il giorno del compleanno|«Ricordati del giorno del sabato per santificarlo».
+RO|Ce zi poruncește porunca a patra s-o aducem aminte, ca s-o sfințim?|Ziua Sabatului|Prima zi a săptămânii|Ziua de Paște|Ziua nașterii|„Adu-ți aminte de ziua de odihnă, ca s-o sfințești.”
+at|1|2 20:13
+IT|Che cosa dice il sesto comandamento?|Non uccidere|Non rubare|Non mentire|Non desiderare|«Non uccidere».
+RO|Ce spune porunca a șasea?|Să nu ucizi|Să nu furi|Să nu minți|Să nu poftești|„Să nu ucizi.”
+at|1|2 20:15
+IT|Che cosa dice l'ottavo comandamento?|Non ruberai|Non uccidere|Non commettere adulterio|Non mentire|«Non ruberai».
+RO|Ce spune porunca a opta?|Să nu furi|Să nu ucizi|Să nu preacurvești|Să nu minți|„Să nu furi.”
+personaggi|1|6 1:1
+IT|Chi guidò Israele dopo la morte di Mosè?|Giosuè|Caleb|Aaronne|Samuele|Dopo la morte di Mosè, l'Eterno parlò a Giosuè, figlio di Nun, servitore di Mosè.
+RO|Cine a condus pe Israel după moartea lui Moise?|Iosua|Caleb|Aaron|Samuel|După moartea lui Moise, Domnul i-a vorbit lui Iosua, fiul lui Nun, slujitorul lui Moise.
+miracoli|1|6 6:20
+IT|Che cosa accadde alle mura di Gerico quando il popolo gridò?|Crollarono|Presero fuoco|Si alzarono di più|Si aprirono le porte|Il popolo lanciò un grande grido di guerra e le mura crollarono.
+RO|Ce s-a întâmplat cu zidurile Ierihonului când a strigat poporul?|S-au prăbușit|Au luat foc|S-au înălțat mai mult|S-au deschis porțile|Poporul a scos strigăte mari, și zidul s-a prăbușit.
+personaggi|1|7 16:29-30
+IT|Che cosa fece crollare Sansone alla fine della sua vita?|Il tempio di Dagon|Le mura di Gaza|Il palazzo del re|Una torre di Gerico|Sansone si piegò con tutta la sua forza e la casa crollò sui capi e su tutto il popolo che c'era dentro.
+RO|Ce a dărâmat Samson la sfârșitul vieții lui?|Templul lui Dagon|Zidurile Gazei|Casa împăratului|Un turn din Ierihon|Samson s-a aplecat cu toată puterea, și casa a căzut peste domnitori și peste tot poporul care era acolo.
+personaggi|1|8 4:13
+IT|Chi sposò Rut?|Boaz|Obed|Elimelek|Mahlon soltanto|Boaz prese Rut, che divenne sua moglie.
+RO|Cu cine s-a căsătorit Rut?|Cu Boaz|Cu Obed|Cu Elimelec|Numai cu Mahlon|Boaz a luat-o pe Rut, și ea i-a fost nevastă.
+personaggi|1|9 1:27
+IT|Per quale figlio aveva pregato Anna?|Samuele|Saul|Davide|Eli|«Pregavo per avere questo bambino, e l'Eterno mi ha concesso ciò che gli avevo chiesto».
+RO|Pentru ce copil se rugase Ana?|Samuel|Saul|David|Eli|„Pentru copilul acesta mă rugam, și Domnul a ascultat rugăciunea pe care I-o făceam.”
+personaggi|1|9 16:13
+IT|Quale figlio di Iesse Samuele unse come re?|Davide|Eliab|Abinadab|Shammah|Samuele prese il corno dell'olio e lo unse in mezzo ai suoi fratelli; lo Spirito dell'Eterno investì Davide.
+RO|Pe care fiu al lui Isai l-a uns Samuel împărat?|Pe David|Pe Eliab|Pe Abinadab|Pe Șama|Samuel a luat cornul cu untdelemn și l-a uns în mijlocul fraților lui; Duhul Domnului a venit peste David.
+personaggi|1|9 17:34
+IT|Che lavoro faceva Davide da giovane?|Pascolava le pecore di suo padre|Era soldato|Era sacerdote|Era pescatore|Davide disse a Saul: «Il tuo servo pascolava le pecore di suo padre».
+RO|Ce făcea David în tinerețe?|Păștea oile tatălui său|Era ostaș|Era preot|Era pescar|David i-a zis lui Saul: „Robul tău păștea oile tatălui său.”
+personaggi|1|11 5:5
+IT|Quale figlio di Davide costruì il tempio?|Salomone|Absalom|Roboamo|Nathan|Salomone disse: «Ho deciso di costruire una casa al nome dell'Eterno, mio Dio».
+RO|Care fiu al lui David a zidit templul?|Solomon|Absalom|Roboam|Natan|Solomon a zis: „Am de gând să zidesc o casă Numelui Domnului, Dumnezeului meu.”
+profeti|1|11 18:39
+IT|Che cosa gridò il popolo dopo il fuoco dal cielo sul Carmelo?|«L'Eterno è Dio!»|«Baal è Dio!»|«Viva il re!»|«Pace!»|Tutto il popolo si gettò con la faccia a terra e disse: «L'Eterno è Dio! L'Eterno è Dio!».
+RO|Ce a strigat poporul după focul din cer de pe Carmel?|„Domnul este Dumnezeu!”|„Baal este Dumnezeu!”|„Trăiască împăratul!”|„Pace!”|Tot poporul a căzut cu fața la pământ și a zis: „Domnul este adevăratul Dumnezeu!”
+profeti|1|12 2:1
+IT|Quale profeta fu portato in cielo senza morire, mentre camminava con Eliseo?|Elia|Isaia|Samuele|Giona|Quando l'Eterno volle rapire in cielo Elia in un turbine, Elia partì da Ghilgal con Eliseo.
+RO|Ce proroc a fost luat la cer fără să moară, pe când mergea cu Elisei?|Ilie|Isaia|Samuel|Iona|Când a vrut Domnul să ia pe Ilie la cer într-un vârtej, Ilie mergea cu Elisei de la Ghilgal.
+personaggi|1|17 2:17
+IT|Quale giovane ebrea diventò regina di Persia?|Ester|Rut|Vashti|Debora|Il re amò Ester più di tutte le altre donne, le mise in capo la corona reale e la fece regina.
+RO|Ce tânără evreică a ajuns împărăteasă a Persiei?|Estera|Rut|Vasti|Debora|Împăratul a iubit-o pe Estera mai mult decât pe toate celelalte femei, i-a pus cununa împărătească pe cap și a făcut-o împărăteasă.
+personaggi|1|18 1:8
+IT|Di chi disse Dio a Satana: «Non ce n'è un altro sulla terra che sia integro e retto come lui»?|Di Giobbe|Di Noè|Di Abrahamo|Di Davide|«Hai notato il mio servo Giobbe? Non ce n'è un altro sulla terra che sia integro e retto come lui».
+RO|Despre cine i-a spus Dumnezeu Satanei: „Nu este nimeni ca el pe pământ, fără prihană și curat la suflet”?|Despre Iov|Despre Noe|Despre Avraam|Despre David|„Ai văzut pe robul Meu Iov? Nu este nimeni ca el pe pământ: este un om fără prihană și curat la suflet.”
+at|1|19 23:4
+IT|Secondo il Salmo 23, che cosa non temerà il credente anche nella valle dell'ombra della morte?|Alcun male|Il buio|La fame|I nemici soltanto|«Anche se camminassi nella valle dell'ombra della morte, non temerei alcun male, perché tu sei con me».
+RO|După Psalmul 23, de ce nu se va teme credinciosul nici în valea umbrei morții?|De niciun rău|De întuneric|De foame|Numai de vrăjmași|„Chiar dacă ar fi să umblu prin valea umbrei morții, nu mă tem de niciun rău, căci Tu ești cu mine.”
+profeti|1|27 6:16
+IT|Quale re fece gettare Daniele nella fossa dei leoni?|Dario|Nabukodonosor|Ciro|Belshatsar|Il re Dario diede l'ordine; Daniele fu condotto e gettato nella fossa dei leoni.
+RO|Ce împărat a pus să fie aruncat Daniel în groapa cu lei?|Darius|Nebucadnețar|Cir|Belșațar|Împăratul Darius a dat poruncă; Daniel a fost adus și aruncat în groapa cu lei.
+profeti|1|32 1:17
+IT|Che cosa preparò l'Eterno per inghiottire Giona?|Un grande pesce|Una balena bianca|Un serpente marino|Un coccodrillo|L'Eterno preparò un grande pesce per inghiottire Giona.
+RO|Ce a pregătit Domnul ca să-l înghită pe Iona?|Un pește mare|O balenă albă|Un șarpe de mare|Un crocodil|Domnul a trimis un pește mare să înghită pe Iona.
+luoghi|1|32 3:3
+IT|In quale grande città Giona andò finalmente a predicare?|Ninive|Babilonia|Gerusalemme|Tarshish|Giona si levò e andò a Ninive, secondo la parola dell'Eterno.
+RO|În ce cetate mare s-a dus în sfârșit Iona să propovăduiască?|Ninive|Babilon|Ierusalim|Tars|Iona s-a sculat și s-a dus la Ninive, după porunca Domnului.
+nt|1|40 1:18
+IT|Chi era fidanzata con Giuseppe quando concepì per opera dello Spirito Santo?|Maria|Elisabetta|Marta|Anna|Maria, sua madre, era stata promessa sposa a Giuseppe; prima che fossero venuti a stare insieme, si trovò incinta per opera dello Spirito Santo.
+RO|Cine era logodită cu Iosif când a rămas însărcinată de la Duhul Sfânt?|Maria|Elisabeta|Marta|Ana|Maria, mama Lui, era logodită cu Iosif; înainte să locuiască împreună, s-a aflat însărcinată de la Duhul Sfânt.
+luoghi|1|40 2:23
+IT|In quale città crebbe Gesù, per cui fu chiamato Nazareno?|Nazaret|Betlemme|Gerusalemme|Capernaum|Venne ad abitare in una città chiamata Nazaret, affinché si adempisse: «Egli sarà chiamato Nazareno».
+RO|În ce cetate a crescut Isus, de aceea a fost numit Nazarinean?|Nazaret|Betleem|Ierusalim|Capernaum|A venit și a locuit într-o cetate numită Nazaret, ca să se împlinească: „El va fi chemat Nazarinean.”
+nt|1|40 3:13
+IT|Chi battezzò Gesù nel fiume Giordano?|Giovanni Battista|Pietro|Andrea|Nicodemo|Gesù venne dalla Galilea al Giordano da Giovanni per essere battezzato da lui.
+RO|Cine L-a botezat pe Isus în râul Iordan?|Ioan Botezătorul|Petru|Andrei|Nicodim|Isus a venit din Galileea la Iordan, la Ioan, ca să fie botezat de el.
+nt|1|40 3:17
+IT|Che cosa disse la voce dal cielo al battesimo di Gesù?|«Questo è il mio amato Figlio»|«Ecco il re dei Giudei»|«Ascoltate Mosè»|«Pentitevi»|Una voce dai cieli disse: «Questo è il mio amato Figlio, nel quale mi sono compiaciuto».
+RO|Ce a spus glasul din cer la botezul lui Isus?|„Acesta este Fiul Meu preaiubit”|„Iată Împăratul iudeilor”|„Ascultați de Moise”|„Pocăiți-vă”|Un glas din ceruri a zis: „Acesta este Fiul Meu preaiubit, în care Îmi găsesc plăcerea.”
+nt|1|40 6:9
+IT|Con quali parole comincia la preghiera che Gesù insegnò?|«Padre nostro che sei nei cieli»|«Ascolta, Israele»|«Beato l'uomo»|«Santo, santo, santo»|«Voi dunque pregate così: Padre nostro che sei nei cieli, sia santificato il tuo nome».
+RO|Cu ce cuvinte începe rugăciunea pe care a învățat-o Isus?|„Tatăl nostru care ești în ceruri”|„Ascultă, Israele”|„Ferice de omul”|„Sfânt, sfânt, sfânt”|„Iată dar cum trebuie să vă rugați: Tatăl nostru care ești în ceruri! Sfințească-se Numele Tău.”
+nt|1|40 10:2
+IT|Quanti erano gli apostoli di Gesù?|Dodici|Settanta|Sette|Dieci|I nomi dei dodici apostoli sono questi: il primo, Simone detto Pietro, e Andrea suo fratello.
+RO|Câți apostoli a avut Isus?|Doisprezece|Șaptezeci|Șapte|Zece|Iată numele celor doisprezece apostoli: cel dintâi, Simon, zis Petru, și Andrei, fratele lui.
+miracoli|1|40 14:25
+IT|Come andò Gesù verso i discepoli nella barca durante la notte?|Camminando sul mare|In un'altra barca|Nuotando|Volando|Alla quarta vigilia della notte Gesù andò verso di loro, camminando sul mare.
+RO|Cum a venit Isus la ucenicii din corabie în timpul nopții?|Umblând pe mare|Cu altă corabie|Înotând|Zburând|Pe la a patra strajă din noapte, Isus a venit la ei umblând pe mare.
+nt|1|40 26:34
+IT|Che cosa disse Gesù a Pietro che sarebbe successo prima che il gallo cantasse?|Lo avrebbe rinnegato tre volte|Sarebbe fuggito in barca|Si sarebbe addormentato|Avrebbe pianto|«Questa stessa notte, prima che il gallo canti, tu mi rinnegherai tre volte».
+RO|Ce i-a spus Isus lui Petru că se va întâmpla înainte să cânte cocoșul?|Se va lepăda de El de trei ori|Va fugi cu corabia|Va adormi|Va plânge|„Chiar în noaptea aceasta, înainte să cânte cocoșul, te vei lepăda de Mine de trei ori.”
+nt|1|40 28:6
+IT|Che cosa disse l'angelo alle donne presso il sepolcro vuoto?|«Non è qui, perché è risuscitato»|«Tornate domani»|«L'hanno portato via»|«Cercatelo in Galilea soltanto»|«Egli non è qui, perché è risuscitato come aveva detto; venite, guardate il luogo dove giaceva il Signore».
+RO|Ce le-a spus îngerul femeilor la mormântul gol?|„Nu este aici, a înviat”|„Veniți mâine”|„L-au luat”|„Căutați-L numai în Galileea”|„Nu este aici, ci a înviat, cum zisese. Veniți de vedeți locul unde zăcea Domnul.”
+nt|1|42 2:16
+IT|Chi trovarono i pastori a Betlemme, andando in fretta?|Maria, Giuseppe e il bambino nella mangiatoia|I magi con i doni|Il re Erode|Gli angeli nella stalla|Andarono in fretta e trovarono Maria, Giuseppe e il bambino che giaceva nella mangiatoia.
+RO|Pe cine au găsit păstorii la Betleem, mergând în grabă?|Pe Maria, pe Iosif și pe Pruncul culcat în iesle|Pe magi cu darurile|Pe împăratul Irod|Pe îngeri în grajd|S-au dus în grabă și au găsit pe Maria, pe Iosif și pe Pruncul culcat în iesle.
+nt|1|42 2:11
+IT|Che cosa annunciò l'angelo ai pastori?|Che era nato un Salvatore, Cristo il Signore|Che il re Erode era morto|Che sarebbe piovuto|Che il tempio era aperto|«Oggi nella città di Davide vi è nato un Salvatore, che è Cristo, il Signore».
+RO|Ce le-a vestit îngerul păstorilor?|Că S-a născut un Mântuitor, Hristos, Domnul|Că împăratul Irod murise|Că va ploua|Că templul era deschis|„Astăzi în cetatea lui David vi S-a născut un Mântuitor, care este Hristos, Domnul.”
+nt|1|42 10:37
+IT|Che cosa disse Gesù al dottore della legge alla fine della parabola del buon Samaritano?|«Va' e fa' anche tu lo stesso»|«Torna al tempio»|«Non parlarne a nessuno»|«Sei già perfetto»|Gesù gli disse: «Va' e fa' anche tu lo stesso».
+RO|Ce i-a spus Isus învățătorului legii la sfârșitul pildei samariteanului milostiv?|„Du-te de fă și tu la fel”|„Întoarce-te la templu”|„Nu spune nimănui”|„Ești deja desăvârșit”|Isus i-a zis: „Du-te de fă și tu la fel.”
+nt|1|42 15:20
+IT|Che cosa fece il padre quando vide da lontano il figlio prodigo tornare?|Gli corse incontro e lo baciò|Chiuse la porta|Chiamò i servi per cacciarlo|Aspettò seduto|Mentre era ancora lontano, suo padre lo vide, ne ebbe compassione, corse, gli si gettò al collo e lo baciò.
+RO|Ce a făcut tatăl când l-a văzut de departe pe fiul risipitor întorcându-se?|A alergat, l-a cuprins și l-a sărutat|A închis ușa|A chemat robii să-l alunge|A așteptat șezând|Când era încă departe, tatăl său l-a văzut, i s-a făcut milă de el, a alergat, l-a cuprins de gât și l-a sărutat.
+miracoli|1|43 11:43
+IT|Che cosa gridò Gesù davanti alla tomba di Lazzaro?|«Lazzaro, vieni fuori!»|«Alzati e cammina»|«Talitha kumi»|«Effatha»|Gesù gridò a gran voce: «Lazzaro, vieni fuori!».
+RO|Ce a strigat Isus înaintea mormântului lui Lazăr?|„Lazăre, vino afară!”|„Scoală-te și umblă”|„Talita cumi”|„Efata”|Isus a strigat cu glas tare: „Lazăre, vino afară!”
+nt|1|43 3:16
+IT|Che cosa diede Dio perché tanto ha amato il mondo, secondo Giovanni 3:16?|Il suo unigenito Figlio|La legge|Il tempio|Un re|Dio ha tanto amato il mondo, che ha dato il suo unigenito Figlio, affinché chiunque crede in lui non perisca.
+RO|Ce a dat Dumnezeu, pentru că atât de mult a iubit lumea, după Ioan 3:16?|Pe singurul Lui Fiu|Legea|Templul|Un împărat|Atât de mult a iubit Dumnezeu lumea, că a dat pe singurul Lui Fiu, pentru ca oricine crede în El să nu piară.
+personaggi|1|44 9:15
+IT|Quale persecutore dei cristiani diventò l'apostolo delle genti?|Saulo (Paolo)|Pietro|Barnaba|Stefano|Il Signore disse: «Va', perché costui è uno strumento che ho scelto per portare il mio nome davanti alle genti».
+RO|Ce prigonitor al creștinilor a ajuns apostolul neamurilor?|Saul (Pavel)|Petru|Barnaba|Ștefan|Domnul a zis: „Du-te, căci el este un vas pe care l-am ales ca să ducă Numele Meu înaintea neamurilor.”
+personaggi|1|44 7:59
+IT|Quale diacono della chiesa di Gerusalemme morì lapidato dicendo: «Signore Gesù, ricevi il mio spirito»?|Stefano|Giacomo|Pietro|Filippo|Lapidavano Stefano, che invocava Gesù e diceva: «Signore Gesù, ricevi il mio spirito».
+RO|Cine a fost primul mucenic creștin, ucis cu pietre pe când se ruga?|Ștefan|Iacov|Petru|Filip|Aruncau cu pietre în Ștefan, care se ruga și zicea: „Doamne Isuse, primește duhul meu!”
+personaggi|1|66 1:1
+IT|A quale discepolo fu data la rivelazione dell'Apocalisse?|Giovanni|Pietro|Paolo|Giacomo|Rivelazione di Gesù Cristo… che egli ha fatto conoscere mandando il suo angelo al suo servo Giovanni.
+RO|Cărui ucenic i-a fost dată descoperirea din Apocalipsa?|Lui Ioan|Lui Petru|Lui Pavel|Lui Iacov|Descoperirea lui Isus Hristos… pe care a făcut-o cunoscut robului Său Ioan prin trimiterea îngerului Său.
+at|1|1 2:2
+IT|In quale giorno Dio si riposò dopo aver creato ogni cosa?|Nel settimo giorno|Nel primo giorno|Nel sesto giorno|Nel terzo giorno|Nel settimo giorno Dio terminò l'opera che aveva fatto e si riposò.
+RO|În ce zi S-a odihnit Dumnezeu după ce a făcut toate lucrurile?|În ziua a șaptea|În ziua întâi|În ziua a șasea|În ziua a treia|În ziua a șaptea Dumnezeu Și-a sfârșit lucrarea și S-a odihnit.
+at|1|1 1:10
+IT|Come chiamò Dio l'asciutto e la raccolta delle acque?|Terra e mari|Monti e fiumi|Deserto e laghi|Campo e pozzo|Dio chiamò l'asciutto «terra» e chiamò la raccolta delle acque «mari».
+RO|Cum a numit Dumnezeu uscatul și grămada apelor?|Pământ și mări|Munți și râuri|Pustie și lacuri|Câmp și fântână|Dumnezeu a numit uscatul „pământ”, iar grămada de ape a numit-o „mări”.
+personaggi|1|2 2:7
+IT|Chi, sorella del bambino, propose alla figlia del Faraone una nutrice ebrea?|Sua sorella|Sua madre|Una serva egiziana|Una vicina|La sorella del bambino disse alla figlia del Faraone: «Devo andare a chiamarti una nutrice fra le donne ebree?».
+RO|Cine, sora copilului, i-a propus fetei lui Faraon o doică evreică?|Sora lui|Mama lui|O roabă egipteancă|O vecină|Sora copilului a zis fetei lui Faraon: „Să mă duc să-ți chem o doică dintre evreice?”
+miracoli|1|40 9:6
+IT|Che cosa disse Gesù al paralitico per mostrare di avere il potere di perdonare i peccati?|«Alzati, prendi il tuo letto e va' a casa tua»|«Aspetta qui»|«Va' dal sacerdote»|«Lavati nel Giordano»|«Affinché sappiate che il Figlio dell'uomo ha potestà di perdonare i peccati… Alzati, prendi il tuo letto e va' a casa tua».
+RO|Ce i-a spus Isus slăbănogului, ca să arate că are putere să ierte păcatele?|„Scoală-te, ia-ți patul și du-te acasă”|„Așteaptă aici”|„Du-te la preot”|„Spală-te în Iordan”|„Ca să știți că Fiul omului are putere pe pământ să ierte păcatele… Scoală-te, ia-ți patul și du-te acasă.”
+nt|1|40 5:13
+IT|Che cosa sono i discepoli per la terra, secondo Gesù: «Voi siete il…»?|Sale della terra|Pane della terra|Oro della terra|Re della terra|«Voi siete il sale della terra».
+RO|Ce sunt ucenicii pentru pământ, după Isus: „Voi sunteți…”?|Sarea pământului|Pâinea pământului|Aurul pământului|Împărații pământului|„Voi sunteți sarea pământului.”
+nt|1|40 7:12
+IT|Come si chiama spesso la regola «Fate agli altri ciò che volete che gli altri facciano a voi»?|La regola d'oro|La regola del tempio|La legge del re|Il comandamento di Mosè|«Tutte le cose dunque che volete che gli uomini vi facciano, fatele anche voi a loro».
+RO|Cum se numește adesea regula „Tot ce voiți să vă facă vouă oamenii, faceți-le și voi la fel”?|Regula de aur|Regula templului|Legea împăratului|Porunca lui Moise|„Tot ce voiți să vă facă vouă oamenii, faceți-le și voi la fel.”
+personaggi|1|42 10:40
+IT|Quale sorella si lamentò con Gesù perché l'altra non l'aiutava a servire?|Marta|Maria|Salome|Giovanna|Marta, tutta presa dalle faccende, disse: «Signore, non ti importa che mia sorella mi abbia lasciata sola a servire?».
+RO|Care soră I s-a plâns lui Isus că cealaltă n-o ajută la slujit?|Marta|Maria|Salomeea|Ioana|Marta era împărțită cu multă slujire și a zis: „Doamne, nu-Ți pasă că soră-mea m-a lăsat să slujesc singură?”
+personaggi|1|43 1:42
+IT|Quale nuovo nome diede Gesù a Simone, che significa «pietra»?|Cefa (Pietro)|Boanerges|Barnaba|Giuda|Gesù disse: «Tu sei Simone, figlio di Giona; tu sarai chiamato Cefa», che vuol dire Pietro.
+RO|Ce nume nou i-a dat Isus lui Simon, care înseamnă „piatră”?|Chifa (Petru)|Boanerghes|Barnaba|Iuda|Isus i-a zis: „Tu ești Simon, fiul lui Iona; tu te vei chema Chifa”, care, tălmăcit, înseamnă Petru.
+nt|1|43 6:10
+IT|Quanti uomini furono sfamati con i cinque pani d'orzo e i due pesci?|Circa cinquemila|Circa mille|Circa cento|Circa quattromila|Gli uomini dunque si sedettero, ed erano in numero di circa cinquemila.
+RO|Câți bărbați au fost săturați cu cele cinci pâini de orz și doi pești?|Aproape cinci mii|Aproape o mie|Aproape o sută|Aproape patru mii|Oamenii au șezut jos, în număr de aproape cinci mii.
+personaggi|1|43 20:1
+IT|Chi andò per prima al sepolcro di Gesù, il primo giorno della settimana, quand'era ancora buio?|Maria Maddalena|Marta|Pietro|Giovanni|Il primo giorno della settimana, la mattina presto, mentre era ancora buio, Maria Maddalena andò al sepolcro.
+RO|Cine s-a dus prima la mormântul lui Isus, în ziua întâi a săptămânii, pe când era încă întuneric?|Maria Magdalena|Marta|Petru|Ioan|În ziua întâi a săptămânii, Maria Magdalena s-a dus la mormânt dis-de-dimineață, pe când era încă întuneric.
+nt|1|44 1:9
+IT|Che cosa nascose Gesù alla vista dei discepoli durante l'ascensione?|Una nuvola|Un monte|Il sole|Un angelo|Mentre lo guardavano, fu elevato, e una nuvola lo accolse e lo sottrasse ai loro occhi.
+RO|Ce L-a ascuns pe Isus de ochii ucenicilor la înălțare?|Un nor|Un munte|Soarele|Un înger|Pe când se uitau ei la El, S-a înălțat la cer, și un nor L-a ascuns din ochii lor.
+nt|1|44 2:4
+IT|Che cosa cominciarono a fare i discepoli, pieni di Spirito Santo, a Pentecoste?|A parlare in altre lingue|A costruire un tempio|A digiunare|A fuggire|Tutti furono ripieni di Spirito Santo e cominciarono a parlare in altre lingue, come lo Spirito dava loro di esprimersi.
+RO|Ce au început să facă ucenicii, plini de Duhul Sfânt, la Cincizecime?|Să vorbească în alte limbi|Să zidească un templu|Să postească|Să fugă|Toți s-au umplut de Duh Sfânt și au început să vorbească în alte limbi, după cum le dădea Duhul să vorbească.

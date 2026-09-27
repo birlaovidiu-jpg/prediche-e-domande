@@ -1,0 +1,321 @@
+# Giosuè 3–10
+
+== giordano | 🌊 | 1 | fiume | 🌊 📦 👣 | 6 3:1-17
+T Il fiume in piena si fermò || Râul umflat s-a oprit
+S Piedi bagnati sulla riva || Picioare udate pe mal
+R Giosuè 3 || Iosua 3
+I È tempo di mietitura e il fiume è in piena, oltre le sue rive. Un popolo intero deve attraversarlo, senza barche né ponti. Davanti vanno alcuni uomini che portano qualcosa di sacro. Appena i loro piedi toccano l'acqua, succede qualcosa. Scopri che cosa.
+I Este vremea secerișului și râul s-a revărsat peste maluri. Un popor întreg trebuie să-l treacă, fără corăbii și fără poduri. Înainte merg câțiva bărbați care duc ceva sfânt. Îndată ce picioarele lor ating apa, se întâmplă ceva. Descoperă ce anume.
+E i piena 🌊 | La piena || Revărsarea
+. Il Giordano straripava su tutte le sue rive durante tutto il tempo della mietitura. || Iordanul se revărsa peste toate malurile lui în tot timpul secerișului.
+. Il fiume era in piena || Râul era revărsat
+E i distanza 📏 | La distanza || Depărtarea
+. Fra il popolo e l'arca doveva esserci una distanza di circa duemila cubiti, perché tutti potessero vedere la strada da seguire. || Între popor și chivot trebuia să fie o depărtare de aproape două mii de coți, ca toți să vadă drumul pe care trebuie să-l urmeze.
+. Duemila cubiti dietro l'arca || Două mii de coți în urma chivotului
+E t giosue 🗡️ | La nuova guida || Noul conducător
+. Il successore di Mosè || Urmașul lui Moise
+. Santificatevi, perché domani il Signore farà prodigi in mezzo a voi. Da questo saprete che il Dio vivente è in mezzo a voi. || Sfințiți-vă, căci mâine Domnul va face minuni în mijlocul vostru. Prin aceasta veți cunoaște că Dumnezeul cel viu este în mijlocul vostru.
+. «Domani il Signore farà prodigi» || „Mâine Domnul va face minuni”
+E i piedi 👣 | I piedi dei sacerdoti || Picioarele preoților
+. Appena i piedi dei sacerdoti che portavano l'arca si bagnarono al margine dell'acqua, le acque che scendevano dall'alto si fermarono. || Îndată ce picioarele preoților care duceau chivotul s-au înmuiat în marginea apei, apele care se coborau din sus s-au oprit.
+. L'acqua si ferma quando i piedi la toccano || Apa se oprește când picioarele o ating
+E i mucchio 🏔️ | Il mucchio d'acqua || Grămada de apă
+. Le acque si alzarono in un mucchio molto lontano, presso la città di Adam, vicino a Tsartan; il popolo passò di fronte a Gerico. || Apele s-au înălțat grămadă la o mare depărtare, lângă cetatea Adam, care este lângă Țartan; poporul a trecut în fața Ierihonului.
+. Un muro d'acqua presso la città di Adam || Un zid de apă lângă cetatea Adam
+E i asciutto 🏜️ | L'asciutto || Uscatul
+. I sacerdoti stettero fermi sull'asciutto in mezzo al Giordano, finché tutto il popolo ebbe finito di passare. || Preoții au stat nemișcați pe uscat în mijlocul Iordanului, până a isprăvit tot poporul de trecut.
+. I sacerdoti fermi in mezzo al fiume || Preoții nemișcați în mijlocul râului
+E f remo 🛶 | Un remo || O vâslă
+. Un remo abbandonato sulla riva: non servì. Nessun indizio. || O vâslă lăsată pe mal: n-a folosit. Niciun indiciu.
+A Quarant'anni prima i loro padri avevano attraversato un mare nello stesso modo. || Cu patruzeci de ani înainte, părinții lor trecuseră o mare în același fel.
+A Quel giorno Dio cominciò a rendere grande la nuova guida agli occhi di tutto Israele. || În ziua aceea Dumnezeu a început să-l înalțe pe noul conducător înaintea întregului Israel.
+A È il passaggio del Giordano (Giosuè 3). || Este trecerea Iordanului (Iosua 3).
+Q Quando si fermarono le acque? || Când s-au oprit apele?
++ Quando i piedi dei sacerdoti toccarono l'acqua || Când picioarele preoților au atins apa
+- Quando Giosuè alzò il bastone || Când Iosua a ridicat toiagul
+- Dopo una notte di vento || După o noapte de vânt
+- Quando il popolo gridò || Când poporul a strigat
+Q Che distanza doveva esserci fra il popolo e l'arca? || Ce depărtare trebuia să fie între popor și chivot?
++ Circa duemila cubiti || Aproape două mii de coți
+- Dieci passi || Zece pași
+- Un giorno di cammino || O zi de drum
+- Nessuna || Niciuna
+O
+> Giosuè dice al popolo di santificarsi || Iosua spune poporului să se sfințească
+> I sacerdoti prendono l'arca || Preoții ridică chivotul
+> I loro piedi toccano l'acqua || Picioarele lor ating apa
+> Le acque si fermano in un mucchio || Apele se opresc grămadă
+> Il popolo passa all'asciutto || Poporul trece pe uscat
+V
+v Era il tempo della mietitura || Era vremea secerișului
+v Il popolo passò di fronte a Gerico || Poporul a trecut în fața Ierihonului
+x Giosuè colpì l'acqua con il bastone di Mosè || Iosua a lovit apa cu toiagul lui Moise
+v I sacerdoti restarono in mezzo al fiume fino alla fine || Preoții au rămas în mijlocul râului până la sfârșit
+H Era il passaggio del Giordano. Il fiume era in piena per la mietitura. Giosuè disse al popolo di santificarsi, perché il giorno dopo il Signore avrebbe fatto prodigi. I sacerdoti con l'arca andarono avanti, a duemila cubiti dal popolo; appena i loro piedi toccarono l'acqua, le acque dall'alto si fermarono in un mucchio lontano, presso la città di Adam. I sacerdoti stettero fermi sull'asciutto in mezzo al Giordano finché tutto il popolo passò di fronte a Gerico. || Era trecerea Iordanului. Râul era revărsat din pricina secerișului. Iosua a spus poporului să se sfințească, pentru că a doua zi Domnul avea să facă minuni. Preoții cu chivotul au mers înainte, la două mii de coți de popor; îndată ce picioarele lor au atins apa, apele din sus s-au oprit grămadă departe, lângă cetatea Adam. Preoții au stat nemișcați pe uscat în mijlocul Iordanului până a trecut tot poporul în fața Ierihonului.
+
+== dodici_pietre | 🪨 | 2 | fiume | 🪨 🏕️ 👦 | 6 4:1-24
+T «Che cosa significano queste pietre?» || „Ce înseamnă pietrele acestea?”
+S Un ricordo per i figli || O aducere aminte pentru copii
+R Giosuè 4; 5:10-12 || Iosua 4; 5:10-12
+I Dodici uomini portano ognuno una grande pietra presa dal letto di un fiume. Le mettono insieme nel primo accampamento dall'altra parte. Un giorno i bambini chiederanno che cosa significano. Scopri la risposta.
+I Doisprezece bărbați duc fiecare o piatră mare luată din albia unui râu. Le pun împreună în prima tabără de cealaltă parte. Într-o zi copiii vor întreba ce înseamnă. Descoperă răspunsul.
+E i uomini 👥 | Dodici uomini || Doisprezece bărbați
+. Furono scelti dodici uomini, uno per ogni tribù. || Au fost aleși doisprezece bărbați, câte unul din fiecare seminție.
+. Uno per tribù || Câte unul din fiecare seminție
+E i letto 🪨 | Il letto del fiume || Albia râului
+. Presero dodici pietre dal mezzo del Giordano, dal punto dove stavano fermi i piedi dei sacerdoti, e le portarono sulle spalle. || Au luat douăsprezece pietre din mijlocul Iordanului, din locul unde stăteau nemișcate picioarele preoților, și le-au dus pe umeri.
+. Pietre prese dove stavano i sacerdoti || Pietre luate de unde stăteau preoții
+E i ghilgal 🏕️ | Ghilgal || Ghilgal
+. Il popolo uscì dal Giordano il decimo giorno del primo mese e si accampò a Ghilgal; là furono erette le dodici pietre. || Poporul a ieșit din Iordan în ziua a zecea a lunii întâi și a tăbărât la Ghilgal; acolo au fost ridicate cele douăsprezece pietre.
+. Erette a Ghilgal il decimo giorno || Ridicate la Ghilgal în ziua a zecea
+E t padre 👨‍👦 | La risposta ai figli || Răspunsul pentru copii
+. Un padre a cui il figlio fa una domanda || Un tată căruia copilul îi pune o întrebare
+. Israele passò questo Giordano all'asciutto, perché il Signore vostro Dio prosciugò le acque davanti a voi, come aveva fatto al Mar Rosso. || Israel a trecut Iordanul acesta pe uscat, căci Domnul Dumnezeul vostru a secat apele înaintea voastră, cum făcuse la Marea Roșie.
+. «Il Signore prosciugò le acque» || „Domnul a secat apele”
+E i altre ⛏️ | Altre dodici pietre || Alte douăsprezece pietre
+. Giosuè eresse anche dodici pietre in mezzo al Giordano, nel luogo dove si erano fermati i sacerdoti. || Iosua a ridicat și douăsprezece pietre în mijlocul Iordanului, în locul unde se opriseră preoții.
+. Altre dodici pietre in mezzo al fiume || Alte douăsprezece pietre în mijlocul râului
+E i manna 🍞 | La fine della manna || Sfârșitul manei
+. Poco dopo celebrarono la Pasqua a Ghilgal; il giorno dopo mangiarono i frutti del paese, e la manna cessò. || Puțin după aceea au prăznuit Paștele la Ghilgal; a doua zi au mâncat din roadele țării, și mana a încetat.
+. La manna finisce dopo la Pasqua a Ghilgal || Mana încetează după Paștele de la Ghilgal
+E f sasso 🪨 | Un sassolino || O pietricică
+. Un sassolino qualunque, non fa parte del monumento. Nessun indizio. || O pietricică oarecare, nu face parte din monument. Niciun indiciu.
+A Le pietre erano un segno perché tutti i popoli conoscessero che la mano del Signore è potente. || Pietrele erau un semn ca toate popoarele să cunoască mâna cea puternică a Domnului.
+A Accadde subito dopo che il fiume si era fermato. || S-a întâmplat îndată după ce râul se oprise.
+A Sono le dodici pietre di Ghilgal (Giosuè 4). || Sunt cele douăsprezece pietre de la Ghilgal (Iosua 4).
+Q Dove furono erette le dodici pietre? || Unde au fost ridicate cele douăsprezece pietre?
++ A Ghilgal || La Ghilgal
+- A Gerico || La Ierihon
+- A Sichem || La Sihem
+- A Bethel || La Betel
+Q Che cosa cessò dopo la Pasqua a Ghilgal? || Ce a încetat după Paștele de la Ghilgal?
++ La manna || Mana
+- La nuvola || Norul
+- Le piogge || Ploile
+- I sacrifici || Jertfele
+O
+> Si scelgono dodici uomini || Se aleg doisprezece bărbați
+> Prendono le pietre dal letto del fiume || Iau pietrele din albia râului
+> Si accampano a Ghilgal || Tăbărăsc la Ghilgal
+> Erigono le pietre || Ridică pietrele
+> Celebrano la Pasqua e la manna cessa || Prăznuiesc Paștele și mana încetează
+V
+v Le pietre servivano a rispondere ai figli || Pietrele slujeau ca răspuns pentru copii
+x Le pietre furono prese sulla riva, non nel fiume || Pietrele au fost luate de pe mal, nu din râu
+v Giosuè mise dodici pietre anche in mezzo al Giordano || Iosua a pus douăsprezece pietre și în mijlocul Iordanului
+v Il popolo uscì dal Giordano il decimo giorno del primo mese || Poporul a ieșit din Iordan în ziua a zecea a lunii întâi
+H Erano le dodici pietre di Ghilgal. Dopo il passaggio del Giordano, dodici uomini, uno per tribù, presero dodici pietre dal letto del fiume, dove stavano i piedi dei sacerdoti, e le portarono all'accampamento di Ghilgal. Quando i figli avessero chiesto «Che cosa significano queste pietre?», i padri avrebbero risposto che Israele aveva passato il Giordano all'asciutto. Giosuè eresse altre dodici pietre in mezzo al fiume. Poco dopo, a Ghilgal, celebrarono la Pasqua e la manna cessò. || Erau cele douăsprezece pietre de la Ghilgal. După trecerea Iordanului, doisprezece bărbați, câte unul din fiecare seminție, au luat douăsprezece pietre din albia râului, de unde stăteau picioarele preoților, și le-au dus în tabăra de la Ghilgal. Când copiii aveau să întrebe „Ce înseamnă pietrele acestea?”, părinții trebuiau să răspundă că Israel a trecut Iordanul pe uscat. Iosua a ridicat alte douăsprezece pietre în mijlocul râului. Puțin după aceea, la Ghilgal, au prăznuit Paștele, și mana a încetat.
+
+== capo_esercito | 🗡️ | 3 | campo | 🗡️ 👡 🙇 | 6 5:13-15
+T «Sei per noi o per i nostri nemici?» || „Ești dintre ai noștri sau dintre vrăjmașii noștri?”
+S Una spada sguainata vicino a Gerico || O sabie scoasă lângă Ierihon
+R Giosuè 5:13-15 || Iosua 5:13-15
+I Vicino a una città fortificata, un comandante alza gli occhi e vede un uomo con la spada in mano. Gli va incontro e gli fa una domanda. La risposta lo fa cadere con la faccia a terra. Scopri chi era quell'uomo.
+I Lângă o cetate întărită, un căpitan își ridică ochii și vede un om cu sabia în mână. Merge spre el și îi pune o întrebare. Răspunsul îl face să cadă cu fața la pământ. Descoperă cine era omul acela.
+E i gerico 🏙️ | Vicino a Gerico || Lângă Ierihon
+. Il comandante si trovava vicino a Gerico, prima della conquista della città. || Căpitanul era lângă Ierihon, înainte de cucerirea cetății.
+. Prima della conquista di Gerico || Înainte de cucerirea Ierihonului
+E i spada 🗡️ | La spada || Sabia
+. Alzò gli occhi e vide un uomo in piedi davanti a lui, con la spada sguainata in mano. || Și-a ridicat ochii și a văzut un om stând în picioare înaintea lui, cu sabia scoasă în mână.
+. Un uomo con la spada sguainata || Un om cu sabia scoasă
+E t comandante ❓ | Il comandante || Căpitanul
+. Il condottiero d'Israele || Căpetenia lui Israel
+. Sei dei nostri o dei nostri nemici? || Ești dintre ai noștri sau dintre vrăjmașii noștri?
+. «Sei per noi o per i nemici?» || „Ești de partea noastră sau a vrăjmașilor?”
+E t straniero ⚔️ | L'uomo con la spada || Omul cu sabia
+. Uno che non si schiera con nessuno dei due || Unul care nu se așază de partea niciunuia
+. No, io sono il capo dell'esercito del Signore; arrivo adesso. || Nu, ci Eu sunt Căpetenia oștirii Domnului și acum am venit.
+. «Sono il capo dell'esercito del Signore» || „Eu sunt Căpetenia oștirii Domnului”
+E i prostrato 🙇 | La risposta del comandante || Răspunsul căpitanului
+. Il comandante cadde con la faccia a terra, si prostrò e disse: «Che cosa vuol dire il mio Signore al suo servo?». || Căpitanul s-a aruncat cu fața la pământ, s-a închinat și a zis: „Ce spune Domnul meu robului Său?”
+. Si prostra e ascolta || Se închină și ascultă
+E i sandali 👡 | I sandali || Încălțămintea
+. «Togliti i sandali dai piedi, perché il luogo dove stai è santo». E il comandante fece così. || „Scoate-ți încălțămintea din picioare, căci locul pe care stai este sfânt.” Și căpitanul a făcut așa.
+. «Il luogo dove stai è santo» || „Locul pe care stai este sfânt”
+E f scudo 🛡️ | Uno scudo || Un scut
+. Uno scudo appoggiato a una roccia. Nessun indizio. || Un scut rezemat de o stâncă. Niciun indiciu.
+A Quarant'anni prima un altro uomo aveva sentito le stesse parole davanti a un roveto. || Cu patruzeci de ani înainte, un alt om auzise aceleași cuvinte înaintea unui rug.
+A Il comandante era il successore di Mosè. || Căpitanul era urmașul lui Moise.
+A È Giosuè davanti al capo dell'esercito del Signore (Giosuè 5). || Este Iosua înaintea Căpeteniei oștirii Domnului (Iosua 5).
+Q Che cosa rispose l'uomo con la spada? || Ce a răspuns omul cu sabia?
++ «Sono il capo dell'esercito del Signore» || „Eu sunt Căpetenia oștirii Domnului”
+- «Sono uno dei vostri soldati» || „Sunt unul din ostașii voștri”
+- «Sono il re di Gerico» || „Sunt împăratul Ierihonului”
+- «Sono una spia» || „Sunt o iscoadă”
+Q Che cosa dovette togliersi Giosuè? || Ce a trebuit să-și scoată Iosua?
++ I sandali || Încălțămintea
+- La spada || Sabia
+- L'elmo || Coiful
+- Il mantello || Mantaua
+O
+> Giosuè è vicino a Gerico || Iosua este lângă Ierihon
+> Vede un uomo con la spada || Vede un om cu sabia
+> Gli chiede da che parte sta || Îl întreabă de partea cui este
+> L'uomo si presenta come capo dell'esercito del Signore || Omul Se arată drept Căpetenia oștirii Domnului
+> Giosuè si toglie i sandali || Iosua își scoate încălțămintea
+V
+v L'uomo non disse di essere dalla parte d'Israele || Omul n-a spus că este de partea lui Israel
+v Giosuè si prostrò davanti a lui || Iosua s-a închinat înaintea lui
+x Giosuè combatté con l'uomo con la spada || Iosua s-a luptat cu omul cu sabia
+v Le parole ricordano quelle dette a Mosè al roveto || Cuvintele amintesc de cele spuse lui Moise la rug
+H Era il capo dell'esercito del Signore. Vicino a Gerico, Giosuè vide un uomo con la spada sguainata e gli chiese: «Sei dei nostri o dei nemici?». L'uomo rispose: «No, io sono il capo dell'esercito del Signore». Giosuè cadde con la faccia a terra: «Che cosa vuol dire il mio Signore al suo servo?». Gli fu detto: «Togliti i sandali, perché il luogo dove stai è santo», come era stato detto a Mosè davanti al roveto ardente. || Era Căpetenia oștirii Domnului. Lângă Ierihon, Iosua a văzut un om cu sabia scoasă și l-a întrebat: „Ești dintre ai noștri sau dintre vrăjmași?” Omul a răspuns: „Nu, ci Eu sunt Căpetenia oștirii Domnului.” Iosua s-a aruncat cu fața la pământ: „Ce spune Domnul meu robului Său?” I s-a spus: „Scoate-ți încălțămintea, căci locul pe care stai este sfânt”, cum i se spusese lui Moise înaintea rugului aprins.
+
+== ai_imboscata | 🔥 | 2 | citta | 🏙️ 🔥 🗡️ | 6 8:1-29
+T La città lasciata aperta || Cetatea lăsată deschisă
+S Una lancia puntata verso la città || O suliță îndreptată spre cetate
+R Giosuè 8:1-29 || Iosua 8:1-29
+I Una piccola città aveva già respinto una volta gli invasori. Questa volta il capo prepara un piano: una parte dei suoi uomini si nasconde dietro la città, l'altra finge di fuggire. Scopri come finisce.
+I O cetate mică îi respinsese deja o dată pe năvălitori. De data aceasta căpetenia pregătește un plan: o parte din oameni se ascund în spatele cetății, cealaltă se preface că fuge. Descoperă cum se sfârșește.
+E i prima 😞 | La prima sconfitta || Prima înfrângere
+. La prima volta gli uomini d'Israele erano stati respinti, a causa del peccato di Acan che aveva preso cose vietate a Gerico. || Prima dată oamenii lui Israel fuseseră respinși, din pricina păcatului lui Acan, care luase lucruri oprite la Ierihon.
+. La prima volta erano stati respinti || Prima dată fuseseră respinși
+E t voce ✨ | Il nuovo ordine || Porunca cea nouă
+. Colui che incoraggia il condottiero || Cel ce îl îmbărbătează pe căpitan
+. Non temere e non scoraggiarti: prendi con te tutta la gente di guerra e sali contro Ai; ecco, io ti do in mano il suo re, il suo popolo, la sua città. Tende un'imboscata dietro la città. || Nu te teme și nu te înspăimânta: ia cu tine pe toți oamenii de război și suie-te împotriva cetății Ai; iată, îți dau în mâini pe împăratul ei, poporul ei și cetatea ei. Pune o pândă înapoia cetății.
+. «Tendi un'imboscata dietro la città» || „Pune o pândă înapoia cetății”
+E i imboscata 🌙 | L'imboscata || Pânda
+. Di notte un gruppo di uomini si nascose fra Bethel e Ai, a ovest della città. || Noaptea un grup de oameni s-a ascuns între Betel și Ai, la apus de cetate.
+. Uomini nascosti fra Bethel e Ai || Oameni ascunși între Betel și Ai
+E i finta 🏃 | La finta fuga || Fuga prefăcută
+. Il condottiero con il resto si avvicinò alla città e, quando uscirono a combattere, finse di fuggire; tutti gli uomini di Ai e di Bethel li inseguirono lasciando la città aperta. || Căpitanul cu ceilalți s-a apropiat de cetate și, când au ieșit la luptă, s-a prefăcut că fuge; toți oamenii din Ai și din Betel i-au urmărit, lăsând cetatea deschisă.
+. La città lasciata aperta || Cetatea lăsată deschisă
+E i lancia 🗡️ | La lancia || Sulița
+. Dio disse: «Stendi la lancia che hai in mano verso Ai». Il condottiero la stese e gli uomini nascosti entrarono nella città e le diedero fuoco. || Dumnezeu a zis: „Întinde spre Ai sulița pe care o ai în mână.” Căpitanul a întins-o, iar oamenii ascunși au intrat în cetate și i-au dat foc.
+. La lancia tesa: il segnale || Sulița întinsă: semnalul
+E i fumo 💨 | Il fumo || Fumul
+. Gli uomini di Ai si voltarono e videro il fumo della città salire al cielo; si trovarono presi in mezzo da due parti. || Oamenii din Ai s-au întors și au văzut fumul cetății ridicându-se spre cer; s-au trezit prinși la mijloc din două părți.
+. Presi in mezzo, vedono il fumo || Prinși la mijloc, văd fumul
+E f elmo ⛑️ | Un elmo || Un coif
+. Un elmo ammaccato sul sentiero. Nessun indizio. || Un coif lovit pe cărare. Niciun indiciu.
+A Il condottiero tenne la lancia tesa finché la battaglia non fu finita. || Căpitanul a ținut sulița întinsă până s-a isprăvit lupta.
+A Questa volta Dio permise al popolo di prendere il bestiame e il bottino. || De data aceasta Dumnezeu a îngăduit poporului să ia vitele și prada.
+A È la presa di Ai con l'imboscata (Giosuè 8). || Este luarea cetății Ai prin pândă (Iosua 8).
+Q Dove si nascose l'imboscata? || Unde s-a ascuns pânda?
++ Fra Bethel e Ai || Între Betel și Ai
+- Nel Giordano || În Iordan
+- Dentro la città || În cetate
+- A Gerico || La Ierihon
+Q Quale fu il segnale per l'imboscata? || Care a fost semnalul pentru pândă?
++ La lancia tesa verso Ai || Sulița întinsă spre Ai
+- Il suono della tromba || Sunetul trâmbiței
+- Un fuoco sul monte || Un foc pe munte
+- Un grido di guerra || Un strigăt de război
+O
+> Dio incoraggia Giosuè || Dumnezeu îl îmbărbătează pe Iosua
+> L'imboscata si nasconde di notte || Pânda se ascunde noaptea
+> Israele finge di fuggire || Israel se preface că fuge
+> Giosuè stende la lancia || Iosua întinde sulița
+> La città viene incendiata || Cetatea este arsă
+V
+v Anche gli uomini di Bethel inseguirono Israele || Și oamenii din Betel au urmărit pe Israel
+x L'imboscata era davanti alla città, a est || Pânda era în fața cetății, la răsărit
+v Gli uomini di Ai furono presi da due parti || Oamenii din Ai au fost prinși din două părți
+v Questa volta il bottino fu permesso || De data aceasta prada a fost îngăduită
+H Era la presa di Ai. Dopo la prima sconfitta dovuta al peccato di Acan, Dio disse a Giosuè di non temere e di tendere un'imboscata. Di notte un gruppo si nascose fra Bethel e Ai; Giosuè si avvicinò con gli altri e finse di fuggire, e gli uomini di Ai e Bethel lasciarono la città aperta per inseguirli. Dio disse: «Stendi la lancia verso Ai»; l'imboscata entrò, incendiò la città, e i difensori, voltandosi, videro il fumo e si trovarono presi in mezzo. || Era luarea cetății Ai. După prima înfrângere din pricina păcatului lui Acan, Dumnezeu i-a spus lui Iosua să nu se teamă și să pună o pândă. Noaptea un grup s-a ascuns între Betel și Ai; Iosua s-a apropiat cu ceilalți și s-a prefăcut că fuge, iar oamenii din Ai și Betel au lăsat cetatea deschisă ca să-i urmărească. Dumnezeu a zis: „Întinde sulița spre Ai”; pânda a intrat, a ars cetatea, iar apărătorii, întorcându-se, au văzut fumul și s-au trezit prinși la mijloc.
+
+== gabaoniti | 🥖 | 2 | deserto | 🥖 👡 🍶 | 6 9:1-27
+T Pane ammuffito e sandali rotti || Pâine mucegăită și încălțăminte ruptă
+S Un patto fatto senza chiedere a Dio || Un legământ făcut fără să-L întrebe pe Dumnezeu
+R Giosuè 9 || Iosua 9
+I Degli ambasciatori arrivano all'accampamento con vestiti logori, sandali rattoppati e pane secco. Dicono di venire da un paese lontanissimo. I capi fanno un patto con loro. Tre giorni dopo scoprono la verità. Scopri chi sono.
+I Niște soli ajung în tabără cu haine vechi, încălțăminte cârpită și pâine uscată. Spun că vin dintr-o țară foarte depărtată. Căpeteniile fac legământ cu ei. Trei zile mai târziu află adevărul. Descoperă cine sunt.
+E i otri 🍶 | Gli otri || Burdufurile
+. Caricarono sugli asini sacchi consunti e vecchi otri di vino strappati e rattoppati. || Au pus pe măgari saci vechi și burdufuri vechi de vin, rupte și cârpite.
+. Otri vecchi e rattoppati || Burdufuri vechi și cârpite
+E i sandali 👡 | I sandali e le vesti || Încălțămintea și hainele
+. Ai piedi avevano sandali vecchi e rattoppati, e addosso vesti logore. || În picioare purtau încălțăminte veche și cârpită, iar pe ei haine vechi.
+. Tutto vecchio e consumato || Totul vechi și ros
+E i pane 🥖 | Il pane || Pâinea
+. Tutto il pane delle provviste era secco e ammuffito. || Toată pâinea pe care o aveau pentru hrană era uscată și mucegăită.
+. Pane secco e ammuffito || Pâine uscată și mucegăită
+E t ambasciatori 🧳 | Gli ambasciatori || Solii
+. Stranieri che dicono di venire da lontano || Străini care spun că vin de departe
+. I tuoi servi vengono da un paese molto lontano, per la fama del Signore tuo Dio. Questo pane era caldo quando siamo partiti, e guarda com'è ora! Fate un patto con noi. || Robii tăi vin dintr-o țară foarte depărtată, pentru faima Domnului Dumnezeului tău. Pâinea aceasta era caldă când am plecat, și iată ce s-a făcut acum! Faceți legământ cu noi.
+. «Veniamo da un paese lontano» || „Venim dintr-o țară foarte depărtată”
+E i errore ❌ | L'errore || Greșeala
+. Gli uomini d'Israele presero delle loro provviste, ma non consultarono il Signore; Giosuè fece la pace con loro e i capi giurarono. || Bărbații lui Israel au luat din merindele lor, dar n-au întrebat pe Domnul; Iosua a făcut pace cu ei, iar căpeteniile au jurat.
+. Non chiesero consiglio al Signore || N-au întrebat pe Domnul
+E i legna 🪵 | La legna e l'acqua || Lemnele și apa
+. Tre giorni dopo scoprirono che erano vicini. A causa del giuramento non poterono ucciderli, ma li fecero tagliatori di legna e portatori d'acqua per l'assemblea e per l'altare. || După trei zile au aflat că erau vecini. Din pricina jurământului nu i-au putut omorî, dar i-au pus să taie lemne și să scoată apă pentru adunare și pentru altar.
+. Tagliatori di legna e portatori d'acqua || Tăietori de lemne și scoțători de apă
+E f corda 🪢 | Una corda nuova || O funie nouă
+. Una corda nuova: stona con tutto il resto. Nessun indizio. || O funie nouă: nu se potrivește cu restul. Niciun indiciu.
+A Abitavano in realtà a pochi giorni di cammino, in quattro città. || Locuiau de fapt la câteva zile de drum, în patru cetăți.
+A Più tardi cinque re li attaccarono, e Israele andò a difenderli. || Mai târziu cinci împărați i-au atacat, și Israel s-a dus să-i apere.
+A Sono i Gabaoniti (Giosuè 9). || Sunt gabaoniții (Iosua 9).
+Q Qual fu l'errore dei capi d'Israele? || Care a fost greșeala căpeteniilor lui Israel?
++ Non consultarono il Signore || N-au întrebat pe Domnul
+- Mangiarono pane ammuffito || Au mâncat pâine mucegăită
+- Uccisero gli ambasciatori || I-au omorât pe soli
+- Tornarono in Egitto || S-au întors în Egipt
+Q Che lavoro fu dato ai Gabaoniti? || Ce lucru li s-a dat gabaoniților?
++ Tagliare legna e portare acqua || Să taie lemne și să scoată apă
+- Costruire le mura || Să zidească ziduri
+- Fare mattoni || Să facă cărămizi
+- Custodire le greggi || Să păzească turmele
+O
+> Arrivano ambasciatori con vesti logore || Vin soli cu haine vechi
+> Mostrano il pane ammuffito || Arată pâinea mucegăită
+> Israele non consulta il Signore || Israel nu întreabă pe Domnul
+> I capi giurano un patto || Căpeteniile jură un legământ
+> Dopo tre giorni si scopre la verità || După trei zile se află adevărul
+> Diventano tagliatori di legna || Devin tăietori de lemne
+V
+v I Gabaoniti usarono l'astuzia || Gabaoniții au lucrat cu vicleșug
+v Israele mantenne il giuramento || Israel și-a ținut jurământul
+x Il pane era fresco quando arrivarono || Pâinea era proaspătă când au sosit
+v Servirono anche per l'altare del Signore || Au slujit și pentru altarul Domnului
+H Erano i Gabaoniti. Avendo saputo di Gerico e di Ai, si presentarono con otri rattoppati, sandali consumati, vesti logore e pane ammuffito, dicendo di venire da un paese lontanissimo. Gli uomini d'Israele guardarono le provviste ma non consultarono il Signore, e i capi giurarono un patto. Tre giorni dopo scoprirono che erano vicini; per il giuramento non li uccisero, ma li fecero tagliatori di legna e portatori d'acqua per l'assemblea e per l'altare. || Erau gabaoniții. Auzind de Ierihon și de Ai, au venit cu burdufuri cârpite, încălțăminte roasă, haine vechi și pâine mucegăită, spunând că vin dintr-o țară foarte depărtată. Bărbații lui Israel s-au uitat la merinde, dar n-au întrebat pe Domnul, iar căpeteniile au jurat un legământ. După trei zile au aflat că erau vecini; din pricina jurământului nu i-au omorât, dar i-au pus să taie lemne și să scoată apă pentru adunare și pentru altar.
+
+== sole_fermo | ☀️ | 1 | campo | ☀️ 🌙 🧊 | 6 10:1-15
+T Il giorno più lungo || Ziua cea mai lungă
+S «Sole, fermati!» || „Oprește-te, soare!”
+R Giosuè 10:1-15 || Iosua 10:1-15
+I Cinque re attaccano una città alleata d'Israele. Un esercito marcia tutta la notte per difenderla. Durante la battaglia cadono dal cielo grandi pietre, e il condottiero dice una preghiera mai sentita prima. Scopri quale.
+I Cinci împărați atacă o cetate aliată cu Israel. O oaste merge toată noaptea ca s-o apere. În timpul luptei cad din cer pietre mari, iar căpitanul rostește o rugăciune nemaiauzită. Descoperă care.
+E i cinque 👑 | Cinque re || Cinci împărați
+. Il re di Gerusalemme si alleò con i re di Hebron, Jarmuth, Lakish ed Eglon per attaccare Gabaon, che aveva fatto pace con Israele. || Împăratul Ierusalimului s-a unit cu împărații Hebronului, Iarmutului, Lachisului și Eglonului ca să atace Gabaonul, care făcuse pace cu Israel.
+. Cinque re contro Gabaon || Cinci împărați împotriva Gabaonului
+E i notte 🌙 | La marcia notturna || Marșul de noapte
+. Il condottiero salì da Ghilgal marciando tutta la notte e piombò sui nemici all'improvviso. || Căpitanul s-a suit din Ghilgal mergând toată noaptea și a căzut deodată peste vrăjmași.
+. Tutta la notte da Ghilgal || Toată noaptea din Ghilgal
+E i grandine 🧊 | Le pietre dal cielo || Pietrele din cer
+. Mentre i nemici fuggivano, il Signore fece cadere dal cielo grandi pietre: ne morirono più per la grandine che per la spada. || Pe când fugeau vrăjmașii, Domnul a aruncat din cer pietre mari: au murit mai mulți de grindină decât de sabie.
+. Più morti per la grandine che per la spada || Mai mulți morți de grindină decât de sabie
+E t condottiero 🗣️ | Il condottiero || Căpitanul
+. Uno che parla al Signore davanti a Israele || Unul care vorbește Domnului înaintea lui Israel
+. Sole, fermati su Gabaon, e tu, luna, sulla valle di Ajalon! || Oprește-te, soare, asupra Gabaonului, și tu, lună, asupra văii Aialonului!
+. «Sole, fermati su Gabaon!» || „Oprește-te, soare, asupra Gabaonului!”
+E i sole ☀️ | Il sole || Soarele
+. Il sole si fermò in mezzo al cielo e non si affrettò a tramontare per quasi un giorno intero. || Soarele s-a oprit în mijlocul cerului și nu s-a grăbit să apună aproape o zi întreagă.
+. Il sole fermo quasi un giorno intero || Soarele oprit aproape o zi întreagă
+E i unico 📖 | Un giorno unico || O zi fără seamăn
+. Non ci fu mai, né prima né dopo, un giorno come quello, in cui il Signore ascoltò la voce di un uomo, perché il Signore combatteva per Israele. È scritto nel libro del Giusto. || N-a mai fost nicio zi ca aceea, nici înainte, nici după aceea, când Domnul să fi ascultat glasul unui om, căci Domnul lupta pentru Israel. Este scris în Cartea Dreptului.
+. Il Signore ascoltò la voce di un uomo || Domnul a ascultat glasul unui om
+E f scudo 🛡️ | Uno scudo rotto || Un scut spart
+. Uno scudo rotto dalla grandine. Nessun indizio. || Un scut spart de grindină. Niciun indiciu.
+A La città attaccata aveva ingannato Israele per ottenere un patto. || Cetatea atacată înșelase pe Israel ca să obțină un legământ.
+A Dopo la battaglia i cinque re si nascosero in una grotta a Makkedah. || După luptă cei cinci împărați s-au ascuns într-o peșteră la Macheda.
+A È Giosuè che ferma il sole a Gabaon (Giosuè 10). || Este Iosua care oprește soarele la Gabaon (Iosua 10).
+Q Su quale città si fermò il sole? || Asupra cărei cetăți s-a oprit soarele?
++ Gabaon || Gabaon
+- Gerico || Ierihon
+- Ai || Ai
+- Hebron || Hebron
+Q Che cosa uccise più nemici della spada? || Ce a omorât mai mulți vrăjmași decât sabia?
++ La grandine || Grindina
+- Il fuoco || Focul
+- Un terremoto || Un cutremur
+- Il fiume || Râul
+O
+> Cinque re attaccano Gabaon || Cinci împărați atacă Gabaonul
+> Giosuè marcia tutta la notte || Iosua merge toată noaptea
+> I nemici fuggono || Vrăjmașii fug
+> Cade la grandine dal cielo || Cade grindina din cer
+> Giosuè dice: «Sole, fermati!» || Iosua zice: „Oprește-te, soare!”
+V
+v Anche la luna si fermò || Și luna s-a oprit
+v Il racconto è scritto anche nel libro del Giusto || Istoria este scrisă și în Cartea Dreptului
+x Il sole si fermò su Gerico || Soarele s-a oprit asupra Ierihonului
+v Gabaon aveva fatto pace con Israele || Gabaonul făcuse pace cu Israel
+H Era il giorno in cui il sole si fermò. Cinque re amorei, guidati dal re di Gerusalemme, attaccarono Gabaon, alleata d'Israele. Giosuè marciò tutta la notte da Ghilgal e li sorprese; mentre fuggivano, il Signore fece cadere grandi pietre dal cielo, che uccisero più della spada. Giosuè disse davanti a Israele: «Sole, fermati su Gabaon, e tu, luna, sulla valle di Ajalon!». Il sole si fermò quasi un giorno intero: non ci fu mai un giorno come quello, in cui il Signore ascoltò la voce di un uomo. || Era ziua în care s-a oprit soarele. Cinci împărați amoriți, în frunte cu împăratul Ierusalimului, au atacat Gabaonul, aliat cu Israel. Iosua a mers toată noaptea din Ghilgal și i-a lovit pe neașteptate; pe când fugeau, Domnul a aruncat din cer pietre mari, care au omorât mai mulți decât sabia. Iosua a zis înaintea lui Israel: „Oprește-te, soare, asupra Gabaonului, și tu, lună, asupra văii Aialonului!” Soarele s-a oprit aproape o zi întreagă: n-a mai fost nicio zi ca aceea, când Domnul să fi ascultat glasul unui om.

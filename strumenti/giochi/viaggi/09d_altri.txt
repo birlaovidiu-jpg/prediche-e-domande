@@ -1,0 +1,199 @@
+# Altri viaggi dell'Antico Testamento (4)
+
+= nube_fuoco | ☁️ | La colonna di nuvola e di fuoco | Stâlpul de nor și de foc | 2 13:21
+@ ramses | 2 12:37
+it: Nella notte della Pasqua i figli d'Israele partirono da Ramses verso Sukkoth.
+ro: În noaptea Paștelui, copiii lui Israel au plecat din Ramses spre Sucot.
+@ succoth_eg | 2 13:19
+it: Mosè prese con sé le ossa di Giuseppe, come Giuseppe aveva fatto giurare ai figli d'Israele.
+ro: Moise a luat cu el oasele lui Iosif, cum îi pusese Iosif pe fiii lui Israel să jure.
+? personaggio | 2 13:19
+qi: Le ossa di chi portò con sé Mosè uscendo dall'Egitto?
+qr: Oasele cui le-a luat Moise cu el când a ieșit din Egipt?
+ai: Di Giuseppe | Di Giacobbe | Di Abrahamo | Di Levi
+ar: Ale lui Iosif | Ale lui Iacov | Ale lui Avraam | Ale lui Levi
+@ etham | 2 13:20
+it: Partiti da Sukkoth, si accamparono a Etham, ai margini del deserto.
+ro: Plecând din Sucot, au tăbărât la Etam, la marginea pustiei.
+? evento | 2 13:21
+qi: Come guidava l'Eterno il popolo di giorno e di notte?
+qr: Cum călăuzea Domnul poporul ziua și noaptea?
+ai: Di giorno con una colonna di nuvola, di notte con una colonna di fuoco | Con una stella | Con un angelo a cavallo | Con il suono di una tromba
+ar: Ziua într-un stâlp de nor, noaptea într-un stâlp de foc | Printr-o stea | Printr-un înger călare | Prin sunetul unei trâmbițe
+@ pihahiroth | 2 14:2
+it: L'Eterno fece tornare indietro il popolo e accampare davanti a Pi-Hahiroth, fra Migdol e il mare.
+ro: Domnul a făcut poporul să se întoarcă și să tăbărască înaintea Pi-Hahirotului, între Migdol și mare.
+? domanda | 2 14:3
+qi: Che cosa avrebbe pensato il Faraone vedendo Israele accampato presso il mare?
+qr: Ce avea să creadă Faraon văzându-l pe Israel tăbărât lângă mare?
+ai: Che si erano smarriti e il deserto li teneva rinchiusi | Che volevano tornare in Egitto | Che preparavano una guerra | Che avevano trovato un porto
+ar: Că s-au rătăcit și pustia i-a închis | Că voiau să se întoarcă în Egipt | Că se pregăteau de război | Că au găsit un port
+@ marrosso | 2 14:19
+it: Quando il Faraone li inseguì, la colonna di nuvola si spostò dietro al popolo, fra i due accampamenti.
+ro: Când Faraon i-a urmărit, stâlpul de nor s-a mutat în urma poporului, între cele două tabere.
+? ordina | 2 14:19
+qi: Metti in ordine l'inizio dell'esodo.
+qr: Pune în ordine începutul ieșirii din Egipt.
+ai: Ramses | Sukkoth | Etham | Pi-Hahiroth | Il Mar Rosso
+ar: Ramses | Sucot | Etam | Pi-Hahirot | Marea Roșie
+
+= giuseppe_governatore | 💍 | Giuseppe, da prigioniero a governatore | Iosif, din rob cârmuitor | 1 41:14
+@ egitto | 1 40:3 | la prigione del capo delle guardie | temnița căpeteniei străjerilor
+it: In prigione Giuseppe spiegò i sogni del capo dei coppieri e del capo dei panettieri del Faraone.
+ro: În temniță, Iosif a tâlcuit visele mai-marelui paharnicilor și ale mai-marelui pitarilor lui Faraon.
+@ tanis | 1 41:14 | il palazzo del Faraone | casa lui Faraon
+it: Il Faraone fece chiamare Giuseppe dalla prigione; egli si rase, cambiò le vesti e spiegò i sogni del re.
+ro: Faraon a trimis să-l cheme pe Iosif din temniță; el s-a ras, și-a schimbat hainele și a tâlcuit visele împăratului.
+? domanda | 1 41:29
+qi: Che cosa annunciavano i sogni del Faraone?
+qr: Ce vesteau visele lui Faraon?
+ai: Sette anni di abbondanza e sette anni di carestia | Una guerra con Canaan | La nascita di un figlio | Una piena del Nilo
+ar: Șapte ani de belșug și șapte ani de foamete | Un război cu Canaanul | Nașterea unui fiu | O revărsare a Nilului
+@ tanis | 1 41:43 | il secondo carro del re | al doilea car al împăratului
+it: Il Faraone mise il suo anello alla mano di Giuseppe e lo fece salire sul suo secondo carro.
+ro: Faraon și-a scos inelul din deget și l-a pus în degetul lui Iosif, și l-a suit în al doilea car al lui.
+? domanda | 1 41:46
+qi: Quanti anni aveva Giuseppe quando si presentò davanti al Faraone?
+qr: Câți ani avea Iosif când s-a înfățișat înaintea lui Faraon?
+ai: 30 | 17 | 40 | 22
+ar: 30 | 17 | 40 | 22
+@ on | 1 41:45
+it: Il Faraone diede in moglie a Giuseppe Asenath, figlia di Potiferah, sacerdote di On.
+ro: Faraon i-a dat de nevastă lui Iosif pe Asnat, fata lui Poti-Fera, preotul din On.
+? personaggio | 1 41:45
+qi: Come si chiamava la moglie di Giuseppe?
+qr: Cum se numea nevasta lui Iosif?
+ai: Asenath | Tamar | Sefora | Dinah
+ar: Asnat | Tamar | Sefora | Dina
+@ egitto | 1 41:48 | le città granaio | cetățile cu grânare
+it: Durante gli anni di abbondanza Giuseppe ammassò il grano nelle città, tanto che smise di contarlo.
+ro: În anii de belșug, Iosif a strâns grâul în cetăți, atât de mult încât a încetat să-l mai numere.
+? ordina | 1 41:48
+qi: Metti in ordine la storia di Giuseppe in Egitto.
+qr: Pune în ordine istoria lui Iosif în Egipt.
+ai: I sogni dei due prigionieri | I sogni del Faraone | L'anello e il secondo carro | Il matrimonio con Asenath | Il grano ammassato
+ar: Visele celor doi întemnițați | Visele lui Faraon | Inelul și al doilea car | Căsătoria cu Asnat | Grâul strâns
+
+= mose_sinai | 📜 | Mosè sul monte Sinai | Moise pe muntele Sinai | 2 19:20
+@ sinai | 2 19:2 | l'accampamento ai piedi del monte | tabăra de la poalele muntelui
+it: Nel terzo mese dall'uscita dall'Egitto, Israele si accampò davanti al monte Sinai.
+ro: În luna a treia după ieșirea din Egipt, Israel a tăbărât în fața muntelui Sinai.
+@ sinai | 2 19:20 | la vetta del monte | vârful muntelui
+it: L'Eterno scese sul monte Sinai, chiamò Mosè in vetta e gli diede i comandamenti.
+ro: Domnul S-a pogorât pe muntele Sinai, l-a chemat pe Moise pe vârf și i-a dat poruncile.
+? domanda | 2 24:18
+qi: Quanto tempo rimase Mosè sul monte la prima volta?
+qr: Cât timp a stat Moise pe munte prima dată?
+ai: 40 giorni e 40 notti | 7 giorni | 3 giorni | Un anno
+ar: 40 de zile și 40 de nopți | 7 zile | 3 zile | Un an
+@ sinai | 2 32:19 | il vitello d'oro | vițelul de aur
+it: Scendendo, Mosè vide il vitello d'oro e le danze: gettò le tavole e le spezzò ai piedi del monte.
+ro: Coborând, Moise a văzut vițelul de aur și jocurile: a aruncat tablele și le-a sfărâmat la poalele muntelui.
+? personaggio | 2 32:4
+qi: Chi fece il vitello d'oro?
+qr: Cine a făcut vițelul de aur?
+ai: Aaronne | Giosuè | Hur | Core
+ar: Aaron | Iosua | Hur | Core
+@ sinai | 2 34:28 | le nuove tavole | tablele cele noi
+it: Mosè salì di nuovo con due tavole di pietra nuove; l'Eterno vi scrisse le parole del patto, i dieci comandamenti.
+ro: Moise s-a suit din nou cu două table de piatră noi; Domnul a scris pe ele cuvintele legământului, cele zece porunci.
+? domanda | 2 34:28
+qi: Che cosa scrisse l'Eterno sulle nuove tavole?
+qr: Ce a scris Domnul pe tablele cele noi?
+ai: I dieci comandamenti | I nomi delle tribù | La storia della creazione | Le leggi del re
+ar: Cele zece porunci | Numele semințiilor | Istoria facerii lumii | Legile împăratului
+@ sinai | 2 34:29 | la discesa con il volto splendente | pogorârea cu fața strălucitoare
+it: Quando Mosè scese dal monte, non sapeva che la pelle del suo volto era diventata raggiante.
+ro: Când s-a pogorât Moise de pe munte, nu știa că pielea feței lui strălucea.
+? evento | 2 34:29
+qi: Che cosa accadde al volto di Mosè dopo aver parlato con l'Eterno?
+qr: Ce s-a întâmplat cu fața lui Moise după ce a vorbit cu Domnul?
+ai: Era diventato raggiante | Era diventato bianco come la neve | Era coperto di polvere | Era invecchiato
+ar: Strălucea | S-a făcut albă ca zăpada | Era plină de praf | Îmbătrânise
+
+= neemia_ono | 🧱 | Neemia e l'invito nella valle di Ono | Neemia și chemarea în valea Ono | 16 6:2
+@ gerusalemme | 16 4:16
+it: Durante la ricostruzione, metà del popolo lavorava e metà stava di guardia con le armi.
+ro: În timpul zidirii, jumătate din popor lucra și jumătate stătea de strajă cu armele.
+@ ono | 16 6:2
+it: Sanballat e Ghescem invitarono Neemia a incontrarli in uno dei villaggi della valle di Ono.
+ro: Sanbalat și Gheșem l-au chemat pe Neemia să se întâlnească într-unul din satele din valea Ono.
+? domanda | 16 6:3
+qi: Che cosa rispose Neemia all'invito nella valle di Ono?
+qr: Ce a răspuns Neemia la chemarea din valea Ono?
+ai: «Sto facendo un grande lavoro e non posso scendere» | «Verrò domani» | «Mandatemi dell'oro» | «Parlate con il re»
+ar: „Am de făcut o lucrare mare și nu pot să mă pogor” | „Voi veni mâine” | „Trimiteți-mi aur” | „Vorbiți cu împăratul”
+@ gerusalemme | 16 6:4 | le mura in costruzione | zidul în lucru
+it: Per quattro volte mandarono lo stesso invito, e Neemia rispose sempre allo stesso modo.
+ro: De patru ori au trimis aceeași chemare, și Neemia a răspuns totdeauna la fel.
+? domanda | 16 6:4
+qi: Quante volte Sanballat e Ghescem mandarono l'invito?
+qr: De câte ori au trimis Sanbalat și Gheșem chemarea?
+ai: 4 | 1 | 7 | 12
+ar: 4 | 1 | 7 | 12
+@ gerusalemme | 16 6:15 | le mura finite | zidul isprăvit
+it: Le mura furono terminate in cinquantadue giorni; i nemici capirono che l'opera era stata fatta con l'aiuto di Dio.
+ro: Zidul a fost isprăvit în cincizeci și două de zile; vrăjmașii au înțeles că lucrarea se făcuse cu voia lui Dumnezeu.
+? personaggio | 16 6:2
+qi: Chi, insieme a Ghescem, invitò Neemia nella valle di Ono?
+qr: Cine, împreună cu Gheșem, l-a chemat pe Neemia în valea Ono?
+ai: Sanballat | Tobiah | Esdra | Artaserse
+ar: Sanbalat | Tobia | Ezra | Artaxerxe
+
+= prigionieri_gerico | 🌴 | I prigionieri riportati a Gerico | Prinșii aduși înapoi la Ierihon | 14 28:9
+@ gerusalemme | 14 28:8
+it: Al tempo del re Achaz, l'esercito d'Israele portò via prigionieri da Giuda duecentomila donne, figli e figlie.
+ro: Pe vremea împăratului Ahaz, oastea lui Israel a luat prinși din Iuda două sute de mii de femei, fii și fiice.
+@ samaria | 14 28:9
+it: Alle porte di Samaria il profeta Obed uscì incontro all'esercito e rimproverò la loro crudeltà.
+ro: La porțile Samariei, prorocul Oded a ieșit înaintea oștirii și a mustrat cruzimea lor.
+? personaggio | 14 28:9
+qi: Quale profeta andò incontro all'esercito che tornava a Samaria?
+qr: Care proroc a ieșit înaintea oștirii care se întorcea la Samaria?
+ai: Obed | Elia | Isaia | Nathan
+ar: Oded | Ilie | Isaia | Natan
+@ samaria | 14 28:15 | la cura dei prigionieri | îngrijirea prinșilor
+it: Alcuni capi rivestirono i prigionieri, diedero loro da mangiare e da bere e li unsero.
+ro: Câțiva fruntași i-au îmbrăcat pe prinși, le-au dat de mâncare și de băut și i-au uns.
+? domanda | 14 28:15
+qi: Come trattarono i capi d'Israele i prigionieri, dopo le parole del profeta?
+qr: Cum s-au purtat fruntașii lui Israel cu prinșii, după cuvintele prorocului?
+ai: Li vestirono, diedero loro cibo e li riaccompagnarono | Li vendettero schiavi | Li portarono in Assiria | Li lasciarono nel deserto
+ar: I-au îmbrăcat, le-au dat de mâncare și i-au dus înapoi | I-au vândut ca robi | I-au dus în Asiria | I-au lăsat în pustie
+@ gerico | 14 28:15
+it: Portarono i più deboli sugli asini e li condussero a Gerico, la città delle palme, presso i loro fratelli.
+ro: I-au dus pe cei slabi pe măgari și i-au dus la Ierihon, cetatea finicilor, la frații lor.
+? luogo | 14 28:15
+qi: In quale città furono riportati i prigionieri?
+qr: În ce cetate au fost aduși înapoi prinșii?
+ai: A Gerico, la città delle palme | A Gerusalemme | A Bethel | A Hebron
+ar: La Ierihon, cetatea finicilor | La Ierusalim | La Betel | La Hebron
+
+= isaia_segno | 👣 | Il segno di Isaia contro l'Egitto | Semnul lui Isaia împotriva Egiptului | 23 20:1
+@ asdod | 23 20:1
+it: Tartan, mandato da Sargon re di Assiria, venne ad Ashdod, la combatté e la prese.
+ro: Tartanul, trimis de Sargon, împăratul Asiriei, a venit la Asdod, a luptat împotriva lui și l-a luat.
+@ gerusalemme | 23 20:2
+it: A Gerusalemme l'Eterno disse a Isaia di togliersi il sacco e i calzari, ed egli andò nudo e scalzo.
+ro: La Ierusalim, Domnul i-a spus lui Isaia să-și dezlege sacul și să-și scoată încălțămintea, și el a umblat gol și desculț.
+? domanda | 23 20:3
+qi: Per quanto tempo Isaia andò nudo e scalzo come segno?
+qr: Cât timp a umblat Isaia gol și desculț, ca semn?
+ai: Tre anni | Tre giorni | Quaranta giorni | Sette anni
+ar: Trei ani | Trei zile | Patruzeci de zile | Șapte ani
+@ egitto | 23 20:4
+it: Il segno annunciava che il re d'Assiria avrebbe portato via prigionieri dall'Egitto.
+ro: Semnul vestea că împăratul Asiriei îi va duce robi pe cei din Egipt.
+? luogo | 23 20:3
+qi: Contro quali paesi era il segno di Isaia?
+qr: Împotriva căror țări era semnul lui Isaia?
+ai: L'Egitto e l'Etiopia | Babilonia e la Media | Moab e Ammon | Tiro e Sidone
+ar: Egiptul și Etiopia | Babilonul și Media | Moabul și Amonul | Tirul și Sidonul
+@ etiopia | 23 20:5
+it: Quelli che confidavano nell'Etiopia e si gloriavano dell'Egitto sarebbero rimasti confusi.
+ro: Cei ce se încredeau în Etiopia și se lăudau cu Egiptul aveau să fie înspăimântați și rușinați.
+? personaggio | 23 20:1
+qi: Quale re di Assiria mandò Tartan contro Ashdod?
+qr: Care împărat al Asiriei l-a trimis pe Tartan împotriva Asdodului?
+ai: Sargon | Sennacherib | Nebukadnetsar | Tiglath-Pileser
+ar: Sargon | Sanherib | Nebucadnețar | Tiglat-Pileser

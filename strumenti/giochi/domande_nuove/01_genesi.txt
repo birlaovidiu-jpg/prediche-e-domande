@@ -1,0 +1,314 @@
+# Domande nuove per la Ruota (e per Sprint, Scalata, Tempio) — Genesi
+# stesso formato di domande.txt: categoria|livello|riferimento, poi IT|… e RO|…
+at|2|1 1:2
+IT|Com'era la terra all'inizio, prima che Dio dicesse «Sia la luce»?|Informe e vuota|Piena di alberi|Coperta di ghiaccio|Già abitata|La terra era informe e vuota, e le tenebre coprivano la faccia dell'abisso.
+RO|Cum era pământul la început, înainte ca Dumnezeu să zică „Să fie lumină”?|Pustiu și gol|Plin de copaci|Acoperit de gheață|Deja locuit|Pământul era pustiu și gol; peste fața adâncului de ape era întuneric.
+at|1|1 1:3
+IT|Qual è la prima cosa che Dio chiamò all'esistenza dicendo «Sia…»?|La luce|Il firmamento|Le piante|I pesci|Dio disse: «Sia la luce», e la luce fu.
+RO|Care este primul lucru pe care Dumnezeu l-a chemat spunând „Să fie…”?|Lumina|Întinderea|Plantele|Peștii|Dumnezeu a zis: „Să fie lumină!” Și a fost lumină.
+at|2|1 1:16-19
+IT|In quale giorno della creazione Dio fece il sole, la luna e le stelle?|Il quarto|Il primo|Il secondo|Il sesto|Nel quarto giorno Dio fece i due grandi luminari e le stelle.
+RO|În ce zi a creației a făcut Dumnezeu soarele, luna și stelele?|A patra|Prima|A doua|A șasea|În ziua a patra, Dumnezeu a făcut cei doi mari luminători și stelele.
+at|1|1 1:27
+IT|A immagine di chi fu creato l'uomo?|Di Dio|Degli angeli|Degli animali|Della terra|Dio creò l'uomo a sua immagine, maschio e femmina li creò.
+RO|După chipul cui a fost făcut omul?|Al lui Dumnezeu|Al îngerilor|Al animalelor|Al pământului|Dumnezeu l-a făcut pe om după chipul Său; parte bărbătească și parte femeiască i-a făcut.
+at|1|1 2:3
+IT|Quale giorno Dio benedisse e santificò dopo la creazione?|Il settimo|Il primo|Il sesto|L'ottavo|Dio benedisse il settimo giorno e lo santificò, perché in esso si riposò.
+RO|Ce zi a binecuvântat și a sfințit Dumnezeu după creație?|Ziua a șaptea|Prima zi|Ziua a șasea|Ziua a opta|Dumnezeu a binecuvântat ziua a șaptea și a sfințit-o, pentru că în ea S-a odihnit.
+at|2|1 2:7
+IT|Di che cosa Dio formò l'uomo?|Della polvere della terra|Di una costola|Dell'acqua del mare|Di argilla rossa del fiume|Dio formò l'uomo dalla polvere della terra e gli soffiò nelle narici un alito di vita.
+RO|Din ce l-a făcut Dumnezeu pe om?|Din țărâna pământului|Dintr-o coastă|Din apa mării|Din lutul râului|Domnul Dumnezeu l-a făcut pe om din țărâna pământului și i-a suflat în nări suflare de viață.
+luoghi|1|1 2:8
+IT|Come si chiamava la regione dove Dio piantò il giardino per l'uomo?|Eden|Canaan|Goscen|Ur|Dio piantò un giardino in Eden, verso oriente.
+RO|Cum se numea ținutul unde a sădit Dumnezeu grădina pentru om?|Eden|Canaan|Gosen|Ur|Domnul Dumnezeu a sădit o grădină în Eden, spre răsărit.
+at|2|1 2:9
+IT|Quali due alberi speciali c'erano in mezzo al giardino?|Della vita e della conoscenza del bene e del male|Del fico e dell'ulivo|Della vita e della pace|Della sapienza e della gloria|In mezzo al giardino c'erano l'albero della vita e l'albero della conoscenza del bene e del male.
+RO|Ce doi pomi deosebiți erau în mijlocul grădinii?|Pomul vieții și pomul cunoștinței binelui și răului|Smochinul și măslinul|Pomul vieții și pomul păcii|Pomul înțelepciunii și pomul slavei|În mijlocul grădinii erau pomul vieții și pomul cunoștinței binelui și răului.
+luoghi|3|1 2:10
+IT|In quanti rami si divideva il fiume che usciva dall'Eden?|Quattro|Due|Tre|Sette|Il fiume dell'Eden si divideva in quattro rami.
+RO|În câte brațe se despărțea râul care ieșea din Eden?|Patru|Două|Trei|Șapte|Râul care ieșea din Eden se despărțea în patru brațe.
+luoghi|3|1 2:14
+IT|Quale di questi fiumi usciva dal giardino dell'Eden?|L'Eufrate|Il Giordano|Il Nilo|Il Kison|Il quarto fiume dell'Eden era l'Eufrate.
+RO|Care dintre aceste râuri ieșea din grădina Edenului?|Eufratul|Iordanul|Nilul|Chisonul|Al patrulea râu din Eden era Eufratul.
+at|2|1 2:15
+IT|Perché Dio pose l'uomo nel giardino dell'Eden?|Per lavorarlo e custodirlo|Per riposarsi soltanto|Per costruire una città|Per dare la caccia agli animali|Dio prese l'uomo e lo pose nel giardino dell'Eden perché lo lavorasse e lo custodisse.
+RO|De ce l-a pus Dumnezeu pe om în grădina Edenului?|Ca s-o lucreze și s-o păzească|Doar ca să se odihnească|Ca să zidească o cetate|Ca să vâneze animalele|Domnul Dumnezeu l-a pus pe om în grădina Edenului, ca s-o lucreze și s-o păzească.
+at|1|1 2:22
+IT|Da che cosa Dio formò la donna?|Da una costola dell'uomo|Dalla polvere|Da un ramo dell'albero|Dall'acqua del fiume|Dio formò la donna dalla costola che aveva tolto all'uomo.
+RO|Din ce a făcut Dumnezeu femeia?|Din coasta omului|Din țărână|Dintr-o ramură|Din apa râului|Domnul Dumnezeu a făcut o femeie din coasta pe care o luase din om.
+at|1|1 3:1
+IT|Quale animale tentò Eva nel giardino?|Il serpente|Il leone|L'aquila|La volpe|Il serpente era il più astuto di tutti gli animali dei campi.
+RO|Ce animal a ispitit-o pe Eva în grădină?|Șarpele|Leul|Vulturul|Vulpea|Șarpele era mai șiret decât toate fiarele câmpului.
+at|2|1 3:7
+IT|Con che cosa si fecero delle cinture Adamo ed Eva dopo il peccato?|Con foglie di fico|Con pelli di pecora|Con foglie di palma|Con rami di ulivo|Si accorsero di essere nudi e cucirono insieme foglie di fico.
+RO|Din ce și-au făcut Adam și Eva șorțuri după păcat?|Din frunze de smochin|Din piei de oaie|Din frunze de palmier|Din ramuri de măslin|Au văzut că erau goi și au cusut laolaltă frunze de smochin.
+profezie|3|1 3:15
+IT|Nella prima promessa della Bibbia, che cosa avrebbe fatto la progenie della donna al serpente?|Gli avrebbe schiacciato il capo|Lo avrebbe cacciato dal giardino|Lo avrebbe trasformato|Lo avrebbe perdonato|La progenie della donna avrebbe schiacciato il capo al serpente: è la prima promessa del Salvatore.
+RO|În prima făgăduință din Biblie, ce avea să facă sămânța femeii șarpelui?|Avea să-i zdrobească capul|Avea să-l alunge din grădină|Avea să-l schimbe|Avea să-l ierte|Sămânța femeii avea să zdrobească capul șarpelui: este prima făgăduință a Mântuitorului.
+at|2|1 3:21
+IT|Con che cosa Dio vestì Adamo ed Eva?|Con tuniche di pelle|Con foglie di fico|Con vesti di lino|Con mantelli di lana|Dio fece ad Adamo e a sua moglie delle tuniche di pelle e li vestì.
+RO|Cu ce i-a îmbrăcat Dumnezeu pe Adam și pe Eva?|Cu haine de piele|Cu frunze de smochin|Cu haine de in|Cu mantale de lână|Domnul Dumnezeu a făcut lui Adam și nevestei lui haine de piele și i-a îmbrăcat cu ele.
+at|2|1 3:24
+IT|Chi Dio pose a oriente del giardino per custodire la via dell'albero della vita?|I cherubini|Adamo|Un leone|Michele|Dio pose i cherubini con una spada fiammeggiante per custodire la via dell'albero della vita.
+RO|Pe cine a pus Dumnezeu la răsăritul grădinii ca să păzească drumul spre pomul vieții?|Heruvimi|Pe Adam|Un leu|Pe Mihail|Dumnezeu a pus heruvimi cu o sabie învăpăiată ca să păzească drumul spre pomul vieții.
+personaggi|1|1 4:2
+IT|Quale lavoro faceva Abele?|Il pastore di greggi|L'agricoltore|Il cacciatore|Il costruttore|Abele divenne pastore di greggi, Caino lavoratore della terra.
+RO|Ce meserie avea Abel?|Cioban|Plugar|Vânător|Zidar|Abel era cioban, iar Cain era plugar.
+at|2|1 4:15
+IT|Che cosa pose l'Eterno su Caino, perché nessuno lo uccidesse?|Un segno|Una corona|Una catena|Un marchio di fuoco sulla fronte|L'Eterno pose un segno su Caino, perché chiunque lo trovasse non lo uccidesse.
+RO|Ce a pus Domnul pe Cain, ca să nu-l omoare nimeni?|Un semn|O cunună|Un lanț|Un semn de foc pe frunte|Domnul a pus un semn pe Cain, ca oricine îl va găsi să nu-l omoare.
+personaggi|2|1 4:9
+IT|Chi rispose a Dio: «Sono forse io il guardiano di mio fratello?»|Caino|Esaù|Giuda|Ruben|Caino rispose così quando Dio gli chiese dove fosse Abele.
+RO|Cine I-a răspuns lui Dumnezeu: „Sunt eu păzitorul fratelui meu?”|Cain|Esau|Iuda|Ruben|Cain a răspuns așa când Dumnezeu l-a întrebat unde este Abel.
+personaggi|2|1 4:25
+IT|Quale figlio nacque ad Adamo ed Eva al posto di Abele?|Seth|Enos|Enoc|Cainan|Eva lo chiamò Seth, perché Dio le aveva dato un altro figlio al posto di Abele.
+RO|Ce fiu li s-a născut lui Adam și Evei în locul lui Abel?|Set|Enos|Enoh|Cainan|Eva i-a pus numele Set, pentru că Dumnezeu îi dăduse o altă sămânță în locul lui Abel.
+personaggi|2|1 5:24
+IT|Chi «camminò con Dio» e non fu più trovato, perché Dio lo prese?|Enok|Noè|Methuselah|Seth|Enok camminò con Dio; poi non fu più trovato, perché Dio lo prese.
+RO|Cine „a umblat cu Dumnezeu” și nu s-a mai văzut, pentru că l-a luat Dumnezeu?|Enoh|Noe|Metusala|Set|Enoh a umblat cu Dumnezeu; apoi nu s-a mai văzut, pentru că l-a luat Dumnezeu.
+personaggi|3|1 5:27
+IT|Chi è l'uomo più longevo della Bibbia, con 969 anni?|Methuselah|Adamo|Noè|Jared|Tutto il tempo che Methuselah visse fu di novecentosessantanove anni.
+RO|Cine este omul care a trăit cel mai mult în Biblie, 969 de ani?|Metusala|Adam|Noe|Iared|Toate zilele lui Metusala au fost de nouă sute șaizeci și nouă de ani.
+personaggi|2|1 5:32
+IT|Come si chiamavano i tre figli di Noè?|Sem, Cam e Jafet|Caino, Abele e Seth|Abrahamo, Nahor e Haran|Ruben, Simeone e Levi|Noè generò Sem, Cam e Jafet.
+RO|Cum se numeau cei trei fii ai lui Noe?|Sem, Ham și Iafet|Cain, Abel și Set|Avraam, Nahor și Haran|Ruben, Simeon și Levi|Noe a născut pe Sem, Ham și Iafet.
+at|3|1 6:15
+IT|Quanti cubiti era lunga l'arca di Noè?|Trecento|Cento|Cinquecento|Mille|L'arca era lunga trecento cubiti, larga cinquanta e alta trenta.
+RO|Câți coți de lungă era corabia lui Noe?|Trei sute|O sută|Cinci sute|O mie|Corabia avea trei sute de coți lungime, cincizeci lățime și treizeci înălțime.
+at|2|1 6:14
+IT|Di quale legno Dio disse a Noè di fare l'arca?|Di legno di gofer|Di legno di cedro|Di legno d'acacia|Di legno d'ulivo|Dio disse: «Fatti un'arca di legno di gofer».
+RO|Din ce lemn i-a spus Dumnezeu lui Noe să facă corabia?|Din lemn de gofer|Din lemn de cedru|Din lemn de salcâm|Din lemn de măslin|Dumnezeu i-a zis: „Fă-ți o corabie de lemn de gofer.”
+at|2|1 7:2
+IT|Di ogni animale puro, quante coppie Noè doveva prendere nell'arca?|Sette|Una|Due|Tre|Degli animali puri Noè doveva prendere sette paia, degli impuri una.
+RO|Din fiecare animal curat, câte perechi trebuia să ia Noe în corabie?|Șapte|Una|Două|Trei|Din toate dobitoacele curate Noe trebuia să ia câte șapte perechi, iar din cele necurate câte una.
+at|1|1 7:12
+IT|Per quanti giorni piovve durante il diluvio?|Quaranta giorni e quaranta notti|Sette giorni|Cento giorni|Un anno intero|La pioggia cadde sulla terra quaranta giorni e quaranta notti.
+RO|Câte zile a plouat în timpul potopului?|Patruzeci de zile și patruzeci de nopți|Șapte zile|O sută de zile|Un an întreg|Ploaia a căzut pe pământ patruzeci de zile și patruzeci de nopți.
+at|2|1 7:16
+IT|Chi chiuse la porta dell'arca dietro Noè?|L'Eterno|Noè|Sem|Un angelo|Dopo che tutti furono entrati, l'Eterno chiuse la porta dietro a Noè.
+RO|Cine a închis ușa corăbiei după Noe?|Domnul|Noe|Sem|Un înger|După ce au intrat toți, Domnul a închis ușa după Noe.
+luoghi|1|1 8:4
+IT|Su quali monti si fermò l'arca?|Sui monti Ararat|Sul monte Sinai|Sul monte Carmelo|Sul monte Hermon|L'arca si fermò sui monti Ararat nel settimo mese.
+RO|Pe ce munți s-a oprit corabia?|Pe munții Ararat|Pe muntele Sinai|Pe muntele Carmel|Pe muntele Hermon|Corabia s-a oprit pe munții Ararat în luna a șaptea.
+at|2|1 8:7
+IT|Quale uccello mandò Noè per primo fuori dall'arca?|Un corvo|Una colomba|Un passero|Un'aquila|Noè mandò fuori prima un corvo, poi la colomba.
+RO|Ce pasăre a trimis Noe prima dată afară din corabie?|Un corb|Un porumbel|O vrabie|Un vultur|Noe a dat drumul întâi unui corb, apoi porumbelului.
+at|1|1 9:13
+IT|Quale segno diede Dio dopo il diluvio per il suo patto?|L'arcobaleno|Una stella|Una colonna di fuoco|Un altare|Dio pose il suo arco nella nuvola come segno del patto con la terra.
+RO|Ce semn a dat Dumnezeu după potop pentru legământul Său?|Curcubeul|O stea|Un stâlp de foc|Un altar|Dumnezeu Și-a pus curcubeul în nor ca semn al legământului cu pământul.
+personaggi|3|1 9:20
+IT|Che cosa piantò Noè dopo il diluvio?|Una vigna|Un giardino di ulivi|Un campo di grano|Un bosco di cedri|Noè cominciò a coltivare la terra e piantò una vigna.
+RO|Ce a sădit Noe după potop?|O vie|O grădină de măslini|Un lan de grâu|O pădure de cedri|Noe a început să fie lucrător al pământului și a sădit o vie.
+personaggi|3|1 10:9
+IT|Chi fu chiamato «un potente cacciatore davanti all'Eterno»?|Nimrod|Esaù|Ismaele|Cus|Di Nimrod si diceva: «Come Nimrod, potente cacciatore davanti all'Eterno».
+RO|Cine a fost numit „un vânător puternic înaintea Domnului”?|Nimrod|Esau|Ismael|Cuș|Despre Nimrod se spunea: „Ca Nimrod, vânător puternic înaintea Domnului.”
+luoghi|1|1 11:9
+IT|Dove Dio confuse la lingua di tutta la terra?|A Babele|A Ninive|In Egitto|A Sodoma|La città fu chiamata Babele, perché là l'Eterno confuse la lingua di tutta la terra.
+RO|Unde a încurcat Dumnezeu limba întregului pământ?|La Babel|La Ninive|În Egipt|La Sodoma|Cetatea s-a numit Babel, pentru că acolo a încurcat Domnul limba întregului pământ.
+luoghi|2|1 11:31
+IT|Da quale città partì Terah con Abramo verso Canaan?|Ur dei Caldei|Haran|Ninive|Babilonia|Terah uscì con loro da Ur dei Caldei per andare nel paese di Canaan.
+RO|Din ce cetate a plecat Terah cu Avram spre Canaan?|Ur din Haldeea|Haran|Ninive|Babilon|Terah a ieșit cu ei din Ur din Haldeea ca să meargă în țara Canaan.
+personaggi|2|1 12:4
+IT|Quanti anni aveva Abramo quando partì da Haran?|Settantacinque|Cento|Cinquanta|Novantanove|Abramo aveva settantacinque anni quando partì da Haran.
+RO|Câți ani avea Avram când a plecat din Haran?|Șaptezeci și cinci|O sută|Cincizeci|Nouăzeci și nouă|Avram avea șaptezeci și cinci de ani când a ieșit din Haran.
+personaggi|1|1 12:5
+IT|Quale nipote partì con Abramo verso Canaan?|Lot|Isacco|Nahor|Labano|Abramo prese con sé Sarai sua moglie e Lot, figlio di suo fratello.
+RO|Ce nepot a plecat cu Avram spre Canaan?|Lot|Isaac|Nahor|Laban|Avram a luat pe Sarai, nevasta sa, și pe Lot, fiul fratelui său.
+luoghi|2|1 13:10
+IT|Quale regione scelse Lot quando si separò da Abramo?|La pianura del Giordano|Il deserto del Negev|Il monte Moriah|Il paese di Galaad|Lot vide che tutta la pianura del Giordano era ben irrigata e la scelse.
+RO|Ce ținut a ales Lot când s-a despărțit de Avram?|Câmpia Iordanului|Pustiul Neghev|Muntele Moria|Țara Galaad|Lot a văzut că toată câmpia Iordanului era bine udată și a ales-o.
+personaggi|2|1 14:18
+IT|Quale re di Salem, sacerdote del Dio Altissimo, benedisse Abramo?|Melchisedek|Abimelek|Bera|Chedorlaomer|Melchisedek, re di Salem, portò pane e vino e benedisse Abramo.
+RO|Ce împărat al Salemului, preot al Dumnezeului Preaînalt, l-a binecuvântat pe Avram?|Melhisedec|Abimelec|Bera|Chedorlaomer|Melhisedec, împăratul Salemului, a adus pâine și vin și l-a binecuvântat pe Avram.
+personaggi|3|1 14:20
+IT|Che cosa diede Abramo a Melchisedek?|La decima di ogni cosa|Un vitello|Il suo mantello|Metà del bottino|Abramo gli diede la decima di ogni cosa.
+RO|Ce i-a dat Avram lui Melhisedec?|Zeciuială din toate|Un vițel|Mantaua lui|Jumătate din pradă|Avram i-a dat zeciuială din toate.
+at|2|1 15:5
+IT|A che cosa Dio paragonò la discendenza di Abramo, facendolo uscire di notte?|Alle stelle del cielo|Ai pesci del mare|Agli alberi del bosco|Alle gocce di pioggia|Dio disse: «Guarda il cielo e conta le stelle… così sarà la tua discendenza».
+RO|Cu ce a asemănat Dumnezeu sămânța lui Avram, scoțându-l afară noaptea?|Cu stelele cerului|Cu peștii mării|Cu copacii pădurii|Cu picăturile de ploaie|Dumnezeu i-a zis: „Uită-te spre cer și numără stelele… Așa va fi sămânța ta.”
+at|2|1 15:6
+IT|Che cosa l'Eterno gli mise in conto come giustizia, quando Abramo credette?|La sua fede|Le sue offerte|La sua ubbidienza al sabato|La sua ricchezza|Abramo credette all'Eterno, che glielo mise in conto come giustizia.
+RO|Ce i-a socotit Domnul ca neprihănire, când Avram a crezut?|Credința lui|Darurile lui|Păzirea Sabatului|Bogăția lui|Avram a crezut pe Domnul, și Domnul i-a socotit lucrul acesta ca neprihănire.
+personaggi|1|1 16:3
+IT|Quale serva egiziana Sarai diede come moglie ad Abramo?|Agar|Zilpa|Bilha|Keturah|Sarai prese Agar, l'egiziana sua serva, e la diede ad Abramo.
+RO|Ce roabă egipteancă i-a dat Sarai lui Avram de nevastă?|Agar|Zilpa|Bilha|Chetura|Sarai a luat pe Agar, egipteanca, roaba ei, și a dat-o de nevastă lui Avram.
+personaggi|2|1 16:11
+IT|Quale nome l'angelo disse ad Agar di dare al figlio?|Ismaele|Isacco|Esaù|Madian|L'angelo disse: «Lo chiamerai Ismaele, perché l'Eterno ha udito la tua afflizione».
+RO|Ce nume i-a spus îngerul Agarei să-i pună copilului?|Ismael|Isaac|Esau|Madian|Îngerul i-a zis: „Îi vei pune numele Ismael, căci Domnul ți-a auzit durerea.”
+personaggi|2|1 17:5
+IT|Quale nome prese Abramo quando Dio fece con lui il patto?|Abrahamo|Israele|Ebreo|Terah|Dio disse: «Il tuo nome sarà Abrahamo, perché ti costituisco padre di una moltitudine di nazioni».
+RO|Ce nume a primit Avram când Dumnezeu a făcut legământ cu el?|Avraam|Israel|Evreu|Terah|Dumnezeu i-a zis: „Numele tău va fi Avraam, căci te fac tatăl multor neamuri.”
+at|2|1 17:11
+IT|Quale segno del patto Dio diede ad Abrahamo?|La circoncisione|L'arcobaleno|Il sabato|Il sacrificio dell'agnello|Ogni maschio doveva essere circonciso: era il segno del patto.
+RO|Ce semn al legământului i-a dat Dumnezeu lui Avraam?|Tăierea împrejur|Curcubeul|Sabatul|Jertfa mielului|Orice parte bărbătească trebuia tăiată împrejur: acesta era semnul legământului.
+personaggi|2|1 18:12
+IT|Chi rise dentro di sé sentendo che avrebbe avuto un figlio nella vecchiaia?|Sara|Rebecca|Agar|Rachele|Sara rise dentro di sé, perché lei e Abrahamo erano già vecchi.
+RO|Cine a râs în sine auzind că va avea un fiu la bătrânețe?|Sara|Rebeca|Agar|Rahela|Sara a râs în sine, pentru că ea și Avraam erau bătrâni.
+at|3|1 18:32
+IT|Per quanti giusti Dio promise di non distruggere Sodoma, nell'ultima richiesta di Abrahamo?|Dieci|Cinquanta|Venti|Quaranta|Abrahamo arrivò a chiedere: «Forse se ne troveranno dieci», e Dio rispose che per amore dei dieci non l'avrebbe distrutta.
+RO|Pentru câți oameni neprihăniți a promis Dumnezeu să nu nimicească Sodoma, la ultima cerere a lui Avraam?|Zece|Cincizeci|Douăzeci|Patruzeci|Avraam a ajuns să ceară: „Poate că se vor găsi zece”, și Dumnezeu a răspuns că n-o va nimici din pricina celor zece.
+miracoli|1|1 19:26
+IT|In che cosa fu trasformata la moglie di Lot quando si voltò indietro?|In una statua di sale|In pietra|In polvere|In un albero|La moglie di Lot guardò indietro e diventò una statua di sale.
+RO|În ce a fost prefăcută nevasta lui Lot când s-a uitat înapoi?|Într-un stâlp de sare|În piatră|În țărână|Într-un copac|Nevasta lui Lot s-a uitat înapoi și s-a prefăcut într-un stâlp de sare.
+luoghi|2|1 19:24
+IT|Su quali due città l'Eterno fece piovere zolfo e fuoco?|Sodoma e Gomorra|Ninive e Babele|Gerico e Ai|Tiro e Sidone|L'Eterno fece piovere dal cielo zolfo e fuoco su Sodoma e Gomorra.
+RO|Peste ce două cetăți a plouat Domnul pucioasă și foc?|Sodoma și Gomora|Ninive și Babel|Ierihon și Ai|Tir și Sidon|Domnul a plouat din cer pucioasă și foc peste Sodoma și Gomora.
+personaggi|2|1 21:6
+IT|Chi disse: «Dio mi ha dato di che ridere; chiunque lo udrà riderà con me»?|Sara|Rebecca|Agar|Lea|Sara lo disse alla nascita di Isacco, il cui nome significa «egli ride».
+RO|Cine a zis: „Dumnezeu m-a făcut să râd; oricine va auzi va râde de mine”?|Sara|Rebeca|Agar|Lea|Sara a spus aceste cuvinte la nașterea lui Isaac, al cărui nume înseamnă „râde”.
+miracoli|2|1 21:19
+IT|Che cosa Dio fece vedere ad Agar nel deserto, per salvare il ragazzo?|Un pozzo d'acqua|Un albero da frutto|Una tenda|Una carovana|Dio le aprì gli occhi ed ella vide un pozzo d'acqua.
+RO|Ce i-a arătat Dumnezeu Agarei în pustie, ca să-l scape pe copil?|O fântână cu apă|Un pom cu roade|Un cort|O caravană|Dumnezeu i-a deschis ochii și a văzut o fântână cu apă.
+at|2|1 22:6
+IT|Che cosa portava Isacco salendo sul monte con suo padre?|La legna per l'olocausto|Il coltello|Il fuoco|Un agnello|Abrahamo prese la legna per l'olocausto e la mise addosso a Isacco suo figlio.
+RO|Ce ducea Isaac când urca pe munte cu tatăl său?|Lemnele pentru arderea-de-tot|Cuțitul|Focul|Un miel|Avraam a luat lemnele pentru arderea-de-tot, le-a pus în spinarea fiului său Isaac.
+at|1|1 22:13
+IT|Che cosa offrì Abrahamo al posto di suo figlio Isacco?|Un montone|Un agnello di un anno|Un vitello|Due colombe|Abrahamo vide un montone preso per le corna in un cespuglio e lo offrì al posto del figlio.
+RO|Ce a adus Avraam jertfă în locul fiului său Isaac?|Un berbec|Un miel de un an|Un vițel|Doi porumbei|Avraam a văzut un berbec încurcat cu coarnele într-un tufiș și l-a adus jertfă în locul fiului său.
+at|3|1 22:14
+IT|Come chiamò Abrahamo il luogo del sacrificio sul monte?|L'Eterno provvederà|Betel|Peniel|Ebenezer|Abrahamo chiamò quel luogo «L'Eterno provvederà».
+RO|Cum a numit Avraam locul jertfei de pe munte?|Domnul va purta de grijă|Betel|Peniel|Ebenezer|Avraam a numit locul acela „Domnul va purta de grijă”.
+luoghi|3|1 23:19
+IT|In quale grotta fu sepolta Sara?|Nella spelonca di Makpelah|Nella caverna di Adullam|Nella grotta di Engedi|Nella caverna di Makkeda|Abrahamo seppellì Sara nella spelonca del campo di Makpelah, di fronte a Mamre.
+RO|În ce peșteră a fost îngropată Sara?|În peștera din ogorul Macpela|În peștera Adulam|În peștera En-Ghedi|În peștera Macheda|Avraam a îngropat-o pe Sara în peștera din ogorul Macpela, în fața Mamrei.
+personaggi|2|1 24:2
+IT|Chi mandò Abrahamo a cercare una moglie per Isacco?|Il suo servo più anziano|Lot|Ismaele|Isacco stesso|Abrahamo mandò il servo più anziano della sua casa, che amministrava tutti i suoi beni.
+RO|Pe cine a trimis Avraam să caute o nevastă pentru Isaac?|Pe cel mai bătrân rob al casei|Pe Lot|Pe Ismael|Pe Isaac însuși|Avraam l-a trimis pe robul cel mai bătrân al casei, care avea grijă de toată averea lui.
+personaggi|2|1 24:15
+IT|Quale ragazza diede da bere al servo di Abrahamo e ai suoi cammelli?|Rebecca|Rachele|Lea|Dina|Rebecca offrì da bere al servo e attinse acqua anche per i cammelli.
+RO|Ce fată i-a dat de băut robului lui Avraam și cămilelor lui?|Rebeca|Rahela|Lea|Dina|Rebeca i-a dat să bea robului și a scos apă și pentru cămile.
+personaggi|2|1 24:67
+IT|In quale tenda Isacco condusse Rebecca?|Nella tenda di Sara, sua madre|Nella tenda di Abrahamo|Nella tenda del servo|In una tenda nuova|Isacco condusse Rebecca nella tenda di Sara sua madre; la prese in moglie e l'amò.
+RO|În ce cort a dus-o Isaac pe Rebeca?|În cortul mamei sale, Sara|În cortul lui Avraam|În cortul robului|Într-un cort nou|Isaac a dus-o pe Rebeca în cortul mamei sale Sara; a luat-o de nevastă și a iubit-o.
+personaggi|1|1 25:26
+IT|Quale gemello nacque tenendo per il calcagno suo fratello Esaù?|Giacobbe|Beniamino|Giuseppe|Ruben|Giacobbe nacque con la mano che teneva il calcagno di Esaù.
+RO|Care geamăn s-a născut ținând de călcâi pe fratele său Esau?|Iacov|Beniamin|Iosif|Ruben|Iacov s-a născut ținând cu mâna călcâiul lui Esau.
+personaggi|3|1 25:30
+IT|Quale altro nome ebbe Esaù, per la minestra rossa che chiese?|Edom|Seir|Amalek|Moab|Esaù disse: «Lasciami mangiare di questa minestra rossa», perciò fu chiamato Edom.
+RO|Ce alt nume a primit Esau din pricina ciorbei roșii pe care a cerut-o?|Edom|Seir|Amalec|Moab|Esau a zis: „Lasă-mă să mănânc din roșcatul acesta”; de aceea i s-a pus numele Edom.
+personaggi|2|1 27:16
+IT|Con che cosa Rebecca coprì le mani di Giacobbe per ingannare Isacco?|Con le pelli dei capretti|Con un mantello di lana|Con guanti di cuoio|Con bende di lino|Rebecca gli coprì le mani e il collo con le pelli dei capretti.
+RO|Cu ce i-a acoperit Rebeca mâinile lui Iacov, ca să-l înșele pe Isaac?|Cu pielea iezilor|Cu o manta de lână|Cu mănuși de piele|Cu fâșii de in|Rebeca i-a acoperit mâinile și gâtul cu pielea iezilor.
+luoghi|2|1 28:19
+IT|Come chiamò Giacobbe il luogo dove sognò la scala?|Bethel|Peniel|Mahanaim|Sichem|Giacobbe chiamò quel luogo Bethel, «casa di Dio»; prima la città si chiamava Luz.
+RO|Cum a numit Iacov locul unde a visat scara?|Betel|Peniel|Mahanaim|Sihem|Iacov a numit locul acela Betel, adică „Casa lui Dumnezeu”; mai înainte cetatea se chema Luz.
+at|1|1 28:12
+IT|Che cosa vide Giacobbe in sogno a Betel?|Una scala che arrivava fino al cielo|Sette vacche grasse|Un roveto ardente|Una statua d'oro|Giacobbe sognò una scala appoggiata sulla terra, la cui cima toccava il cielo, con angeli che salivano e scendevano.
+RO|Ce a văzut Iacov în vis la Betel?|O scară care ajungea până la cer|Șapte vaci grase|Un rug aprins|Un chip de aur|Iacov a visat o scară rezemată de pământ, al cărei vârf ajungea până la cer, și îngerii suiau și coborau pe ea.
+personaggi|2|1 28:22
+IT|Che cosa promise Giacobbe a Dio a Betel?|La decima di tutto|Di costruire un tempio|Di non bere vino|Di tornare in Egitto|Giacobbe disse: «Di tutto quello che mi darai, io ti darò la decima».
+RO|Ce I-a promis Iacov lui Dumnezeu la Betel?|Zeciuială din tot|Să zidească un templu|Să nu bea vin|Să se întoarcă în Egipt|Iacov a zis: „Din tot ce-mi vei da, Îți voi da a zecea parte.”
+personaggi|2|1 29:20
+IT|Per quanti anni Giacobbe servì Labano per avere Rachele la prima volta?|Sette|Quattordici|Tre|Venti|Giacobbe servì sette anni per Rachele, e gli sembrarono pochi giorni per l'amore che le portava.
+RO|Câți ani a slujit Iacov la Laban pentru Rahela, prima dată?|Șapte|Paisprezece|Trei|Douăzeci|Iacov a slujit șapte ani pentru Rahela, și i s-au părut ca vreo câteva zile, pentru că o iubea.
+personaggi|2|1 29:25
+IT|Quale figlia Labano diede a Giacobbe al posto di Rachele?|Lea|Dina|Zilpa|Bilha|La mattina Giacobbe si accorse che era Lea, la sorella maggiore.
+RO|Ce fiică i-a dat Laban lui Iacov în locul Rahelei?|Pe Lea|Pe Dina|Pe Zilpa|Pe Bilha|Dimineața, Iacov a văzut că era Lea, sora cea mai mare.
+personaggi|3|1 30:24
+IT|Quale figlio di Rachele fu chiamato con un nome che significa «aggiunga»?|Giuseppe|Beniamino|Dan|Neftali|Rachele lo chiamò Giuseppe, dicendo: «L'Eterno mi aggiunga un altro figlio».
+RO|Ce fiu al Rahelei a primit un nume care înseamnă „să adauge”?|Iosif|Beniamin|Dan|Neftali|Rahela i-a pus numele Iosif, zicând: „Domnul să-mi mai adauge un fiu!”
+personaggi|3|1 31:19
+IT|Chi rubò gli idoli di famiglia di suo padre Labano?|Rachele|Lea|Giacobbe|Ruben|Mentre Labano era a tosare le pecore, Rachele rubò gli idoli di suo padre.
+RO|Cine a furat idolii tatălui său, Laban?|Rahela|Lea|Iacov|Ruben|Pe când Laban era dus să-și tundă oile, Rahela a furat idolii tatălui ei.
+personaggi|1|1 32:28
+IT|Quale nuovo nome ricevette Giacobbe dopo aver lottato con l'angelo?|Israele|Abrahamo|Giuda|Efraim|«Il tuo nome non sarà più Giacobbe, ma Israele, perché hai lottato con Dio e con gli uomini e hai vinto».
+RO|Ce nume nou a primit Iacov după ce s-a luptat cu îngerul?|Israel|Avraam|Iuda|Efraim|„Numele tău nu va mai fi Iacov, ci te vei chema Israel, căci ai luptat cu Dumnezeu și cu oameni și ai fost biruitor.”
+luoghi|3|1 32:30
+IT|Come chiamò Giacobbe il luogo dove vide Dio faccia a faccia?|Peniel|Betel|Galaad|Sukkoth|Giacobbe lo chiamò Peniel: «Ho visto Dio faccia a faccia e la mia vita è stata risparmiata».
+RO|Cum a numit Iacov locul unde L-a văzut pe Dumnezeu față în față?|Peniel|Betel|Galaad|Sucot|Iacov l-a numit Peniel: „Am văzut pe Dumnezeu față în față și totuși am scăpat cu viață.”
+personaggi|2|1 32:25
+IT|Dove toccò l'uomo che lottava con Giacobbe, lasciandolo zoppo?|All'articolazione dell'anca|Alla spalla|Al ginocchio|Al piede|Gli toccò l'articolazione dell'anca, che si slogò mentre lottava.
+RO|Unde l-a atins omul care se lupta cu Iacov, lăsându-l șchiop?|La încheietura coapsei|La umăr|La genunchi|La picior|L-a atins la încheietura coapsei, care i s-a scrântit în timp ce se lupta.
+personaggi|2|1 35:18
+IT|Quale figlio nacque a Rachele mentre lei moriva?|Beniamino|Giuseppe|Levi|Aser|Morendo, Rachele lo chiamò Ben-Oni, ma suo padre lo chiamò Beniamino.
+RO|Ce fiu i s-a născut Rahelei când murea?|Beniamin|Iosif|Levi|Așer|Murind, Rahela i-a pus numele Ben-Oni, dar tatăl lui l-a numit Beniamin.
+luoghi|3|1 35:19
+IT|Presso quale luogo, cioè Betlemme, fu sepolta Rachele?|Efrata|Hebron|Betel|Sichem|Rachele morì e fu sepolta sulla via di Efrata, cioè Betlemme.
+RO|Lângă ce loc, adică Betleem, a fost îngropată Rahela?|Efrata|Hebron|Betel|Sihem|Rahela a murit și a fost îngropată pe drumul spre Efrata, adică Betleem.
+personaggi|1|1 37:3
+IT|Che cosa fece fare Israele per suo figlio Giuseppe?|Una tunica lunga con le maniche|Una spada|Un anello d'oro|Una corona|Israele amava Giuseppe più di tutti gli altri figli e gli fece una tunica lunga con le maniche.
+RO|Ce i-a făcut Israel fiului său Iosif?|O haină pestriță|O sabie|Un inel de aur|O cunună|Israel îl iubea pe Iosif mai mult decât pe ceilalți fii și i-a făcut o haină pestriță.
+personaggi|2|1 37:7
+IT|Nel primo sogno di Giuseppe, che cosa si inchinava al suo covone?|I covoni dei fratelli|Le stelle|Gli alberi|Le pecore|Giuseppe sognò che i covoni dei fratelli si inchinavano davanti al suo.
+RO|În primul vis al lui Iosif, ce se închina înaintea snopului său?|Snopii fraților|Stelele|Copacii|Oile|Iosif a visat că snopii fraților lui se închinau înaintea snopului său.
+personaggi|3|1 37:21
+IT|Quale fratello cercò di salvare Giuseppe dicendo di non ucciderlo?|Ruben|Giuda|Simeone|Levi|Ruben disse: «Non togliamogli la vita», per riportarlo poi al padre.
+RO|Care frate a căutat să-l scape pe Iosif, zicând să nu-l omoare?|Ruben|Iuda|Simeon|Levi|Ruben a zis: „Să nu-i luăm viața”, ca să-l poată da înapoi tatălui său.
+personaggi|3|1 37:28
+IT|Per quanti sicli d'argento fu venduto Giuseppe?|Venti|Trenta|Cinquanta|Cento|I fratelli vendettero Giuseppe agli Ismaeliti per venti sicli d'argento.
+RO|Pe câți sicli de argint a fost vândut Iosif?|Douăzeci|Treizeci|Cincizeci|O sută|Frații l-au vândut pe Iosif ismaeliților cu douăzeci de sicli de argint.
+personaggi|2|1 37:36
+IT|A chi fu venduto Giuseppe in Egitto?|A Potifar, capitano delle guardie|Al Faraone|Al coppiere del re|Al sacerdote di On|I Madianiti lo vendettero a Potifar, ufficiale del Faraone e capitano delle guardie.
+RO|Cui a fost vândut Iosif în Egipt?|Lui Potifar, căpetenia străjerilor|Lui Faraon|Paharnicului împăratului|Preotului din On|Madianiții l-au vândut lui Potifar, dregătorul lui Faraon, căpetenia străjerilor.
+personaggi|2|1 40:2
+IT|Quali due ufficiali del Faraone Giuseppe incontrò in prigione?|Il coppiere e il panettiere|Il generale e il tesoriere|Il sacerdote e il medico|Il portinaio e il cuoco|Il Faraone si adirò contro il capo dei coppieri e il capo dei panettieri.
+RO|Ce doi dregători ai lui Faraon a întâlnit Iosif în temniță?|Paharnicul și pitarul|Generalul și vistiernicul|Preotul și doctorul|Portarul și bucătarul|Faraon s-a mâniat pe mai-marele paharnicilor și pe mai-marele pitarilor.
+personaggi|1|1 41:26
+IT|Che cosa significavano le sette vacche grasse del sogno del Faraone?|Sette anni di abbondanza|Sette re|Sette città|Sette figli|Giuseppe spiegò che le sette vacche belle erano sette anni di abbondanza.
+RO|Ce însemnau cele șapte vaci grase din visul lui Faraon?|Șapte ani de belșug|Șapte împărați|Șapte cetăți|Șapte fii|Iosif a arătat că cele șapte vaci frumoase erau șapte ani de belșug.
+personaggi|2|1 41:46
+IT|Quanti anni aveva Giuseppe quando si presentò al Faraone?|Trenta|Diciassette|Venti|Quaranta|Giuseppe aveva trent'anni quando si presentò davanti al Faraone.
+RO|Ce vârstă avea Iosif când a stat prima dată înaintea lui Faraon?|Treizeci de ani|Șaptesprezece ani|Douăzeci de ani|Patruzeci de ani|Iosif era în vârstă de treizeci de ani când s-a înfățișat înaintea lui Faraon.
+personaggi|3|1 41:51
+IT|Come si chiamava il primogenito di Giuseppe?|Manasse|Efraim|Beniamino|Machir|Giuseppe chiamò il primogenito Manasse, «perché Dio mi ha fatto dimenticare ogni mio affanno».
+RO|Cum se numea întâiul născut al lui Iosif?|Manase|Efraim|Beniamin|Machir|Iosif i-a pus întâiului născut numele Manase, „căci Dumnezeu m-a făcut să uit toate necazurile mele”.
+personaggi|2|1 42:24
+IT|Quale fratello Giuseppe fece legare e trattenere in Egitto?|Simeone|Ruben|Beniamino|Giuda|Giuseppe prese Simeone e lo fece legare davanti ai loro occhi.
+RO|Pe care frate l-a legat Iosif și l-a oprit în Egipt?|Pe Simeon|Pe Ruben|Pe Beniamin|Pe Iuda|Iosif l-a luat pe Simeon și l-a legat sub ochii lor.
+personaggi|2|1 44:12
+IT|Nel sacco di quale fratello fu trovata la coppa d'argento di Giuseppe?|Di Beniamino|Di Giuda|Di Ruben|Di Levi|La coppa fu trovata nel sacco di Beniamino, il più giovane.
+RO|În sacul cărui frate a fost găsit paharul de argint al lui Iosif?|Al lui Beniamin|Al lui Iuda|Al lui Ruben|Al lui Levi|Paharul a fost găsit în sacul lui Beniamin, cel mai tânăr.
+personaggi|3|1 44:18
+IT|Quale fratello si avvicinò a Giuseppe e si offrì di restare schiavo al posto di Beniamino?|Giuda|Ruben|Simeone|Levi|Giuda si avvicinò a Giuseppe e chiese di restare schiavo al posto del ragazzo.
+RO|Care frate s-a apropiat de Iosif și s-a oferit să rămână rob în locul lui Beniamin?|Iuda|Ruben|Simeon|Levi|Iuda s-a apropiat de Iosif și a cerut să rămână rob în locul băiatului.
+luoghi|2|1 45:10
+IT|In quale regione dell'Egitto Giuseppe fece abitare la sua famiglia?|Goscen|Menfi|Tebe|On|Giuseppe disse al padre: «Abiterai nel paese di Goscen e sarai vicino a me».
+RO|În ce ținut din Egipt a așezat Iosif familia lui?|Gosen|Memfis|Teba|On|Iosif i-a spus tatălui său: „Vei locui în ținutul Gosen și vei fi lângă mine.”
+personaggi|3|1 47:9
+IT|Quanti anni disse Giacobbe al Faraone di aver vissuto?|Centotrenta|Cento|Centoquaranta|Novanta|Giacobbe disse: «Gli anni del mio pellegrinaggio sono centotrent'anni».
+RO|Câți ani i-a spus Iacov lui Faraon că a trăit?|O sută treizeci|O sută|O sută patruzeci|Nouăzeci|Iacov a zis: „Zilele anilor pribegiei mele sunt de o sută treizeci de ani.”
+personaggi|3|1 48:14
+IT|Su quale nipote Giacobbe pose la mano destra, pur essendo il più giovane?|Efraim|Manasse|Beniamino|Peres|Giacobbe incrociò le mani e pose la destra sul capo di Efraim, il più giovane.
+RO|Pe capul cărui nepot și-a pus Iacov mâna dreaptă, deși era cel mai tânăr?|Efraim|Manase|Beniamin|Pereț|Iacov și-a încrucișat mâinile și a pus dreapta pe capul lui Efraim, cel mai tânăr.
+profezie|3|1 49:10
+IT|Da quale tribù, secondo la benedizione di Giacobbe, lo scettro non si sarebbe allontanato?|Giuda|Levi|Giuseppe|Beniamino|«Lo scettro non sarà rimosso da Giuda… finché venga Sciloh»: una profezia del Messia.
+RO|De la ce seminție, după binecuvântarea lui Iacov, nu avea să se depărteze toiagul de cârmuire?|Iuda|Levi|Iosif|Beniamin|„Toiagul de cârmuire nu se va depărta din Iuda… până va veni Șilo”: o proorocie despre Mesia.
+personaggi|3|1 49:9
+IT|Quale figlio Giacobbe paragonò a un giovane leone?|Giuda|Dan|Gad|Neftali|«Giuda è un giovane leone».
+RO|Pe care fiu l-a asemănat Iacov cu un pui de leu?|Pe Iuda|Pe Dan|Pe Gad|Pe Neftali|„Iuda este un pui de leu.”
+personaggi|2|1 50:19-20
+IT|Chi disse ai suoi fratelli: «Voi avete macchinato del male contro di me, ma Dio ha voluto farlo servire al bene»?|Giuseppe|Giacobbe|Giuda|Mosè|Giuseppe perdonò i fratelli dopo la morte del padre.
+RO|Cine le-a spus fraților săi: „Voi v-ați gândit să-mi faceți rău, dar Dumnezeu a schimbat răul în bine”?|Iosif|Iacov|Iuda|Moise|Iosif i-a iertat pe frați după moartea tatălui lor.
+personaggi|3|1 50:26
+IT|A quanti anni morì Giuseppe?|Centodieci|Centotrenta|Novanta|Centoventi|Giuseppe morì all'età di centodieci anni e fu imbalsamato in Egitto.
+RO|La ce vârstă a murit Iosif?|O sută zece ani|O sută treizeci de ani|Nouăzeci de ani|O sută douăzeci de ani|Iosif a murit în vârstă de o sută zece ani și a fost îmbălsămat în Egipt.
+personaggi|4|1 4:17
+IT|Come si chiamava la città costruita da Caino, con il nome di suo figlio?|Enok|Irad|Nod|Lamek|Caino costruì una città e la chiamò Enok, come suo figlio.
+RO|Cum se numea cetatea zidită de Cain, după numele fiului său?|Enoh|Irad|Nod|Lameh|Cain a zidit o cetate și i-a pus numele Enoh, după numele fiului său.
+personaggi|4|1 4:21
+IT|Chi fu il padre di tutti quelli che suonano l'arpa e il flauto?|Jubal|Jabal|Tubal-Cain|Lamec|Jubal fu il padre di tutti quelli che suonano la cetra e il flauto.
+RO|Cine a fost tatăl tuturor celor ce cântă cu alăuta și cu cavalul?|Iubal|Iabal|Tubal-Cain|Lameh|Iubal a fost tatăl tuturor celor ce cântă cu alăuta și cu cavalul.
+personaggi|4|1 11:26
+IT|Come si chiamavano i tre figli di Terah?|Abramo, Nahor e Haran|Sem, Cam e Jafet|Isacco, Ismaele e Madian|Lot, Labano e Betuel|Terah generò Abramo, Nahor e Haran.
+RO|Cum se numeau cei trei fii ai lui Terah?|Avram, Nahor și Haran|Sem, Ham și Iafet|Isaac, Ismael și Madian|Lot, Laban și Betuel|Terah a născut pe Avram, Nahor și Haran.
+luoghi|4|1 26:22
+IT|Come chiamò Isacco il pozzo per cui non ci fu più contesa?|Rehoboth|Esek|Sitna|Beer-Sceba|Isacco lo chiamò Rehoboth, perché ora l'Eterno aveva fatto loro spazio.
+RO|Cum a numit Isaac fântâna pentru care nu s-au mai certat?|Rehobot|Esec|Sitna|Beer-Șeba|Isaac a numit-o Rehobot, căci Domnul le-a dat loc larg.
+personaggi|4|1 38:6
+IT|Come si chiamava la nuora di Giuda?|Tamar|Dina|Asenath|Shua|Giuda prese per Er, suo primogenito, una moglie chiamata Tamar.
+RO|Cum se numea nora lui Iuda?|Tamar|Dina|Asenat|Șua|Iuda a luat pentru Er, întâiul lui născut, o nevastă care se chema Tamar.
+personaggi|4|1 41:45
+IT|Come si chiamava la moglie egiziana di Giuseppe?|Asenath|Tamar|Zilpa|Keturah|Il Faraone diede in moglie a Giuseppe Asenath, figlia di Potiferah, sacerdote di On.
+RO|Cum se numea nevasta egipteancă a lui Iosif?|Asnat|Tamar|Zilpa|Chetura|Faraon i-a dat de nevastă lui Iosif pe Asnat, fata lui Poti-Fera, preotul lui On.
+personaggi|4|1 25:1
+IT|Come si chiamava la moglie che Abrahamo prese dopo la morte di Sara?|Keturah|Agar|Milca|Iscah|Abrahamo prese un'altra moglie, di nome Keturah.
+RO|Cum se numea nevasta pe care a luat-o Avraam după moartea Sarei?|Chetura|Agar|Milca|Isca|Avraam și-a mai luat o nevastă, care se numea Chetura.
+profezie|4|1 15:13
+IT|Per quanti anni, disse Dio ad Abramo, la sua discendenza sarebbe stata oppressa in terra straniera?|Quattrocento|Settanta|Quaranta|Duecento|Dio disse che la sua discendenza sarebbe stata straniera e oppressa per quattrocento anni.
+RO|Câți ani, i-a spus Dumnezeu lui Avram, avea să fie apăsată sămânța lui într-o țară străină?|Patru sute|Șaptezeci|Patruzeci|Două sute|Dumnezeu a spus că sămânța lui va fi străină și asuprită timp de patru sute de ani.
+profezie|3|1 12:3
+IT|Che cosa promise Dio ad Abramo per tutte le famiglie della terra?|Che sarebbero state benedette in lui|Che lo avrebbero servito|Che avrebbero parlato la sua lingua|Che sarebbero diventate ricche|«In te saranno benedette tutte le famiglie della terra».
+RO|Ce i-a promis Dumnezeu lui Avram pentru toate familiile pământului?|Că vor fi binecuvântate în el|Că îi vor sluji|Că vor vorbi limba lui|Că se vor îmbogăți|„Toate familiile pământului vor fi binecuvântate în tine.”
+miracoli|3|1 21:2
+IT|Che cosa accadde a Sara «al tempo fissato» di cui Dio aveva parlato?|Concepì e partorì un figlio|Ringiovanì|Vide un angelo|Ebbe una visione|Sara concepì e partorì un figlio ad Abrahamo nella sua vecchiaia, al tempo fissato da Dio.
+RO|Ce i s-a întâmplat Sarei „la vremea hotărâtă” de care vorbise Dumnezeu?|A rămas însărcinată și a născut un fiu|A întinerit|A văzut un înger|A avut o vedenie|Sara a rămas însărcinată și i-a născut lui Avraam un fiu la bătrânețe, la vremea hotărâtă de Dumnezeu.

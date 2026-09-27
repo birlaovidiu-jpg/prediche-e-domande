@@ -1,0 +1,69 @@
+# Avvenimenti, feste, cariche, idee e popoli della Bibbia. Tipi e (avvenimenti e idee) e t (popoli).
+# RISPOSTA IT|RISPOSTA RO|livello 1-3|libro|tipo|indizio italiano|indizio rumeno
+DILUVIO|POTOP|1|1|e|Il grande cataclisma d'acqua ai tempi di Noè|Marele cataclism de ape din vremea lui Noe
+PASQUA|PASTELE|1|2|e|La festa che ricorda la notte in cui l'angelo passò oltre le case d'Israele in Egitto|Sărbătoarea care amintește noaptea când îngerul a trecut pe lângă casele israeliților în Egipt
+PENTECOSTE|PENTICOSTA|1|44|e|La festa in cui lo Spirito Santo scese sui discepoli|Sărbătoarea în care Duhul Sfânt s-a coborât peste ucenici
+SABATO|SABAT|1|2|e|Il settimo giorno, giorno di riposo benedetto da Dio|A șaptea zi, zi de odihnă binecuvântată de Dumnezeu
+GIUBILEO|IUBILEU|3|3|e|L'anno della libertà celebrato ogni cinquant'anni|Anul libertății sărbătorit din cincizeci în cincizeci de ani
+BATTESIMO|BOTEZ|1|40|e|Il rito d'immersione che Giovanni compì con Gesù nel Giordano|Ritul scufundării pe care Ioan l-a săvârșit cu Isus în Iordan
+RISURREZIONE|INVIERE|1|43|e|L'evento del terzo giorno dopo la croce|Întâmplarea din a treia zi după cruce
+PARABOLA|PILDA|1|40|e|Il racconto con cui Gesù insegnava usando esempi di vita quotidiana|Povestirea prin care învăța Isus folosind exemple din viața de toate zilele
+MIRACOLO|MINUNE|1|40|e|Un'opera straordinaria, come la moltiplicazione dei pani|O lucrare neobișnuită, ca înmulțirea pâinilor
+PROFEZIA|PROROCIE|2|23|e|Parola ispirata da Dio sul futuro|Cuvânt insuflat de Dumnezeu despre viitor
+ALLEANZA|LEGAMANT|2|1|e|Il patto di Dio con Noè, con Abramo e con Israele|Făgăduința lui Dumnezeu cu Noe, cu Avraam și cu Israel
+SACRIFICIO|JERTFA|1|3|e|Ciò che si offriva a Dio sull'altare; Cristo si offrì come uno|Ceea ce se aducea lui Dumnezeu pe altar; Hristos S-a adus ca una
+OLOCAUSTO||2|3|e|Il sacrificio che si bruciava interamente sull'altare|
+DECIMA|ZECIUIALA|2|3|e|La parte di ogni reddito da consacrare a Dio|Partea din orice venit care se pune deoparte pentru Dumnezeu
+DIGIUNO|POST|1|40|e|L'astinenza dal cibo per pregare, come quella di Gesù nel deserto|Abținerea de la mâncare pentru rugăciune, ca a lui Isus în pustie
+PREGHIERA|RUGACIUNE|1|40|e|Il parlare con Dio, come il «Padre nostro»|Vorbirea cu Dumnezeu, ca «Tatăl nostru»
+FEDE|CREDINTA|1|58|e|Certezza di cose che si sperano, dice la lettera agli Ebrei|Încredințarea celor nădăjduite, spune epistola către Evrei
+SPERANZA|SPERANTA|1|46|e|Una delle tre cose che rimangono, con la fede e la carità|Una dintre cele trei care rămân, împreună cu credința și dragostea
+CARITA|DRAGOSTE|1|46|e|La più grande delle tre, secondo Paolo|Cea mai mare dintre cele trei, după Pavel
+GRAZIA|HAR|1|49|e|Il dono immeritato di Dio, per cui siamo salvati mediante la fede|Darul neîmeritat al lui Dumnezeu, prin care suntem mântuiți prin credință
+SALVEZZA|MANTUIRE|1|43|e|La liberazione dal peccato che Cristo ha operato|Izbăvirea de păcat pe care a făcut-o Hristos
+REDENZIONE|RASCUMPARARE|2|49|e|Il riscatto pagato con il sangue di Cristo|Prețul plătit cu sângele lui Hristos
+PECCATO|PACAT|1|45|e|La trasgressione della legge di Dio|Călcarea Legii lui Dumnezeu
+PERDONO|IERTARE|1|40|e|Il condono di una colpa che Dio concede a chi si pente|Iertarea unei vini pe care Dumnezeu o dă celui care se pocăiește
+PENTIMENTO|POCAINTA|2|40|e|Il cambiamento di mente e di vita che chiedeva Giovanni Battista|Schimbarea minții și a vieții pe care o cerea Ioan Botezătorul
+MISERICORDIA|MILA|2|40|e|La compassione di Dio verso chi si pente, chiesta da Gesù anche ai suoi discepoli|Îndurarea lui Dumnezeu față de cel care se pocăiește, cerută de Isus și ucenicilor Lui
+VANGELO|EVANGHELIE|1|41|e|La buona notizia della salvezza in Cristo|Vestea bună a mântuirii în Hristos
+APOSTOLO|APOSTOL|1|44|e|Uno dei dodici inviati da Gesù|Unul dintre cei doisprezece trimiși de Isus
+DISCEPOLO|UCENIC|1|40|e|Colui che segue e impara da Gesù|Cel care urmează și învață de la Isus
+PROFETA|PROROC|1|23|e|Colui che parla a nome di Dio|Cel care vorbește în numele lui Dumnezeu
+SACERDOTE|PREOT|1|3|e|Chi offriva i sacrifici nel tempio|Cel care aducea jertfele în Templu
+LEVITA|LEVIT|2|3|e|Membro della tribù di Levi, addetto al servizio del santuario|Membru al seminției lui Levi, rânduit la slujba locașului sfânt
+SCRIBA|CARTURAR|2|15|e|Colui che copiava e interpretava la Legge, come Esdra|Cel care copia și tâlcuia Legea, ca Ezra
+FARISEO|FARISEU|1|40|e|Membro della setta giudaica rigorosa che discuteva con Gesù|Membru al sectei iudaice riguroase care discuta cu Isus
+SADDUCEO|SADUCHEI|2|40|e|Membro della setta giudaica che negava la risurrezione|Membru al sectei iudaice care tăgăduia învierea
+CENTURIONE|SUTAS|2|40|e|L'ufficiale romano a capo di cento soldati|Ofițerul roman căpetenie peste o sută de soldați
+PUBBLICANO|VAMES|2|42|e|L'esattore delle tasse, disprezzato dai giudei|Strângătorul de biruri, disprețuit de iudei
+SAMARITANO|SAMARITEAN|1|42|e|Colui che si fermò ad aiutare l'uomo ferito, nella parabola|Cel care s-a oprit să ajute omul rănit, în pildă
+SINAGOGA|SINAGOGA|2|42|e|Il luogo dove i giudei si riunivano per leggere le Scritture|Locul unde se adunau iudeii ca să citească Scripturile
+PIAGHE|PLAGI|2|2|e|Le dieci calamità che Dio mandò sull'Egitto|Cele zece urgii pe care Dumnezeu le-a trimis peste Egipt
+COMANDAMENTI|PORUNCI|1|2|e|Le dieci leggi date a Mosè sul Sinai|Cele zece legi date lui Moise pe Sinai
+BENEDIZIONE|BINECUVANTARE|2|1|e|Ciò che Isacco diede a Giacobbe credendo fosse Esaù|Ceea ce Isaac i-a dat lui Iacov crezând că este Esau
+ESILIO|ROBIA|2|12|e|La deportazione del popolo di Giuda a Babilonia|Ducerea poporului lui Iuda în Babilon
+TENTAZIONE|ISPITA|2|40|e|La prova a cui Satana sottopose Gesù nel deserto|Încercarea la care Satana a supus pe Isus în pustie
+CENA|CINA|2|40|e|L'ultimo pasto di Gesù con i discepoli|Ultima masă a lui Isus cu ucenicii
+FILISTEI|FILISTENII|2|9|t|Il popolo di Golia e di Dalila|Poporul lui Goliat și al Dalilei
+AMOREI|AMORITII|3|1|t|Antico popolo di Canaan sconfitto da Israele con i re Sicon e Og|Vechi popor din Canaan învins de Israel împreună cu împărații Sihon și Og
+CANANEI|CANAANITII|2|1|t|Gli abitanti di Canaan prima dell'arrivo di Israele|Locuitorii Canaanului înainte de venirea lui Israel
+HITTEI|HETITI|3|1|t|Il popolo di Uria e di Efron, che vendette la grotta ad Abramo|Poporul lui Urie și al lui Efron, care a vândut peștera lui Avraam
+GEBUSEI|IEBUSITII|3|10|t|Gli abitanti di Gerusalemme prima di Davide|Locuitorii Ierusalimului înainte de David
+MOABITI|MOABITII|3|8|t|Il popolo discendente di Lot, di cui faceva parte Rut|Poporul din neamul lui Lot, din care făcea parte Rut
+AMMONITI|AMONITII|3|7|t|Il popolo discendente di Lot contro cui combatté Iefte|Poporul din neamul lui Lot împotriva căruia a luptat Iefta
+EDOMITI|EDOMITII|3|1|t|I discendenti di Esaù|Urmașii lui Esau
+AMALEKITI|AMALECITII|3|2|t|Il popolo nomade che attaccò Israele a Refidim|Poporul nomad care a atacat pe Israel la Refidim
+MADIANITI|MADIANITII|3|7|t|Il popolo del deserto sconfitto da Gedeone|Poporul din pustie învins de Ghedeon
+EGIZIANI|EGIPTENII|2|2|t|Gli abitanti del paese del Nilo|Locuitorii țării Nilului
+ASSIRI|ASIRIENII|3|12|t|Il popolo di Ninive che distrusse il regno del nord|Poporul Ninivei care a nimicit regatul de nord
+CALDEI||3|27|t|Il popolo di Babilonia che con Nebukadnetsar distrusse Gerusalemme|
+PERSIANI||3|17|t|Il popolo del re Ciro e di Ester|
+ROMANI|ROMANII|1|42|t|Il popolo che dominava la Palestina ai tempi di Gesù|Poporul care stăpânea Palestina pe vremea lui Isus
+GRECI|GRECII|2|44|t|Il popolo di Atene e di Corinto|Poporul Atenei și al Corintului
+GIUDEI|IUDEII|1|43|t|Gli abitanti della Giudea, nome dato agli ebrei nel Nuovo Testamento|Locuitorii Iudeei, numele dat evreilor în Noul Testament
+EBREI|EVREII|1|2|t|Il popolo discendente di Abramo, Isacco e Giacobbe|Poporul din neamul lui Avraam, Isaac și Iacov
+SAMARITANI|SAMARITENII|2|43|t|Il popolo misto, disprezzato dai giudei, che abitava fra la Giudea e la Galilea|Poporul amestecat, disprețuit de iudei, care locuia între Iudeea și Galileea
+LEVITI|LEVITII|2|3|t|I membri della tribù dedicata al servizio del santuario|Membrii seminției închinate slujbei locașului sfânt
+GENTILI|NEAMURILE|2|44|t|I non ebrei, i pagani|Cei care nu sunt evrei, păgânii
+ISRAELE|ISRAEL|1|1|t|Il nome dato a Giacobbe e poi a tutto il suo popolo|Numele dat lui Iacov și apoi întregului lui popor

@@ -1,0 +1,214 @@
+# Parola Misteriosa: la parola da scoprire, la sua categoria e tre indizi, dal più vago al più chiaro.
+#   categoria|livello 1-3|riferimento «libro capitolo:versetto»
+#   IT|PAROLA|indizio 1|indizio 2|indizio 3
+#   RO|CUVÂNT|indiciu 1|indiciu 2|indiciu 3
+# categorie: personaggi re profeti apostoli luoghi libri oggetti popoli
+# Un indizio non contiene mai la parola da scoprire.
+
+# ---------------- PERSONAGGI ----------------
+personaggi|1|1 6:14
+IT|NOÈ|Visse prima del diluvio|Costruì una grande imbarcazione di legno|Entrò nell'arca con la sua famiglia e gli animali
+RO|NOE|A trăit înainte de potop|A construit o ambarcațiune mare de lemn|A intrat în corabie cu familia lui și cu animalele
+personaggi|1|1 12:1
+IT|ABRAHAMO|Lasciò la sua terra per ubbidire a Dio|Fu chiamato padre di molte nazioni|Suo figlio si chiamava Isacco
+RO|AVRAAM|Și-a părăsit țara ca să asculte de Dumnezeu|A fost numit tatăl multor neamuri|Fiul lui se numea Isaac
+personaggi|1|1 41:41
+IT|GIUSEPPE|Era il figlio amato di suo padre|Fu venduto dai fratelli|Divenne governatore di tutto l'Egitto
+RO|IOSIF|Era fiul iubit al tatălui său|A fost vândut de frații lui|A ajuns dregător peste toată țara Egiptului
+personaggi|2|7 16:30
+IT|SANSONE|Era un nazireo fin dalla nascita|Uccise un leone a mani nude|Delila scoprì il segreto della sua forza
+RO|SAMSON|Era nazireu din naștere|A ucis un leu cu mâinile goale|Delila a aflat taina puterii lui
+personaggi|2|17 4:14
+IT|ESTER|Era un'orfana cresciuta da un cugino|Divenne regina in Persia|Salvò il suo popolo dal piano di Haman
+RO|ESTERA|Era orfană, crescută de un văr|A ajuns împărăteasă în Persia|Și-a salvat poporul de planul lui Haman
+personaggi|2|7 6:12
+IT|GEDEONE|Batteva il grano nascosto nel torchio|Chiese un segno con un vello di lana|Vinse con trecento uomini e delle brocche
+RO|GHEDEON|Treiera grâul ascuns în teasc|A cerut un semn cu un vălătuc de lână|A biruit cu trei sute de oameni și niște ulcioare
+personaggi|2|18 1:1
+IT|GIOBBE|Era un uomo integro e retto della terra di Uz|Perse figli e beni in un solo giorno|Disse: «L'Eterno ha dato, l'Eterno ha tolto»
+RO|IOV|Era un om fără prihană din țara Uț|Și-a pierdut copiii și averea într-o singură zi|A zis: „Domnul a dat, Domnul a luat”
+personaggi|1|43 11:43
+IT|LAZZARO|Viveva a Betania con le sorelle|Era amico di Gesù|Uscì dal sepolcro dopo quattro giorni
+RO|LAZĂR|Locuia în Betania cu surorile lui|Era prieten cu Isus|A ieșit din mormânt după patru zile
+
+# ---------------- RE ----------------
+re|1|9 17:50
+IT|DAVIDE|Era il più giovane dei figli di Isai|Era pastore e suonava l'arpa|Vinse il gigante Goliath
+RO|DAVID|Era cel mai mic dintre fiii lui Isai|Era păstor și cânta cu harfa|L-a biruit pe uriașul Goliat
+re|1|11 6:14
+IT|SALOMONE|Era figlio di un grande re|Chiese a Dio la sapienza|Costruì il tempio di Gerusalemme
+RO|SOLOMON|Era fiul unui mare împărat|I-a cerut lui Dumnezeu înțelepciune|A zidit templul din Ierusalim
+re|1|9 10:1
+IT|SAUL|Era della tribù di Beniamino|Era più alto di tutto il popolo|Fu il primo re d'Israele
+RO|SAUL|Era din seminția lui Beniamin|Era mai înalt decât tot poporul|A fost primul împărat al lui Israel
+re|2|12 20:6
+IT|EZECHIA|Fu re di Giuda|Pregò quando gli Assiri assediarono Gerusalemme|Ricevette quindici anni di vita in più
+RO|EZECHIA|A fost împărat al lui Iuda|S-a rugat când asirienii au asediat Ierusalimul|A primit încă cincisprezece ani de viață
+re|2|12 22:1
+IT|GIOSIA|Divenne re da bambino|Durante il suo regno fu trovato il libro della legge|Aveva otto anni quando cominciò a regnare
+RO|IOSIA|A ajuns împărat de copil|În timpul domniei lui s-a găsit cartea Legii|Avea opt ani când a început să împărățească
+re|2|11 21:4
+IT|ACHAB|Fu re d'Israele a Samaria|Desiderava la vigna di Naboth|Sua moglie era Jezebel
+RO|AHAB|A fost împărat al lui Israel în Samaria|Poftea via lui Nabot|Nevasta lui era Izabela
+re|2|27 4:30
+IT|NABUCODONOSOR|Fu re di Babilonia|Portò in esilio i Giudei|Sognò una grande statua spiegata da Daniele
+RO|NEBUCADNEȚAR|A fost împărat al Babilonului|I-a dus pe iudei în robie|A visat un chip mare tâlcuit de Daniel
+re|1|40 2:16
+IT|ERODE|Regnava in Giudea quando nacque Gesù|I magi andarono da lui a Gerusalemme|Fece uccidere i bambini di Betlemme
+RO|IROD|Domnea în Iudeea când S-a născut Isus|Magii au venit la el în Ierusalim|A poruncit să fie uciși pruncii din Betleem
+
+# ---------------- PROFETI ----------------
+profeti|1|12 2:11
+IT|ELIA|Veniva da Tishbe|Fu nutrito dai corvi|Salì al cielo in un carro di fuoco
+RO|ILIE|Era din Tișbe|A fost hrănit de corbi|S-a înălțat la cer într-un car de foc
+profeti|1|12 2:13
+IT|ELISEO|Arava con dodici paia di buoi quando fu chiamato|Ricevette una doppia porzione di spirito|Raccolse il mantello del suo maestro
+RO|ELISEI|Ara cu douăsprezece perechi de boi când a fost chemat|A primit o îndoită măsură de duh|A ridicat mantaua învățătorului său
+profeti|2|23 6:8
+IT|ISAIA|Vide i serafini nel tempio|Rispose: «Eccomi, manda me!»|Annunciò che una vergine avrebbe partorito
+RO|ISAIA|A văzut serafimii în Templu|A răspuns: „Iată-mă, trimite-mă!”|A vestit că o fecioară va naște
+profeti|2|24 1:5
+IT|GEREMIA|Fu chiamato da giovane|Il suo segretario si chiamava Baruc|Fu calato in una cisterna di fango
+RO|IEREMIA|A fost chemat de tânăr|Secretarul lui se numea Baruc|A fost coborât într-o groapă cu noroi
+profeti|1|27 6:16
+IT|DANIELE|Fu portato a Babilonia da giovane|Non volle contaminarsi con i cibi del re|Uscì illeso dalla fossa dei leoni
+RO|DANIEL|A fost dus la Babilon de tânăr|N-a vrut să se spurce cu bucatele împăratului|A ieșit nevătămat din groapa cu lei
+profeti|1|32 1:17
+IT|GIONA|Cercò di fuggire su una nave verso Tarshish|Fu gettato in mare durante una tempesta|Fu inghiottito da un grande pesce
+RO|IONA|A încercat să fugă cu o corabie la Tars|A fost aruncat în mare în timpul unei furtuni|A fost înghițit de un pește mare
+profeti|3|26 37:1
+IT|EZECHIELE|Era sacerdote e profeta in esilio|Ebbe visioni presso il fiume Kebar|Vide una valle di ossa secche tornare in vita
+RO|EZECHIEL|Era preot și proroc în robie|A avut vedenii lângă râul Chebar|A văzut o vale de oase uscate înviind
+profeti|2|9 3:10
+IT|SAMUELE|Crebbe nel tabernacolo con il sacerdote Eli|Da bambino udì la voce di Dio di notte|Unse i primi due re d'Israele
+RO|SAMUEL|A crescut la Cortul întâlnirii cu preotul Eli|Copil fiind, a auzit noaptea glasul lui Dumnezeu|I-a uns pe primii doi împărați ai lui Israel
+
+# ---------------- APOSTOLI ----------------
+apostoli|1|40 16:18
+IT|PIETRO|Era un pescatore di Galilea|Camminò per poco sulle acque|Rinnegò Gesù tre volte e poi pianse
+RO|PETRU|Era pescar din Galileea|A umblat puțin pe ape|S-a lepădat de Isus de trei ori, apoi a plâns
+apostoli|1|66 1:9
+IT|GIOVANNI|Era figlio di Zebedeo|Era il discepolo che Gesù amava|Scrisse l'Apocalisse nell'isola di Patmos
+RO|IOAN|Era fiul lui Zebedei|Era ucenicul pe care-l iubea Isus|A scris Apocalipsa în ostrovul Patmos
+apostoli|2|43 1:41
+IT|ANDREA|Era stato discepolo di Giovanni Battista|Era pescatore sul mare di Galilea|Condusse suo fratello Pietro da Gesù
+RO|ANDREI|Fusese ucenicul lui Ioan Botezătorul|Era pescar pe Marea Galileii|L-a adus pe fratele său Petru la Isus
+apostoli|1|43 20:27
+IT|TOMMASO|Era chiamato Didimo|Voleva vedere i segni dei chiodi|Credette quando vide Gesù risorto
+RO|TOMA|Era numit Geamănul|Voia să vadă semnul cuielor|A crezut când L-a văzut pe Isus înviat
+apostoli|2|40 9:9
+IT|MATTEO|Era anche chiamato Levi|Sedeva al banco delle imposte|Scrisse il primo Vangelo
+RO|MATEI|Se mai numea Levi|Ședea la vamă|A scris prima Evanghelie
+apostoli|2|43 1:45
+IT|FILIPPO|Era di Betsaida|Portò Natanaele da Gesù|Disse: «Signore, mostraci il Padre»
+RO|FILIP|Era din Betsaida|L-a adus pe Natanael la Isus|A zis: „Doamne, arată-ne pe Tatăl”
+apostoli|3|40 10:3
+IT|BARTOLOMEO|Era uno dei dodici apostoli|Il suo nome compare solo negli elenchi degli apostoli|Nell'elenco dei dodici viene subito dopo Filippo
+RO|BARTOLOMEU|Era unul dintre cei doisprezece apostoli|Numele lui apare numai în listele apostolilor|În lista celor doisprezece vine imediat după Filip
+apostoli|1|44 9:15
+IT|PAOLO|Nacque a Tarso|Prima perseguitava la chiesa|Si convertì sulla via di Damasco
+RO|PAVEL|S-a născut în Tars|Mai întâi prigonea Biserica|S-a întors la Dumnezeu pe drumul Damascului
+
+# ---------------- LUOGHI ----------------
+luoghi|1|33 5:2
+IT|BETLEMME|È una piccola città di Giuda|Era la città di Davide|Vi nacque Gesù
+RO|BETLEEM|Este o cetate mică din Iuda|Era cetatea lui David|Acolo S-a născut Isus
+luoghi|1|40 2:23
+IT|NAZARET|È un villaggio di Galilea|Vi apparve l'angelo a Maria|Vi crebbe Gesù
+RO|NAZARET|Este un sat din Galileea|Acolo i s-a arătat îngerul Mariei|Acolo a crescut Isus
+luoghi|1|6 6:20
+IT|GERICO|È chiamata la città delle palme|Rahab vi nascose le spie|Le sue mura caddero al suono delle trombe
+RO|IERIHON|Este numită cetatea finicilor|Acolo a ascuns Rahav iscoadele|Zidurile ei au căzut la sunetul trâmbițelor
+luoghi|1|2 12:41
+IT|EGITTO|Paese attraversato dal Nilo|Giuseppe vi fu portato come schiavo|Israele ne uscì dopo le dieci piaghe
+RO|EGIPT|Țară străbătută de Nil|Iosif a fost dus acolo ca rob|Israel a ieșit de acolo după cele zece urgii
+luoghi|2|27 1:1
+IT|BABILONIA|Si trovava sull'Eufrate|Vi furono deportati i Giudei|Vi regnò Nabucodonosor
+RO|BABILON|Se afla pe Eufrat|Acolo au fost duși robi iudeii|Acolo a domnit Nebucadnețar
+luoghi|1|42 19:41
+IT|GERUSALEMME|Era chiamata anche Sion|Vi sorgeva il tempio|Gesù pianse vedendola da lontano
+RO|IERUSALIM|Era numit și Sion|Acolo se afla templul|Isus a plâns când a văzut-o de departe
+luoghi|2|32 3:3
+IT|NINIVE|Era la capitale dell'Assiria|Era una città grandissima|Si pentì alla predicazione di Giona
+RO|NINIVE|Era capitala Asiriei|Era o cetate foarte mare|S-a pocăit la propovăduirea lui Iona
+luoghi|1|2 19:20
+IT|SINAI|È un monte nel deserto|Il monte fumava e tremava|Mosè vi ricevette la legge di Dio
+RO|SINAI|Este un munte în pustie|Muntele fumega și se cutremura|Moise a primit acolo Legea lui Dumnezeu
+
+# ---------------- LIBRI ----------------
+libri|1|1 1:1
+IT|GENESI|È il primo libro della Bibbia|Racconta il diluvio e i patriarchi|Comincia con «Nel principio»
+RO|GENEZA|Este prima carte a Bibliei|Povestește potopul și pe patriarhi|Începe cu „La început”
+libri|1|2 20:1
+IT|ESODO|È il secondo libro della Bibbia|Racconta le dieci piaghe|Narra l'uscita d'Israele dall'Egitto
+RO|EXODUL|Este a doua carte a Bibliei|Povestește cele zece urgii|Istorisește ieșirea lui Israel din Egipt
+libri|3|3 1:1
+IT|LEVITICO|È il terzo libro della Bibbia|Parla di sacrifici e di sacerdoti|Prende il nome dalla tribù di Levi
+RO|LEVITICUL|Este a treia carte a Bibliei|Vorbește despre jertfe și preoți|Își ia numele de la seminția lui Levi
+libri|1|19 23:1
+IT|SALMI|È il libro più lungo della Bibbia|Sono canti e preghiere|Molti furono scritti da Davide
+RO|PSALMII|Este cea mai lungă carte a Bibliei|Sunt cântări și rugăciuni|Multe au fost scrise de David
+libri|2|20 1:1
+IT|PROVERBI|È un libro di sapienza|Contiene brevi detti per la vita|Molti sono attribuiti a Salomone
+RO|PROVERBELE|Este o carte de înțelepciune|Cuprinde zicători scurte pentru viață|Multe sunt ale lui Solomon
+libri|3|21 1:2
+IT|ECCLESIASTE|È un libro di sapienza|Dice che c'è un tempo per ogni cosa|Ripete: «Vanità delle vanità»
+RO|ECLESIASTUL|Este o carte de înțelepciune|Spune că toate își au vremea lor|Repetă: „Deșertăciunea deșertăciunilor”
+libri|2|58 11:1
+IT|EBREI|È una lettera del Nuovo Testamento|Parla di Gesù come sommo sacerdote|Il capitolo 11 parla degli eroi della fede
+RO|EVREI|Este o epistolă a Noului Testament|Vorbește despre Isus ca Mare Preot|Capitolul 11 vorbește despre eroii credinței
+libri|1|66 1:1
+IT|APOCALISSE|È l'ultimo libro della Bibbia|È pieno di visioni e simboli|Fu scritto da Giovanni a Patmos
+RO|APOCALIPSA|Este ultima carte a Bibliei|Este plină de vedenii și simboluri|A fost scrisă de Ioan în Patmos
+
+# ---------------- OGGETTI ----------------
+oggetti|1|1 6:14
+IT|ARCA|Era fatta di legno di gofer|Aveva tre piani e una porta di lato|Salvò Noè dal diluvio
+RO|CORABIE|Era făcută din lemn de gofer|Avea trei caturi și o ușă într-o parte|L-a salvat pe Noe de potop
+oggetti|1|9 17:40
+IT|FIONDA|È un'arma semplice da pastore|Si usa con una pietra|Davide la usò contro Goliath
+RO|PRAȘTIE|Este o armă simplă de păstor|Se folosește cu o piatră|David a folosit-o împotriva lui Goliat
+oggetti|1|2 16:31
+IT|MANNA|Si trovava a terra ogni mattina|Aveva il sapore di focaccia al miele|Nutrì Israele nel deserto
+RO|MANA|Se găsea pe pământ în fiecare dimineață|Avea gust de turtă cu miere|L-a hrănit pe Israel în pustie
+oggetti|2|6 6:4
+IT|TROMBA|Si suona soffiando|I sacerdoti ne suonavano sette|Fece parte della caduta di Gerico
+RO|TRÂMBIȚĂ|Se sună suflând|Preoții sunau din șapte|A făcut parte din căderea Ierihonului
+oggetti|2|2 25:31
+IT|CANDELABRO|Era fatto d'oro puro battuto|Aveva sette lampade|Stava nel luogo santo del tabernacolo
+RO|SFEȘNIC|Era făcut din aur curat bătut|Avea șapte candele|Stătea în Locul Sfânt al cortului
+oggetti|2|2 31:18
+IT|TAVOLE|Erano di pietra|Erano due|Dio vi scrisse i dieci comandamenti
+RO|TABLE|Erau de piatră|Erau două|Dumnezeu a scris pe ele cele zece porunci
+oggetti|1|40 27:29
+IT|CORONA|Si porta sul capo|Quella di Gesù era intrecciata di spine|Paolo parla di quella della giustizia
+RO|CUNUNĂ|Se poartă pe cap|A lui Isus era împletită din spini|Pavel vorbește de cea a neprihănirii
+oggetti|2|1 28:12
+IT|SCALA|Serve per salire|Giacobbe la vide in sogno a Bethel|Gli angeli vi salivano e scendevano
+RO|SCARĂ|Servește ca să urci|Iacov a văzut-o în vis la Betel|Îngerii se suiau și se coborau pe ea
+
+# ---------------- POPOLI ----------------
+popoli|1|9 17:4
+IT|FILISTEI|Vivevano lungo la costa del mare|Avevano cinque città principali, tra cui Gaza|Goliath era uno di loro
+RO|FILISTENI|Locuiau de-a lungul țărmului mării|Aveau cinci cetăți de căpetenie, printre care Gaza|Goliat era unul dintre ei
+popoli|1|2 14:27
+IT|EGIZIANI|Abitavano lungo il Nilo|Tennero Israele in schiavitù|Furono sommersi nel Mar Rosso
+RO|EGIPTENI|Locuiau de-a lungul Nilului|L-au ținut pe Israel în robie|Au fost înecați în Marea Roșie
+popoli|2|8 1:4
+IT|MOABITI|Abitavano a est del Mar Morto|Discendevano da un figlio di Lot|Rut apparteneva a questo popolo
+RO|MOABIȚI|Locuiau la răsărit de Marea Moartă|Se trăgeau dintr-un fiu al lui Lot|Rut făcea parte din acest popor
+popoli|2|12 17:6
+IT|ASSIRI|La loro capitale era Ninive|Portarono in esilio il regno d'Israele|Assediarono Gerusalemme al tempo di Ezechia
+RO|ASIRIENI|Capitala lor era Ninive|Au dus în robie împărăția lui Israel|Au asediat Ierusalimul pe vremea lui Ezechia
+popoli|2|43 4:9
+IT|SAMARITANI|Vivevano tra la Giudea e la Galilea|I Giudei non avevano rapporti con loro|Gesù raccontò la parabola di uno di loro, buono
+RO|SAMARITENI|Locuiau între Iudeea și Galileea|Iudeii n-aveau legături cu ei|Isus a spus pilda unuia dintre ei, milos
+popoli|3|2 17:8
+IT|AMALEKITI|Erano un popolo nomade del deserto|Attaccarono Israele a Refidim|Furono vinti mentre Mosè teneva le mani alzate
+RO|AMALECIȚI|Erau un popor nomad din pustie|L-au atacat pe Israel la Refidim|Au fost biruiți cât timp Moise ținea mâinile ridicate
+popoli|3|27 2:2
+IT|CALDEI|Erano tra i sapienti della corte di Babilonia|Abitavano in Babilonia|Il re li chiamò per spiegare il suo sogno
+RO|HALDEI|Erau printre înțelepții curții din Babilon|Locuiau în Babilon|Împăratul i-a chemat să-i tâlcuiască visul
+popoli|3|7 6:1
+IT|MADIANITI|Arrivavano con cammelli innumerevoli|Devastavano i raccolti d'Israele|Furono sconfitti da Gedeone
+RO|MADIANIȚI|Veneau cu cămile fără număr|Pustiau recoltele lui Israel|Au fost biruiți de Ghedeon

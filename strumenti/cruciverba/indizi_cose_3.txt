@@ -1,0 +1,48 @@
+# Altre cose della Bibbia (seconda serie): animali, piante, materiali, oggetti, armi, mestieri della vita di ogni giorno. Tipo c.
+# RISPOSTA IT|RISPOSTA RO|livello 1-3|libro|tipo|indizio italiano|indizio rumeno
+CAPRO|TAP|2|3|c|Il maschio della capra mandato nel deserto carico dei peccati nel giorno dell'espiazione|Țapul trimis în pustie încărcat cu păcatele poporului în ziua ispășirii
+BUE|BOU|2|5|c|L'animale a cui non si doveva legare la bocca mentre trebbiava|Animalul căruia nu trebuia să i se lege botul când treiera
+CAVALLO|CAL|2|5|c|L'animale del carro da guerra che i re d'Israele non dovevano moltiplicare|Animalul carului de război pe care împărații lui Israel nu trebuiau să-l înmulțească
+ORSO|URS|2|9|c|La belva da cui Davide difese il gregge, insieme al leone|Fiara de care a apărat David turma, împreună cu leul
+FORMICA|FURNICA|2|20|c|Il piccolo animale che Salomone dà al pigro come maestro di laboriosità|Mica vietate pe care Solomon o dă leneșului ca pildă de hărnicie
+API|ALBINE|3|7|c|Gli insetti che fecero il miele nel corpo del leone ucciso da Sansone|Insectele care au făcut miere în trupul leului ucis de Samson
+PESCE|PESTE|1|32|c|L'animale che inghiottì Giona|Animalul care a înghițit pe Iona
+PASSERO|VRABIE|2|40|c|Il piccolo uccello di cui nessuno cade a terra senza il volere del Padre|Mica pasăre din care niciuna nu cade la pământ fără voia Tatălui
+GALLO|COCOS|1|41|c|L'animale che cantò dopo il rinnegamento di Pietro|Animalul care a cântat după lepădarea lui Petru
+SCORPIONE|SCORPIE|3|42|c|L'animale velenoso che Gesù diede il potere di calpestare|Animalul veninos pe care Isus a dat putere să-l calce în picioare
+ORZO|ORZ|2|43|c|Il cereale dei cinque pani del ragazzo nella moltiplicazione|Cerealele celor cinci pâini ale băiețelului la înmulțirea pâinilor
+VITE|VITA|1|43|c|La pianta di cui Gesù disse: «Io sono la vera ...»|Planta despre care a zis Isus: «Eu sunt adevărata ...»
+SPINE|SPINI|1|43|c|Ciò con cui i soldati intrecciarono una corona per Gesù|Ceea ce au împletit soldații ca să facă o cunună pentru Isus
+MANDORLO|MIGDAL|3|4|c|L'albero il cui ramo fiorì come segno della scelta di Aaronne|Pomul a cărui ramură a înflorit ca semn al alegerii lui Aaron
+PALMA|FINIC|2|43|c|L'albero i cui rami la folla agitava all'ingresso di Gesù a Gerusalemme|Pomul ale cărui ramuri le fluturau mulțimile la intrarea lui Isus în Ierusalim
+QUERCIA|STEJAR|2|1|c|L'albero sotto cui Abrahamo ricevette gli angeli a Mamre|Copacul sub care a primit Avraam pe îngeri la Mamre
+ACACIA|SALCAM|2|2|c|Il legno con cui fu costruita l'arca dell'alleanza|Lemnul din care s-a făcut chivotul legământului
+ISSOPO|ISOP|3|2|c|L'erba con cui si spruzzò il sangue sugli stipiti in Egitto|Iarba cu care s-a stropit sângele pe ușorii ușilor în Egipt
+LINO||3|3|c|Il tessuto bianco delle vesti dei sacerdoti|
+LANA|LANA|2|7|c|Ciò che Gedeone stese sull'aia per chiedere un segno a Dio|Ceea ce a întins Ghedeon pe arie ca să ceară un semn de la Dumnezeu
+SACCO|SAC|2|24|c|Il tessuto ruvido che si indossava in segno di lutto e di pentimento|Țesătura aspră care se purta în semn de jale și de pocăință
+CENERE|CENUSA|2|27|c|Ciò che ci si metteva sul capo in segno di lutto|Ceea ce își puneau pe cap în semn de doliu
+ANELLO|INEL|2|42|c|Ciò che il padre mise al dito del figlio tornato a casa|Ceea ce a pus tatăl pe degetul fiului întors acasă
+LAMPADA||1|40|c|Ciò che le dieci vergini portavano incontro allo sposo|
+ANCORA|ANCORA|3|58|c|Nella lettera agli Ebrei, la speranza è come questa per l'anima|În epistola către Evrei, nădejdea este ca aceasta pentru suflet
+CHIAVI|CHEILE|2|40|c|Ciò che Gesù diede a Pietro per il regno dei cieli|Ceea ce a dat Isus lui Petru pentru împărăția cerurilor
+SANGUE|SANGE|1|2|c|Ciò che segnò gli stipiti delle case d'Israele la notte della Pasqua|Ceea ce a însemnat ușorii caselor lui Israel în noaptea Paștilor
+FUOCO|FOC|1|11|c|Ciò che Elia fece scendere dal cielo sul monte Carmelo|Ceea ce a făcut Ilie să se pogoare din cer pe muntele Carmel
+TERREMOTO|CUTREMUR|2|44|c|Ciò che scosse la prigione di Filippi e aprì tutte le porte|Ceea ce a zguduit temnița din Filipi și a deschis toate ușile
+TEMPESTA|FURTUNA|1|41|c|Ciò che Gesù calmò sul lago con una parola|Ceea ce a potolit Isus pe lac printr-un cuvânt
+PIETRA|PIATRA|1|9|c|Ciò con cui Davide colpì Golia in fronte|Ceea ce a folosit David ca să lovească pe Goliat în frunte
+TORRE|TURN|1|1|c|L'edificio che gli uomini di Sinear volevano innalzare fino al cielo|Zidirea pe care voiau s-o ridice oamenii din Șinear până la cer
+MATTONI|CARAMIZI|2|2|c|Ciò con cui gli Israeliti costruivano per il faraone|Ceea ce făceau israeliții pentru faraon
+PAGLIA|PAIE|2|2|c|Ciò che il faraone smise di dare agli Israeliti per fare i mattoni|Ceea ce a încetat faraonul să dea israeliților pentru cărămizi
+ROTOLO|SUL|2|24|c|Il libro scritto su pelle o papiro che si arrotolava, come quello bruciato da Jehoiakim|Cartea scrisă pe piele sau papirus care se rula, ca cea arsă de Ioiachim
+BILANCIA|CANTAR|2|20|c|Lo strumento per pesare che, se è falso, il Signore detesta|Unealta de cântărit care, dacă e strâmbă, este o urâciune înaintea Domnului
+ARATRO|PLUG|2|42|c|Chi mette mano a questo e guarda indietro non è adatto al regno di Dio|Cine pune mâna pe el și se uită înapoi nu este bun pentru Împărăția lui Dumnezeu
+FALCE|SECERA|3|66|c|Lo strumento del mietitore nella visione della mietitura dell'Apocalisse|Unealta secerătorului în vedenia secerișului din Apocalipsa
+ARCO|ARC|2|11|c|L'arma da cui una freccia lanciata a caso colpì il re Achab|Arma din care o săgeată trasă la întâmplare a lovit pe împăratul Ahab
+LANCIA|SULITA|2|9|c|L'arma che Saul lanciò contro Davide mentre suonava|Arma pe care a aruncat-o Saul împotriva lui David pe când cânta
+CARRO|CAR|1|2|c|Il veicolo del faraone che affondò nel Mar Rosso, e quello di fuoco su cui salì Elia|Vehiculul faraonului înecat în Marea Roșie și cel de foc în care s-a suit Ilie
+SABBIA|NISIP|2|1|c|Ciò che sta sul lido del mare, immagine dei discendenti di Abrahamo|Ceea ce este pe țărmul mării, chipul urmașilor lui Avraam
+POLVERE|TARANA|1|1|c|Ciò da cui Dio formò l'uomo|Ceea ce a folosit Dumnezeu ca să facă pe om
+COSTOLA|COASTA|1|1|c|Ciò da cui Dio formò Eva|Ceea ce a folosit Dumnezeu ca să facă pe Eva
+LEVIATHAN||3|18|c|Il mostro marino descritto nel libro di Giobbe|
+UVA||2|4|c|Il frutto dei grappoli portati dagli esploratori dalla valle di Eshcol|

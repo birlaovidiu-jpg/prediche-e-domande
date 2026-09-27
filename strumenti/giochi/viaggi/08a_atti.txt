@@ -1,0 +1,347 @@
+# Viaggi degli Atti degli apostoli (prima parte)
+
+= porta_bella | 🚶 | Pietro e Giovanni alla porta Bella | Petru și Ioan la Poarta Frumoasă | 44 3:1
+@ gerusalemme | 44 2:41
+it: Il giorno di Pentecoste, dopo il discorso di Pietro, circa tremila persone furono battezzate.
+ro: În ziua Cincizecimii, după cuvântarea lui Petru, cam trei mii de suflete au fost botezate.
+@ portabella | 44 3:2
+it: Presso la porta del tempio detta Bella sedeva ogni giorno un uomo zoppo dalla nascita, a chiedere l'elemosina.
+ro: La poarta Templului numită „Frumoasă” ședea în fiecare zi un om olog din naștere, cerând milostenie.
+? domanda | 44 3:6
+qi: Che cosa disse Pietro allo zoppo?
+qr: Ce i-a zis Petru ologului?
+ai: «Non ho né argento né oro; nel nome di Gesù Cristo il Nazareno, alzati e cammina!» | «Torna domani» | «Ecco una moneta» | «Va' a lavarti a Siloe»
+ar: „Argint și aur n-am; în Numele lui Isus Hristos din Nazaret, scoală-te și umblă!” | „Vino mâine” | „Iată un ban” | „Du-te de te spală la Siloam”
+@ tempio | 44 3:11 | il portico di Salomone | pridvorul lui Solomon
+it: Tutto il popolo, stupito, accorse al portico di Salomone, dove Pietro annunciò Gesù risorto.
+ro: Tot norodul, uimit, a alergat la pridvorul lui Solomon, unde Petru L-a vestit pe Isus cel înviat.
+? domanda | 44 2:41
+qi: Quante persone furono battezzate il giorno di Pentecoste?
+qr: Câte suflete au fost botezate în ziua Cincizecimii?
+ai: Circa tremila | Dodici | Circa cento | Cinquemila esatte
+ar: Cam trei mii | Douăsprezece | Cam o sută | Cinci mii întocmai
+@ sinedrio | 44 4:13
+it: Davanti al sinedrio i capi si meravigliarono del coraggio di Pietro e Giovanni, uomini senza istruzione.
+ro: Înaintea soborului, mai-marii s-au mirat de îndrăzneala lui Petru și a lui Ioan, oameni necărturari.
+? domanda | 44 4:20
+qi: Che cosa risposero Pietro e Giovanni al sinedrio che vietava loro di parlare?
+qr: Ce au răspuns Petru și Ioan soborului care le interzicea să vorbească?
+ai: «Non possiamo non parlare delle cose che abbiamo visto e udito» | «Taceremo per sempre» | «Parleremo solo in Galilea» | «Chiederemo al re»
+ar: „Nu putem să nu vorbim despre ce am văzut și am auzit” | „Vom tăcea pentru totdeauna” | „Vom vorbi numai în Galileea” | „Vom întreba pe împărat”
+
+= dispersione | 🌍 | Dalla morte di Stefano ad Antiochia | De la moartea lui Ștefan la Antiohia | 44 11:19
+@ gerusalemme | 44 7:59
+it: Stefano fu lapidato mentre invocava: «Signor Gesù, ricevi il mio spirito»; Saulo approvava.
+ro: Ștefan a fost ucis cu pietre, pe când se ruga: „Doamne Isuse, primește duhul meu!”; Saul își dădea învoirea.
+@ samaria | 44 8:1 | le contrade della Giudea e della Samaria | ținuturile Iudeii și Samariei
+it: Scoppiò una grande persecuzione, e tutti, tranne gli apostoli, furono dispersi per la Giudea e la Samaria.
+ro: S-a pornit o mare prigoană, și toți, afară de apostoli, s-au împrăștiat prin ținuturile Iudeii și Samariei.
+? personaggio | 44 8:1
+qi: Chi approvava l'uccisione di Stefano?
+qr: Cine își dădea învoirea la uciderea lui Ștefan?
+ai: Saulo | Gamaliel | Caiafa | Erode
+ar: Saul | Gamaliel | Caiafa | Irod
+@ fenicia | 44 11:19
+it: I dispersi arrivarono fino alla Fenicia, annunciando la parola.
+ro: Cei împrăștiați au ajuns până în Fenicia, vestind Cuvântul.
+? domanda | 44 11:19
+qi: A chi annunciavano la parola, all'inizio, i dispersi?
+qr: Cui vesteau la început Cuvântul cei împrăștiați?
+ai: Soltanto ai Giudei | Soltanto ai Romani | Ai soldati | Ai sacerdoti del tempio
+ar: Numai iudeilor | Numai romanilor | Ostașilor | Preoților Templului
+@ cipro | 44 11:19
+it: Alcuni arrivarono anche a Cipro.
+ro: Unii au ajuns și în Cipru.
+? luogo | 44 11:19
+qi: Su quale isola arrivarono alcuni dei dispersi?
+qr: Pe ce insulă au ajuns unii dintre cei împrăștiați?
+ai: Cipro | Creta | Malta | Patmos
+ar: Cipru | Creta | Malta | Patmos
+@ antiochia | 44 11:26
+it: Ad Antiochia parlarono anche ai Greci; per la prima volta i discepoli furono chiamati «cristiani».
+ro: În Antiohia au vorbit și grecilor; pentru prima dată, ucenicii au fost numiți „creștini”.
+? domanda | 44 11:26
+qi: Dove i discepoli furono chiamati «cristiani» per la prima volta?
+qr: Unde au fost numiți ucenicii „creștini” pentru prima dată?
+ai: Ad Antiochia | A Gerusalemme | A Roma | A Efeso
+ar: În Antiohia | În Ierusalim | În Roma | În Efes
+
+= filippo_eunuco | 📖 | Filippo e l'eunuco etiope | Filip și famenul etiopian | 44 8:26
+@ gerusalemme | 44 8:5
+it: Durante la persecuzione, Filippo scese in una città della Samaria.
+ro: În vremea prigoanei, Filip s-a coborât într-o cetate a Samariei.
+@ samaria | 44 8:6
+it: A Samaria le folle ascoltavano Filippo e vedevano i segni che faceva; ci fu grande gioia in quella città.
+ro: În Samaria, noroadele îl ascultau pe Filip și vedeau semnele pe care le făcea; a fost mare bucurie în cetatea aceea.
+? personaggio | 44 8:9
+qi: Quale mago di Samaria credette e si fece battezzare?
+qr: Care vrăjitor din Samaria a crezut și s-a botezat?
+ai: Simone | Elimas | Bar-Gesù | Demetrio
+ar: Simon | Elima | Bar-Isus | Dimitrie
+@ viagaza | 44 8:28
+it: Un angelo mandò Filippo sulla strada che scende da Gerusalemme a Gaza; lì incontrò un eunuco etiope sul suo carro.
+ro: Un înger l-a trimis pe Filip pe drumul care coboară de la Ierusalim la Gaza; acolo l-a întâlnit pe un famen etiopian în carul lui.
+? domanda | 44 8:28
+qi: Quale libro stava leggendo l'eunuco sul carro?
+qr: Ce carte citea famenul în car?
+ai: Il profeta Isaia | I Salmi | La Genesi | Il profeta Geremia
+ar: Prorocul Isaia | Psalmii | Geneza | Prorocul Ieremia
+@ azoto | 44 8:40
+it: Dopo il battesimo dell'eunuco, lo Spirito rapì Filippo, che si ritrovò ad Azot.
+ro: După botezul famenului, Duhul l-a răpit pe Filip, care s-a aflat la Azot.
+? evento | 44 8:39
+qi: Che cosa fece l'eunuco dopo il battesimo?
+qr: Ce a făcut famenul după botez?
+ai: Continuò il suo cammino pieno di gioia | Tornò a Gerusalemme | Seguì Filippo | Restò al fiume
+ar: Și-a văzut de drum plin de bucurie | S-a întors la Ierusalim | A mers după Filip | A rămas la apă
+@ cesarea | 44 8:40
+it: Filippo evangelizzò tutte le città finché giunse a Cesarea.
+ro: Filip a vestit Evanghelia în toate cetățile până a ajuns la Cezareea.
+? ordina | 44 8:40
+qi: Metti in ordine il viaggio di Filippo.
+qr: Pune în ordine drumul lui Filip.
+ai: Samaria | La strada verso Gaza | Azot | Cesarea
+ar: Samaria | Drumul spre Gaza | Azot | Cezareea
+
+= apostoli_samaria | 🙌 | Pietro e Giovanni in Samaria | Petru și Ioan în Samaria | 44 8:14
+@ gerusalemme | 44 8:14
+it: Gli apostoli di Gerusalemme, saputo che la Samaria aveva ricevuto la parola, mandarono Pietro e Giovanni.
+ro: Apostolii din Ierusalim, auzind că Samaria primise Cuvântul, i-au trimis pe Petru și pe Ioan.
+@ samaria | 44 8:17
+it: Pietro e Giovanni imposero le mani ai credenti, ed essi ricevettero lo Spirito Santo.
+ro: Petru și Ioan și-au pus mâinile peste credincioși, și ei au primit Duhul Sfânt.
+? evento | 44 8:18
+qi: Che cosa offrì Simone agli apostoli?
+qr: Ce le-a oferit Simon apostolilor?
+ai: Del denaro, per avere il potere di dare lo Spirito | La sua casa | I suoi libri di magia | Un cavallo
+ar: Bani, ca să capete puterea de a da Duhul | Casa lui | Cărțile lui de vrăjitorie | Un cal
+@ villaggiosamaritano | 44 8:25
+it: Tornando, annunciarono l'evangelo in molti villaggi dei Samaritani.
+ro: Întorcându-se, au vestit Evanghelia în multe sate ale samaritenilor.
+? domanda | 44 8:20
+qi: Che cosa rispose Pietro all'offerta di Simone?
+qr: Ce a răspuns Petru la oferta lui Simon?
+ai: «Il tuo denaro vada in perdizione con te» | «Accetto volentieri» | «Chiedi a Giovanni» | «Portane di più»
+ar: „Banii tăi să piară împreună cu tine” | „Primesc bucuros” | „Întreabă-l pe Ioan” | „Adu mai mulți”
+@ gerusalemme | 44 8:25 | il ritorno a Gerusalemme | întoarcerea la Ierusalim
+it: Poi Pietro e Giovanni tornarono a Gerusalemme.
+ro: Apoi Petru și Ioan s-au întors la Ierusalim.
+? ordina | 44 8:25
+qi: Metti in ordine il viaggio di Pietro e Giovanni.
+qr: Pune în ordine drumul lui Petru și Ioan.
+ai: La partenza da Gerusalemme | L'imposizione delle mani in Samaria | L'offerta di Simone | I villaggi dei Samaritani | Il ritorno
+ar: Plecarea din Ierusalim | Punerea mâinilor în Samaria | Oferta lui Simon | Satele samaritenilor | Întoarcerea
+
+= conversione_saulo | ⚡ | La conversione di Saulo | Întoarcerea la Dumnezeu a lui Saul | 44 9:3
+@ gerusalemme | 44 9:2
+it: Saulo chiese al sommo sacerdote delle lettere per le sinagoghe di Damasco, per arrestare i seguaci della Via.
+ro: Saul a cerut de la marele preot scrisori către sinagogile din Damasc, ca să-i prindă pe cei ce erau pe Calea Domnului.
+@ stradadamasco | 44 9:3
+it: Vicino a Damasco, all'improvviso una luce dal cielo lo avvolse e una voce disse: «Saulo, Saulo, perché mi perseguiti?».
+ro: Lângă Damasc, deodată, o lumină din cer a strălucit împrejurul lui și un glas a zis: „Saule, Saule, pentru ce Mă prigonești?”
+? domanda | 44 9:5
+qi: Chi disse di essere la voce che parlava a Saulo?
+qr: Cine a spus că este glasul care-i vorbea lui Saul?
+ai: «Io sono Gesù, che tu perseguiti» | «Io sono Elia» | «Io sono un angelo» | «Io sono Stefano»
+ar: „Eu sunt Isus, pe care-L prigonești” | „Eu sunt Ilie” | „Eu sunt un înger” | „Eu sunt Ștefan”
+@ damasco | 44 9:11
+it: A Damasco Saulo, cieco, restò tre giorni senza mangiare; Anania andò da lui nella strada detta Diritta.
+ro: În Damasc, Saul, orb, a stat trei zile fără să mănânce; Anania s-a dus la el pe ulița numită Dreaptă.
+? personaggio | 44 9:10
+qi: Quale discepolo di Damasco fu mandato da Saulo?
+qr: Care ucenic din Damasc a fost trimis la Saul?
+ai: Anania | Barnaba | Stefano | Filippo
+ar: Anania | Barnaba | Ștefan | Filip
+@ damasco | 44 9:25 | le mura di Damasco | zidurile Damascului
+it: Quando i Giudei cercarono di ucciderlo, i discepoli lo calarono di notte dalle mura dentro una cesta.
+ro: Când iudeii au căutat să-l omoare, ucenicii l-au coborât noaptea pe zid, într-o coșniță.
+? evento | 44 9:25
+qi: Come fuggì Saulo da Damasco?
+qr: Cum a scăpat Saul din Damasc?
+ai: Calato dalle mura dentro una cesta | Su un cammello | Travestito da soldato | Per nave
+ar: Coborât pe zid într-o coșniță | Pe o cămilă | Deghizat în ostaș | Cu corabia
+@ gerusalemme | 44 9:27 | con Barnaba dagli apostoli | cu Barnaba la apostoli
+it: A Gerusalemme i discepoli avevano paura di lui; Barnaba lo prese e lo condusse dagli apostoli.
+ro: În Ierusalim, ucenicii se temeau de el; Barnaba l-a luat și l-a dus la apostoli.
+? personaggio | 44 9:27
+qi: Chi presentò Saulo agli apostoli a Gerusalemme?
+qr: Cine l-a dus pe Saul la apostoli în Ierusalim?
+ai: Barnaba | Pietro | Anania | Giacomo
+ar: Barnaba | Petru | Anania | Iacov
+@ tarso | 44 9:30
+it: Per salvarlo, i fratelli lo condussero a Cesarea e di là lo mandarono a Tarso.
+ro: Ca să-l scape, frații l-au dus la Cezareea și de acolo l-au trimis la Tars.
+? ordina | 44 9:30
+qi: Metti in ordine il viaggio di Saulo.
+qr: Pune în ordine drumul lui Saul.
+ai: Le lettere del sommo sacerdote | La luce sulla strada di Damasco | Anania nella strada Diritta | La fuga nella cesta | Barnaba a Gerusalemme | Tarso
+ar: Scrisorile marelui preot | Lumina de pe drumul Damascului | Anania pe ulița Dreaptă | Fuga în coșniță | Barnaba la Ierusalim | Tars
+
+= pietro_cornelio | 🐾 | Pietro a Lidda, Ioppe e Cesarea | Petru la Lida, Iope și Cezareea | 44 9:32
+@ gerusalemme | 44 9:32
+it: Pietro percorreva tutto il paese visitando i santi.
+ro: Petru cerceta pe toți sfinții.
+@ lidda | 44 9:34
+it: A Lidda Pietro disse a Enea, paralitico da otto anni: «Gesù Cristo ti guarisce; alzati».
+ro: La Lida, Petru i-a zis lui Enea, olog de opt ani: „Isus Hristos te vindecă; scoală-te!”
+? domanda | 44 9:33
+qi: Da quanti anni Enea giaceva paralitico?
+qr: De câți ani zăcea olog Enea?
+ai: 8 | 12 | 38 | 3
+ar: 8 | 12 | 38 | 3
+@ joppe | 44 9:40 | Ioppe | Iope
+it: A Ioppe Pietro pregò per Tabitha, una discepola piena di buone opere, e lei tornò in vita.
+ro: La Iope, Petru s-a rugat pentru Tabita, o ucenică plină de fapte bune, și ea a înviat.
+? personaggio | 44 9:36
+qi: Come si chiamava la discepola di Ioppe che Pietro riportò in vita?
+qr: Cum se numea ucenica din Iope pe care Petru a înviat-o?
+ai: Tabitha | Lidia | Priscilla | Rode
+ar: Tabita | Lidia | Priscila | Rode
+@ joppe | 44 10:11 | la terrazza di Simone il conciatore | acoperișul lui Simon tăbăcarul
+it: Sulla terrazza, Pietro vide in visione un grande lenzuolo pieno di animali calato dal cielo.
+ro: Pe acoperiș, Petru a văzut în vedenie o față mare de masă, plină cu animale, coborâtă din cer.
+? evento | 44 10:15
+qi: Che cosa gli disse la voce nella visione?
+qr: Ce i-a spus glasul în vedenie?
+ai: «Le cose che Dio ha purificate, tu non farle impure» | «Mangia solo pane» | «Torna a Gerusalemme» | «Taci e prega»
+ar: „Ce a curățit Dumnezeu, să nu numești spurcat” | „Mănâncă numai pâine” | „Întoarce-te la Ierusalim” | „Taci și roagă-te”
+@ cesarea | 44 10:44
+it: A Cesarea, in casa del centurione Cornelio, lo Spirito Santo scese su tutti quelli che ascoltavano.
+ro: În Cezareea, în casa sutașului Corneliu, Duhul Sfânt S-a pogorât peste toți cei ce ascultau.
+? personaggio | 44 10:1
+qi: Chi era Cornelio?
+qr: Cine era Corneliu?
+ai: Un centurione della coorte Italica | Un sacerdote del tempio | Un pescatore di Ioppe | Il re di Cesarea
+ar: Un sutaș din ceata numită „Italiana” | Un preot al Templului | Un pescar din Iope | Împăratul Cezareei
+
+= barnaba_saulo | 🤝 | Barnaba e Saulo ad Antiochia | Barnaba și Saul la Antiohia | 44 11:22
+@ gerusalemme | 44 11:22
+it: La chiesa di Gerusalemme mandò Barnaba fino ad Antiochia.
+ro: Biserica din Ierusalim l-a trimis pe Barnaba până la Antiohia.
+@ antiochia | 44 11:23
+it: Barnaba vide la grazia di Dio, si rallegrò ed esortava tutti a restare fedeli al Signore.
+ro: Barnaba a văzut harul lui Dumnezeu, s-a bucurat și îi îndemna pe toți să rămână alipiți de Domnul.
+? personaggio | 44 11:24
+qi: Come descrive la Bibbia Barnaba?
+qr: Cum îl descrie Biblia pe Barnaba?
+ai: Un uomo dabbene, pieno di Spirito Santo e di fede | Un ricco mercante | Un soldato romano | Un fariseo severo
+ar: Un om de bine, plin de Duhul Sfânt și de credință | Un negustor bogat | Un ostaș roman | Un fariseu aspru
+@ tarso | 44 11:25
+it: Barnaba partì per Tarso in cerca di Saulo e, trovatolo, lo condusse ad Antiochia.
+ro: Barnaba s-a dus la Tars ca să-l caute pe Saul și, când l-a găsit, l-a adus la Antiohia.
+? luogo | 44 11:25
+qi: Dove andò Barnaba a cercare Saulo?
+qr: Unde s-a dus Barnaba să-l caute pe Saul?
+ai: A Tarso | A Damasco | A Gerusalemme | A Cipro
+ar: La Tars | La Damasc | La Ierusalim | În Cipru
+@ antiochia | 44 11:26 | un anno insieme | un an împreună
+it: Per un anno intero insegnarono a molta gente nella chiesa di Antiochia.
+ro: Un an întreg au învățat mult norod în biserica din Antiohia.
+? domanda | 44 11:26
+qi: Per quanto tempo Barnaba e Saulo insegnarono ad Antiochia, la prima volta?
+qr: Cât timp au învățat Barnaba și Saul în Antiohia prima dată?
+ai: Un anno intero | Tre mesi | Sette anni | Quaranta giorni
+ar: Un an întreg | Trei luni | Șapte ani | Patruzeci de zile
+@ gerusalemme | 44 11:30 | l'aiuto per la carestia | ajutorul pentru foamete
+it: Per la carestia annunciata da Agabo, i discepoli mandarono un aiuto agli anziani di Giudea per mezzo di Barnaba e Saulo.
+ro: Pentru foametea vestită de Agab, ucenicii au trimis ajutor bătrânilor din Iudeea prin Barnaba și Saul.
+? personaggio | 44 11:28
+qi: Quale profeta annunciò la grande carestia?
+qr: Care proroc a vestit foametea cea mare?
+ai: Agabo | Sila | Giuda | Manaen
+ar: Agab | Sila | Iuda | Manaen
+
+= pietro_liberato | 🔓 | Pietro liberato dal carcere | Petru scos din temniță | 44 12:6
+@ prigionegerusalemme | 44 12:6
+it: Erode aveva messo Pietro in prigione; la notte dormiva fra due soldati, legato con due catene.
+ro: Irod îl pusese pe Petru în temniță; noaptea, Petru dormea între doi ostași, legat cu două lanțuri.
+@ prigionegerusalemme | 44 12:10 | la porta di ferro | poarta de fier
+it: Un angelo lo svegliò, le catene caddero, e la porta di ferro che dava sulla città si aprì da sé.
+ro: Un înger l-a trezit, lanțurile au căzut, iar poarta de fier care dădea în cetate s-a deschis singură.
+? evento | 44 12:10
+qi: Che cosa accadde alla porta di ferro della prigione?
+qr: Ce s-a întâmplat cu poarta de fier a temniței?
+ai: Si aprì da sé | Fu spezzata dall'angelo | La aprirono le guardie | Restò chiusa
+ar: S-a deschis singură | A spart-o îngerul | Au deschis-o străjerii | A rămas închisă
+@ casamaria | 44 12:13
+it: Pietro bussò alla casa di Maria, madre di Giovanni Marco, dove molti erano riuniti a pregare.
+ro: Petru a bătut la ușa casei Mariei, mama lui Ioan Marcu, unde mulți erau adunați să se roage.
+? personaggio | 44 12:13
+qi: Chi venne ad ascoltare alla porta, riconobbe la voce di Pietro e per la gioia non aprì?
+qr: Cine a venit să asculte la ușă, a cunoscut glasul lui Petru și de bucurie n-a deschis?
+ai: Una serva di nome Rode | Maria | Tabitha | Lidia
+ar: O slujnică numită Rode | Maria | Tabita | Lidia
+@ cesarea | 44 12:23
+it: Erode scese a Cesarea; mentre il popolo lo acclamava come un dio, un angelo lo colpì e morì.
+ro: Irod s-a coborât la Cezareea; pe când norodul îl aclama ca pe un dumnezeu, un înger l-a lovit și a murit.
+? domanda | 44 12:23
+qi: Perché fu colpito Erode a Cesarea?
+qr: De ce a fost lovit Irod la Cezareea?
+ai: Non aveva dato gloria a Dio | Aveva perso una battaglia | Aveva liberato Pietro | Si era ammalato in viaggio
+ar: Nu dăduse slavă lui Dumnezeu | Pierduse o luptă | Îl slobozise pe Petru | Se îmbolnăvise pe drum
+
+= concilio_gerusalemme | 📜 | Il concilio di Gerusalemme | Adunarea de la Ierusalim | 44 15:2
+@ antiochia | 44 15:2
+it: Ad Antiochia nacque una discussione sulla circoncisione dei credenti non giudei.
+ro: În Antiohia s-a iscat o neînțelegere despre tăierea împrejur a credincioșilor dintre neamuri.
+@ fenicia | 44 15:3
+it: Paolo e Barnaba attraversarono la Fenicia e la Samaria raccontando la conversione dei gentili.
+ro: Pavel și Barnaba au străbătut Fenicia și Samaria, istorisind întoarcerea la Dumnezeu a neamurilor.
+? domanda | 44 15:3
+qi: Che effetto avevano i racconti di Paolo e Barnaba sui fratelli?
+qr: Ce efect aveau istorisirile lui Pavel și Barnaba asupra fraților?
+ai: Recavano grande gioia | Suscitavano paura | Causavano liti | Nessuno ci credeva
+ar: Le pricinuiau o mare bucurie | Le stârneau frică | Aduceau certuri | Nu le credea nimeni
+@ gerusalemme | 44 15:13
+it: Nell'assemblea di Gerusalemme parlarono Pietro, Barnaba, Paolo, e infine Giacomo.
+ro: În adunarea de la Ierusalim au vorbit Petru, Barnaba, Pavel și, la urmă, Iacov.
+? personaggio | 44 15:13
+qi: Chi prese la parola alla fine del concilio per proporre la decisione?
+qr: Cine a luat cuvântul la sfârșitul adunării ca să propună hotărârea?
+ai: Giacomo | Pietro | Giovanni | Gamaliel
+ar: Iacov | Petru | Ioan | Gamaliel
+@ antiochia | 44 15:30 | la lettera ad Antiochia | scrisoarea la Antiohia
+it: La lettera degli apostoli fu portata ad Antiochia da Paolo, Barnaba, Giuda e Sila; la chiesa si rallegrò.
+ro: Scrisoarea apostolilor a fost dusă la Antiohia de Pavel, Barnaba, Iuda și Sila; biserica s-a bucurat.
+? personaggio | 44 15:22
+qi: Chi fu mandato con Paolo e Barnaba a portare la lettera?
+qr: Cine a fost trimis cu Pavel și Barnaba să ducă scrisoarea?
+ai: Giuda, detto Barsabba, e Sila | Pietro e Giovanni | Timoteo e Tito | Marco e Luca
+ar: Iuda, numit Barsaba, și Sila | Petru și Ioan | Timotei și Tit | Marcu și Luca
+
+= giovanni_marco | ✍️ | Il viaggio di Giovanni Marco | Călătoria lui Ioan Marcu | 44 13:5
+@ gerusalemme | 44 12:25
+it: Barnaba e Saulo tornarono da Gerusalemme portando con sé Giovanni, detto Marco.
+ro: Barnaba și Saul s-au întors de la Ierusalim, luând cu ei pe Ioan, zis și Marcu.
+@ antiochia | 44 13:2
+it: Ad Antiochia lo Spirito Santo disse: «Mettetemi da parte Barnaba e Saulo per l'opera».
+ro: În Antiohia, Duhul Sfânt a zis: „Puneți-Mi deoparte pe Barnaba și pe Saul pentru lucrarea la care i-am chemat”.
+? domanda | 44 13:3
+qi: Che cosa fecero i credenti di Antiochia prima di mandare Barnaba e Saulo?
+qr: Ce au făcut credincioșii din Antiohia înainte să-i trimită pe Barnaba și Saul?
+ai: Digiunarono, pregarono e imposero loro le mani | Diedero loro una nave | Scrissero ai Romani | Costruirono una sinagoga
+ar: Au postit, s-au rugat și și-au pus mâinile peste ei | Le-au dat o corabie | Au scris romanilor | Au zidit o sinagogă
+@ salamina | 44 13:5
+it: A Salamina annunciarono la parola nelle sinagoghe; Giovanni Marco era con loro come aiutante.
+ro: La Salamina au vestit Cuvântul în sinagogi; Ioan Marcu era cu ei ca ajutor.
+? personaggio | 44 13:5
+qi: Che ruolo aveva Giovanni Marco nel primo viaggio?
+qr: Ce rol avea Ioan Marcu în prima călătorie?
+ai: Era loro aiutante | Era il capo | Era il medico | Era il capitano della nave
+ar: Le era ajutor | Era căpetenia | Era doctorul | Era căpitanul corăbiei
+@ perga | 44 13:13
+it: A Perge di Panfilia Giovanni si separò da loro e tornò a Gerusalemme.
+ro: La Perga din Pamfilia, Ioan s-a despărțit de ei și s-a întors la Ierusalim.
+? luogo | 44 13:13
+qi: Dove Giovanni Marco lasciò Paolo e Barnaba?
+qr: Unde i-a părăsit Ioan Marcu pe Pavel și Barnaba?
+ai: A Perge di Panfilia | A Pafo | A Listra | A Tarso
+ar: La Perga din Pamfilia | La Pafos | La Listra | La Tars
+@ cipro | 44 15:39
+it: Più tardi, per una disputa con Paolo, Barnaba prese con sé Marco e salpò per Cipro.
+ro: Mai târziu, după o neînțelegere cu Pavel, Barnaba l-a luat cu el pe Marcu și a plecat cu corabia în Cipru.
+? ordina | 44 15:39
+qi: Metti in ordine la storia di Giovanni Marco.
+qr: Pune în ordine istoria lui Ioan Marcu.
+ai: Parte da Gerusalemme con Barnaba e Saulo | Aiutante a Salamina | Torna indietro da Perge | Parte per Cipro con Barnaba
+ar: Pleacă din Ierusalim cu Barnaba și Saul | Ajutor la Salamina | Se întoarce de la Perga | Pleacă în Cipru cu Barnaba

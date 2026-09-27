@@ -1,0 +1,149 @@
+# Piano dei misteri (casi_*.txt): un caso per riga, «id riferimento». Una ✓ quando è scritto.
+# Nomi italiani come la Nuova Diodati del programma (Abrahamo, Enok, Melchisedek, Nebukadnetsar, l'Eterno),
+# rumeni come Cornilescu (Avraam, Enoh, Melhisedec, Nebucadnețar, Domnul).
+# Già fatti (casi_0x.json): scritta coppa carmelo prigione mura gigante tempesta sogno albero tomba leoni arca cesta
+#   pesce pani roveto ester nabot asina olio scure anania eutico acan rode brocche moneta sicomoro naaman sansone
+
+## GENESI  (casi_101…)
+creazione 1 1:1-31 | eden 1 2:8-25 | serpente 1 3:1-24 | abele 1 4:1-16 | enok 1 5:21-24 | babele 1 11:1-9
+chiamata_abrahamo 1 12:1-9 | abramo_egitto 1 12:10-20 | lot_sceglie 1 13:1-18 | melchisedek 1 14:1-24 | stelle_patto 1 15:1-21
+agar_pozzo 1 16:1-16 | nuovi_nomi 1 17:1-27 | tre_visitatori 1 18:1-15 | intercessione 1 18:16-33 | sodoma 1 19:1-29
+abimelek_sara 1 20:1-18 | nascita_isacco 1 21:1-7 | agar_deserto 1 21:8-21 | pozzo_giuramento 1 21:22-34 | moria 1 22:1-19
+makpelah 1 23:1-20 | rebecca_pozzo 1 24:1-67 | primogenitura 1 25:27-34 | pozzi_isacco 1 26:12-33 | benedizione_rubata 1 27:1-40
+scala_betel 1 28:10-22 | rachele_pozzo 1 29:1-14 | lea_scambio 1 29:15-30 | greggi_macchiati 1 30:25-43 | idoli_rachele 1 31:17-55
+lotta_iabbok 1 32:22-32 | incontro_esau 1 33:1-17 | ritorno_betel 1 35:1-15 | morte_rachele 1 35:16-20 | sogni_giuseppe 1 37:1-11
+giuseppe_venduto 1 37:12-36 | tamar_pegno 1 38:1-30 | potifar 1 39:1-23 | coppiere_panettiere 1 40:1-23 | sogni_faraone 1 41:1-57
+fratelli_spie 1 42:1-38 | beniamino_egitto 1 43:1-34 | giuseppe_rivela 1 45:1-28 | giacobbe_egitto 1 46:1-34 | efraim_manasse 1 48:1-22
+benedizioni_giacobbe 1 49:1-33 | ossa_giuseppe 1 50:1-26 | carestia_egitto 1 47:13-26 | figli_giacobbe 1 29:31-35
+
+## ESODO
+levatrici 2 1:8-22 | mose_fugge 2 2:11-22 | segni_mose 2 4:1-17 | mattoni_paglia 2 5:1-23 | sangue_nilo 2 7:14-25 | rane 2 8:1-15
+dito_di_dio 2 8:16-32 | ulcere 2 9:1-12 | grandine 2 9:13-35 | locuste 2 10:1-20 | tenebre 2 10:21-29 | pasqua 2 12:1-42
+colonna_nuvola 2 13:17-22 | mar_rosso 2 14:1-31 | cantico_mare 2 15:1-21 | mara 2 15:22-27 | manna 2 16:1-36 | massa_meriba 2 17:1-7
+mani_alzate 2 17:8-16 | ietro 2 18:1-27 | sinai 2 19:1-25 | dieci_parole 2 20:1-21 | vitello_oro 2 32:1-35 | volto_splende 2 34:29-35
+bezaleel 2 31:1-11 | arca_patto 2 25:10-22 | candelabro 2 25:31-40 | veste_sommo 2 28:1-43 | tabernacolo_eretto 2 40:1-38
+
+## LEVITICO · NUMERI · DEUTERONOMIO
+fuoco_altare 3 9:1-24 | nadab_abiu 3 10:1-7 | espiazione 3 16:1-34 | feste 3 23:1-44 | giubileo 3 25:8-24 | bestemmiatore 3 24:10-23
+censimento 4 1:1-54 | nazireo 4 6:1-21 | benedizione_sacerdotale 4 6:22-27 | trombe_argento 4 10:1-10 | quaglie 4 11:1-35
+eldad_medad 4 11:24-30 | miriam_lebbra 4 12:1-16 | esploratori 4 13:1-33 | quarant_anni 4 14:1-45 | legna_sabato 4 15:32-36
+kore 4 16:1-35 | verga_fiorita 4 17:1-13 | giovenca_rossa 4 19:1-10 | meriba_mose 4 20:1-13 | morte_aaronne 4 20:22-29
+serpente_bronzo 4 21:4-9 | sihon_og 4 21:21-35 | balaam_benedice 4 23:1-30 | fineas 4 25:1-13 | figlie_selofehad 4 27:1-11
+citta_rifugio 4 35:9-34 | shema 5 6:1-9 | ebal_gherizim 5 27:1-26 | cantico_mose 5 32:1-47 | morte_mose 5 34:1-12
+
+## GIOSUÈ · GIUDICI · RUT
+rahab 6 2:1-24 | giordano 6 3:1-17 | dodici_pietre 6 4:1-24 | capo_esercito 6 5:13-15 | ai_imboscata 6 8:1-29 | gabaoniti 6 9:1-27
+sole_fermo 6 10:1-15 | caleb 6 14:6-15 | altare_giordano 6 22:10-34 | addio_giosue 6 24:1-28
+adoni_bezek 7 1:1-7 | aksa 7 1:12-15 | ehud 7 3:12-30 | debora 7 4:1-16 | iael 7 4:17-22 | gedeone_chiamata 7 6:11-24
+altare_baal 7 6:25-32 | vello 7 6:36-40 | abimelek_macina 7 9:1-57 | iefte 7 11:29-40 | scibbolet 7 12:1-6 | nascita_sansone 7 13:1-25
+leone_miele 7 14:1-20 | volpi 7 15:1-8 | mascella 7 15:9-20 | porte_gaza 7 16:1-3 | mika 7 17:1-13
+rut_moab 8 1:1-22 | spighe 8 2:1-23 | aia 8 3:1-18 | sandalo 8 4:1-22
+
+## 1 SAMUELE
+anna 9 1:1-28 | samuele_chiamato 9 3:1-21 | arca_presa 9 4:1-22 | dagon 9 5:1-12 | vacche 9 6:1-21 | ebenezer 9 7:1-17
+vogliamo_un_re 9 8:1-22 | asine_kis 9 9:1-27 | bagagli 9 10:17-27 | iabes 9 11:1-15 | sacrificio_saul 9 13:1-14 | gionathan_rupe 9 14:1-23
+miele_gionathan 9 14:24-46 | agag 9 15:1-35 | unzione_davide 9 16:1-13 | arpa 9 16:14-23 | amicizia 9 18:1-4 | lancia 9 18:6-16
+mikal_finestra 9 19:11-17 | frecce 9 20:1-42 | pani_nob 9 21:1-9 | davide_gath 9 21:10-15 | adullam 9 22:1-5 | keila 9 23:1-14
+mantello_tagliato 9 24:1-22 | abigail 9 25:1-42 | lancia_brocca 9 26:1-25 | endor 9 28:3-25 | ziklag 9 30:1-31 | morte_saul 9 31:1-13
+
+## 2 SAMUELE
+canto_arco 10 1:1-27 | asahel 10 2:12-32 | abner 10 3:6-39 | sion_presa 10 5:6-12 | uzzah 10 6:1-11 | danza 10 6:12-23
+casa_per_sempre 10 7:1-29 | mefiboscet 10 9:1-13 | barbe 10 10:1-14 | bathsceba 10 11:1-27 | pecorella 10 12:1-25
+absalom_porta 10 15:1-12 | scimei 10 16:5-14 | ahithofel 10 17:1-23 | absalom_capelli 10 18:1-33 | barzillai 10 19:31-40
+donna_abel 10 20:14-22 | rispah 10 21:1-14 | acqua_betlemme 10 23:13-17 | aia_araunah 10 24:1-25
+
+## 1 RE
+adonijah 11 1:5-53 | sogno_gabaon 11 3:1-15 | due_madri 11 3:16-28 | tempio 11 6:1-38 | dedicazione 11 8:1-66 | saba 11 10:1-13
+mantello_strappato 11 11:26-40 | roboamo 11 12:1-24 | vitelli 11 12:25-33 | mano_secca_re 11 13:1-10 | profeta_leone 11 13:11-32
+travestita 11 14:1-18 | corvi 11 17:1-7 | sarepta 11 17:8-24 | abdia 11 18:1-16 | nuvoletta 11 18:41-46 | oreb 11 19:1-18
+aratro 11 19:19-21 | ben_hadad 11 20:1-43 | micaiah 11 22:1-38 | iericho_ricostruita 11 16:34
+
+## 2 RE
+fuoco_cinquanta 12 1:1-18 | carro_fuoco 12 2:1-14 | sale 12 2:19-22 | fossi 12 3:1-27 | sunamita 12 4:8-37 | pentola 12 4:38-41
+venti_pani 12 4:42-44 | ghehazi 12 5:20-27 | dothan 12 6:8-23 | lebbrosi 12 7:1-20 | iehu 12 9:1-37 | ioas 12 11:1-21
+cassa 12 12:1-16 | frecce_eliseo 12 13:14-19 | ossa_eliseo 12 13:20-21 | cardo 12 14:8-14 | samaria_cade 12 17:1-41
+rabshakeh 12 18:13-37 | lettera_ezechia 12 19:1-34 | angelo_assiri 12 19:35-37 | meridiana 12 20:1-11 | tesori 12 20:12-19
+libro_legge 12 22:1-20 | riforma 12 23:1-25 | caduta_gerusalemme 12 25:1-21 | ioiakin 12 25:27-30
+
+## CRONACHE · ESDRA · NEEMIA · ESTER · GIOBBE
+iabets 13 4:9-10 | preparativi 13 22:1-19 | asa 14 14:9-15 | giosafat_cantori 14 20:1-30 | zaccaria_ucciso 14 24:17-22
+uzzia 14 26:16-23 | pasqua_ezechia 14 30:1-27 | manasse 14 33:1-20
+editto_ciro 15 1:1-11 | fondamenta 15 3:8-13 | lavori_fermi 15 4:1-24 | archivio 15 6:1-15 | digiuno_ahava 15 8:21-32
+coppiere 16 2:1-10 | notte_mura 16 2:11-20 | spada_cazzuola 16 4:1-23 | usura 16 5:1-13 | lettera_aperta 16 6:1-16
+legge_letta 16 8:1-18 | porte_sabato 16 13:15-22 | camera_tobia 16 13:4-9
+vashti 17 1:1-22 | ester_regina 17 2:1-18 | congiura 17 2:19-23 | notte_insonne 17 6:1-14 | purim 17 9:20-32
+giobbe 18 1:1-22 | amici 18 2:11-13 | turbine 18 38:1-41 | giobbe_restaurato 18 42:1-17
+
+## SALMI · PROVERBI · ECCLESIASTE
+salmo23 19 23:1-6 | salmo51 19 51:1-19 | salmo1 19 1:1-6 | salmo22 19 22:1-31 | salmo91 19 91:1-16 | salmo121 19 121:1-8
+salmo137 19 137:1-9 | salmo139 19 139:1-24 | salmo90 19 90:1-17 | salmo150 19 150:1-6 | salmo119 19 119:105-112
+donna_virtuosa 20 31:10-31 | formica 20 6:6-11 | lingua_prov 20 18:21 | vino_beffardo 20 23:29-35 | ogni_cosa_tempo 21 3:1-8
+
+## PROFETI
+serafini 23 6:1-13 | emmanuele 23 7:10-16 | vigna 23 5:1-7 | isaia_scalzo 23 20:1-6 | ali_aquila 23 40:27-31 | ciro_nominato 23 45:1-7
+servo_sofferente 23 53:1-12 | mandorlo 24 1:4-19 | cintura 24 13:1-11 | vasaio 24 18:1-12 | brocca 24 19:1-15 | ceppi 24 20:1-6
+fichi 24 24:1-10 | giogo 24 28:1-17 | lettera_esuli 24 29:1-14 | campo_anatoth 24 32:6-15 | recabiti 24 35:1-19 | rotolo_bruciato 24 36:1-32
+cisterna 24 38:1-13 | sedekia 24 39:1-10 | ghedaliah 24 40:13-41:3 | misericordie 25 3:19-33
+carro_ezechiele 26 1:1-28 | rotolo_mangiato 26 3:1-11 | mattone 26 4:1-8 | capelli 26 5:1-12 | camera_idoli 26 8:1-18
+segno_fronte 26 9:1-11 | bagaglio 26 12:1-16 | moglie_ezechiele 26 24:15-27 | pastori 26 34:1-16 | sentinella 26 33:1-9
+ossa_secche 26 37:1-14 | fiume_tempio 26 47:1-12 | due_aquile 26 17:1-10
+cibo_re 27 1:1-21 | fornace 27 3:1-30 | albero_grande 27 4:1-37 | quattro_bestie 27 7:1-28 | montone_capro 27 8:1-27
+settanta_settimane 27 9:20-27 | uomo_lino 27 10:1-21
+gomer 28 1:1-11 | locuste_gioele 29 1:1-20 | spirito_sparso 29 2:28-32 | filo_piombo 30 7:7-17 | canestro 30 8:1-3 | edom 31 1:1-21
+ricino 32 4:1-11 | ninive 32 3:1-10 | betlemme_efrata 33 5:1-5 | naum 34 1:1-15 | torre_abacuc 35 2:1-4 | sofonia 36 1:14-18
+aggeo 37 1:1-15 | candelabro_ulivi 38 4:1-14 | rotolo_volante 38 5:1-4 | re_asino 38 9:9-10 | decime 39 3:6-12 | elia_mandato 39 4:1-6
+
+## VANGELI
+angelo_zaccaria 42 1:5-25 | annunciazione 42 1:26-38 | elisabetta 42 1:39-56 | nome_giovanni 42 1:57-80 | sogno_giuseppe 40 1:18-25
+mangiatoia 42 2:1-7 | pastori_notte 42 2:8-20 | simeone 42 2:22-38 | magi 40 2:1-12 | fuga_egitto 40 2:13-23 | dodici_anni 42 2:41-52
+battesimo 40 3:13-17 | tentazioni 40 4:1-11 | nazaret 42 4:16-30 | pescatori 40 4:18-22 | pesca 42 5:1-11 | cana 43 2:1-11
+mercanti 43 2:13-22 | nicodemo 43 3:1-21 | samaritana 43 4:1-42 | funzionario 43 4:46-54 | sinagoga_capernaum 41 1:21-28
+suocera 41 1:29-34 | lebbroso 41 1:40-45 | tetto 41 2:1-12 | levi_matteo 40 9:9-13 | betesda 43 5:1-18 | spighe_sabato 41 2:23-28
+mano_secca 41 3:1-6 | dodici 42 6:12-16 | beatitudini 40 5:1-16 | padre_nostro 40 6:5-15 | centurione 40 8:5-13 | nain 42 7:11-17
+messaggeri 42 7:18-35 | profumo_lacrime 42 7:36-50 | vento_mare 41 4:35-41 | legione 41 5:1-20 | lembo 41 5:25-34 | iairo 41 5:21-43
+ciechi 40 9:27-31 | testa_battista 41 6:14-29 | sulle_acque 40 14:22-33 | cananea 40 15:21-28 | effata 41 7:31-37
+quattromila 41 8:1-10 | betsaida 41 8:22-26 | tu_sei_il_cristo 40 16:13-20 | trasfigurazione 40 17:1-13 | epilettico 41 9:14-29
+bambino_mezzo 40 18:1-5 | dieci_lebbrosi 42 17:11-19 | adultera 43 8:1-11 | cieco_nato 43 9:1-41 | marta_maria 42 10:38-42
+lazzaro 43 11:1-44 | donna_curva 42 13:10-17 | idropico 42 14:1-6 | lasciate_bambini 41 10:13-16 | giovane_ricco 41 10:17-27
+zebedeo 40 20:20-28 | bartimeo 41 10:46-52 | nardo 43 12:1-8 | osanna 40 21:1-11 | fico 41 11:12-25 | tributo 40 22:15-22
+sadducei 40 22:23-33 | primo_comandamento 41 12:28-34 | due_spiccioli 41 12:41-44 | monte_ulivi 40 24:1-31 | trenta 40 26:14-16
+lavanda 43 13:1-17 | cena 42 22:7-20 | getsemani 40 26:36-46 | malco 43 18:1-11 | gallo 42 22:54-62 | caiafa 40 26:57-68
+barabba 40 27:15-26 | erode_antipa 42 23:6-12 | cireneo 41 15:21-22 | ladrone 42 23:39-43 | tenebre_croce 40 27:45-56
+arimatea 43 19:38-42 | guardie 40 28:11-15 | emmaus 42 24:13-35 | tommaso 43 20:24-29 | colazione 43 21:1-14 | mi_ami 43 21:15-19
+ascensione 44 1:1-11 | campo_sangue 40 27:3-10 | settanta_mandati 42 10:1-20 | fuoco_samaria 42 9:51-56 | greci 43 12:20-33
+capanne_gesu 43 7:1-39 | grande_mandato 40 28:16-20 | moglie_pilato 40 27:19 | vesti_sorte 43 19:23-24 | centurione_croce 41 15:39
+tempio_pietre 41 13:1-2 | lacrime_gerusalemme 42 19:41-44
+
+## PARABOLE
+seminatore 40 13:1-23 | zizzania 40 13:24-30 | senape 40 13:31-32 | lievito 40 13:33 | tesoro 40 13:44 | perla 40 13:45-46
+rete 40 13:47-50 | pecora 42 15:1-7 | dramma 42 15:8-10 | prodigo 42 15:11-32 | samaritano 42 10:25-37 | granai 42 12:13-21
+amministratore 42 16:1-13 | ricco_lazzaro 42 16:19-31 | giudice 42 18:1-8 | pubblicano 42 18:9-14 | operai 40 20:1-16
+due_figli 40 21:28-32 | vignaioli 40 21:33-46 | nozze_figlio 40 22:1-14 | vergini 40 25:1-13 | talenti 40 25:14-30
+mine 42 19:11-27 | pecore_capri 40 25:31-46 | servo_spietato 40 18:21-35 | amico_mezzanotte 42 11:5-8 | roccia 40 7:24-27
+fico_sterile 42 13:6-9 | gran_cena 42 14:15-24 | seme_cresce 41 4:26-29 | due_debitori 42 7:41-43 | torre_costo 42 14:28-33
+servi_vigilanti 42 12:35-40 | servo_inutile 42 17:7-10
+
+## ATTI
+mattia 44 1:15-26 | pentecoste 44 2:1-41 | porta_bella 44 3:1-10 | sinedrio 44 4:1-22 | gamaliele 44 5:17-42 | sette 44 6:1-7
+stefano 44 7:54-60 | simon_mago 44 8:9-24 | eunuco 44 8:26-40 | damasco 44 9:1-19 | cesta_mura 44 9:23-25 | enea 44 9:32-35
+tabita 44 9:36-43 | cornelio 44 10:1-48 | agabo_carestia 44 11:27-30 | vermi 44 12:20-23 | mandati 44 13:1-3 | elima 44 13:6-12
+antiochia_pisidia 44 13:13-52 | listra_dei 44 14:8-20 | concilio 44 15:1-35 | lite_marco 44 15:36-41 | macedone 44 16:6-10
+lidia 44 16:11-15 | indovina 44 16:16-24 | berea 44 17:10-15 | areopago 44 17:16-34 | tende 44 18:1-4 | gallione 44 18:12-17
+apollo 44 18:24-28 | dodici_efeso 44 19:1-7 | sceva 44 19:13-20 | diana 44 19:23-41 | mileto 44 20:17-38 | cintura_agabo 44 21:10-14
+tumulto 44 21:27-40 | cittadino 44 22:22-29 | quaranta_giurati 44 23:12-35 | felice 44 24:1-27 | appello 44 25:1-12
+agrippa 44 26:1-32 | vipera 44 28:1-10 | roma 44 28:16-31
+
+## LETTERE · APOCALISSE
+onesimo 57 1:1-25 | armatura 49 6:10-18 | frutto 48 5:16-26 | amore 46 13:1-13 | risurrezione_corpi 46 15:35-58 | lingua 59 3:1-12
+fede_opere 59 2:14-26 | eroi_fede 58 11:1-40 | nonna_lois 55 1:3-7 | antiochia_rimprovero 48 2:11-14 | spina 47 12:1-10
+pericoli 47 11:23-33 | corsa 46 9:24-27 | tromba_risveglio 52 4:13-18 | cena_signore 46 11:17-34 | diotrefe 64 1:9-12
+michele_mose 65 1:9 | melchisedek_ebrei 58 7:1-17
+patmos 66 1:9-20 | efeso 66 2:1-7 | smirne 66 2:8-11 | pergamo 66 2:12-17 | tiatiri 66 2:18-29 | sardi 66 3:1-6
+filadelfia 66 3:7-13 | laodicea 66 3:14-22 | trono 66 4:1-11 | agnello_libro 66 5:1-14 | cavalli 66 6:1-17 | sigillati 66 7:1-17
+trombe 66 8:1-13 | libretto 66 10:1-11 | testimoni 66 11:1-14 | drago 66 12:1-17 | bestia_mare 66 13:1-10 | tre_angeli 66 14:6-12
+coppe 66 16:1-21 | babilonia 66 18:1-24 | cavaliere 66 19:11-16 | mille_anni 66 20:1-15 | nuova_gerusalemme 66 21:1-27
+albero_vita 66 22:1-5
+
+## CHI È? (personaggi, con indizi da tutta la vita)
+## DOVE? (luoghi) · CHE COSA? (oggetti, feste, leggi) · QUALE LIBRO? (i 66 libri) · QUALE PROFEZIA? · IO SONO
+# (da riempire quando i casi sopra sono finiti)

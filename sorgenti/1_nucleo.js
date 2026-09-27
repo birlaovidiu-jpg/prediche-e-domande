@@ -32,7 +32,7 @@ function apri(titolo,corpo,piede,largo,classe){
   m.onclick=e=>{ if(e.target===m) chiudi(); };
   return m;
 }
-function chiudi(){ $('#modale').classList.remove('on'); $('#modale').innerHTML=''; }
+function chiudi(){ const m=$('#modale'); m.classList.remove('on','sopra-tastiera'); m.style.top=m.style.height=m.style.bottom=''; m.innerHTML=''; }
 function conferma(testo,poi,etichetta){
   apri('Conferma',`<p style="margin:0;font-size:15.5px;line-height:1.6">${esc(testo).replace(/\n/g,'<br>')}</p>`,
     `<button class="bt pi" onclick="chiudi()">Annulla</button>
@@ -58,12 +58,16 @@ async function kvSet(k,v){ const d=await db(); return new Promise((ris,err)=>{
 async function kvGet(k){ const d=await db(); return new Promise((ris,err)=>{
   const t=d.transaction('kv','readonly'); const q=t.objectStore('kv').get(k);
   q.onsuccess=()=>ris(q.result); q.onerror=()=>err(q.error); }); }
+async function kvChiavi(){ const d=await db(); return new Promise((ris,err)=>{
+  const t=d.transaction('kv','readonly'); const q=t.objectStore('kv').getAllKeys();
+  q.onsuccess=()=>ris(q.result||[]); q.onerror=()=>err(q.error); }); }
 async function kvDel(k){ const d=await db(); return new Promise((ris,err)=>{
   const t=d.transaction('kv','readwrite'); t.objectStore('kv').delete(k);
   t.oncomplete=ris; t.onerror=()=>err(t.error); }); }
 
 const BASE={
   _at:0, prediche:[], cantici:[], esperienze:[], poesie:[], domandeMie:[], versetti:{}, lezionari:[], musica:{}, predAnnot:{},
+  giocatori:[], partite:[],
   viste:{dom:'',chd:'',giri:{dom:0,chd:0}},
   imp:{ chiesa:'Chiesa Avventista del 7° Giorno — Movimento di Riforma', locale:'', resp:'',
         lingua:'it', sfondoProi:'notte', quizMesc:true, quizMescOpz:false, mostraNum:true }
@@ -103,8 +107,8 @@ function chiaveVista(t){
   for(let i=0;i<x.length;i++) h=(((h*33)>>>0) ^ x.charCodeAt(i))>>>0;
   return ('000000'+h.toString(36)).slice(-7);
 }
-function chiaveDomanda(d){ return chiaveVista(d.d+'|'+(d.o?d.o[d.g]:'')); }
-function chiaveFrase(c){ return chiaveVista(c.q+'|'+c.chi); }
+function chiaveDomanda(d){ return d._k||(d._k=chiaveVista(d.d+'|'+(d.o?d.o[d.g]:''))); }
+function chiaveFrase(c){ return c._k||(c._k=chiaveVista(c.q+'|'+c.chi)); }
 function _viste(){
   stato.viste=stato.viste||{dom:'',chd:'',giri:{dom:0,chd:0}};
   stato.viste.giri=stato.viste.giri||{dom:0,chd:0};
@@ -143,8 +147,11 @@ function azzeraViste(tipo,contaGiro){
    Se non ne bastano, finisce il giro, ricomincia da capo e prende il resto
    fra quelle che non ha appena preso: dentro alla stessa presentazione non
    si ripete mai niente. */
+/* due domande scritte uguali (con la stessa risposta) hanno la stessa chiave: nella stessa pescata ne tengo una sola */
+function unaPerChiave(lista,chiaveDi){ const v=new Set(); return lista.filter(x=>{ const k=chiaveDi(x); if(v.has(k)) return false; v.add(k); return true; }); }
 function pescaNuove(elenco,quante,tipo,chiaveDi,rnd){
   const set=insiemeViste(tipo);
+  elenco=unaPerChiave(elenco,chiaveDi);
   const mai=elenco.filter(x=>!set.has(chiaveDi(x)));
   const n=quante||elenco.length;
   let presi=mescola(mai,rnd);
@@ -158,6 +165,38 @@ function pescaNuove(elenco,quante,tipo,chiaveDi,rnd){
     presi=presi.concat(resto);
   }
   return {lista:presi.slice(0,n), girato, restavano:mai.length};
+}
+/* Per i GIOCHI: come pescaNuove, ma ogni cosa ha un PESO (più è alto, più è probabile che esca): il livello scelto
+   (facile, medio, difficile) fa uscire più spesso certe domande senza escluderne nessuna. Le cose già uscite non
+   tornano finché non sono uscite tutte; se ne servono più di quante restano, il giro ricomincia. */
+function pescaNuovePesate(elenco,quante,tipo,chiaveDi,peso){
+  const set=insiemeViste(tipo);
+  elenco=unaPerChiave(elenco,chiaveDi);
+  const ordina=lista=>lista.map(x=>({x,k:-Math.log(1-Math.random())/Math.max(1e-6,peso(x))}))
+    .sort((a,b)=>a.k-b.k).map(o=>o.x);
+  const mai=elenco.filter(x=>!set.has(chiaveDi(x)));
+  let presi=ordina(mai);
+  let girato=false;
+  if(presi.length<quante){
+    const presiSet=new Set(presi.map(chiaveDi));
+    const resto=ordina(elenco.filter(x=>!presiSet.has(chiaveDi(x))));
+    azzeraViste(tipo,true);
+    girato=elenco.length>0;
+    presi=presi.concat(resto);
+  }
+  return {lista:presi.slice(0,quante), girato, restavano:mai.length};
+}
+/* segna che una cosa è uscita in un gioco; il salvataggio aspetta un attimo, così in una partita veloce
+   (il Blitz) non si scrive tutto l'archivio a ogni domanda */
+let _salvaVisteGioco=null;
+function segnaVisteGioco(tipo,chiavi){
+  const v=_viste(), set=insiemeViste(tipo);
+  let agg='';
+  chiavi.forEach(k=>{ if(k && !set.has(k)){ set.add(k); agg+=k; } });
+  if(!agg) return;
+  v[tipo]=(v[tipo]||'')+agg;
+  _memViste[tipo]={testo:v[tipo],set};
+  clearTimeout(_salvaVisteGioco); _salvaVisteGioco=setTimeout(salva,1200);
 }
 /* la scritta che dice a che punto sei del giro */
 function strisciaViste(tipo,elenco,chiaveDi){
@@ -186,12 +225,14 @@ const SEZIONI=[
   {id:'home',      ic:'🏠', et:'Home'},
   {id:'domande',   ic:'❓', et:'Domande bibliche'},
   {id:'chihadetto',ic:'💬', et:'Chi ha detto?'},
+  {id:'giochi',    ic:'🎮', et:'Giochi biblici'},
   {id:'bibbia',    ic:'📕', et:'Bibbia'},
   {id:'cantici',   ic:'🎵', et:'Cantici'},
   {id:'prediche',  ic:'📖', et:'Prediche'},
   {id:'poesie',    ic:'🪶', et:'Poesie'},
   {id:'esperienze',ic:'🌟', et:'Esperienze'},
   {id:'sabato',    ic:'📚', et:'Scuola del Sabato'},
+  {id:'libri',     ic:'📗', et:'Libri'},
   {id:'sole',      ic:'🌅', et:'Alba e tramonto', fuori:true},
   {id:'dati',      ic:'☁️', et:'Dati e copie'},
   {id:'guida',     ic:'📘', et:'Guida'}
@@ -213,21 +254,37 @@ function contaSez(id){
   if(id==='poesie')    return (POESIE.length+(stato.poesie||[]).length)||null;
   if(id==='esperienze')return (ESPERIENZE.length+stato.esperienze.length)||null;
   if(id==='sabato')    return (stato.lezionari||[]).length||null;
+  if(id==='libri')     return (stato.libri||[]).length||null;
+  if(id==='giochi')    return GIOCHI_TESSERE.length;
+  if(id==='bibbia')    return Object.keys(_BIBD.v).length;
   return null;
 }
 function vai(id,sotto){
+  /* se stavi scrivendo sul foglio di una predica, quello che hai scritto si salva prima di andare via */
+  if(typeof salvaFoglioAperto==='function') salvaFoglioAperto();
   if(!SEZIONI.some(s=>s.id===id)) id='home';
   sezione=id; document.body.classList.remove('menu');
   if(id!=='home') document.body.classList.remove('home-fissa');
   if(id!=='sabato') document.body.classList.remove('sab-fissa');
   document.body.classList.remove('pred-fissa');
+  document.body.classList.toggle('quiz-fissa', id==='domande'||id==='chihadetto');
+  if(id!=='giochi'){
+    document.body.classList.remove('gio-fissa','gioco-proiettore','cv-attivo','cv-proietta','gio-hub-fissa');
+    if(typeof fermaBlitzSeAttivo==='function') fermaBlitzSeAttivo();
+  }
   const s=SEZIONI.find(x=>x.id===id);
   $('#titSez').textContent=s.et; $('#sottoSez').textContent=sotto||'';
   menu(); window.scrollTo(0,0);
-  try{ ({home:vHome,domande:vDomande,chihadetto:vChiHaDetto,bibbia:vBibbia,cantici:vCantici,prediche:vPrediche,poesie:vPoesie,
-         esperienze:vEsperienze,sabato:vSabato,sole:vSole,dati:vDati,guida:vGuida})[id](); }
+  try{ ({home:vHome,domande:vDomande,chihadetto:vChiHaDetto,giochi:vGiochi,bibbia:vBibbia,cantici:vCantici,prediche:vPrediche,poesie:vPoesie,
+         esperienze:vEsperienze,sabato:vSabato,libri:vLibri,sole:vSole,dati:vDati,guida:vGuida})[id](); }
   catch(e){ console.error(e); $('#vista').innerHTML=`<div class="vuoto"><span class="em">⚠️</span>Errore nella sezione.<br><small>${esc(e.message)}</small></div>`; }
   try{ location.hash=id; }catch(e){}
+}
+/* il logo B in alto a sinistra: da qualsiasi pagina riporta alla Home (chiude anche un'eventuale finestra aperta) */
+function vaiHomeDalLogo(){
+  try{ if($('#modale')&&$('#modale').classList.contains('on')) chiudi(); }catch(e){}
+  document.body.classList.remove('menu','gioco-proiettore','cv-proietta');
+  vai('home'); window.scrollTo(0,0);
 }
 function sotto(t){ $('#sottoSez').textContent=t||''; }
 /* Il totale diviso per lingua: quante in italiano e quante in rumeno.
@@ -244,3 +301,15 @@ function strisciaLingue(elenco){
     <i>🇷🇴 ${c.ro.toLocaleString('it-IT')} in rumeno</i></span>`;
 }
 function pinta(html){ $('#vista').innerHTML=`<div class="sez">${html}</div>`; }
+/* Lo zoom con due dita dell'iPad cambia la misura «visibile» della finestra e fa
+   scattare l'avviso 'resize' a ogni movimento delle dita: lo schermo però è lo
+   stesso, e ridisegnare la pagina ogni volta la faceva sparire e ricomparire per
+   tutta la durata dello zoom. Chi ascolta 'resize' prima chiede zoomNativo(), e la
+   larghezza vera della finestra la prende da largFinestra(), che lo zoom non tocca. */
+function zoomNativo(){ const v=window.visualViewport; return !!(v && Math.abs(v.scale-1)>0.01); }
+function largFinestra(){ return document.documentElement.clientWidth||window.innerWidth; }
+/* dove lo zoom lo faccio io (foglio delle prediche, poesie, esperienze, lettore dei
+   libri e dei lezionari) lo zoom dell'iPad non deve partire insieme al mio */
+function zoomMio(){ const l=document.getElementById('lettore');
+  return document.body.classList.contains('pred-fissa') || !!(l&&l.classList.contains('on')); }
+['gesturestart','gesturechange'].forEach(t=>document.addEventListener(t,e=>{ if(zoomMio()) e.preventDefault(); },{passive:false}));

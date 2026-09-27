@@ -1,0 +1,162 @@
+# Altri viaggi dell'Antico Testamento (1)
+
+= ararat_babele | 🌈 | Dall'arca alla torre di Babele | De la corabie la turnul Babel | 1 8:4
+@ ararat | 1 8:4
+it: Nel settimo mese, il diciassettesimo giorno, l'arca si fermò sulle montagne di Ararat.
+ro: În luna a șaptea, în ziua a șaptesprezecea, corabia s-a oprit pe munții Ararat.
+@ ararat | 1 9:13 | il patto dopo il diluvio | legământul de după potop
+it: Dio stabilì un patto con Noè e con ogni essere vivente e mise il suo arco nella nuvola.
+ro: Dumnezeu a făcut un legământ cu Noe și cu toate viețuitoarele și Și-a pus curcubeul în nor.
+? evento | 1 9:13
+qi: Quale segno del patto mise Dio nella nuvola dopo il diluvio?
+qr: Ce semn al legământului a pus Dumnezeu în nor după potop?
+ai: L'arcobaleno | Una stella | Una colomba | Un fulmine
+ar: Curcubeul | O stea | Un porumbel | Un fulger
+@ babele | 1 11:3
+it: Nella pianura di Scinear gli uomini dissero: «Facciamo dei mattoni e costruiamoci una città e una torre».
+ro: În câmpia Șinear, oamenii au zis: „Haidem să facem cărămizi și să ne zidim o cetate și un turn”.
+? domanda | 1 11:3
+qi: Che cosa usarono gli uomini di Babele al posto della malta?
+qr: Ce au folosit oamenii din Babel în loc de var?
+ai: Il bitume | L'argilla del Nilo | La pece | Il gesso
+ar: Smoala | Lutul Nilului | Catranul | Ipsosul
+@ babele | 1 11:9 | la confusione delle lingue | încurcarea limbilor
+it: L'Eterno confuse la lingua di tutta la terra e disperse gli uomini sulla faccia della terra.
+ro: Domnul a încurcat limba întregului pământ și i-a împrăștiat pe oameni pe fața pământului.
+? puzzle | 1 11:9
+qi: Ricomponi il nome dato alla città, perché là l'Eterno confuse la lingua di tutta la terra.
+qr: Refă numele dat cetății, pentru că acolo a încurcat Domnul limba întregului pământ.
+ai: BABELE
+ar: BABEL
+@ ur | 1 11:31
+it: Più tardi, da Ur dei Caldei, Terah partì con Abrahamo, Sara e Lot verso il paese di Canaan.
+ro: Mai târziu, din Ur din Haldeea, Terah a plecat cu Avram, Sarai și Lot spre țara Canaan.
+? ordina | 1 11:31
+qi: Metti in ordine questi fatti.
+qr: Pune în ordine aceste fapte.
+ai: L'arca si ferma sull'Ararat | L'arcobaleno nella nuvola | La torre di Babele | La partenza di Terah da Ur
+ar: Corabia se oprește pe Ararat | Curcubeul în nor | Turnul Babel | Plecarea lui Terah din Ur
+
+= abramo_gerar | 🌳 | Abrahamo a Gherar e a Beer-Sceba | Avraam la Gherar și la Beer-Șeba | 1 20:1
+@ mamre | 1 20:1
+it: Abrahamo partì da Mamre verso il Neghev e soggiornò a Gherar.
+ro: Avraam a plecat de la Mamre spre partea de miazăzi și a locuit ca străin la Gherar.
+@ gerar | 1 20:3
+it: Il re Abimelek prese Sara; ma Dio gli apparve in sogno e lo avvertì che era una donna sposata.
+ro: Împăratul Abimelec a luat-o pe Sara; dar Dumnezeu i s-a arătat în vis și l-a înștiințat că era o femeie măritată.
+? personaggio | 1 20:2
+qi: Quale re di Gherar prese Sara in casa sua?
+qr: Care împărat al Gherarului a luat-o pe Sara în casa lui?
+ai: Abimelek | Melchisedek | Faraone | Kedorlaomer
+ar: Abimelec | Melhisedec | Faraon | Chedorlaomer
+@ beerseba | 1 21:30
+it: Abrahamo diede ad Abimelek sette agnelle come testimonianza di aver scavato il pozzo.
+ro: Avraam i-a dat lui Abimelec șapte mielușele ca mărturie că el săpase fântâna.
+? domanda | 1 21:30
+qi: Quante agnelle diede Abrahamo ad Abimelek come testimonianza del pozzo?
+qr: Câte mielușele i-a dat Avraam lui Abimelec ca mărturie pentru fântână?
+ai: 7 | 3 | 12 | 40
+ar: 7 | 3 | 12 | 40
+@ beerseba | 1 21:33 | il tamarisco | tamariscul
+it: A Beer-Sceba Abrahamo piantò un tamarisco e invocò il nome dell'Eterno, il Dio d'eternità.
+ro: La Beer-Șeba, Avraam a sădit un tamarisc și a chemat Numele Domnului, Dumnezeul cel veșnic.
+? evento | 1 21:33
+qi: Che cosa piantò Abrahamo a Beer-Sceba?
+qr: Ce a sădit Avraam la Beer-Șeba?
+ai: Un tamarisco | Una vigna | Un ulivo | Un fico
+ar: Un tamarisc | O vie | Un măslin | Un smochin
+
+= sara_macpela | 🪦 | La grotta di Makpelah | Peștera Macpela | 1 23:2
+@ beerseba | 1 22:19
+it: Abrahamo abitava a Beer-Sceba dopo il viaggio al monte Moriah.
+ro: Avraam locuia la Beer-Șeba după călătoria la muntele Moria.
+@ ebron | 1 23:2
+it: Sara morì a Kirjath-Arba, cioè Hebron; Abrahamo venne a fare lutto per lei e a piangerla.
+ro: Sara a murit la Chiriat-Arba, adică Hebron; Avraam a venit s-o jelească și s-o plângă.
+? domanda | 1 23:1
+qi: Quanti anni visse Sara?
+qr: Câți ani a trăit Sara?
+ai: 127 | 100 | 90 | 175
+ar: 127 | 100 | 90 | 175
+@ macpela | 1 23:16
+it: Abrahamo pesò a Efron l'Ittita il prezzo del campo con la grotta di Makpelah e vi seppellì Sara.
+ro: Avraam i-a cântărit lui Efron hetitul prețul ogorului cu peștera Macpela și a îngropat-o acolo pe Sara.
+? domanda | 1 23:16
+qi: Quanto pagò Abrahamo il campo di Efron?
+qr: Cât a plătit Avraam ogorul lui Efron?
+ai: 400 sicli d'argento | 20 sicli d'argento | 100 pezzi di denaro | Niente, fu un dono
+ar: 400 de sicli de argint | 20 de sicli de argint | 100 de bani | Nimic, a fost un dar
+@ ebron | 1 23:10 | la porta della città | poarta cetății
+it: Tutto avvenne davanti ai figli di Heth, alla porta della città, perché fosse ben chiaro a tutti.
+ro: Totul s-a făcut în fața fiilor lui Het, la poarta cetății, ca să fie limpede pentru toți.
+? personaggio | 1 23:10
+qi: Da chi comprò Abrahamo il campo di Makpelah?
+qr: De la cine a cumpărat Avraam ogorul Macpela?
+ai: Da Efron l'Ittita | Da Abimelek | Da Hamor | Da Labano
+ar: De la Efron hetitul | De la Abimelec | De la Hamor | De la Laban
+
+= mose_nilo | 🧺 | Mosè salvato dalle acque | Moise scos din apă | 2 2:3
+@ gosen | 2 2:2
+it: Una donna della tribù di Levi partorì un figlio e lo tenne nascosto per tre mesi.
+ro: O femeie din seminția lui Levi a născut un fiu și l-a ascuns trei luni.
+@ tanis | 2 2:3 | il canneto sulla riva del Nilo | trestia de pe malul Nilului
+it: Quando non poté più nasconderlo, lo mise in un canestro di giunchi spalmato di bitume, fra le canne del fiume.
+ro: Când n-a mai putut să-l ascundă, l-a pus într-un sicriaș de papură uns cu smoală, între trestiile de pe malul râului.
+? domanda | 2 2:2
+qi: Per quanto tempo la madre tenne nascosto il bambino?
+qr: Cât timp l-a ascuns mama pe copil?
+ai: Tre mesi | Sette giorni | Un anno | Quaranta giorni
+ar: Trei luni | Șapte zile | Un an | Patruzeci de zile
+@ tanis | 2 2:5 | il luogo del bagno | locul de scăldat
+it: La figlia del Faraone scese a bagnarsi, vide il canestro e ebbe compassione del bambino.
+ro: Fata lui Faraon s-a pogorât să se scalde, a văzut sicriașul și i s-a făcut milă de copil.
+? personaggio | 2 2:4
+qi: Chi stava a guardare da lontano che cosa sarebbe accaduto al bambino?
+qr: Cine stătea la o depărtare, ca să vadă ce se va întâmpla cu copilul?
+ai: Sua sorella | Suo padre | Aaronne | Una serva del Faraone
+ar: Sora lui | Tatăl lui | Aaron | O slujnică a lui Faraon
+@ tanis | 2 2:10 | la reggia del Faraone | curtea lui Faraon
+it: Quando il bambino fu cresciuto, divenne figlio della figlia del Faraone, che lo chiamò Mosè.
+ro: Când a crescut copilul, a ajuns fiul fetei lui Faraon, care i-a pus numele Moise.
+? domanda | 2 2:10
+qi: Perché la figlia del Faraone chiamò il bambino Mosè?
+qr: De ce i-a pus fata lui Faraon copilului numele Moise?
+ai: Perché l'aveva tratto dall'acqua | Perché era figlio di un re | Perché era nato di notte | Perché era un levita
+ar: Pentru că îl scosese din apă | Pentru că era fiu de împărat | Pentru că se născuse noaptea | Pentru că era levit
+
+= manna_amalek | 🙌 | Dalla manna alla vittoria su Amalek | De la mană la biruința asupra lui Amalec | 2 17:8
+@ sin | 2 16:15
+it: Nel deserto di Sin il popolo trovò al mattino una cosa minuta sul terreno: «Che cos'è?».
+ro: În pustia Sin, poporul a găsit dimineața ceva mărunt pe pământ: „Ce este aceasta?”
+@ sin | 2 16:31 | l'accampamento nel deserto | tabăra din pustie
+it: Mosè disse: «Questo è il pane che l'Eterno vi dà da mangiare».
+ro: Moise le-a zis: „Aceasta este pâinea pe care v-o dă Domnul ca hrană”.
+? domanda | 2 16:31
+qi: Com'era la manna, secondo la Bibbia?
+qr: Cum era mana, după Biblie?
+ai: Simile al seme di coriandolo, bianca, con il gusto del miele | Rossa e amara | Come sale grosso | Dura come pietra
+ar: Ca sămânța de coriandru, albă, cu gust de turtă cu miere | Roșie și amară | Ca sarea mare | Tare ca piatra
+@ refidim | 2 17:7
+it: A Refidim non c'era acqua; Mosè percosse la roccia all'Horeb e ne uscì acqua per il popolo.
+ro: La Refidim nu era apă; Moise a lovit stânca din Horeb, și a ieșit apă pentru popor.
+? luogo | 2 17:7
+qi: Come fu chiamato il luogo dove il popolo tentò l'Eterno per l'acqua?
+qr: Cum a fost numit locul unde poporul L-a ispitit pe Domnul pentru apă?
+ai: Massa e Meriba | Mara ed Elim | Bethel e Ai | Sukkoth ed Etham
+ar: Masa și Meriba | Mara și Elim | Betel și Ai | Sucot și Etam
+@ refidim | 2 17:12 | la collina della battaglia | dealul luptei
+it: Mentre Giosuè combatteva Amalek, Aaronne e Hur sostenevano le mani alzate di Mosè fino al tramonto.
+ro: Pe când Iosua lupta cu Amalec, Aaron și Hur țineau mâinile ridicate ale lui Moise până la apusul soarelui.
+? personaggio | 2 17:12
+qi: Chi sostenne le mani di Mosè durante la battaglia?
+qr: Cine a sprijinit mâinile lui Moise în timpul luptei?
+ai: Aaronne e Hur | Giosuè e Caleb | Eleazar e Finehas | Nadab e Abihu
+ar: Aaron și Hur | Iosua și Caleb | Eleazar și Fineas | Nadab și Abihu
+@ refidim | 2 17:15 | l'altare | altarul
+it: Mosè costruì un altare e lo chiamò: «L'Eterno è la mia bandiera».
+ro: Moise a zidit un altar și l-a numit: „Domnul, steagul meu”.
+? evento | 2 17:15
+qi: Che nome diede Mosè all'altare dopo la vittoria?
+qr: Ce nume a dat Moise altarului după biruință?
+ai: «L'Eterno è la mia bandiera» | «L'Eterno provvederà» | «Fin qui l'Eterno ci ha soccorso» | «Dio vede»
+ar: „Domnul, steagul meu” | „Domnul va purta de grijă” | „Până aici Domnul ne-a ajutat” | „Dumnezeu vede”

@@ -1,0 +1,128 @@
+# Altri personaggi della Bibbia (seconda serie): capi, re, profeti, giudici, donne, compagni degli apostoli, idoli.
+# RISPOSTA IT|RISPOSTA RO|livello 1-3|libro|tipo|indizio italiano|indizio rumeno
+SISERA|SISERA|2|7|p|Il capo dell'esercito di Iabin, ucciso da Iael con un picchetto di tenda|Căpetenia oștirii lui Iabin, ucis de Iael cu un cui de cort
+BAASHA|BAESA|3|11|p|Il re d'Israele che sterminò la casa di Geroboamo e fece guerra ad Asa|Împăratul lui Israel care a nimicit casa lui Ieroboam și a purtat război cu Asa
+JEHOIAKIM|IOIACHIM|2|24|p|Il re di Giuda che bruciò il rotolo scritto da Baruk per Geremia|Împăratul lui Iuda care a ars sulul scris de Baruc pentru Ieremia
+SENNACHERIB|SANHERIB|2|12|p|Il re d'Assiria il cui esercito fu colpito da un angelo davanti a Gerusalemme|Împăratul Asiriei a cărui oaste a fost lovită de un înger înaintea Ierusalimului
+ARTASERSE|ARTAXERXE|2|16|p|Il re di Persia che permise a Neemia di ricostruire le mura di Gerusalemme|Împăratul Persiei care a îngăduit lui Neemia să zidească zidurile Ierusalimului
+BEN-HADAD|BEN-HADAD|3|11|p|Il re di Siria che assediò Samaria e fu sconfitto da Achab|Împăratul Siriei care a asediat Samaria și a fost înfrânt de Ahab
+SHADRAK|SADRAC|2|27|p|Il nome babilonese di Hananiah, gettato con due amici nella fornace ardente|Numele babilonean al lui Hanania, aruncat cu doi prieteni în cuptorul aprins
+MESHAK|MESAC|2|27|p|Il nome babilonese di Mishael, salvato dal fuoco della fornace|Numele babilonean al lui Mișael, scăpat din focul cuptorului
+ABED-NEGO|ABED-NEGO|2|27|p|Il nome babilonese di Azaria, uno dei tre giovani nella fornace ardente|Numele babilonean al lui Azaria, unul dintre cei trei tineri din cuptorul aprins
+BELTSHATSAR|BELTSATAR|2|27|p|Il nome babilonese dato a Daniele|Numele babilonean dat lui Daniel
+ASAHEL|ASAEL|3|10|p|Il fratello di Joab, veloce come una gazzella, ucciso da Abner|Fratele lui Ioab, iute ca o căprioară de câmp, ucis de Abner
+TOBIAH|TOBIA|3|16|p|L'Ammonita che con Sanballat si oppose alla ricostruzione delle mura|Amonitul care s-a împotrivit, împreună cu Sanbalat, zidirii zidurilor
+AMALEK|AMALEC|3|1|p|Il nipote di Esaù da cui discende il popolo che attaccò Israele a Refidim|Nepotul lui Esau din care se trage poporul care a atacat pe Israel la Refidim
+AHIJAH|AHIA|3|11|p|Il profeta di Silo che annunciò a Geroboamo il regno su dieci tribù|Proorocul din Silo care a vestit lui Ieroboam domnia peste zece seminții
+JOTHAM|IOTAM|3|7|p|Il figlio minore di Gedeone che raccontò la parabola degli alberi che cercano un re|Fiul cel mic al lui Ghedeon care a spus pilda copacilor care își caută un împărat
+UZZIAH|OZIA|2|14|p|Il re di Giuda colpito dalla lebbra per aver voluto offrire l'incenso nel tempio|Împăratul lui Iuda lovit de lepră fiindcă a vrut să aducă tămâie în Templu
+ACHAZIAH|AHAZIA|3|12|p|Il re d'Israele che cadde dalla finestra del palazzo e mandò a interrogare Baal-Zebub|Împăratul lui Israel care a căzut pe fereastră și a trimis să întrebe pe Baal-Zebub
+JOAS|IOAS|2|12|p|Il re bambino di Giuda, di sette anni, salvato e nascosto nel tempio|Împăratul copil al lui Iuda, de șapte ani, scăpat și ascuns în Templu
+ATHALIAH|ATALIA|2|12|p|La regina che uccise i discendenti reali di Giuda per regnare al loro posto|Regina care a ucis pe urmașii împărătești ai lui Iuda ca să domnească ea
+JEHOAHAZ|IOAHAZ|3|12|p|Il re di Giuda, figlio di Giosia, portato in Egitto dal faraone Neko|Împăratul lui Iuda, fiul lui Iosia, dus în Egipt de faraonul Neco
+MATTANIAH|MATANIA|3|12|p|Il nome di Sedekia prima che Nebukadnetsar lo cambiasse|Numele lui Zedechia înainte ca Nebucadnețar să-l schimbe
+SHALLUM|SALUM|3|12|p|Il re d'Israele che regnò un mese dopo aver ucciso Zaccaria|Împăratul lui Israel care a domnit o lună după ce a ucis pe Zaharia
+MENAHEM|MENAHEM|3|12|p|Il re d'Israele che pagò un tributo di mille talenti d'argento al re d'Assiria|Împăratul lui Israel care a plătit o mie de talanți de argint împăratului Asiriei
+ELIAKIM|ELIACHIM|3|14|p|Il re di Giuda a cui il faraone Neko cambiò il nome in Jehoiakim|Împăratul lui Iuda al cărui nume faraonul Neco l-a schimbat în Ioiachim
+NEKO|NECO|3|12|p|Il faraone d'Egitto che uccise il re Giosia a Meghiddo|Faraonul Egiptului care a omorât pe împăratul Iosia la Meghido
+ELIEZER|ELIEZER|3|2|p|Il secondo figlio di Mosè e di Sefora|Al doilea fiu al lui Moise și al Seforei
+SEFORA|SEFORA|2|2|p|La moglie di Mosè, figlia del sacerdote di Madian|Soția lui Moise, fiica preotului din Madian
+NAHOR|NAHOR|3|1|p|Il fratello di Abrahamo, nonno di Rebecca|Fratele lui Avraam, bunicul Rebecăi
+ABIHU|ABIHU|3|3|p|Il figlio di Aaronne che, con Nadab, offrì fuoco estraneo e morì|Fiul lui Aaron care, împreună cu Nadab, a adus foc străin și a murit
+NADAB|NADAB|3|3|p|Il primogenito di Aaronne, morto per aver offerto fuoco estraneo davanti all'Eterno|Întâiul născut al lui Aaron, mort fiindcă a adus foc străin înaintea Domnului
+ELEAZAR|ELEAZAR|2|4|p|Il figlio di Aaronne che divenne sommo sacerdote dopo di lui|Fiul lui Aaron care a ajuns mare preot după el
+KEHATH|CHEHAT|3|2|p|Il figlio di Levi, nonno di Mosè e di Aaronne|Fiul lui Levi, bunicul lui Moise și al lui Aaron
+MERARI|MERARI|3|2|p|Il terzo figlio di Levi, capostipite di una delle tre famiglie levitiche|Al treilea fiu al lui Levi, părintele uneia dintre cele trei familii de leviți
+GHERSHON|GHERSON|3|4|p|Il figlio maggiore di Levi, capostipite di una famiglia levitica|Fiul cel mare al lui Levi, părintele unei familii de leviți
+AMRAM|AMRAM|3|2|p|Il padre di Mosè, di Aaronne e di Miriam|Tatăl lui Moise, al lui Aaron și al Mariei
+KORE|CORE|2|4|p|Il levita che si ribellò a Mosè e ad Aaronne e fu inghiottito dalla terra|Leviul care s-a răsculat împotriva lui Moise și a lui Aaron și a fost înghițit de pământ
+DATHAN|DATAN|3|4|p|Il rubenita che, con suo fratello Abiram, si ribellò a Mosè nel deserto|Rubenitul care, împreună cu fratele său Abiram, s-a răsculat împotriva lui Moise în pustie
+ABIRAM|ABIRAM|3|4|p|Il fratello di Dathan, inghiottito dalla terra con Kore|Fratele lui Datan, înghițit de pământ împreună cu Core
+TSELOFEHAD|TELOFHAD|3|4|p|L'uomo morto senza figli maschi, le cui cinque figlie ottennero l'eredità|Omul mort fără fii, ale cărui cinci fiice au primit moștenirea
+BALAAM|BALAAM|2|4|p|Il profeta fermato dall'asina che benedì Israele invece di maledirlo|Proorocul oprit de măgăriță, care a binecuvântat pe Israel în loc să-l blesteme
+BALAK|BALAC|2|4|p|Il re di Moab che chiamò Balaam per far maledire Israele|Împăratul Moabului care a chemat pe Balaam ca să blesteme pe Israel
+SIHON|SIHON|3|4|p|Il re degli Amorei che rifiutò il passaggio a Israele e fu sconfitto|Împăratul amoriților care n-a lăsat pe Israel să treacă și a fost înfrânt
+AKAN|ACAN|3|6|p|L'uomo di Giuda che prese dell'anatema a Gerico e fu lapidato|Omul din Iuda care a luat din lucrurile date spre nimicire la Ierihon și a fost ucis cu pietre
+JABIN|IABIN|3|7|p|Il re di Canaan a Hatsor, il cui capo dell'esercito era Sisera|Împăratul Canaanului din Hațor, al cărui căpetenie de oaste era Sisera
+ZEBAH|ZEBAH|3|7|p|Un re di Madian ucciso da Gedeone insieme a Tsalmunna|Un împărat al Madianului ucis de Ghedeon împreună cu Țalmuna
+TSALMUNNA|TALMUNA|3|7|p|Un re di Madian catturato e ucciso da Gedeone con Zebah|Un împărat al Madianului prins și ucis de Ghedeon împreună cu Zebah
+SHAMGAR|SAMGAR|3|7|p|Il giudice che uccise seicento Filistei con un pungolo da buoi|Judecătorul care a ucis șase sute de filisteni cu un băț de mânat boii
+ABDON|ABDON|3|7|p|Un giudice d'Israele di Piraton, con quaranta figli e trenta nipoti|Un judecător al lui Israel din Piraton, cu patruzeci de fii și treizeci de nepoți
+TOLA|TOLA|3|7|p|Il giudice d'Israele che venne dopo Abimelek, della tribù di Issacar|Judecătorul lui Israel care a urmat după Abimelec, din seminția lui Isahar
+JAIR|IAIR|3|7|p|Il giudice di Galaad che aveva trenta figli su trenta asinelli|Judecătorul din Galaad care avea treizeci de fii călare pe treizeci de măgăruși
+ORPAH|ORPA|3|8|p|La nuora di Naomi che tornò dal suo popolo invece di seguirla a Betlemme|Nora Noemiei care s-a întors la poporul ei în loc s-o urmeze la Betleem
+PENINNA|PENINA|3|9|p|La seconda moglie di Elkanah, che umiliava Anna perché non aveva figli|A doua soție a lui Elcana, care umilea pe Ana fiindcă n-avea copii
+HOFNI|HOFNI|3|9|p|Uno dei due figli malvagi del sacerdote Eli, morto con suo fratello Fineas|Unul dintre cei doi fii răi ai preotului Eli, mort împreună cu fratele său Fineas
+KISH|CHIS|2|9|p|Il padre del re Saul, un beniaminita|Tatăl împăratului Saul, un beniamit
+AGAG|AGAG|2|9|p|Il re degli Amalekiti risparmiato da Saul e ucciso poi da Samuele|Împăratul amalecitilor cruțat de Saul și ucis apoi de Samuel
+DOEG|DOEG|3|9|p|L'Edomita capo dei pastori di Saul che uccise ottantacinque sacerdoti a Nob|Edomitul, căpetenia păstorilor lui Saul, care a omorât optzeci și cinci de preoți la Nob
+NAHASH|NAHAS|3|9|p|Il re degli Ammoniti che minacciò gli abitanti di Jabesh di Galaad|Împăratul amoniților care a amenințat pe locuitorii din Iabes din Galaad
+MIKAL|MICAL|2|9|p|La figlia di Saul data in moglie a Davide|Fiica lui Saul dată de nevastă lui David
+ISH-BOSCETH|IS-BOSET|3|10|p|Il figlio di Saul fatto re da Abner dopo la morte del padre|Fiul lui Saul făcut împărat de Abner după moartea tatălui său
+TSERUIAH|TERUIA|3|10|p|La madre dei tre fratelli Joab, Abishai e Asahel|Mama celor trei frați Ioab, Abișai și Asael
+AMASA|AMASA|3|10|p|Il capo dell'esercito di Absalom, ucciso a tradimento da Joab|Căpetenia oștirii lui Absalom, ucis prin vicleșug de Ioab
+SCEBA|SEBA|3|10|p|Il beniaminita, figlio di Bikri, che si ribellò a Davide|Beniamitul, fiul lui Bicri, care s-a răsculat împotriva lui David
+HANUN|HANUN|3|10|p|Il re degli Ammoniti che rase mezza barba ai messaggeri di Davide|Împăratul amoniților care a ras jumătate din barba trimișilor lui David
+HADADEZER|HADADEZER|3|10|p|Il re di Tsobah sconfitto da Davide|Împăratul din Țoba înfrânt de David
+UZZAH|UZA|3|10|p|L'uomo che morì per aver toccato l'arca mentre veniva portata a Gerusalemme|Omul care a murit fiindcă a atins chivotul pe când era dus la Ierusalim
+TSADOK|TADOC|2|10|p|Il sacerdote fedele a Davide che unse re Salomone|Preotul credincios lui David care a uns împărat pe Solomon
+NEBAT|NEBAT|3|11|p|Il padre di Geroboamo, primo re d'Israele diviso|Tatăl lui Ieroboam, primul împărat al lui Israel după despărțire
+ABISHAG|ABISAG|3|11|p|La giovane sunamita che scaldava il vecchio re Davide|Tânăra sunamită care încălzea pe bătrânul împărat David
+ABIJAM|ABIAM|3|11|p|Il re di Giuda, figlio di Roboamo, che regnò tre anni|Împăratul lui Iuda, fiul lui Roboam, care a domnit trei ani
+SCEMAIAH|SEMAIA|3|11|p|Il profeta che fermò Roboamo dal combattere contro le dieci tribù|Proorocul care a oprit pe Roboam să se bată cu cele zece seminții
+OBADIAH|OBADIA|3|11|p|Il maggiordomo di Achab che nascose cento profeti in due grotte|Mai-marele casei lui Ahab care a ascuns o sută de proroci în două peșteri
+SCEBNA|SEBNA|3|12|p|Il segretario di Ezechia mandato a trattare con il Rabshakeh|Cărturarul lui Ezechia trimis să vorbească cu Rabșache
+HULDAH|HULDA|3|12|p|La profetessa consultata dal re Giosia sul libro della legge trovato|Prorocița căreia i-a cerut sfatul împăratul Iosia despre cartea Legii găsită
+JEDUTHUN|IEDUTUN|3|13|p|Uno dei tre maestri di musica del tempio, con Asaf e Heman|Unul dintre cei trei mai-mari ai cântăreților din Templu, alături de Asaf și Heman
+SCEALTIEL|SEALTIEL|3|15|p|Il padre di Zorobabele, il capo dei ritornati da Babilonia|Tatăl lui Zorobabel, căpetenia celor întorși din Babilon
+SANBALLAT|SANBALAT|2|16|p|L'Horonita che si oppose a Neemia mentre ricostruiva le mura|Horonitul care s-a împotrivit lui Neemia pe când zidea zidurile
+BILDAD|BILDAD|3|18|p|Uno dei tre amici di Giobbe, originario di Shuah|Unul dintre cei trei prieteni ai lui Iov, din Șuah
+GOG|GOG|2|26|p|Il principe di Mescek e Tubal contro cui profetizza Ezechiele|Căpetenia lui Meșec și Tubal împotriva căruia proorocește Ezechiel
+JEHUDI|IEHUDI|3|24|p|Il funzionario che lesse davanti al re il rotolo di Geremia|Slujbașul care a citit înaintea împăratului sulul lui Ieremia
+METHUSELAH|METUSALA|1|1|p|L'uomo più longevo della Bibbia, morto a 969 anni|Omul cel mai bătrân din Biblie, mort la 969 de ani
+JARED|IARED|3|1|p|Il padre di Enok, vissuto 962 anni|Tatăl lui Enoh, care a trăit 962 de ani
+ENOSH|ENOS|3|1|p|Il figlio di Seth, al cui tempo si cominciò a invocare il nome dell'Eterno|Fiul lui Set, în vremea căruia oamenii au început să cheme Numele Domnului
+NIMROD|NIMROD|2|1|p|Il «potente cacciatore davanti all'Eterno», che costruì Babele e Ninive|«Vânător puternic înaintea Domnului», care a zidit Babilonul și Ninive
+PELEG|PELEG|3|1|p|Il discendente di Sem ai cui giorni la terra fu divisa|Urmașul lui Sem în zilele căruia s-a împărțit pământul
+PERETS|PERET|3|1|p|Il gemello di Zerah nato per primo da Tamar, antenato di Davide|Geamănul lui Zerah născut întâi din Tamar, strămoșul lui David
+ZERAH|ZERAH|3|1|p|Il gemello nato a Giuda e Tamar con un filo scarlatto legato alla mano|Geamănul născut lui Iuda și Tamarei cu un fir stacojiu legat la mână
+BILHAH|BILHA|3|1|p|La serva di Rachele, madre di Dan e di Neftali|Roaba Rahelei, mama lui Dan și a lui Neftali
+KETURAH|CHETURA|3|1|p|La donna che Abrahamo sposò dopo la morte di Sara|Femeia pe care a luat-o Avraam după moartea Sarei
+ALFEO|ALFEU|3|40|p|Il padre di uno degli apostoli di nome Giacomo|Tatăl unuia dintre apostolii cu numele Iacov
+ZEBEDEO|ZEBEDEI|1|40|p|Il pescatore padre degli apostoli Giacomo e Giovanni|Pescarul, tatăl apostolilor Iacov și Ioan
+ISCARIOTA|ISCARIOTEANUL|1|40|p|Il soprannome di Giuda, il traditore|Porecla lui Iuda, vânzătorul
+MADDALENA|MAGDALENA|1|43|p|La donna di Magdala che per prima vide Gesù risorto|Femeia din Magdala care a văzut prima pe Isus înviat
+CEFA|CHIFA|3|43|p|Il nome aramaico che Gesù diede a Simone e che significa «pietra»|Numele aramaic pe care Isus l-a dat lui Simon și care înseamnă «piatră»
+ARIMATEA|ARIMATEEA|2|43|l|La città di Giuseppe, che seppellì Gesù nella sua tomba nuova|Cetatea lui Iosif, care a îngropat pe Isus în mormântul lui nou
+BARTIMEO|BARTIMEU|2|41|p|Il mendicante cieco di Gerico che gridò: «Figlio di Davide, abbi pietà di me!»|Cerșetorul orb din Ierihon care a strigat: «Fiul lui David, ai milă de mine!»
+CLEOPA|CLEOPA|3|42|p|Uno dei due discepoli che camminarono con Gesù risorto verso Emmaus|Unul dintre cei doi ucenici care au mers cu Isus înviat spre Emaus
+SALOME|SALOME|3|41|p|Una delle donne che andarono al sepolcro per ungere il corpo di Gesù|Una dintre femeile care au mers la mormânt să ungă trupul lui Isus
+GIOVANNA|IOANA|3|42|p|La moglie di Cuza, amministratore di Erode, che serviva Gesù con i suoi beni|Soția lui Cuza, îngrijitorul lui Irod, care slujea lui Isus cu averea ei
+SUSANNA|SUSANA|3|42|p|Una delle donne guarite che accompagnavano Gesù e lo assistevano|Una dintre femeile vindecate care însoțeau pe Isus și-L slujeau
+ALESSANDRO|ALEXANDRU|3|41|p|Uno dei due figli di Simone di Cirene, che portò la croce di Gesù|Unul dintre fiii lui Simon din Cirena, care a purtat crucea lui Isus
+ENEA|ENEA|3|44|p|Il paralitico di Lidda guarito da Pietro dopo otto anni di letto|Paraliticul din Lida vindecat de Petru după opt ani de pat
+SAFFIRA|SAFIRA|2|44|p|La moglie di Anania, morta per aver mentito allo Spirito Santo|Soția lui Anania, moartă fiindcă a mințit Duhul Sfânt
+ELIMAS|ELIMA|3|44|p|Il mago di Cipro accecato per aver ostacolato Paolo davanti al proconsole|Vrăjitorul din Cipru orbit fiindcă a stat împotriva lui Pavel înaintea proconsulului
+SERGIO|SERGIUS|3|44|p|Il proconsole di Cipro che credette vedendo la cecità del mago Elimas|Proconsulul din Cipru care a crezut văzând orbirea vrăjitorului Elima
+PUBLIO|PUBLIUS|3|44|p|Il capo dell'isola di Malta il cui padre fu guarito da Paolo|Mai-marele insulei Malta al cărui tată a fost vindecat de Pavel
+DEMETRIO|DIMITRIE|3|44|p|L'argentiere di Efeso che scatenò un tumulto contro Paolo per i tempietti d'argento di Diana|Argintarul din Efes care a stârnit o gâlceavă împotriva lui Pavel pentru templele de argint ale Dianei
+CRISPO|CRISP|3|44|p|Il capo della sinagoga di Corinto che credette nel Signore con tutta la sua casa|Mai-marele sinagogii din Corint care a crezut în Domnul cu toată casa lui
+SOSTENE|SOSTEN|3|44|p|Il capo della sinagoga di Corinto percosso davanti al tribunale di Gallione|Mai-marele sinagogii din Corint bătut înaintea judecății lui Galion
+DIONIGI|DIONISIE|3|44|p|Il membro dell'Areopago di Atene che credette dopo il discorso di Paolo|Membrul Areopagului din Atena care a crezut după cuvântarea lui Pavel
+DAMARIS|DAMARIS|3|44|p|La donna di Atene che credette dopo il discorso di Paolo all'Areopago|Femeia din Atena care a crezut după cuvântarea lui Pavel din Areopag
+RODE|RODA|3|44|p|La serva che riconobbe la voce di Pietro liberato e non gli aprì per la gioia|Roaba care a recunoscut glasul lui Petru izbăvit și n-a deschis de bucurie
+ARISTARCO|ARISTARH|3|44|p|Il macedone di Tessalonica, compagno di viaggio di Paolo|Macedoneanul din Tesalonic, tovarășul de călătorie al lui Pavel
+GIASONE|IASON|3|44|p|L'uomo di Tessalonica che ospitò Paolo e Sila e fu trascinato davanti ai magistrati|Omul din Tesalonic care a găzduit pe Pavel și pe Sila și a fost târât înaintea dregătorilor
+TROFIMO|TROFIM|3|44|p|L'efesino che accompagnò Paolo a Gerusalemme e per il quale scoppiò un tumulto|Efeseanul care a însoțit pe Pavel la Ierusalim și din pricina căruia s-a stârnit tulburare
+BERENICE|BERENICE|3|44|p|La sorella di Agrippa che lo accompagnò quando Paolo si difese|Sora lui Agripa care l-a însoțit când Pavel s-a apărat
+LISIA|LISIAS|3|44|p|Il tribuno romano di Gerusalemme che salvò Paolo dalla folla|Comandantul roman din Ierusalim care a scăpat pe Pavel din mâinile mulțimii
+ERASTO|ERAST|3|45|p|Il tesoriere della città di Corinto che mandava i suoi saluti ai Romani|Vistiernicul cetății Corintului care trimitea salutări romanilor
+FEBE|FIVI|3|45|p|La diaconessa della chiesa di Cencrea raccomandata da Paolo ai Romani|Diaconița bisericii din Chencrea recomandată de Pavel romanilor
+ARCHIPPO|ARHIP|3|51|p|Il collaboratore a cui Paolo scrisse: «Bada al ministero che hai ricevuto nel Signore»|Lucrătorul căruia Pavel i-a scris: «Ia seama la slujba pe care ai primit-o în Domnul»
+ONESIFORO|ONISIFOR|3|55|p|L'amico di Paolo che non si vergognò delle sue catene a Roma|Prietenul lui Pavel care nu s-a rușinat de lanțurile lui la Roma
+BAAL|BAAL|2|11|p|Il dio cananeo che Elia sfidò sul monte Carmelo|Zeul canaanit pe care l-a provocat Ilie pe muntele Carmel
+DAGON|DAGON|3|9|p|Il dio dei Filistei la cui statua cadde davanti all'arca|Zeul filistenilor a cărui statuie a căzut înaintea chivotului
+MOLEK|MOLOH|3|3|p|L'idolo a cui si facevano passare i bambini attraverso il fuoco|Idolul căruia i se ardeau copii în foc
+KEMOSH|CHEMOS|3|7|p|Il dio di Moab|Zeul Moabului
+ASHTAROTH|ASTAROT|3|7|p|La dea della fertilità adorata con Baal dagli Israeliti|Zeița rodniciei, închinată împreună cu Baal de israeliți
+BEELZEBUB|BEELZEBUL|2|40|p|Il nome con cui i farisei chiamavano il principe dei demòni|Numele cu care fariseii numeau pe domnul dracilor

@@ -1,0 +1,509 @@
+# Domande a quattro risposte per i giochi nuovi (Ruota, Sprint, Scalata, Tempio, Codice).
+# Ogni domanda sono tre righe:
+#   categoria|livello 1-4|riferimento «libro capitolo:versetto» (libro = numero da 1 a 66)
+#   IT|domanda|risposta GIUSTA|sbagliata|sbagliata|sbagliata|breve spiegazione
+#   RO|întrebare|răspuns CORECT|greșit|greșit|greșit|scurtă explicație
+# categorie: personaggi re profeti miracoli luoghi at nt profezie
+# livello: 1 facile · 2 medio · 3 difficile · 4 esperti (la domanda da un milione)
+
+# ================= PERSONAGGI =================
+personaggi|1|1 6:14
+IT|Chi costruì l'arca?|Noè|Mosè|Abrahamo|Davide|Dio comandò a Noè di costruire un'arca di legno di gofer.
+RO|Cine a făcut corabia?|Noe|Moise|Avraam|David|Dumnezeu i-a poruncit lui Noe să facă o corabie din lemn de gofer.
+personaggi|1|27 6:16
+IT|Chi fu gettato nella fossa dei leoni?|Daniele|Giuseppe|Geremia|Elia|Daniele continuò a pregare Dio e fu gettato nella fossa dei leoni, ma Dio chiuse la bocca dei leoni.
+RO|Cine a fost aruncat în groapa cu lei?|Daniel|Iosif|Ieremia|Ilie|Daniel a continuat să se roage lui Dumnezeu și a fost aruncat în groapa cu lei, dar Dumnezeu a închis gura leilor.
+personaggi|1|9 17:50
+IT|Chi abbatté il gigante Goliath con una fionda?|Davide|Saul|Sansone|Gionathan|Il giovane Davide vinse Goliath con una fionda e una pietra.
+RO|Cine l-a doborât pe uriașul Goliat cu o praștie?|David|Saul|Samson|Ionatan|Tânărul David l-a biruit pe Goliat cu o praștie și o piatră.
+personaggi|1|1 37:28
+IT|Chi fu venduto dai suoi fratelli e portato in Egitto?|Giuseppe|Beniamino|Ruben|Giuda|I fratelli vendettero Giuseppe ai mercanti ismaeliti per venti sicli d'argento.
+RO|Cine a fost vândut de frații lui și dus în Egipt?|Iosif|Beniamin|Ruben|Iuda|Frații l-au vândut pe Iosif ismaeliților cu douăzeci de sicli de argint.
+personaggi|1|32 1:17
+IT|Chi rimase tre giorni nel ventre di un grande pesce?|Giona|Pietro|Elia|Giobbe|Il Signore preparò un grande pesce che inghiottì Giona.
+RO|Cine a stat trei zile în pântecele unui pește mare?|Iona|Petru|Ilie|Iov|Domnul a pregătit un pește mare care l-a înghițit pe Iona.
+personaggi|1|1 17:15
+IT|Come si chiamava la moglie di Abrahamo?|Sara|Rebecca|Rachele|Lea|Dio cambiò il nome di Sarai in Sara.
+RO|Cum se numea soția lui Avraam?|Sara|Rebeca|Rahela|Lea|Dumnezeu i-a schimbat numele din Sarai în Sara.
+personaggi|1|40 26:75
+IT|Quale discepolo rinnegò Gesù tre volte?|Pietro|Giovanni|Tommaso|Andrea|Dopo il canto del gallo Pietro si ricordò delle parole di Gesù e pianse amaramente.
+RO|Care ucenic s-a lepădat de Isus de trei ori?|Petru|Ioan|Toma|Andrei|După ce a cântat cocoșul, Petru și-a adus aminte de cuvintele lui Isus și a plâns cu amar.
+personaggi|2|1 21:3
+IT|Chi era il padre di Isacco?|Abrahamo|Giacobbe|Lot|Terah|Isacco nacque ad Abrahamo e Sara nella loro vecchiaia.
+RO|Cine era tatăl lui Isaac?|Avraam|Iacov|Lot|Terah|Isaac s-a născut lui Avraam și Sarei la bătrânețe.
+personaggi|2|9 1:20
+IT|Chi era la madre del profeta Samuele?|Anna|Elisabetta|Rut|Noemi|Anna chiese un figlio al Signore e lo chiamò Samuele.
+RO|Cine era mama prorocului Samuel?|Ana|Elisabeta|Rut|Naomi|Ana a cerut un fiu de la Domnul și i-a pus numele Samuel.
+personaggi|2|8 1:16
+IT|Chi disse: «Il tuo popolo sarà il mio popolo, e il tuo Dio sarà il mio Dio»?|Rut|Orpa|Noemi|Ester|Rut, la moabita, non volle lasciare la suocera Noemi.
+RO|Cine a spus: „Poporul tău va fi poporul meu, și Dumnezeul tău va fi Dumnezeul meu”?|Rut|Orpa|Naomi|Estera|Rut, moabita, n-a vrut s-o părăsească pe soacra ei, Naomi.
+personaggi|2|42 19:4
+IT|Chi salì su un sicomoro per vedere Gesù?|Zaccheo|Nicodemo|Bartimeo|Matteo|Zaccheo era piccolo di statura e salì sull'albero per vedere Gesù passare.
+RO|Cine s-a suit într-un dud pentru a-L vedea pe Isus?|Zacheu|Nicodim|Bartimeu|Matei|Zacheu era mic de statură și s-a suit în copac ca să-L vadă pe Isus trecând.
+personaggi|2|43 3:2
+IT|Chi andò da Gesù di notte per parlare con lui?|Nicodemo|Zaccheo|Lazzaro|Giuseppe d'Arimatea|Nicodemo, capo dei Giudei, venne da Gesù di notte.
+RO|Cine a venit la Isus noaptea ca să vorbească cu El?|Nicodim|Zacheu|Lazăr|Iosif din Arimateea|Nicodim, un fruntaș al iudeilor, a venit la Isus noaptea.
+personaggi|2|44 7:59
+IT|Chi fu il primo martire cristiano, lapidato mentre pregava?|Stefano|Giacomo|Filippo|Barnaba|Stefano morì lapidato pregando per chi lo uccideva.
+RO|Cine a fost primul martir creștin, ucis cu pietre în timp ce se ruga?|Ștefan|Iacov|Filip|Barnaba|Ștefan a murit ucis cu pietre, rugându-se pentru cei ce-l omorau.
+personaggi|3|2 3:1
+IT|Chi era il suocero di Mosè, sacerdote di Madian?|Jethro|Labano|Eli|Balaam|Mosè pascolava il gregge di suo suocero, sacerdote di Madian.
+RO|Cine era socrul lui Moise, preot al Madianului?|Ietro|Laban|Eli|Balaam|Moise păștea turma socrului său, preotul Madianului.
+personaggi|3|2 17:12
+IT|Chi sostenne le mani di Mosè durante la battaglia contro Amalek?|Aaronne e Hur|Giosuè e Caleb|Eleazar e Ithamar|Nadab e Abihu|Finché le mani di Mosè restavano alzate, Israele vinceva.
+RO|Cine i-a sprijinit mâinile lui Moise în lupta cu Amalec?|Aaron și Hur|Iosua și Caleb|Eleazar și Itamar|Nadab și Abihu|Cât timp mâinile lui Moise erau ridicate, Israel era mai tare.
+personaggi|3|42 1:13
+IT|Chi era il padre di Giovanni Battista?|Zaccaria|Simeone|Zebedeo|Giuseppe|L'angelo annunciò al sacerdote Zaccaria la nascita di un figlio.
+RO|Cine era tatăl lui Ioan Botezătorul?|Zaharia|Simeon|Zebedei|Iosif|Îngerul i-a vestit preotului Zaharia nașterea unui fiu.
+personaggi|3|7 7:7
+IT|Quale giudice sconfisse i Madianiti con soli trecento uomini?|Gedeone|Sansone|Jefte|Barak|Dio disse a Gedeone: «Con i trecento uomini vi salverò».
+RO|Care judecător i-a biruit pe madianiți numai cu trei sute de oameni?|Ghedeon|Samson|Iefta|Barac|Dumnezeu i-a zis lui Ghedeon: „Prin cei trei sute de oameni vă voi izbăvi”.
+personaggi|3|7 4:5
+IT|Quale profetessa giudicava Israele seduta sotto una palma?|Debora|Miriam|Hulda|Anna|Gli Israeliti salivano da Debora per ottenere giustizia.
+RO|Care prorociță judeca pe Israel stând sub un finic?|Debora|Maria|Hulda|Ana|Israeliții se suiau la Debora ca să fie judecați.
+personaggi|4|1 5:27
+IT|Chi visse più a lungo di tutti nella Bibbia, 969 anni?|Methuselah|Enok|Lamek|Jared|Tutti i giorni di Methuselah furono novecentosessantanove anni.
+RO|Cine a trăit cel mai mult în Biblie, 969 de ani?|Metusala|Enoh|Lameh|Iared|Toate zilele lui Metusala au fost de nouă sute șaizeci și nouă de ani.
+personaggi|4|12 5:27
+IT|Quale servo di Eliseo fu colpito dalla lebbra di Naaman?|Ghehazi|Elkanah|Baruk|Abdia|Ghehazi corse dietro a Naaman per avere doni e la lebbra passò su di lui.
+RO|Care slujitor al lui Elisei a fost lovit de lepra lui Naaman?|Ghehazi|Elcana|Baruc|Obadia|Ghehazi a alergat după Naaman ca să ia daruri, și lepra a trecut asupra lui.
+
+# ================= RE =================
+re|1|9 10:24
+IT|Chi fu il primo re d'Israele?|Saul|Davide|Salomone|Samuele|Samuele presentò Saul al popolo, che gridò: «Viva il re!».
+RO|Cine a fost primul împărat al lui Israel?|Saul|David|Solomon|Samuel|Samuel l-a arătat pe Saul poporului, care a strigat: „Trăiască împăratul!”.
+re|1|11 6:14
+IT|Quale re costruì il tempio a Gerusalemme?|Salomone|Davide|Saul|Ezechia|Salomone costruì la casa del Signore e la portò a termine.
+RO|Care împărat a zidit templul din Ierusalim?|Solomon|David|Saul|Ezechia|Solomon a zidit Casa Domnului și a isprăvit-o.
+re|1|11 3:9
+IT|Quale re chiese a Dio un cuore intelligente per governare il popolo?|Salomone|Davide|Giosia|Achab|A Dio piacque che Salomone avesse chiesto la saggezza e non le ricchezze.
+RO|Care împărat I-a cerut lui Dumnezeu o inimă pricepută ca să judece poporul?|Solomon|David|Iosia|Ahab|Lui Dumnezeu I-a plăcut că Solomon a cerut înțelepciune, nu bogății.
+re|1|9 16:23
+IT|Quale futuro re suonava l'arpa per il re Saul?|Davide|Salomone|Gionathan|Roboamo|Quando Davide suonava, lo spirito cattivo si allontanava da Saul.
+RO|Care viitor împărat cânta cu harfa pentru împăratul Saul?|David|Solomon|Ionatan|Roboam|Când cânta David, duhul cel rău se depărta de Saul.
+re|1|2 5:2
+IT|Quale re d'Egitto rifiutò di lasciar partire Israele?|Il Faraone|Nabucodonosor|Ciro|Dario|Il Faraone disse: «Chi è l'Eterno, perché io debba ubbidire alla sua voce?».
+RO|Care împărat al Egiptului n-a vrut să-l lase pe Israel să plece?|Faraon|Nebucadnețar|Cirus|Darius|Faraon a zis: „Cine este Domnul, ca să ascult de glasul Lui?”.
+re|1|27 3:1
+IT|Quale re di Babilonia fece costruire una grande statua d'oro?|Nabucodonosor|Belshatsar|Dario|Ciro|La statua era alta sessanta cubiti e tutti dovevano adorarla.
+RO|Care împărat al Babilonului a făcut un chip mare de aur?|Nebucadnețar|Belșațar|Darius|Cirus|Chipul era înalt de șaizeci de coți și toți trebuiau să i se închine.
+re|1|27 6:16
+IT|Sotto quale re Daniele fu gettato nella fossa dei leoni?|Dario|Nabucodonosor|Ciro|Assuero|Il re Dario, a malincuore, fece gettare Daniele nella fossa.
+RO|Sub care împărat a fost aruncat Daniel în groapa cu lei?|Darius|Nebucadnețar|Cirus|Ahașveroș|Împăratul Darius, cu inima grea, a poruncit să fie aruncat Daniel în groapă.
+re|2|17 2:17
+IT|Quale re scelse Ester come regina?|Assuero|Dario|Ciro|Artaserse|Il re amò Ester più di tutte le altre donne e le pose la corona sul capo.
+RO|Care împărat a ales-o pe Estera ca împărăteasă?|Ahașveroș|Darius|Cirus|Artaxerxe|Împăratul a iubit-o pe Estera mai mult decât pe toate celelalte femei și i-a pus cununa pe cap.
+re|2|40 2:16
+IT|Quale re fece uccidere i bambini di Betlemme?|Erode|Pilato|Agrippa|Cesare Augusto|Erode si adirò perché i magi non erano tornati da lui.
+RO|Care împărat a poruncit să fie omorâți pruncii din Betleem?|Irod|Pilat|Agripa|Cezar August|Irod s-a mâniat fiindcă magii nu se întorseseră la el.
+re|2|15 1:2
+IT|Quale re di Persia permise ai Giudei di tornare a ricostruire il tempio?|Ciro|Dario|Assuero|Nabucodonosor|Ciro proclamò che il Signore gli aveva ordinato di costruirgli una casa a Gerusalemme.
+RO|Care împărat al Persiei le-a dat voie iudeilor să se întoarcă și să zidească templul?|Cirus|Darius|Ahașveroș|Nebucadnețar|Cirus a vestit că Domnul i-a poruncit să-I zidească o Casă la Ierusalim.
+re|2|10 12:24
+IT|Chi era il padre del re Salomone?|Davide|Saul|Natan|Roboamo|Salomone nacque a Davide e Bathsceba.
+RO|Cine era tatăl împăratului Solomon?|David|Saul|Natan|Roboam|Solomon s-a născut lui David și Batșebei.
+re|2|11 10:1
+IT|Chi venne da lontano per mettere alla prova la sapienza di Salomone?|La regina di Sceba|Jezebel|Vashti|Athaliah|La regina di Sceba venne con domande difficili e rimase senza fiato.
+RO|Cine a venit de departe să pună la încercare înțelepciunea lui Solomon?|Împărăteasa din Seba|Izabela|Vasti|Atalia|Împărăteasa din Seba a venit cu întrebări grele și a rămas uimită.
+re|2|11 16:31
+IT|Quale re d'Israele sposò la malvagia Jezebel?|Achab|Jehu|Omri|Geroboamo|Achab sposò Jezebel e servì Baal.
+RO|Care împărat al lui Israel s-a căsătorit cu rea Izabela?|Ahab|Iehu|Omri|Ieroboam|Ahab a luat-o de nevastă pe Izabela și a slujit lui Baal.
+re|2|27 5:5
+IT|Quale re vide una mano scrivere sul muro durante un banchetto?|Belshatsar|Nabucodonosor|Dario|Ciro|Durante la festa apparvero le dita di una mano d'uomo che scrivevano sul muro.
+RO|Care împărat a văzut o mână scriind pe perete în timpul unui ospăț?|Belșațar|Nebucadnețar|Darius|Cirus|În timpul ospățului au ieșit degetele unei mâini de om și au scris pe perete.
+re|3|12 20:6
+IT|A quale re malato Dio aggiunse quindici anni di vita?|Ezechia|Giosia|Asa|Uzzia|Dio ascoltò la preghiera e le lacrime di Ezechia.
+RO|Cărui împărat bolnav i-a adăugat Dumnezeu cincisprezece ani de viață?|Ezechia|Iosia|Asa|Ozia|Dumnezeu a ascultat rugăciunea și lacrimile lui Ezechia.
+re|3|12 22:8
+IT|Durante il regno di quale re fu ritrovato il libro della legge nel tempio?|Giosia|Ezechia|Joas|Manasse|Il sommo sacerdote Hilkiah trovò il libro durante i lavori nel tempio.
+RO|În timpul domniei cărui împărat a fost găsită cartea Legii în Casa Domnului?|Iosia|Ezechia|Ioas|Manase|Marele preot Hilchia a găsit cartea în timpul lucrărilor la templu.
+re|3|14 26:19
+IT|Quale re fu colpito dalla lebbra perché volle bruciare l'incenso nel tempio?|Uzzia|Ezechia|Achaz|Jotham|Solo i sacerdoti potevano bruciare l'incenso: Uzzia fu lebbroso fino alla morte.
+RO|Care împărat a fost lovit de lepră fiindcă a vrut să ardă tămâie în templu?|Ozia|Ezechia|Ahaz|Iotam|Numai preoții aveau voie să ardă tămâie: Ozia a rămas lepros până la moarte.
+re|3|11 12:14
+IT|Quale re seguì il consiglio dei giovani invece di quello degli anziani, e il regno si divise?|Roboamo|Geroboamo|Salomone|Abijam|Roboamo parlò duramente al popolo e dieci tribù si separarono.
+RO|Care împărat a urmat sfatul tinerilor în locul sfatului bătrânilor, și împărăția s-a rupt?|Roboam|Ieroboam|Solomon|Abiam|Roboam a vorbit aspru poporului, și zece seminții s-au despărțit.
+re|3|11 12:28
+IT|Quale re d'Israele fece due vitelli d'oro e li pose a Bethel e a Dan?|Geroboamo|Roboamo|Achab|Jehu|Geroboamo non voleva che il popolo salisse a Gerusalemme ad adorare.
+RO|Care împărat al lui Israel a făcut doi viței de aur și i-a pus la Betel și la Dan?|Ieroboam|Roboam|Ahab|Iehu|Ieroboam nu voia ca poporul să se suie la Ierusalim să se închine.
+re|4|12 22:1
+IT|Quanti anni aveva Giosia quando divenne re?|Otto|Sette|Dodici|Sedici|Giosia aveva otto anni quando cominciò a regnare e regnò trentun anni.
+RO|Câți ani avea Iosia când a ajuns împărat?|Opt|Șapte|Doisprezece|Șaisprezece|Iosia avea opt ani când a început să împărățească și a împărățit treizeci și unu de ani.
+re|4|12 21:1
+IT|Quale re di Giuda regnò più a lungo, cinquantacinque anni?|Manasse|Uzzia|Asa|Ezechia|Manasse aveva dodici anni quando cominciò a regnare e regnò cinquantacinque anni.
+RO|Care împărat al lui Iuda a domnit cel mai mult, cincizeci și cinci de ani?|Manase|Ozia|Asa|Ezechia|Manase avea doisprezece ani când a început să împărățească și a domnit cincizeci și cinci de ani.
+
+# ================= PROFETI =================
+profeti|1|12 2:11
+IT|Quale profeta salì al cielo in un turbine, con un carro di fuoco?|Elia|Eliseo|Enok|Mosè|Eliseo vide Elia salire al cielo e ne raccolse il mantello.
+RO|Care proroc s-a înălțat la cer într-un vârtej, cu un car de foc?|Ilie|Elisei|Enoh|Moise|Elisei l-a văzut pe Ilie înălțându-se la cer și i-a luat mantaua.
+profeti|1|32 1:2
+IT|Quale profeta fu mandato a predicare a Ninive?|Giona|Naum|Amos|Osea|Giona prima fuggì, poi andò a Ninive e la città si pentì.
+RO|Care proroc a fost trimis să propovăduiască în Ninive?|Iona|Naum|Amos|Osea|Iona a fugit mai întâi, apoi a mers la Ninive, și cetatea s-a pocăit.
+profeti|1|9 16:13
+IT|Quale profeta unse il giovane Davide come re?|Samuele|Natan|Elia|Gad|Samuele prese il corno dell'olio e unse Davide in mezzo ai suoi fratelli.
+RO|Care proroc l-a uns pe tânărul David ca împărat?|Samuel|Natan|Ilie|Gad|Samuel a luat cornul cu untdelemn și l-a uns pe David în mijlocul fraților lui.
+profeti|1|11 18:19
+IT|Quale profeta sfidò i profeti di Baal sul monte Carmelo?|Elia|Eliseo|Samuele|Isaia|Il fuoco del Signore scese e consumò l'olocausto preparato da Elia.
+RO|Care proroc i-a înfruntat pe prorocii lui Baal pe muntele Carmel?|Ilie|Elisei|Samuel|Isaia|Focul Domnului s-a pogorât și a mistuit arderea de tot pregătită de Ilie.
+profeti|1|27 2:36
+IT|Quale profeta spiegò al re Nabucodonosor il sogno della grande statua?|Daniele|Ezechiele|Geremia|Isaia|Dio rivelò a Daniele il sogno del re e il suo significato.
+RO|Care proroc i-a tâlcuit împăratului Nebucadnețar visul cu chipul cel mare?|Daniel|Ezechiel|Ieremia|Isaia|Dumnezeu i-a descoperit lui Daniel visul împăratului și tâlcuirea lui.
+profeti|1|12 2:13
+IT|Quale profeta raccolse il mantello di Elia?|Eliseo|Ghehazi|Natan|Giona|Eliseo raccolse il mantello caduto da Elia e tornò al Giordano.
+RO|Care proroc a ridicat mantaua lui Ilie?|Elisei|Ghehazi|Natan|Iona|Elisei a ridicat mantaua care căzuse de pe Ilie și s-a întors la Iordan.
+profeti|1|26 37:1
+IT|Quale profeta vide in visione una valle piena di ossa secche?|Ezechiele|Daniele|Geremia|Isaia|Alla parola del Signore le ossa si unirono e ripresero vita.
+RO|Care proroc a văzut în vedenie o vale plină de oase uscate?|Ezechiel|Daniel|Ieremia|Isaia|La cuvântul Domnului, oasele s-au apropiat unele de altele și au înviat.
+profeti|2|24 38:6
+IT|Quale profeta fu calato in una cisterna piena di fango?|Geremia|Daniele|Amos|Michea|Geremia affondò nel fango finché un servo del re lo fece tirar su.
+RO|Care proroc a fost coborât într-o groapă plină de noroi?|Ieremia|Daniel|Amos|Mica|Ieremia s-a afundat în noroi până când un slujitor al împăratului l-a scos.
+profeti|2|10 12:7
+IT|Quale profeta rimproverò Davide con la parabola della pecorella?|Natan|Gad|Samuele|Elia|Natan disse a Davide: «Tu sei quell'uomo».
+RO|Care proroc l-a mustrat pe David cu pilda mielușelei?|Natan|Gad|Samuel|Ilie|Natan i-a zis lui David: „Tu ești omul acesta!”.
+profeti|2|30 1:1
+IT|Quale profeta era un pastore di Tekoa?|Amos|Michea|Osea|Gioele|Amos era uno dei pastori di Tekoa quando ricevette le visioni.
+RO|Care proroc era un păstor din Tecoa?|Amos|Mica|Osea|Ioel|Amos era unul dintre păstorii din Tecoa când a primit vedeniile.
+profeti|2|23 6:1
+IT|Quale profeta vide il Signore seduto su un trono alto ed elevato, circondato dai serafini?|Isaia|Ezechiele|Daniele|Zaccaria|Isaia ebbe la visione nell'anno della morte del re Uzzia.
+RO|Care proroc L-a văzut pe Domnul șezând pe un scaun de domnie foarte înalt, înconjurat de serafimi?|Isaia|Ezechiel|Daniel|Zaharia|Isaia a avut vedenia în anul morții împăratului Ozia.
+profeti|2|11 17:6
+IT|Quale profeta fu nutrito dai corvi presso il torrente Kerith?|Elia|Eliseo|Giona|Abdia|I corvi gli portavano pane e carne la mattina e la sera.
+RO|Care proroc a fost hrănit de corbi lângă pârâul Cherit?|Ilie|Elisei|Iona|Obadia|Corbii îi aduceau pâine și carne dimineața și seara.
+profeti|2|12 6:6
+IT|Quale profeta fece galleggiare il ferro di una scure caduto nell'acqua?|Eliseo|Elia|Samuele|Isaia|Eliseo tagliò un pezzo di legno, lo gettò nell'acqua e il ferro venne a galla.
+RO|Care proroc a făcut să plutească fierul unei securi căzut în apă?|Elisei|Ilie|Samuel|Isaia|Elisei a tăiat o bucată de lemn, a aruncat-o în apă, și fierul a plutit.
+profeti|3|28 1:3
+IT|Quale profeta sposò Gomer per ordine di Dio?|Osea|Amos|Gioele|Michea|Il matrimonio di Osea era un'immagine dell'amore di Dio per il suo popolo infedele.
+RO|Care proroc s-a căsătorit cu Gomer la porunca lui Dumnezeu?|Osea|Amos|Ioel|Mica|Căsătoria lui Osea era o icoană a dragostei lui Dumnezeu pentru poporul Său necredincios.
+profeti|3|12 22:14
+IT|Quale profetessa fu consultata quando fu ritrovato il libro della legge?|Hulda|Debora|Miriam|Noadia|Il re Giosia mandò i suoi uomini a consultare la profetessa Hulda.
+RO|Care prorociță a fost întrebată când s-a găsit cartea Legii?|Hulda|Debora|Maria|Noadia|Împăratul Iosia și-a trimis oamenii s-o întrebe pe prorocița Hulda.
+profeti|3|39 3:1
+IT|In quale libro Dio dice: «Ecco, io mando il mio messaggero a preparare la via davanti a me»?|Malachia|Zaccaria|Aggeo|Abdia|È l'ultimo libro dell'Antico Testamento.
+RO|În care carte spune Dumnezeu: „Iată, voi trimite pe solul Meu; el va pregăti calea înaintea Mea”?|Maleahi|Zaharia|Hagai|Obadia|Este ultima carte a Vechiului Testament.
+profeti|3|15 5:1
+IT|Quale profeta, insieme a Zaccaria, incoraggiò i Giudei a ricostruire il tempio?|Aggeo|Malachia|Abacuc|Naum|Aggeo e Zaccaria profetizzavano ai Giudei a Gerusalemme.
+RO|Care proroc, împreună cu Zaharia, i-a îmbărbătat pe iudei să zidească templul?|Hagai|Maleahi|Habacuc|Naum|Hagai și Zaharia prooroceau iudeilor din Ierusalim.
+profeti|3|35 2:4
+IT|Quale profeta scrisse: «Il giusto vivrà per la sua fede»?|Abacuc|Sofonia|Naum|Gioele|Paolo cita queste parole nelle lettere ai Romani e ai Galati.
+RO|Care proroc a scris: „Cel neprihănit va trăi prin credința lui”?|Habacuc|Țefania|Naum|Ioel|Pavel citează aceste cuvinte în epistolele către Romani și Galateni.
+profeti|4|23 1:1
+IT|Di quale profeta si dice che era figlio di Amots?|Isaia|Geremia|Ezechiele|Osea|Il libro si apre con «la visione di Isaia, figlio di Amots».
+RO|Despre care proroc se spune că era fiul lui Amoț?|Isaia|Ieremia|Ezechiel|Osea|Cartea începe cu „vedenia lui Isaia, fiul lui Amoț”.
+profeti|4|26 1:3
+IT|Quale sacerdote, figlio di Buzi, ebbe visioni presso il fiume Kebar?|Ezechiele|Daniele|Geremia|Zaccaria|Ezechiele era tra gli esuli nel paese dei Caldei.
+RO|Care preot, fiul lui Buzi, a avut vedenii lângă râul Chebar?|Ezechiel|Daniel|Ieremia|Zaharia|Ezechiel era printre robii din țara haldeilor.
+
+# ================= MIRACOLI =================
+miracoli|1|43 2:11
+IT|Qual fu il primo miracolo di Gesù, a Cana?|Cambiò l'acqua in vino|Moltiplicò i pani|Guarì un cieco|Camminò sulle acque|Fu il primo dei segni con cui Gesù manifestò la sua gloria.
+RO|Care a fost prima minune a lui Isus, în Cana?|A prefăcut apa în vin|A înmulțit pâinile|A vindecat un orb|A umblat pe ape|A fost primul semn prin care Isus Și-a arătat slava.
+miracoli|1|40 14:17
+IT|Quanti pani avevano i discepoli quando Gesù sfamò cinquemila uomini?|Cinque|Sette|Tre|Dodici|Avevano cinque pani e due pesci.
+RO|Câte pâini aveau ucenicii când Isus a săturat cinci mii de bărbați?|Cinci|Șapte|Trei|Douăsprezece|Aveau cinci pâini și doi pești.
+miracoli|1|43 11:43
+IT|Chi fu risuscitato da Gesù dopo quattro giorni nel sepolcro?|Lazzaro|La figlia di Iairo|Tabita|Il figlio della vedova di Nain|Gesù gridò: «Lazzaro, vieni fuori!».
+RO|Pe cine a înviat Isus după patru zile în mormânt?|Lazăr|Fiica lui Iair|Tabita|Fiul văduvei din Nain|Isus a strigat: „Lazăre, vino afară!”.
+miracoli|1|40 14:25
+IT|Su che cosa camminò Gesù andando verso i discepoli nella barca?|Sulle acque|Sulle nuvole|Sulla sabbia|Su un ponte|Nella quarta vigilia della notte Gesù andò verso di loro camminando sul mare.
+RO|Pe ce a umblat Isus când a venit la ucenicii din corabie?|Pe ape|Pe nori|Pe nisip|Pe un pod|În straja a patra din noapte, Isus a venit la ei umblând pe mare.
+miracoli|1|2 14:21
+IT|Quale mare si aprì perché Israele passasse all'asciutto?|Il Mar Rosso|Il Mar Morto|Il mare di Galilea|Il Mar Mediterraneo|Mosè stese la mano sul mare e il Signore lo aprì con un forte vento.
+RO|Care mare s-a despărțit ca Israel să treacă pe uscat?|Marea Roșie|Marea Moartă|Marea Galileii|Marea Mediterană|Moise și-a întins mâna spre mare, și Domnul a despărțit-o printr-un vânt puternic.
+miracoli|1|42 17:17
+IT|Quanti lebbrosi guarì Gesù in una volta sola?|Dieci|Sette|Dodici|Tre|Uno solo, un Samaritano, tornò a ringraziarlo.
+RO|Câți leproși a vindecat Isus deodată?|Zece|Șapte|Doisprezece|Trei|Numai unul, un samaritean, s-a întors să-I mulțumească.
+miracoli|1|2 16:15
+IT|Che cosa mandò Dio dal cielo per nutrire Israele nel deserto?|La manna|Il miele|L'orzo|I fichi|Mosè disse: «Questo è il pane che l'Eterno vi dà da mangiare».
+RO|Ce a trimis Dumnezeu din cer ca să-l hrănească pe Israel în pustie?|Mana|Mierea|Orzul|Smochinele|Moise a zis: „Aceasta este pâinea pe care v-o dă Domnul ca hrană”.
+miracoli|2|43 9:7
+IT|Chi guarì Gesù dicendogli di lavarsi nella piscina di Siloe?|Un cieco dalla nascita|Un lebbroso|Un paralitico|Un sordo|Il cieco andò, si lavò e tornò che ci vedeva.
+RO|Pe cine a vindecat Isus spunându-i să se spele în scăldătoarea Siloamului?|Un orb din naștere|Un lepros|Un slăbănog|Un surd|Orbul s-a dus, s-a spălat și s-a întors văzând.
+miracoli|2|41 10:46
+IT|Come si chiamava il cieco di Gerico che gridava: «Figlio di Davide, abbi pietà di me»?|Bartimeo|Zaccheo|Malco|Enea|Bartimeo gettò via il mantello e andò da Gesù.
+RO|Cum se numea orbul din Ierihon care striga: „Fiul lui David, ai milă de mine!”?|Bartimeu|Zacheu|Malhu|Enea|Bartimeu și-a aruncat haina și a venit la Isus.
+miracoli|2|12 4:36
+IT|Quale profeta riportò in vita il figlio della donna di Sunem?|Eliseo|Elia|Samuele|Isaia|Eliseo pregò il Signore e il bambino ritornò in vita.
+RO|Care proroc l-a înviat pe fiul femeii din Sunem?|Elisei|Ilie|Samuel|Isaia|Elisei s-a rugat Domnului, și copilul a înviat.
+miracoli|2|12 5:14
+IT|Quale capo dell'esercito di Siria fu guarito dalla lebbra nel Giordano?|Naaman|Hazael|Ben-Hadad|Rezin|La sua carne ritornò come quella di un bambino.
+RO|Care căpetenie a oștirii Siriei a fost vindecată de lepră în Iordan?|Naaman|Hazael|Ben-Hadad|Rețin|Carnea lui s-a făcut ca a unui copil.
+miracoli|2|6 6:20
+IT|Quali mura crollarono dopo che Israele vi girò attorno per sette giorni?|Le mura di Gerico|Le mura di Gerusalemme|Le mura di Babilonia|Le mura di Ninive|Al suono delle trombe e al grido del popolo le mura crollarono.
+RO|Care ziduri s-au prăbușit după ce Israel le-a înconjurat șapte zile?|Zidurile Ierihonului|Zidurile Ierusalimului|Zidurile Babilonului|Zidurile Ninivei|La sunetul trâmbițelor și la strigătul poporului, zidurile s-au prăbușit.
+miracoli|2|6 10:12
+IT|Chi chiese al Signore che il sole si fermasse su Gabaon?|Giosuè|Mosè|Gedeone|Elia|Il sole si fermò finché il popolo non si fu vendicato dei nemici.
+RO|Cine I-a cerut Domnului ca soarele să se oprească deasupra Gabaonului?|Iosua|Moise|Ghedeon|Ilie|Soarele s-a oprit până când poporul și-a răzbunat pe vrăjmași.
+miracoli|3|40 14:20
+IT|Quante ceste di avanzi furono raccolte dopo che Gesù sfamò i cinquemila?|Dodici|Sette|Cinque|Tre|Tutti mangiarono e furono saziati, e avanzarono dodici ceste piene.
+RO|Câte coșuri de firimituri s-au strâns după ce Isus i-a săturat pe cei cinci mii?|Douăsprezece|Șapte|Cinci|Trei|Toți au mâncat și s-au săturat, și au rămas douăsprezece coșuri pline.
+miracoli|3|40 15:38
+IT|Quanti uomini sfamò Gesù con sette pani e pochi pesciolini?|Quattromila|Cinquemila|Tremila|Settemila|Quelli che avevano mangiato erano quattromila uomini, senza contare donne e bambini.
+RO|Câți bărbați a săturat Isus cu șapte pâini și câțiva peștișori?|Patru mii|Cinci mii|Trei mii|Șapte mii|Cei ce mâncaseră erau patru mii de bărbați, afară de femei și copii.
+miracoli|3|44 9:40
+IT|Chi riportò in vita Pietro a Ioppe?|Tabita|Eutico|Lidia|Rode|Pietro disse: «Tabita, alzati!», ed ella aprì gli occhi.
+RO|Pe cine a înviat Petru în Iope?|Tabita|Eutih|Lidia|Rode|Petru a zis: „Tabita, scoală-te!”, și ea și-a deschis ochii.
+miracoli|3|44 20:9
+IT|Quale giovane cadde da una finestra mentre Paolo predicava e fu riportato in vita?|Eutico|Timoteo|Trofimo|Tichico|Eutico si addormentò e cadde dal terzo piano.
+RO|Care tânăr a căzut de la o fereastră în timp ce predica Pavel și a fost adus la viață?|Eutih|Timotei|Trofim|Tihic|Eutih a adormit și a căzut de la catul al treilea.
+miracoli|3|2 15:25
+IT|Con che cosa Mosè rese dolci le acque amare di Mara?|Con un legno|Con il sale|Con la farina|Con il miele|Il Signore gli mostrò un legno; lo gettò nell'acqua e l'acqua divenne dolce.
+RO|Cu ce a îndulcit Moise apele amare de la Mara?|Cu un lemn|Cu sare|Cu făină|Cu miere|Domnul i-a arătat un lemn; l-a aruncat în apă, și apa s-a făcut dulce.
+miracoli|4|12 2:21
+IT|Che cosa gettò Eliseo nella sorgente di Gerico per risanarne le acque?|Del sale|Un legno|Della farina|Dell'olio|Eliseo gettò il sale nella sorgente e le acque furono risanate.
+RO|Ce a aruncat Elisei în izvorul din Ierihon ca să însănătoșeze apele?|Sare|Un lemn|Făină|Untdelemn|Elisei a aruncat sare în izvor, și apele s-au făcut sănătoase.
+miracoli|4|12 5:14
+IT|Quante volte Naaman si immerse nel Giordano?|Sette|Tre|Cinque|Dieci|Si immerse sette volte, secondo la parola dell'uomo di Dio.
+RO|De câte ori s-a cufundat Naaman în Iordan?|De șapte ori|De trei ori|De cinci ori|De zece ori|S-a cufundat de șapte ori, după cuvântul omului lui Dumnezeu.
+
+# ================= LUOGHI =================
+luoghi|1|40 2:1
+IT|In quale città nacque Gesù?|Betlemme|Nazaret|Gerusalemme|Capernaum|Gesù nacque a Betlemme di Giudea, ai giorni del re Erode.
+RO|În ce cetate S-a născut Isus?|Betleem|Nazaret|Ierusalim|Capernaum|Isus S-a născut în Betleemul din Iudeea, pe vremea împăratului Irod.
+luoghi|1|40 2:23
+IT|In quale città crebbe Gesù?|Nazaret|Betlemme|Gerico|Betania|Per questo Gesù fu chiamato Nazareno.
+RO|În ce cetate a crescut Isus?|Nazaret|Betleem|Ierihon|Betania|De aceea Isus a fost numit Nazarinean.
+luoghi|1|2 31:18
+IT|Su quale monte Mosè ricevette le tavole della legge?|Sinai|Carmelo|Ararat|Tabor|Dio diede a Mosè le due tavole di pietra, scritte dal dito di Dio.
+RO|Pe ce munte a primit Moise tablele Legii?|Sinai|Carmel|Ararat|Tabor|Dumnezeu i-a dat lui Moise cele două table de piatră, scrise cu degetul lui Dumnezeu.
+luoghi|1|1 8:4
+IT|Dove si fermò l'arca dopo il diluvio?|Sui monti di Ararat|Sul monte Sinai|Sul monte Carmelo|Sul monte Hermon|Il settimo mese l'arca si posò sui monti di Ararat.
+RO|Unde s-a oprit corabia după potop?|Pe munții Ararat|Pe muntele Sinai|Pe muntele Carmel|Pe muntele Hermon|În luna a șaptea, corabia s-a oprit pe munții Ararat.
+luoghi|1|40 3:13
+IT|In quale fiume fu battezzato Gesù?|Il Giordano|Il Nilo|L'Eufrate|Il Tigri|Gesù venne dalla Galilea al Giordano da Giovanni per essere battezzato.
+RO|În ce râu a fost botezat Isus?|Iordanul|Nilul|Eufratul|Tigrul|Isus a venit din Galileea la Iordan, la Ioan, ca să fie botezat.
+luoghi|1|40 26:36
+IT|In quale luogo pregò Gesù la notte in cui fu arrestato?|Getsemani|Eden|Betania|Emmaus|Gesù disse ai discepoli: «Sedete qui, mentre io vado là a pregare».
+RO|În ce loc S-a rugat Isus în noaptea în care a fost prins?|Ghetsimani|Eden|Betania|Emaus|Isus le-a zis ucenicilor: „Ședeți aici până Mă voi duce acolo să Mă rog”.
+luoghi|1|43 2:1
+IT|In quale città si tennero le nozze dove Gesù cambiò l'acqua in vino?|Cana|Nain|Betania|Emmaus|Le nozze si tennero a Cana di Galilea, e c'era la madre di Gesù.
+RO|În ce cetate a avut loc nunta la care Isus a prefăcut apa în vin?|Cana|Nain|Betania|Emaus|Nunta a fost în Cana Galileii, și mama lui Isus era acolo.
+luoghi|2|42 19:1
+IT|In quale città viveva Zaccheo?|Gerico|Betania|Samaria|Cana|Gesù attraversava Gerico quando Zaccheo salì sul sicomoro.
+RO|În ce cetate locuia Zacheu?|Ierihon|Betania|Samaria|Cana|Isus trecea prin Ierihon când Zacheu s-a suit în dud.
+luoghi|2|42 24:13
+IT|Verso quale villaggio camminavano i due discepoli quando Gesù risorto si avvicinò a loro?|Emmaus|Betania|Nain|Betfage|Lo riconobbero quando spezzò il pane.
+RO|Spre ce sat mergeau cei doi ucenici când Isus cel înviat S-a apropiat de ei?|Emaus|Betania|Nain|Betfaghe|L-au recunoscut când a frânt pâinea.
+luoghi|2|43 11:1
+IT|In quale villaggio vivevano Marta, Maria e Lazzaro?|Betania|Betlemme|Cana|Gerico|Betania era vicina a Gerusalemme.
+RO|În ce sat locuiau Marta, Maria și Lazăr?|Betania|Betleem|Cana|Ierihon|Betania era aproape de Ierusalim.
+luoghi|2|1 11:31
+IT|Da quale città partirono Terah e Abrahamo per andare nel paese di Canaan?|Ur dei Caldei|Haran|Ninive|Babilonia|Partirono da Ur dei Caldei e si fermarono a Haran.
+RO|Din ce cetate au plecat Terah și Avraam ca să meargă în țara Canaanului?|Ur din Haldeea|Haran|Ninive|Babilon|Au plecat din Ur din Haldeea și s-au oprit la Haran.
+luoghi|2|11 18:19
+IT|Su quale monte Elia affrontò i profeti di Baal?|Carmelo|Sinai|Horeb|Moriah|Elia radunò tutto Israele e i profeti di Baal sul monte Carmelo.
+RO|Pe ce munte i-a înfruntat Ilie pe prorocii lui Baal?|Carmel|Sinai|Horeb|Moria|Ilie a strâns tot Israelul și pe prorocii lui Baal pe muntele Carmel.
+luoghi|2|44 11:26
+IT|In quale città i discepoli furono chiamati cristiani per la prima volta?|Antiochia|Gerusalemme|Roma|Efeso|Barnaba e Saulo insegnarono ad Antiochia per un anno intero.
+RO|În ce cetate ucenicii au fost numiți creștini pentru prima dată?|Antiohia|Ierusalim|Roma|Efes|Barnaba și Saul au învățat în Antiohia un an întreg.
+luoghi|3|66 1:9
+IT|Su quale isola si trovava Giovanni quando ebbe le visioni dell'Apocalisse?|Patmos|Cipro|Creta|Malta|Giovanni era nell'isola di Patmos a causa della parola di Dio.
+RO|Pe ce insulă era Ioan când a avut vedeniile din Apocalipsa?|Patmos|Cipru|Creta|Malta|Ioan era în ostrovul numit Patmos din pricina Cuvântului lui Dumnezeu.
+luoghi|3|44 28:1
+IT|Su quale isola approdò Paolo dopo il naufragio?|Malta|Creta|Cipro|Patmos|Tutti si salvarono e seppero che l'isola si chiamava Malta.
+RO|Pe ce insulă a ajuns Pavel după ce s-a sfărâmat corabia?|Malta|Creta|Cipru|Patmos|Toți au scăpat și au aflat că ostrovul se numea Malta.
+luoghi|3|1 22:2
+IT|In quale paese Dio mandò Abrahamo a offrire Isacco?|Nel paese di Moriah|In Egitto|A Haran|A Sodoma|Dio disse: «Va' nel paese di Moriah e offrilo in olocausto».
+RO|În ce țară l-a trimis Dumnezeu pe Avraam să-l aducă jertfă pe Isaac?|În țara Moria|În Egipt|La Haran|La Sodoma|Dumnezeu a zis: „Du-te în țara Moria și adu-l ardere de tot”.
+luoghi|3|5 34:1
+IT|Da quale monte Mosè vide la terra promessa prima di morire?|Nebo|Sinai|Horeb|Carmelo|Il Signore gli mostrò tutto il paese dalla cima del Pisgah.
+RO|De pe ce munte a văzut Moise țara făgăduită înainte să moară?|Nebo|Sinai|Horeb|Carmel|Domnul i-a arătat toată țara din vârful Pisga.
+luoghi|3|44 17:22
+IT|In quale città Paolo parlò in mezzo all'Areopago?|Atene|Corinto|Roma|Efeso|Paolo annunciò agli Ateniesi il Dio che essi adoravano senza conoscerlo.
+RO|În ce cetate a vorbit Pavel în mijlocul Areopagului?|Atena|Corint|Roma|Efes|Pavel le-a vestit atenienilor pe Dumnezeul pe care ei Îl cinsteau fără să-L cunoască.
+luoghi|3|44 16:14
+IT|In quale città Paolo incontrò Lidia, venditrice di porpora?|Filippi|Tessalonica|Berea|Corinto|Il Signore aprì il cuore di Lidia ed ella fu battezzata con la sua famiglia.
+RO|În ce cetate a întâlnit-o Pavel pe Lidia, vânzătoarea de purpură?|Filipi|Tesalonic|Bereea|Corint|Domnul i-a deschis inima Lidiei, și ea a fost botezată cu casa ei.
+luoghi|4|43 5:2
+IT|Come si chiamava la piscina con cinque portici dove Gesù guarì un paralitico?|Betesda|Siloe|Ghihon|Hebron|L'uomo era malato da trentotto anni.
+RO|Cum se numea scăldătoarea cu cinci pridvoare unde Isus a vindecat un slăbănog?|Betesda|Siloam|Ghihon|Hebron|Omul era bolnav de treizeci și opt de ani.
+luoghi|4|4 20:28
+IT|Su quale monte morì Aaronne?|Il monte Hor|Il monte Nebo|Il monte Sinai|Il monte Carmelo|Mosè spogliò Aaronne delle sue vesti e le fece indossare a Eleazar.
+RO|Pe ce munte a murit Aaron?|Muntele Hor|Muntele Nebo|Muntele Sinai|Muntele Carmel|Moise l-a dezbrăcat pe Aaron de veșmintele lui și le-a pus pe Eleazar.
+
+# ================= ANTICO TESTAMENTO =================
+at|1|2 20:11
+IT|In quanti giorni Dio fece i cieli e la terra?|Sei|Sette|Tre|Dieci|In sei giorni il Signore fece i cieli e la terra, e il settimo giorno si riposò.
+RO|În câte zile a făcut Dumnezeu cerurile și pământul?|Șase|Șapte|Trei|Zece|În șase zile a făcut Domnul cerurile și pământul, iar în ziua a șaptea S-a odihnit.
+at|1|1 3:20
+IT|Chi furono il primo uomo e la prima donna?|Adamo ed Eva|Caino e Abele|Abrahamo e Sara|Isacco e Rebecca|Adamo chiamò sua moglie Eva, perché era la madre di tutti i viventi.
+RO|Cine au fost primul bărbat și prima femeie?|Adam și Eva|Cain și Abel|Avraam și Sara|Isaac și Rebeca|Adam i-a pus nevestei lui numele Eva, pentru că ea a fost mama tuturor celor vii.
+at|1|1 4:8
+IT|Chi uccise suo fratello Abele?|Caino|Set|Esaù|Lamek|Caino si levò contro Abele suo fratello e lo uccise.
+RO|Cine l-a ucis pe fratele său Abel?|Cain|Set|Esau|Lameh|Cain s-a aruncat asupra fratelui său Abel și l-a omorât.
+at|1|4 14:33
+IT|Per quanti anni Israele camminò nel deserto?|Quaranta|Venti|Settanta|Dodici|I figli d'Israele furono pastori nel deserto per quarant'anni.
+RO|Câți ani a umblat Israel prin pustie?|Patruzeci|Douăzeci|Șaptezeci|Doisprezece|Fiii lui Israel au fost păstori în pustie patruzeci de ani.
+at|1|1 49:28
+IT|Quante erano le tribù d'Israele?|Dodici|Dieci|Sette|Tredici|Tutti questi sono le dodici tribù d'Israele.
+RO|Câte seminții avea Israel?|Douăsprezece|Zece|Șapte|Treisprezece|Toți aceștia sunt cele douăsprezece seminții ale lui Israel.
+at|1|1 9:13
+IT|Quale segno pose Dio nelle nuvole come patto con Noè?|L'arcobaleno|Una stella|La luna|Un fulmine|L'arcobaleno ricorda che le acque non diventeranno più un diluvio.
+RO|Ce semn a pus Dumnezeu în nor ca legământ cu Noe?|Curcubeul|O stea|Luna|Un fulger|Curcubeul amintește că apele nu se vor mai face potop.
+at|1|2 20:8
+IT|Quale giorno Dio comandò di ricordare per santificarlo?|Il giorno di sabato|Il primo giorno|Il giorno di Pasqua|Il giorno della luna nuova|È il quarto comandamento: «Ricordati del giorno di sabato per santificarlo».
+RO|Ce zi a poruncit Dumnezeu să fie ținută minte ca s-o sfințim?|Ziua Sabatului|Ziua întâi|Ziua Paștelui|Ziua lunii noi|Este porunca a patra: „Adu-ți aminte de ziua de odihnă, ca s-o sfințești”.
+at|2|1 25:34
+IT|Per che cosa Esaù vendette la sua primogenitura?|Un piatto di lenticchie|Un agnello|Trenta sicli|Un mantello|Esaù disprezzò la primogenitura per un pasto.
+RO|Pentru ce și-a vândut Esau dreptul de întâi născut?|O mâncare de linte|Un miel|Treizeci de sicli|O haină|Esau a disprețuit dreptul de întâi născut pentru o mâncare.
+at|2|1 19:26
+IT|Chi si voltò a guardare indietro e divenne una statua di sale?|La moglie di Lot|La moglie di Noè|Sara|Rebecca|Gesù disse: «Ricordatevi della moglie di Lot».
+RO|Cine s-a uitat înapoi și s-a prefăcut într-un stâlp de sare?|Nevasta lui Lot|Nevasta lui Noe|Sara|Rebeca|Isus a zis: „Aduceți-vă aminte de nevasta lui Lot”.
+at|2|1 35:22
+IT|Quanti figli maschi aveva Giacobbe?|Dodici|Dieci|Sette|Tredici|Da loro vennero le dodici tribù d'Israele.
+RO|Câți fii avea Iacov?|Doisprezece|Zece|Șapte|Treisprezece|Din ei s-au ridicat cele douăsprezece seminții ale lui Israel.
+at|2|2 4:14
+IT|Quale fratello di Mosè doveva parlare al popolo al suo posto?|Aaronne|Hur|Giosuè|Caleb|Dio disse: «Io so che egli sa parlare bene».
+RO|Care frate al lui Moise trebuia să vorbească poporului în locul lui?|Aaron|Hur|Iosua|Caleb|Dumnezeu a zis: „Știu că el poate vorbi bine”.
+at|2|7 16:17
+IT|Dove stava il segreto della forza di Sansone?|Nei capelli mai tagliati|Nella spada|Nel mantello|Nella cintura|Sansone era nazireo di Dio fin dal grembo di sua madre.
+RO|Unde era taina puterii lui Samson?|În părul netuns|În sabie|În manta|În brâu|Samson era nazireu al lui Dumnezeu din pântecele mamei sale.
+at|2|4 13:2
+IT|Quanti esploratori mandò Mosè nel paese di Canaan?|Dodici|Due|Sette|Dieci|Fu mandato un uomo per ogni tribù.
+RO|Câte iscoade a trimis Moise în țara Canaanului?|Douăsprezece|Două|Șapte|Zece|A fost trimis câte un om din fiecare seminție.
+at|3|4 14:6
+IT|Quali due esploratori incoraggiarono il popolo a entrare in Canaan?|Giosuè e Caleb|Aaronne e Hur|Eleazar e Finehas|Nadab e Abihu|Dissero: «Il paese è molto buono».
+RO|Care două iscoade au îmbărbătat poporul să intre în Canaan?|Iosua și Caleb|Aaron și Hur|Eleazar și Fineas|Nadab și Abihu|Au zis: „Țara este o țară foarte bună”.
+at|3|6 2:1
+IT|Quale donna di Gerico nascose le spie d'Israele?|Rahab|Debora|Jael|Delila|Rahab nascose le spie sulla terrazza, tra gli steli di lino.
+RO|Care femeie din Ierihon a ascuns iscoadele lui Israel?|Rahav|Debora|Iael|Delila|Rahav a ascuns iscoadele pe acoperiș, sub snopii de in.
+at|3|7 4:21
+IT|Quale donna uccise Sisera con un piolo della tenda?|Jael|Debora|Rahab|Delila|Così si compì la parola di Debora: Sisera cadde per mano di una donna.
+RO|Care femeie l-a ucis pe Sisera cu un țăruș de cort?|Iael|Debora|Rahav|Delila|Așa s-a împlinit cuvântul Deborei: Sisera a căzut de mâna unei femei.
+at|3|1 29:30
+IT|Quanti anni in tutto servì Giacobbe per sposare Rachele?|Quattordici|Sette|Dieci|Venti|Servì sette anni, e poi altri sette.
+RO|Câți ani a slujit Iacov în total ca s-o ia de nevastă pe Rahela?|Paisprezece|Șapte|Zece|Douăzeci|A slujit șapte ani, și apoi încă alți șapte.
+at|3|1 41:52
+IT|Come si chiamavano i due figli di Giuseppe nati in Egitto?|Manasse ed Efraim|Ruben e Simeone|Beniamino e Dan|Levi e Giuda|Giuseppe chiamò il secondo Efraim, perché Dio lo aveva reso fruttifero.
+RO|Cum se numeau cei doi fii ai lui Iosif născuți în Egipt?|Manase și Efraim|Ruben și Simeon|Beniamin și Dan|Levi și Iuda|Iosif l-a numit pe al doilea Efraim, pentru că Dumnezeu îl făcuse roditor.
+at|4|1 21:5
+IT|Quanti anni aveva Abrahamo quando nacque Isacco?|Cento|Novanta|Settantacinque|Centoventi|Abrahamo aveva cento anni quando gli nacque Isacco.
+RO|Câți ani avea Avraam când s-a născut Isaac?|O sută|Nouăzeci|Șaptezeci și cinci|O sută douăzeci|Avraam avea o sută de ani când i s-a născut Isaac.
+at|4|5 34:7
+IT|Quanti anni aveva Mosè quando morì?|Centoventi|Cento|Ottanta|Novanta|La sua vista non si era indebolita e il suo vigore non era venuto meno.
+RO|Câți ani avea Moise când a murit?|O sută douăzeci|O sută|Optzeci|Nouăzeci|Nu i se slăbise vederea și nu i se pierduse puterea.
+
+# ================= NUOVO TESTAMENTO =================
+nt|1|42 6:13
+IT|Quanti apostoli scelse Gesù?|Dodici|Sette|Dieci|Settanta|Gesù chiamò i suoi discepoli e ne scelse dodici.
+RO|Câți apostoli a ales Isus?|Doisprezece|Șapte|Zece|Șaptezeci|Isus i-a chemat pe ucenicii Săi și a ales doisprezece dintre ei.
+nt|1|40 26:14
+IT|Quale discepolo tradì Gesù?|Giuda Iscariota|Pietro|Tommaso|Matteo|Giuda andò dai capi dei sacerdoti per consegnare Gesù.
+RO|Care ucenic L-a vândut pe Isus?|Iuda Iscarioteanul|Petru|Toma|Matei|Iuda s-a dus la preoții cei mai de seamă ca să-L dea în mâinile lor.
+nt|1|46 15:4
+IT|In quale giorno risuscitò Gesù?|Il terzo giorno|Il primo giorno|Il settimo giorno|Il secondo giorno|Cristo fu sepolto e risuscitò il terzo giorno, secondo le Scritture.
+RO|În a câta zi a înviat Isus?|A treia zi|Prima zi|A șaptea zi|A doua zi|Hristos a fost îngropat și a înviat a treia zi, după Scripturi.
+nt|1|40 3:13
+IT|Chi battezzò Gesù?|Giovanni Battista|Pietro|Andrea|Elia|Gesù venne al Giordano da Giovanni per essere battezzato.
+RO|Cine L-a botezat pe Isus?|Ioan Botezătorul|Petru|Andrei|Ilie|Isus a venit la Iordan, la Ioan, ca să fie botezat.
+nt|1|43 20:27
+IT|Quale apostolo non credette alla risurrezione finché non vide Gesù?|Tommaso|Pietro|Filippo|Giacomo|Gesù gli disse: «Non essere incredulo, ma credente».
+RO|Care apostol n-a crezut învierea până nu L-a văzut pe Isus?|Toma|Petru|Filip|Iacov|Isus i-a zis: „Nu fi necredincios, ci credincios”.
+nt|1|40 4:18
+IT|Che mestiere facevano Pietro e Andrea?|Pescatori|Pastori|Falegnami|Esattori delle tasse|Gesù disse: «Vi farò pescatori di uomini».
+RO|Ce meserie aveau Petru și Andrei?|Pescari|Păstori|Tâmplari|Vameși|Isus a zis: „Vă voi face pescari de oameni”.
+nt|1|40 26:15
+IT|Per quante monete d'argento Giuda tradì Gesù?|Trenta|Dieci|Venti|Cinquanta|I capi dei sacerdoti gli pesarono trenta sicli d'argento.
+RO|Pentru câți arginți L-a vândut Iuda pe Isus?|Treizeci|Zece|Douăzeci|Cincizeci|Preoții cei mai de seamă i-au cântărit treizeci de arginți.
+nt|2|44 1:26
+IT|Chi fu scelto per prendere il posto di Giuda Iscariota?|Mattia|Barnaba|Stefano|Sila|La sorte cadde su Mattia, che fu aggiunto agli undici apostoli.
+RO|Cine a fost ales în locul lui Iuda Iscarioteanul?|Matia|Barnaba|Ștefan|Sila|Sorțul a căzut pe Matia, care a fost numărat împreună cu cei unsprezece apostoli.
+nt|2|44 9:3
+IT|Vicino a quale città Saulo vide una luce dal cielo?|Damasco|Gerico|Antiochia|Emmaus|Una luce dal cielo lo avvolse mentre si avvicinava a Damasco.
+RO|Aproape de ce cetate a văzut Saul o lumină din cer?|Damasc|Ierihon|Antiohia|Emaus|O lumină din cer a strălucit în jurul lui când se apropia de Damasc.
+nt|2|40 9:9
+IT|Quale apostolo era seduto al banco delle imposte quando Gesù lo chiamò?|Matteo|Pietro|Luca|Tommaso|Gesù gli disse: «Seguimi», ed egli si alzò e lo seguì.
+RO|Care apostol ședea la vamă când l-a chemat Isus?|Matei|Petru|Luca|Toma|Isus i-a zis: „Vino după Mine”, iar el s-a sculat și a mers după El.
+nt|2|44 2:4
+IT|Che cosa accadde ai discepoli nel giorno della Pentecoste?|Furono ripieni di Spirito Santo|Videro Gesù salire al cielo|Furono messi in prigione|Tornarono a pescare|Cominciarono a parlare in altre lingue.
+RO|Ce s-a întâmplat cu ucenicii în ziua Cincizecimii?|S-au umplut de Duhul Sfânt|L-au văzut pe Isus înălțându-Se la cer|Au fost puși în temniță|S-au întors la pescuit|Au început să vorbească în alte limbi.
+nt|2|40 27:26
+IT|Quale prigioniero fu liberato al posto di Gesù?|Barabba|Malco|Nicodemo|Simone di Cirene|La folla chiese che fosse liberato Barabba.
+RO|Care întemnițat a fost eliberat în locul lui Isus?|Baraba|Malhu|Nicodim|Simon din Cirene|Mulțimea a cerut să fie slobozit Baraba.
+nt|2|41 15:21
+IT|Chi fu costretto a portare la croce di Gesù?|Simone di Cirene|Giuseppe d'Arimatea|Pietro|Giovanni|Simone tornava dai campi quando fu costretto a portare la croce.
+RO|Cine a fost silit să ducă crucea lui Isus?|Simon din Cirene|Iosif din Arimateea|Petru|Ioan|Simon venea de la câmp când a fost silit să ducă crucea.
+nt|3|40 27:2
+IT|Chi era il governatore romano davanti a cui fu portato Gesù?|Ponzio Pilato|Erode|Felice|Festo|Legarono Gesù e lo consegnarono al governatore Ponzio Pilato.
+RO|Cine era dregătorul roman la care a fost dus Isus?|Pilat din Pont|Irod|Felix|Festus|L-au legat pe Isus și L-au dat în mâna dregătorului Pilat din Pont.
+nt|3|43 21:17
+IT|A quale discepolo Gesù disse tre volte: «Pasci le mie pecore»?|Pietro|Giovanni|Giacomo|Andrea|Gesù chiese tre volte a Pietro: «Mi ami?».
+RO|Cărui ucenic i-a spus Isus de trei ori: „Paște oile Mele”?|Petru|Ioan|Iacov|Andrei|Isus l-a întrebat de trei ori pe Petru: „Mă iubești?”.
+nt|3|51 4:14
+IT|Quale compagno di Paolo è chiamato «il caro medico»?|Luca|Marco|Tito|Dema|Paolo manda i saluti di Luca, il caro medico.
+RO|Care tovarăș al lui Pavel este numit „doctorul preaiubit”?|Luca|Marcu|Tit|Dima|Pavel trimite salutări de la Luca, doctorul preaiubit.
+nt|3|42 1:13
+IT|Chi era la madre di Giovanni Battista?|Elisabetta|Maria|Anna|Salome|L'angelo disse a Zaccaria: «Tua moglie Elisabetta ti partorirà un figlio».
+RO|Cine era mama lui Ioan Botezătorul?|Elisabeta|Maria|Ana|Salomea|Îngerul i-a zis lui Zaharia: „Nevasta ta, Elisabeta, îți va naște un fiu”.
+nt|3|44 18:3
+IT|Che mestiere faceva Paolo insieme ad Aquila e Priscilla?|Fabbricante di tende|Pescatore|Falegname|Vasaio|Paolo lavorava con loro, perché erano dello stesso mestiere.
+RO|Ce meserie avea Pavel împreună cu Acuila și Priscila?|Făcea corturi|Pescar|Tâmplar|Olar|Pavel lucra cu ei, pentru că aveau aceeași meserie.
+nt|4|44 2:41
+IT|Quante persone furono aggiunte alla chiesa nel giorno della Pentecoste?|Circa tremila|Circa cinquemila|Centoventi|Circa mille|Quelli che accettarono la parola furono battezzati.
+RO|Câte suflete s-au adăugat bisericii în ziua Cincizecimii?|Aproape trei mii|Aproape cinci mii|O sută douăzeci|Aproape o mie|Cei ce au primit Cuvântul au fost botezați.
+nt|4|43 18:13
+IT|Chi era il suocero del sommo sacerdote Caiafa?|Anna|Gamaliele|Nicodemo|Zaccaria|Gesù fu condotto prima da Anna, suocero di Caiafa.
+RO|Cine era socrul marelui preot Caiafa?|Ana|Gamaliel|Nicodim|Zaharia|Isus a fost dus întâi la Ana, socrul lui Caiafa.
+
+# ================= PROFEZIE =================
+profezie|1|33 5:2
+IT|Quale profeta annunciò che il Messia sarebbe venuto da Betlemme?|Michea|Isaia|Geremia|Malachia|«E tu, Betlemme Efratah, da te uscirà colui che sarà dominatore in Israele».
+RO|Care proroc a vestit că Mesia va ieși din Betleem?|Mica|Isaia|Ieremia|Maleahi|„Și tu, Betleeme Efrata, din tine Îmi va ieși Acela care va stăpâni peste Israel”.
+profezie|1|23 7:14
+IT|Come sarebbe stato chiamato il figlio della vergine annunciato da Isaia?|Emmanuele|Salomone|Samuele|Gionathan|Emmanuele significa «Dio con noi».
+RO|Cum avea să fie numit fiul fecioarei vestit de Isaia?|Emanuel|Solomon|Samuel|Ionatan|Emanuel înseamnă „Dumnezeu este cu noi”.
+profezie|1|27 2:31
+IT|Che cosa vide Nabucodonosor nel sogno spiegato da Daniele nel capitolo 2?|Una grande statua|Sette vacche grasse|Una scala fino al cielo|Dodici stelle|La statua era grande e di uno splendore straordinario.
+RO|Ce a văzut Nebucadnețar în visul tâlcuit de Daniel în capitolul 2?|Un chip mare|Șapte vaci grase|O scară până la cer|Douăsprezece stele|Chipul era mare și de o strălucire neobișnuită.
+profezie|1|27 2:32
+IT|Di che cosa era fatta la testa della statua del sogno di Nabucodonosor?|Oro fino|Argento|Bronzo|Ferro|Il petto e le braccia erano d'argento, il ventre e le cosce di bronzo.
+RO|Din ce era făcut capul chipului din visul lui Nebucadnețar?|Aur curat|Argint|Aramă|Fier|Pieptul și brațele erau de argint, pântecele și coapsele de aramă.
+profezie|1|40 24:2
+IT|Che cosa disse Gesù degli edifici del tempio?|Non sarebbe rimasta pietra su pietra|Sarebbero durati per sempre|Sarebbero diventati d'oro|Sarebbero stati ingranditi|Gesù annunciò che il tempio sarebbe stato distrutto.
+RO|Ce a spus Isus despre clădirile templului?|Nu va rămâne piatră pe piatră|Vor dăinui pentru totdeauna|Se vor face de aur|Vor fi mărite|Isus a vestit că templul va fi dărâmat.
+profezie|1|40 12:40
+IT|Quanto tempo, disse Gesù, il Figlio dell'uomo sarebbe stato nel cuore della terra?|Tre giorni e tre notti|Sette giorni|Quaranta giorni|Un giorno e una notte|Come Giona fu tre giorni e tre notti nel ventre del pesce.
+RO|Cât timp, a spus Isus, avea să stea Fiul omului în inima pământului?|Trei zile și trei nopți|Șapte zile|Patruzeci de zile|O zi și o noapte|Cum a stat Iona trei zile și trei nopți în pântecele peștelui.
+profezie|1|23 53:5
+IT|Quale profeta scrisse: «Egli è stato trafitto per le nostre trasgressioni»?|Isaia|Geremia|Daniele|Zaccaria|È il capitolo 53 di Isaia, sul servo sofferente.
+RO|Care proroc a scris: „El era străpuns pentru păcatele noastre”?|Isaia|Ieremia|Daniel|Zaharia|Este capitolul 53 din Isaia, despre robul care suferă.
+profezie|2|38 9:9
+IT|Su quale animale, secondo Zaccaria, sarebbe venuto il re umile a Gerusalemme?|Su un asino|Su un cavallo|Su un cammello|Su un mulo|Matteo ricorda questa profezia quando Gesù entra a Gerusalemme.
+RO|Pe ce animal, după Zaharia, avea să vină împăratul smerit la Ierusalim?|Pe un măgar|Pe un cal|Pe o cămilă|Pe un catâr|Matei amintește această prorocie când Isus intră în Ierusalim.
+profezie|2|38 11:12
+IT|Quante monete d'argento furono pesate come salario del pastore nella profezia di Zaccaria?|Trenta|Venti|Quaranta|Dieci|Matteo collega questo prezzo al tradimento di Giuda.
+RO|Câți arginți au fost cântăriți ca plată a păstorului în prorocia lui Zaharia?|Treizeci|Douăzeci|Patruzeci|Zece|Matei leagă acest preț de trădarea lui Iuda.
+profezie|2|27 7:4
+IT|Nella visione di Daniele 7, com'era la prima bestia che salì dal mare?|Come un leone con ali d'aquila|Come un orso|Come un leopardo|Con dieci corna|Le bestie erano quattro, e diverse l'una dall'altra.
+RO|În vedenia din Daniel 7, cum era prima fiară care s-a ridicat din mare?|Ca un leu cu aripi de vultur|Ca un urs|Ca un leopard|Cu zece coarne|Fiarele erau patru, deosebite una de alta.
+profezie|2|39 4:5
+IT|Chi promise di mandare Dio prima del giorno grande e terribile del Signore, secondo Malachia?|Il profeta Elia|Mosè|Samuele|Enok|È una delle ultime promesse dell'Antico Testamento.
+RO|Pe cine a făgăduit Dumnezeu că-l va trimite înainte de ziua cea mare și înfricoșată a Domnului, după Maleahi?|Pe prorocul Ilie|Pe Moise|Pe Samuel|Pe Enoh|Este una dintre ultimele făgăduințe ale Vechiului Testament.
+profezie|2|29 2:28
+IT|Quale profeta annunciò che Dio avrebbe sparso il suo Spirito sopra ogni carne?|Gioele|Amos|Abdia|Aggeo|Pietro citò queste parole nel giorno della Pentecoste.
+RO|Care proroc a vestit că Dumnezeu Își va turna Duhul peste orice făptură?|Ioel|Amos|Obadia|Hagai|Petru a citat aceste cuvinte în ziua Cincizecimii.
+profezie|2|40 26:34
+IT|Quante volte, disse Gesù, Pietro lo avrebbe rinnegato prima che il gallo cantasse?|Tre|Due|Sette|Una|Gesù lo disse quella stessa notte, dopo la cena.
+RO|De câte ori, a spus Isus, avea să se lepede Petru de El înainte să cânte cocoșul?|De trei ori|De două ori|De șapte ori|O dată|Isus a spus aceasta chiar în noaptea aceea, după cină.
+profezie|3|23 45:1
+IT|Quale re persiano è chiamato per nome nel libro di Isaia?|Ciro|Dario|Assuero|Artaserse|Isaia lo chiama «il suo unto», che il Signore prende per la mano destra.
+RO|Care împărat persan este numit pe nume în cartea lui Isaia?|Cirus|Darius|Ahașveroș|Artaxerxe|Isaia îl numește „unsul Său”, pe care Domnul îl ține de mâna dreaptă.
+profezie|3|24 25:11
+IT|Per quanti anni, secondo Geremia, le nazioni avrebbero servito il re di Babilonia?|Settanta|Quaranta|Dieci|Cento|Daniele ricordò questa profezia leggendo il libro di Geremia.
+RO|Câți ani, după Ieremia, aveau să slujească neamurile împăratului Babilonului?|Șaptezeci|Patruzeci|Zece|O sută|Daniel și-a adus aminte de această prorocie citind cartea lui Ieremia.
+profezie|3|27 8:3
+IT|Nella visione di Daniele 8, quali due animali combattevano?|Un montone e un capro|Un leone e un orso|Un'aquila e un serpente|Un bue e un cavallo|L'angelo Gabriele spiegò a Daniele la visione.
+RO|În vedenia din Daniel 8, care două animale se luptau?|Un berbec și un țap|Un leu și un urs|Un vultur și un șarpe|Un bou și un cal|Îngerul Gabriel i-a tâlcuit lui Daniel vedenia.
+profezie|3|27 2:34
+IT|Che cosa colpì e frantumò la statua nel sogno di Nabucodonosor?|Una pietra staccatasi senza intervento di mano|Un fulmine|Un grande vento|Una spada|La pietra divenne un grande monte che riempì tutta la terra.
+RO|Ce a lovit și a sfărâmat chipul din visul lui Nebucadnețar?|O piatră dezlipită fără ajutorul vreunei mâini|Un fulger|Un vânt mare|O sabie|Piatra s-a făcut un munte mare și a umplut tot pământul.
+profezie|3|23 53:7
+IT|Come fu condotto il servo del Signore, secondo Isaia 53?|Come un agnello al macello|Come un re in trionfo|Come un leone|Come un pastore|Non aperse la bocca, come pecora muta davanti a chi la tosa.
+RO|Cum a fost dus robul Domnului, după Isaia 53?|Ca un miel la tăiere|Ca un împărat biruitor|Ca un leu|Ca un păstor|Nu Și-a deschis gura, ca o oaie mută înaintea celor ce o tund.
+profezie|4|27 9:24
+IT|Quante settimane furono stabilite sul popolo di Daniele, secondo Daniele 9?|Settanta|Sette|Quaranta|Dodici|Lo disse l'angelo Gabriele a Daniele.
+RO|Câte săptămâni au fost hotărâte asupra poporului lui Daniel, după Daniel 9?|Șaptezeci|Șapte|Patruzeci|Douăsprezece|I-a spus-o îngerul Gabriel lui Daniel.
+profezie|4|66 1:13
+IT|In mezzo a che cosa Giovanni vide uno simile al Figlio dell'uomo?|A sette candelabri d'oro|A dodici stelle|A sette trombe|A quattro cavalli|Giovanni si voltò per vedere chi gli parlava e vide i sette candelabri.
+RO|În mijlocul căror lucruri a văzut Ioan pe cineva ca un Fiu al omului?|Al celor șapte sfeșnice de aur|Al celor douăsprezece stele|Al celor șapte trâmbițe|Al celor patru cai|Ioan s-a întors să vadă cine-i vorbea și a văzut cele șapte sfeșnice.

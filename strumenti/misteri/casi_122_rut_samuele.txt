@@ -1,0 +1,329 @@
+# Rut, 1 Samuele 1–3
+
+== rut_moab | 🛤️ | 1 | deserto | 🛤️ 👭 🌾 | 8 1:1-22
+T «Dove andrai tu, andrò anch'io» || „Unde vei merge tu, voi merge și eu”
+S Due vedove sulla strada di Betlemme || Două văduve pe drumul Betleemului
+R Rut 1 || Rut 1
+I Tre vedove partono insieme da un paese straniero. Una delle più giovani torna indietro, l'altra rifiuta di lasciare la suocera e pronuncia una promessa famosa. Scopri chi sono.
+I Trei văduve pleacă împreună dintr-o țară străină. Una dintre cele tinere se întoarce, cealaltă refuză să-și lase soacra și rostește o făgăduință vestită. Descoperă cine sunt.
+E i carestia 🌾 | La carestia || Foametea
+. Al tempo dei giudici, per una carestia, un uomo di Betlemme, Elimelek, andò a vivere nel paese di Moab con la moglie Naomi e i figli Mahlon e Kilion. || Pe vremea judecătorilor, din pricina unei foamete, un om din Betleem, Elimelec, s-a dus să locuiască în țara Moabului cu nevasta sa Naomi și cu fiii Mahlon și Chilion.
+. Da Betlemme a Moab per la carestia || Din Betleem în Moab din pricina foametei
+E i vedove 🖤 | Tre vedove || Trei văduve
+. Elimelek morì; i figli sposarono due donne moabite, Orpah e Ruth, ma dopo circa dieci anni morirono anche loro. || Elimelec a murit; fiii s-au însurat cu două femei moabite, Orpa și Rut, dar după vreo zece ani au murit și ei.
+. Tre donne rimaste sole || Trei femei rămase singure
+E i bacio 💋 | Il bacio d'addio || Sărutarea de rămas bun
+. La suocera disse alle nuore di tornare dalle loro madri; una la baciò e tornò al suo popolo. || Soacra le-a spus nurorilor să se întoarcă la mamele lor; una a sărutat-o și s-a întors la poporul ei.
+. Orpah torna indietro || Orpa se întoarce
+E t nuora 🤝 | La nuora che resta || Nora care rămâne
+. Una giovane moabita che non vuole lasciare la suocera || O tânără moabită care nu vrea să-și lase soacra
+. Dove andrai tu andrò anch'io, dove starai tu starò anch'io; il tuo popolo sarà il mio popolo e il tuo Dio sarà il mio Dio; dove morirai tu morirò anch'io. || Unde vei merge tu, voi merge și eu; unde vei locui tu, voi locui și eu; poporul tău va fi poporul meu, și Dumnezeul tău va fi Dumnezeul meu; unde vei muri tu, voi muri și eu.
+. «Il tuo Dio sarà il mio Dio» || „Dumnezeul tău va fi Dumnezeul meu”
+E t suocera 😔 | La suocera || Soacra
+. Una donna che torna a casa dopo tanti anni || O femeie care se întoarce acasă după mulți ani
+. Non chiamatemi Naomi, chiamatemi Mara, perché l'Onnipotente mi ha riempita di amarezza. Ero partita piena e il Signore mi riconduce vuota. || Nu-mi mai ziceți Naomi, ziceți-mi Mara, căci Cel Atotputernic m-a umplut de amărăciune. Am plecat plină, și Domnul mă aduce înapoi goală.
+. «Chiamatemi Mara» || „Ziceți-mi Mara”
+E i orzo 🌾 | L'orzo || Orzul
+. Arrivarono a Betlemme all'inizio della mietitura dell'orzo. || Au ajuns la Betleem la începutul secerișului orzului.
+. All'inizio della mietitura dell'orzo || La începutul secerișului orzului
+E f bisaccia 🎒 | Una bisaccia || O traistă
+. Una piccola bisaccia da viaggio. Nessun indizio. || O mică traistă de drum. Niciun indiciu.
+A La giovane che restò diventò la bisnonna del re Davide. || Tânăra care a rămas a ajuns străbunica împăratului David.
+A Il nome della suocera significa «piacevole». || Numele soacrei înseamnă „plăcută”.
+A Sono Ruth e Naomi (Rut 1). || Sunt Rut și Naomi (Rut 1).
+Q Quale nuora tornò al suo popolo? || Care noră s-a întors la poporul ei?
++ Orpah || Orpa
+- Ruth || Rut
+- Naomi || Naomi
+- Peninna || Penina
+Q Come chiese Naomi di essere chiamata? || Cum a cerut Naomi să fie numită?
++ Mara || Mara
+- Sara || Sara
+- Lea || Lea
+- Anna || Ana
+O
+> Carestia a Betlemme || Foamete în Betleem
+> La famiglia va a Moab || Familia merge în Moab
+> Muoiono Elimelek e i figli || Mor Elimelec și fiii
+> Orpah torna indietro || Orpa se întoarce
+> Ruth resta con Naomi || Rut rămâne cu Naomi
+> Arrivano a Betlemme per la mietitura || Ajung la Betleem la seceriș
+V
+v Ruth era moabita || Rut era moabită
+v Rimasero a Moab circa dieci anni || Au rămas în Moab vreo zece ani
+x Naomi disse di essere tornata piena di beni || Naomi a spus că s-a întors plină de bunuri
+v Tutta Betlemme si commosse vedendo Naomi || Tot Betleemul s-a mișcat văzând-o pe Naomi
+H Erano Ruth e Naomi. Per una carestia Elimelek e Naomi andarono da Betlemme a Moab; lì morirono il marito e i due figli, che avevano sposato Orpah e Ruth. Naomi decise di tornare e disse alle nuore di restare nel loro paese. Orpah tornò indietro, ma Ruth disse: «Dove andrai tu andrò anch'io; il tuo popolo sarà il mio popolo e il tuo Dio il mio Dio». A Betlemme Naomi disse: «Chiamatemi Mara», perché il Signore l'aveva riempita di amarezza. Era l'inizio della mietitura dell'orzo. || Erau Rut și Naomi. Din pricina unei foamete, Elimelec și Naomi s-au dus din Betleem în Moab; acolo au murit bărbatul și cei doi fii, care se căsătoriseră cu Orpa și Rut. Naomi a hotărât să se întoarcă și le-a spus nurorilor să rămână în țara lor. Orpa s-a întors, dar Rut a zis: „Unde vei merge tu, voi merge și eu; poporul tău va fi poporul meu, și Dumnezeul tău va fi Dumnezeul meu.” La Betleem Naomi a zis: „Ziceți-mi Mara”, căci Domnul o umpluse de amărăciune. Era începutul secerișului orzului.
+
+== spighe | 🌾 | 1 | campo | 🌾 🧺 🌞 | 8 2:1-23
+T Spighe lasciate cadere apposta || Spice lăsate să cadă înadins
+S Nel campo del parente giusto || Pe ogorul rudei potrivite
+R Rut 2 || Rut 2
+I Una giovane straniera va a raccogliere le spighe rimaste dopo i mietitori. Per caso entra nel campo di un uomo ricco e buono, che la protegge e dà un ordine segreto ai suoi servi. Scopri chi sono.
+I O tânără străină merge să strângă spicele rămase după secerători. Din întâmplare intră pe ogorul unui om bogat și bun, care o ocrotește și dă un ordin tainic slugilor lui. Descoperă cine sunt.
+E i spigolare 🌾 | Spigolare || Spicuitul
+. La giovane chiese alla suocera di andare nei campi a raccogliere le spighe dietro ai mietitori, come la legge permetteva ai poveri. || Tânăra i-a cerut soacrei să meargă pe câmp să strângă spice în urma secerătorilor, cum le îngăduia legea săracilor.
+. Raccogliere spighe come i poveri || Strângerea spicelor ca săracii
+E i caso 🍀 | Per caso || Din întâmplare
+. Per caso capitò nella parte di campo che apparteneva a Boaz, un parente ricco della famiglia di Elimelek. || Din întâmplare a ajuns în partea de ogor care era a lui Boaz, o rudă bogată din familia lui Elimelec.
+. Il campo di Boaz || Ogorul lui Boaz
+E t padrone 🧔 | Il padrone del campo || Stăpânul ogorului
+. Un uomo che saluta i mietitori nel nome del Signore || Un om care îi salută pe secerători în Numele Domnului
+. Non andare a spigolare in un altro campo, resta con le mie serve. Ho sentito tutto quello che hai fatto per tua suocera: il Signore ti ricompensi, lui sotto le cui ali sei venuta a rifugiarti! || Să nu te duci să spicuiești pe alt ogor, rămâi cu slujnicele mele. Am aflat tot ce ai făcut pentru soacra ta: Domnul să-ți răsplătească, El, sub ale cărui aripi ai venit să te adăpostești!
+. «Sotto le ali del Signore» || „Sub aripile Domnului”
+E i ordine 🤫 | L'ordine segreto || Porunca tainică
+. Il padrone disse ai servi di lasciar cadere apposta delle spighe dai covoni per lei, senza rimproverarla. || Stăpânul a spus slugilor să scoată înadins spice din snopi pentru ea, fără s-o mustre.
+. Spighe lasciate cadere apposta || Spice lăsate înadins
+E i efa 🧺 | Un efa di orzo || O efă de orz
+. La sera batté quello che aveva raccolto: era circa un efa d'orzo, e lo portò alla suocera insieme al cibo avanzato. || Seara a bătut ce strânsese: era aproape o efă de orz, și l-a dus soacrei împreună cu mâncarea rămasă.
+. Un efa d'orzo in un giorno || O efă de orz într-o zi
+E t suocera 😊 | La suocera || Soacra
+. Una suocera che riconosce il nome || O soacră care recunoaște numele
+. Benedetto sia dal Signore! Quell'uomo è nostro parente, uno di quelli che hanno il diritto di riscatto. || Binecuvântat să fie de Domnul! Omul acesta este ruda noastră, unul dintre cei ce au dreptul de răscumpărare.
+. «È uno che ha il diritto di riscatto» || „Este unul dintre cei cu drept de răscumpărare”
+E f cappello 👒 | Un cappello di paglia || O pălărie de paie
+. Un cappello di paglia dimenticato da un mietitore. Nessun indizio. || O pălărie de paie uitată de un secerător. Niciun indiciu.
+A Rimase a spigolare fino alla fine della mietitura dell'orzo e del grano. || A rămas să spicuiască până la sfârșitul secerișului orzului și al grâului.
+A La giovane era moabita. || Tânăra era moabită.
+A Sono Ruth e Boaz nei campi (Rut 2). || Sunt Rut și Boaz pe ogor (Rut 2).
+Q Di chi era il campo dove Ruth spigolava? || Al cui era ogorul unde spicuia Rut?
++ Di Boaz || Al lui Boaz
+- Di Elimelek || Al lui Elimelec
+- Di Naomi || Al Naomei
+- Del re di Moab || Al împăratului Moabului
+Q Quanto orzo raccolse Ruth il primo giorno? || Cât orz a strâns Rut în prima zi?
++ Circa un efa || Aproape o efă
+- Un covone intero || Un snop întreg
+- Una manciata || O mână
+- Sette sacchi || Șapte saci
+O
+> Ruth chiede di andare a spigolare || Rut cere să meargă să spicuiască
+> Capita nel campo di Boaz || Ajunge pe ogorul lui Boaz
+> Boaz le parla con bontà || Boaz îi vorbește cu bunătate
+> Boaz ordina di lasciar cadere spighe || Boaz poruncește să se lase spice
+> Naomi scopre che Boaz è un parente || Naomi află că Boaz este rudă
+V
+v Boaz aveva sentito della fedeltà di Ruth || Boaz auzise de credincioșia lui Rut
+x Boaz scacciò Ruth dal suo campo || Boaz a izgonit-o pe Rut de pe ogorul lui
+v Ruth portò a Naomi anche il cibo avanzato || Rut i-a dus Naomei și mâncarea rămasă
+v Boaz era parente di Elimelek || Boaz era rudă cu Elimelec
+H Erano Ruth e Boaz nei campi. Ruth andò a spigolare dietro ai mietitori e per caso capitò nel campo di Boaz, parente di Elimelek. Boaz, sapendo quanto era stata fedele alla suocera, le disse di restare nel suo campo e la benedisse: «Il Signore ti ricompensi, lui sotto le cui ali sei venuta a rifugiarti». Ordinò ai servi di lasciar cadere spighe per lei. La sera Ruth portò a Naomi circa un efa d'orzo, e Naomi riconobbe in Boaz un parente con il diritto di riscatto. || Erau Rut și Boaz pe ogor. Rut s-a dus să spicuiască după secerători și din întâmplare a ajuns pe ogorul lui Boaz, rudă cu Elimelec. Boaz, știind cât de credincioasă fusese soacrei, i-a spus să rămână pe ogorul lui și a binecuvântat-o: „Domnul să-ți răsplătească, El, sub ale cărui aripi ai venit să te adăpostești.” A poruncit slugilor să lase spice pentru ea. Seara Rut i-a dus Naomei aproape o efă de orz, iar Naomi a recunoscut în Boaz o rudă cu drept de răscumpărare.
+
+== aia | 🌙 | 2 | notte | 🌙 🌾 🧥 | 8 3:1-18
+T Di notte, sull'aia || Noaptea, în arie
+S «Stendi il lembo del tuo mantello» || „Întinde-ți poala hainei”
+R Rut 3 || Rut 3
+I Una suocera dà un consiglio alla nuora: lavati, profumati, mettiti il mantello e va' di notte dove si batte l'orzo. A mezzanotte un uomo si sveglia di soprassalto. Scopri chi trova e che cosa gli chiede.
+I O soacră îi dă un sfat nurorii: spală-te, unge-te, pune-ți mantaua și du-te noaptea unde se vântură orzul. La miezul nopții un om se trezește speriat. Descoperă pe cine găsește și ce i se cere.
+E t suocera 👵 | Il consiglio || Sfatul
+. Una suocera che pensa al futuro della nuora || O soacră care se gândește la viitorul nurorii
+. Figlia mia, non devo cercarti una sistemazione perché tu sia felice? Stasera lui vaglia l'orzo sull'aia: lavati, profumati, mettiti il mantello e scendi là. || Fiica mea, nu trebuie oare să-ți caut un loc de odihnă ca să fii fericită? În seara aceasta el vântură orzul în arie: spală-te, unge-te, îmbracă-te și pogoară-te acolo.
+. Il piano della suocera || Planul soacrei
+E i aia 🌾 | L'aia || Aria
+. Dopo aver mangiato e bevuto, l'uomo si coricò in fondo al mucchio d'orzo; la giovane venne piano e si coricò ai suoi piedi. || După ce a mâncat și a băut, omul s-a culcat la capătul grămezii de orz; tânăra a venit încet și s-a culcat la picioarele lui.
+. Ai piedi, in fondo al mucchio d'orzo || La picioare, la capătul grămezii de orz
+E t giovane 🙏 | La richiesta || Cererea
+. La giovane che risponde nel buio || Tânăra care răspunde în întuneric
+. Sono Ruth, tua serva; stendi il lembo del tuo mantello sulla tua serva, perché tu hai il diritto di riscatto. || Sunt Rut, roaba ta; întinde-ți poala hainei peste roaba ta, căci ai drept de răscumpărare.
+. «Stendi il tuo mantello: hai il diritto di riscatto» || „Întinde-ți poala hainei: ai drept de răscumpărare”
+E t uomo 😊 | La risposta || Răspunsul
+. L'uomo svegliato a mezzanotte || Omul trezit la miezul nopții
+. Benedetta sia tu dal Signore! Non sei andata dietro ai giovani. Tutti sanno che sei una donna virtuosa. Ma c'è un parente più stretto di me. || Binecuvântată să fii de Domnul! N-ai alergat după tineri. Toți știu că ești o femeie cinstită. Dar este o rudă mai apropiată decât mine.
+. «Sei una donna virtuosa» || „Ești o femeie cinstită”
+E i orzo 🧥 | Sei misure d'orzo || Șase măsuri de orz
+. Al mattino presto, prima che si potesse riconoscere qualcuno, le versò sei misure d'orzo nel mantello. || Dimineața devreme, înainte să se poată recunoaște cineva, i-a pus în manta șase măsuri de orz.
+. Sei misure d'orzo nel mantello || Șase măsuri de orz în manta
+E i attesa ⏳ | L'attesa || Așteptarea
+. La suocera disse: «Sta' tranquilla: quell'uomo non si darà pace finché non avrà concluso la cosa oggi stesso». || Soacra a zis: „Stai liniștită: omul acesta nu se va odihni până nu va isprăvi lucrul chiar azi.”
+. «Non si darà pace oggi stesso» || „Nu se va odihni chiar azi”
+E f forcone 🔱 | Un ventilabro || O lopată de vânturat
+. Un attrezzo per vagliare il grano. Nessun indizio. || O unealtă pentru vânturat grâul. Niciun indiciu.
+A Il «diritto di riscatto» permetteva a un parente di riscattare la terra e il nome della famiglia. || „Dreptul de răscumpărare” îi îngăduia unei rude să răscumpere pământul și numele familiei.
+A C'era un parente più vicino, che doveva decidere per primo. || Era o rudă mai apropiată, care trebuia să hotărască întâi.
+A Sono Ruth e Boaz sull'aia (Rut 3). || Sunt Rut și Boaz în arie (Rut 3).
+Q Che cosa chiese Ruth a Boaz? || Ce i-a cerut Rut lui Boaz?
++ Di stendere il lembo del suo mantello su di lei || Să-și întindă poala hainei peste ea
+- Un sacco d'oro || Un sac cu aur
+- Di lavorare nel suo campo tutto l'anno || Să lucreze pe ogorul lui tot anul
+- Di tornare a Moab || Să se întoarcă în Moab
+Q Quante misure d'orzo le diede Boaz? || Câte măsuri de orz i-a dat Boaz?
++ Sei || Șase
+- Una || Una
+- Dieci || Zece
+- Tre || Trei
+O
+> Naomi dà un consiglio a Ruth || Naomi îi dă un sfat lui Rut
+> Ruth va all'aia di notte || Rut merge noaptea în arie
+> Boaz si sveglia a mezzanotte || Boaz se trezește la miezul nopții
+> Ruth chiede la sua protezione || Rut îi cere ocrotirea
+> Boaz le dà sei misure d'orzo || Boaz îi dă șase măsuri de orz
+V
+v Boaz chiamò Ruth donna virtuosa || Boaz a numit-o pe Rut femeie cinstită
+x Boaz era il parente più stretto || Boaz era ruda cea mai apropiată
+v Ruth se ne andò prima dell'alba || Rut a plecat înainte de revărsatul zorilor
+v Boaz vagliava l'orzo quella sera || Boaz vântura orzul în seara aceea
+H Erano Ruth e Boaz sull'aia. Naomi consigliò a Ruth di andare di notte sull'aia dove Boaz vagliava l'orzo e di coricarsi ai suoi piedi. A mezzanotte Boaz si svegliò e Ruth disse: «Stendi il lembo del tuo mantello su di me, perché hai il diritto di riscatto». Boaz la benedisse, la chiamò donna virtuosa e le disse che c'era un parente più stretto. Al mattino le diede sei misure d'orzo, e Naomi disse che Boaz non si sarebbe dato pace finché non avesse concluso la cosa. || Erau Rut și Boaz în arie. Naomi a sfătuit-o pe Rut să meargă noaptea în aria unde Boaz vântura orzul și să se culce la picioarele lui. La miezul nopții Boaz s-a trezit, iar Rut a zis: „Întinde-ți poala hainei peste mine, căci ai drept de răscumpărare.” Boaz a binecuvântat-o, a numit-o femeie cinstită și i-a spus că este o rudă mai apropiată. Dimineața i-a dat șase măsuri de orz, iar Naomi a zis că Boaz nu se va odihni până nu va isprăvi lucrul.
+
+== sandalo | 👡 | 2 | citta | 👡 🏛️ 👶 | 8 4:1-22
+T Un sandalo come contratto || O sanda drept învoială
+S Alla porta della città, davanti a dieci anziani || La poarta cetății, înaintea a zece bătrâni
+R Rut 4 || Rut 4
+I Alla porta della città un uomo ferma un parente e chiama dieci anziani come testimoni. Si parla di un campo e di una vedova straniera. Alla fine uno dei due si toglie un sandalo e lo dà all'altro. Scopri chi sono e chi nascerà.
+I La poarta cetății un om oprește o rudă și cheamă zece bătrâni ca martori. Se vorbește despre un ogor și despre o văduvă străină. La sfârșit unul dintre ei își scoate o sanda și i-o dă celuilalt. Descoperă cine sunt și cine se va naște.
+E i porta 🏛️ | La porta || Poarta
+. Boaz salì alla porta della città e si sedette; vide passare il parente più stretto e gli disse: «Tu, tal dei tali, vieni a sederti qui». || Boaz s-a suit la poarta cetății și s-a așezat; a văzut trecând ruda cea mai apropiată și i-a zis: „Hei, cutare, apropie-te, stai aici.”
+. Il parente senza nome alla porta || Ruda fără nume la poartă
+E i anziani 👴 | Dieci anziani || Zece bătrâni
+. Prese dieci anziani della città come testimoni. || A luat zece bătrâni ai cetății ca martori.
+. Dieci anziani testimoni || Zece bătrâni martori
+E t parente 🤔 | Il parente più stretto || Ruda cea mai apropiată
+. Un uomo che prima dice sì e poi no || Un om care întâi zice da și apoi nu
+. Io riscatterò il campo… Ah, devo prendere anche la vedova moabita? Allora non posso: rovinerei la mia eredità. Riscattalo tu. || Răscumpăr eu ogorul… A, trebuie s-o iau și pe văduva moabită? Atunci nu pot: mi-aș strica moștenirea. Răscumpără-l tu.
+. Il campo sì, la vedova no || Ogorul da, văduva nu
+E i sandalo 👡 | Il sandalo || Sandaua
+. In Israele, per confermare un riscatto o uno scambio, uno si toglieva il sandalo e lo dava all'altro. Il parente si tolse il sandalo. || În Israel, ca să se întărească o răscumpărare sau un schimb, unul își scotea sandaua și o dădea celuilalt. Ruda și-a scos sandaua.
+. Il sandalo tolto: affare concluso || Sandaua scoasă: învoială încheiată
+E i benedizione 🙌 | La benedizione degli anziani || Binecuvântarea bătrânilor
+. Gli anziani dissero: «Il Signore renda la donna come Rachele e Lea, che fondarono la casa d'Israele». || Bătrânii au zis: „Domnul să facă pe femeie asemenea Rahelei și Leei, care au zidit casa lui Israel.”
+. «Come Rachele e Lea» || „Asemenea Rahelei și Leei”
+E t vicine 👶 | Le vicine || Vecinele
+. Le donne di Betlemme intorno alla nonna || Femeile din Betleem în jurul bunicii
+. È nato un figlio a Naomi! Tua nuora, che ti ama, vale per te più di sette figli. Lo chiameremo Obed. || S-a născut un fiu Naomei! Nora ta, care te iubește, face pentru tine mai mult decât șapte fii. Îl vom numi Obed.
+. Nasce Obed || Se naște Obed
+E f bastone 🦯 | Un bastone || Un toiag
+. Il bastone di un anziano appoggiato alla porta. Nessun indizio. || Toiagul unui bătrân rezemat de poartă. Niciun indiciu.
+A Obed fu il padre di Isai, padre del re Davide. || Obed a fost tatăl lui Isai, tatăl împăratului David.
+A Boaz diventò il «redentore» della famiglia di Elimelek. || Boaz a devenit „răscumpărătorul” familiei lui Elimelec.
+A Sono Boaz e il riscatto alla porta di Betlemme (Rut 4). || Sunt Boaz și răscumpărarea de la poarta Betleemului (Rut 4).
+Q Che cosa si tolse il parente per confermare l'accordo? || Ce și-a scos ruda ca să întărească învoiala?
++ Il sandalo || Sandaua
+- L'anello || Inelul
+- Il mantello || Mantaua
+- La cintura || Brâul
+Q Chi fu il nipote di Obed? || Cine a fost nepotul lui Obed?
++ Il re Davide || Împăratul David
+- Salomone || Solomon
+- Samuele || Samuel
+- Saul || Saul
+O
+> Boaz si siede alla porta || Boaz se așază la poartă
+> Chiama il parente e dieci anziani || Cheamă ruda și zece bătrâni
+> Il parente rinuncia al riscatto || Ruda renunță la răscumpărare
+> Si toglie il sandalo || Își scoate sandaua
+> Boaz sposa Ruth || Boaz se căsătorește cu Rut
+> Nasce Obed || Se naște Obed
+V
+v Gli anziani benedissero Ruth ricordando Rachele e Lea || Bătrânii au binecuvântat-o pe Rut amintind de Rahela și Lea
+x Il parente accettò di sposare Ruth || Ruda a primit să se căsătorească cu Rut
+v Le vicine diedero il nome al bambino || Vecinele i-au pus nume copilului
+v Ruth diventò antenata di Davide || Rut a ajuns strămoașa lui David
+H Era il riscatto alla porta di Betlemme. Boaz chiamò il parente più stretto e dieci anziani: il parente voleva riscattare il campo di Elimelek, ma quando seppe che doveva prendere anche Ruth la moabita rinunciò, e si tolse il sandalo per confermare. Boaz riscattò tutto e sposò Ruth; gli anziani benedissero la donna come Rachele e Lea. Nacque Obed, e le vicine dissero a Naomi che quella nuora valeva più di sette figli. Obed fu il padre di Isai, padre di Davide. || Era răscumpărarea de la poarta Betleemului. Boaz a chemat ruda cea mai apropiată și zece bătrâni: ruda voia să răscumpere ogorul lui Elimelec, dar când a aflat că trebuie s-o ia și pe Rut, moabita, a renunțat și și-a scos sandaua ca să întărească învoiala. Boaz a răscumpărat totul și s-a căsătorit cu Rut; bătrânii au binecuvântat-o pe femeie ca pe Rahela și Lea. S-a născut Obed, iar vecinele i-au spus Naomei că nora aceea face mai mult decât șapte fii. Obed a fost tatăl lui Isai, tatăl lui David.
+
+== anna | 🙏 | 1 | tempio | 🙏 👶 🧥 | 9 1:1-28
+T Una preghiera senza voce || O rugăciune fără glas
+S Il sacerdote la credeva ubriaca || Preotul credea că e beată
+R 1 Samuele 1 – 2:11 || 1 Samuel 1 – 2:11
+I Una donna senza figli piange ogni anno nel santuario, presa in giro dall'altra moglie di suo marito. Un giorno prega muovendo le labbra senza voce. Il sacerdote pensa che sia ubriaca. Scopri chi è e che cosa promette.
+I O femeie fără copii plânge în fiecare an la locașul sfânt, batjocorită de cealaltă nevastă a bărbatului ei. Într-o zi se roagă mișcând buzele fără glas. Preotul crede că e beată. Descoperă cine este și ce făgăduiește.
+E i famiglia 👨‍👩‍👧 | La famiglia || Familia
+. Elkanah aveva due mogli: Peninna aveva figli, l'altra no. Ogni anno salivano a Sciloh per adorare, e Peninna la provocava. || Elcana avea două neveste: Penina avea copii, cealaltă nu. În fiecare an se suiau la Silo să se închine, iar Penina o necăjea.
+. Due mogli, una senza figli || Două neveste, una fără copii
+E t marito 💬 | Il marito || Bărbatul
+. Un marito affettuoso || Un bărbat iubitor
+. Perché piangi? Perché non mangi? Perché il tuo cuore è triste? Non sono io per te meglio di dieci figli? || Pentru ce plângi și nu mănânci? Pentru ce ți-este întristată inima? Oare nu prețuiesc eu pentru tine mai mult decât zece fii?
+. «Non valgo più di dieci figli?» || „Nu prețuiesc eu mai mult decât zece fii?”
+E i voto 🙏 | Il voto || Juruința
+. Pregò: se Dio le avesse dato un figlio maschio, lo avrebbe consacrato al Signore per tutta la vita, e il rasoio non sarebbe passato sul suo capo. || S-a rugat: dacă Dumnezeu îi va da un fiu, îl va închina Domnului pentru toată viața, și briciul nu va trece pe capul lui.
+. Un figlio consacrato per tutta la vita || Un fiu închinat pentru toată viața
+E t sacerdote 🧓 | Il sacerdote || Preotul
+. Il sacerdote seduto presso lo stipite del santuario || Preotul care ședea lângă ușorul locașului
+. Fino a quando sarai ubriaca? … Va' in pace, e il Dio d'Israele esaudisca la richiesta che gli hai fatto. || Până când vei fi beată? … Du-te în pace, și Dumnezeul lui Israel să asculte cererea pe care I-ai făcut-o!
+. Prima la crede ubriaca, poi la benedice || Întâi o crede beată, apoi o binecuvântează
+E i nome 👶 | Il nome || Numele
+. Nacque un figlio e lei lo chiamò Samuele, dicendo: «Perché l'ho chiesto al Signore». || S-a născut un fiu, și ea i-a pus numele Samuel, zicând: „De la Domnul l-am cerut.”
+. Samuele: «chiesto al Signore» || Samuel: „cerut de la Domnul”
+E i tunica 🧥 | La piccola tunica || Haina cea mică
+. Svezzato il bambino, lo portò a Sciloh e lo lasciò al sacerdote. Ogni anno gli portava una piccola tunica fatta da lei. || După ce l-a înțărcat, l-a dus la Silo și l-a lăsat la preot. În fiecare an îi aducea o haină mică făcută de ea.
+. Una tunica ogni anno || O haină în fiecare an
+E f cesto 🧺 | Un cesto di pane || Un coș cu pâine
+. Un cesto di pane per il viaggio a Sciloh. Nessun indizio. || Un coș cu pâine pentru drumul la Silo. Niciun indiciu.
+A Dopo la nascita cantò: «Il mio cuore esulta nel Signore». || După naștere a cântat: „Mi se bucură inima în Domnul.”
+A Il sacerdote di Sciloh era Eli. || Preotul din Silo era Eli.
+A È Anna, madre di Samuele (1 Samuele 1). || Este Ana, mama lui Samuel (1 Samuel 1).
+Q Perché il sacerdote pensò che Anna fosse ubriaca? || De ce a crezut preotul că Ana este beată?
++ Muoveva le labbra ma non si sentiva la voce || Își mișca buzele, dar nu i se auzea glasul
+- Cantava a voce alta || Cânta cu glas tare
+- Rideva nel santuario || Râdea în locașul sfânt
+- Aveva in mano una coppa || Avea în mână un pahar
+Q Che cosa portava Anna a Samuele ogni anno? || Ce îi aducea Ana lui Samuel în fiecare an?
++ Una piccola tunica || O haină mică
+- Un agnello || Un miel
+- Del pane || Pâine
+- Un libro || O carte
+O
+> Anna è presa in giro da Peninna || Ana este necăjită de Penina
+> Prega in silenzio a Sciloh || Se roagă în tăcere la Silo
+> Eli la crede ubriaca || Eli o crede beată
+> Eli la benedice || Eli o binecuvântează
+> Nasce Samuele || Se naște Samuel
+> Anna lo porta a Sciloh || Ana îl duce la Silo
+V
+v Anna fece un voto al Signore || Ana a făcut o juruință Domnului
+v Peninna aveva figli || Penina avea copii
+x Anna tenne il bambino con sé tutta la vita || Ana a ținut copilul cu ea toată viața
+v Anna cantò un cantico di lode || Ana a cântat o cântare de laudă
+H Era Anna, madre di Samuele. Moglie di Elkanah, non aveva figli ed era provocata dall'altra moglie, Peninna. A Sciloh pregò piangendo, muovendo solo le labbra, e fece voto di consacrare al Signore il figlio che avrebbe ricevuto. Il sacerdote Eli la credette ubriaca, poi la benedisse. Nacque Samuele, «chiesto al Signore»; svezzato, Anna lo portò a Sciloh, e ogni anno gli portava una piccola tunica. || Era Ana, mama lui Samuel. Nevasta lui Elcana, nu avea copii și era necăjită de cealaltă nevastă, Penina. La Silo s-a rugat plângând, mișcând doar buzele, și a făgăduit să închine Domnului fiul pe care îl va primi. Preotul Eli a crezut-o beată, apoi a binecuvântat-o. S-a născut Samuel, „cerut de la Domnul”; după ce l-a înțărcat, Ana l-a dus la Silo și în fiecare an îi aducea o haină mică.
+
+== samuele_chiamato | 🕯️ | 1 | tempio | 🕯️ 🌙 👂 | 9 3:1-21
+T «Parla, perché il tuo servo ascolta» || „Vorbește, căci robul Tău ascultă”
+S Tre volte svegliato di notte || Trezit de trei ori noaptea
+R 1 Samuele 3 || 1 Samuel 3
+I Un ragazzo dorme nel santuario vicino all'arca. Una voce lo chiama per nome. Corre dal vecchio sacerdote, ma lui dice di non averlo chiamato. Succede tre volte. Scopri chi è il ragazzo e che cosa risponde la quarta volta.
+I Un băiat doarme în locașul sfânt lângă chivot. Un glas îl strigă pe nume. Aleargă la preotul bătrân, dar acesta spune că nu l-a strigat. Se întâmplă de trei ori. Descoperă cine este băiatul și ce răspunde a patra oară.
+E i rara 📜 | Una parola rara || Un cuvânt rar
+. In quei giorni la parola del Signore era rara e le visioni non erano frequenti. || În vremea aceea cuvântul Domnului era rar și vedeniile nu erau dese.
+. La parola di Dio era rara || Cuvântul lui Dumnezeu era rar
+E i lampada 🕯️ | La lampada || Candela
+. La lampada di Dio non era ancora spenta, e il ragazzo dormiva nel santuario dove si trovava l'arca. || Candela lui Dumnezeu nu se stinsese încă, iar băiatul dormea în locașul unde era chivotul.
+. Prima dell'alba, vicino all'arca || Înainte de zori, lângă chivot
+E i tre_volte 3️⃣ | Tre volte || De trei ori
+. La voce chiamò il ragazzo; lui corse dal sacerdote: «Eccomi, mi hai chiamato». «Non ti ho chiamato, torna a dormire». Accadde tre volte. || Glasul l-a strigat pe băiat; el a alergat la preot: „Iată-mă, m-ai chemat.” „Nu te-am chemat, du-te de te culcă.” S-a întâmplat de trei ori.
+. Tre volte corre dal sacerdote || De trei ori aleargă la preot
+E t sacerdote 🧓 | Il vecchio sacerdote || Preotul bătrân
+. Un sacerdote anziano, quasi cieco, che capisce || Un preot bătrân, aproape orb, care înțelege
+. Va' a dormire, e se ti chiama ancora, dirai: «Parla, Signore, perché il tuo servo ascolta». || Du-te de te culcă, și dacă vei mai fi chemat, să zici: „Vorbește, Doamne, căci robul Tău ascultă.”
+. Il sacerdote insegna la risposta || Preotul îl învață răspunsul
+E t ragazzo 👂 | Il ragazzo || Băiatul
+. Un ragazzo che non conosceva ancora il Signore || Un băiat care nu-L cunoștea încă pe Domnul
+. Parla, perché il tuo servo ascolta. || Vorbește, căci robul Tău ascultă.
+. «Parla, il tuo servo ascolta» || „Vorbește, robul Tău ascultă”
+E i profeta 📢 | Il profeta || Prorocul
+. Il ragazzo crebbe, il Signore era con lui e non lasciò cadere a terra nessuna delle sue parole; tutto Israele, da Dan a Beer-Sceba, riconobbe che era profeta. || Băiatul a crescut, Domnul era cu el și n-a lăsat să cadă la pământ niciunul din cuvintele lui; tot Israelul, de la Dan până la Beer-Șeba, a cunoscut că era proroc.
+. Riconosciuto profeta da Dan a Beer-Sceba || Recunoscut proroc de la Dan până la Beer-Șeba
+E f coperta 🛏️ | Una coperta || O pătură
+. Una coperta sulla stuoia. Nessun indizio. || O pătură pe rogojină. Niciun indiciu.
+A Il messaggio di quella notte era un giudizio sulla casa del sacerdote. || Vestea din noaptea aceea era o judecată asupra casei preotului.
+A Sua madre lo aveva chiesto al Signore con una preghiera silenziosa. || Mama lui îl ceruse de la Domnul printr-o rugăciune tăcută.
+A È la chiamata di Samuele (1 Samuele 3). || Este chemarea lui Samuel (1 Samuel 3).
+Q Da chi correva Samuele quando sentiva la voce? || La cine alerga Samuel când auzea glasul?
++ Dal sacerdote Eli || La preotul Eli
+- Da sua madre || La mama lui
+- Da suo padre Elkanah || La tatăl său Elcana
+- Dai figli di Eli || La fiii lui Eli
+Q Che cosa rispose Samuele la quarta volta? || Ce a răspuns Samuel a patra oară?
++ «Parla, perché il tuo servo ascolta» || „Vorbește, căci robul Tău ascultă”
+- «Chi sei?» || „Cine ești?”
+- «Lasciami dormire» || „Lasă-mă să dorm”
+- «Eccomi, maestro» || „Iată-mă, învățătorule”
+O
+> Samuele dorme vicino all'arca || Samuel doarme lângă chivot
+> La voce lo chiama tre volte || Glasul îl strigă de trei ori
+> Eli capisce che è il Signore || Eli înțelege că este Domnul
+> Samuele risponde: «Parla» || Samuel răspunde: „Vorbește”
+> Tutto Israele lo riconosce profeta || Tot Israelul îl recunoaște proroc
+V
+v Le visioni in quel tempo erano rare || Vedeniile erau rare în vremea aceea
+x Eli sentì anche lui la voce || Și Eli a auzit glasul
+v Samuele non conosceva ancora il Signore || Samuel nu-L cunoștea încă pe Domnul
+v Il Signore non lasciò cadere nessuna delle sue parole || Domnul n-a lăsat să cadă niciunul din cuvintele lui
+H Era la chiamata di Samuele. In un tempo in cui la parola del Signore era rara, il ragazzo Samuele dormiva nel santuario vicino all'arca. Una voce lo chiamò tre volte e ogni volta corse da Eli, che alla fine capì e gli insegnò a rispondere. La quarta volta Samuele disse: «Parla, perché il tuo servo ascolta», e ricevette un messaggio sulla casa di Eli. Samuele crebbe, il Signore era con lui, e tutto Israele da Dan a Beer-Sceba riconobbe che era profeta. || Era chemarea lui Samuel. Într-o vreme când cuvântul Domnului era rar, băiatul Samuel dormea în locașul sfânt lângă chivot. Un glas l-a strigat de trei ori și de fiecare dată a alergat la Eli, care în cele din urmă a înțeles și l-a învățat să răspundă. A patra oară Samuel a zis: „Vorbește, căci robul Tău ascultă”, și a primit o veste despre casa lui Eli. Samuel a crescut, Domnul era cu el, și tot Israelul, de la Dan până la Beer-Șeba, a cunoscut că era proroc.

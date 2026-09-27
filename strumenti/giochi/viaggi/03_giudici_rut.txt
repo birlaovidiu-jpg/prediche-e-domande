@@ -1,0 +1,318 @@
+# Viaggi di Giudici e Rut
+
+= ehud | 🗡️ | Ehud e il re Eglon | Ehud și împăratul Eglon | 7 3:15
+@ monteefraim | 7 3:15
+it: L'Eterno suscitò Ehud, un Beniaminita mancino, e Israele lo mandò a portare il tributo a Eglon, re di Moab.
+ro: Domnul l-a ridicat pe Ehud, un beniamit care nu se slujea de mâna dreaptă, și Israel l-a trimis să ducă darul lui Eglon, împăratul Moabului.
+@ gerico | 7 3:13 | la città delle palme | cetatea finicilor
+it: Eglon, alleato con Ammon e Amalek, si era impadronito della città delle palme.
+ro: Eglon, unit cu fiii lui Amon și cu Amalec, pusese stăpânire pe cetatea finicilor.
+? domanda | 7 3:16
+qi: Che cosa si era preparato Ehud sotto la veste?
+qr: Ce își pregătise Ehud sub haine?
+ai: Una spada a due tagli lunga un cubito | Un arco con le frecce | Una fionda | Un bastone di mandorlo
+ar: O sabie cu două tăișuri, lungă de un cot | Un arc cu săgeți | O praștie | Un toiag de migdal
+@ ghilgal | 7 3:19 | gli idoli presso Ghilgal | idolii de lângă Ghilgal
+it: Dopo aver consegnato il tributo, Ehud tornò indietro dal luogo degli idoli presso Ghilgal.
+ro: După ce a dat darul, Ehud s-a întors de la idolii de lângă Ghilgal.
+? evento | 7 3:19
+qi: Che cosa disse Ehud al re, tornando indietro?
+qr: Ce i-a spus Ehud împăratului când s-a întors?
+ai: «O re, ho qualcosa da dirti in segreto» | «Il tributo non basta» | «Israele si arrende» | «I Filistei stanno arrivando»
+ar: „Împărate, am să-ți spun ceva în taină” | „Darul nu ajunge” | „Israel se predă” | „Vin filistenii”
+@ seirah | 7 3:26
+it: Mentre i servi del re aspettavano davanti alla porta chiusa, Ehud fuggì e passò fino a Seirah.
+ro: Pe când slujitorii împăratului așteptau la ușa încuiată, Ehud a fugit și a ajuns la Seira.
+? puzzle | 7 3:26
+qi: Ricomponi il nome del luogo dove si rifugiò Ehud.
+qr: Refă numele locului unde a scăpat Ehud.
+ai: SEIRAH
+ar: SEIRA
+@ guado | 7 3:28
+it: Ehud suonò la tromba sui monti di Efraim; Israele occupò i guadi del Giordano e sconfisse Moab.
+ro: Ehud a sunat din trâmbiță în muntele lui Efraim; Israel a pus stăpânire pe vadurile Iordanului și a bătut pe Moab.
+? domanda | 7 3:30
+qi: Per quanti anni il paese ebbe pace dopo la vittoria su Moab?
+qr: Câți ani a avut țara odihnă după biruința asupra Moabului?
+ai: 80 | 40 | 20 | 7
+ar: 80 | 40 | 20 | 7
+
+= debora_barak | 🌴 | Debora e Barak | Debora și Barac | 7 4:4
+@ betel | 7 4:5 | la palma di Debora | finicul Deborei
+it: Debora, profetessa, giudicava Israele sotto la sua palma, fra Ramah e Bethel.
+ro: Debora, prorocița, judeca pe Israel sub finicul ei, între Rama și Betel.
+@ kedes | 7 4:10
+it: Barak radunò a Kedesh diecimila uomini di Zabulon e di Neftali, e Debora salì con lui.
+ro: Barac a strâns la Chedeș zece mii de oameni din Zabulon și Neftali, și Debora s-a suit cu el.
+? domanda | 7 4:8
+qi: A quale condizione Barak accettò di andare in battaglia?
+qr: Cu ce condiție a primit Barac să meargă la luptă?
+ai: Che Debora andasse con lui | Che gli dessero cento carri | Che Jabin fosse già morto | Che piovesse
+ar: Să meargă Debora cu el | Să i se dea o sută de care | Ca Iabin să fi murit | Să plouă
+@ tabor | 7 4:14
+it: Dal monte Tabor Barak scese con i suoi uomini contro Sisera e i suoi novecento carri.
+ro: De pe muntele Tabor, Barac s-a coborât cu oamenii lui împotriva lui Sisera și a celor nouă sute de care ale lui.
+? personaggio | 7 4:2
+qi: Chi era il capo dell'esercito di Jabin?
+qr: Cine era căpetenia oștirii lui Iabin?
+ai: Sisera | Og | Eglon | Oreb
+ar: Sisera | Og | Eglon | Oreb
+@ kishon | 7 5:21
+it: Il torrente Kishon travolse i nemici, e Sisera fuggì a piedi.
+ro: Pârâul Chison i-a luat pe vrăjmași, iar Sisera a fugit pe jos.
+? luogo | 7 5:21
+qi: Quale torrente travolse i nemici, come canta il cantico di Debora?
+qr: Ce pârâu i-a luat pe vrăjmași, cum spune cântarea Deborei?
+ai: Il Kishon | Il Giordano | Lo Jabbok | L'Arnon
+ar: Chison | Iordanul | Iabocul | Arnonul
+@ tsaannaim | 7 4:17
+it: Sisera si rifugiò nella tenda di Jael, moglie di Heber il Keneo.
+ro: Sisera a fugit în cortul Iaelei, nevasta lui Heber, chenitul.
+? personaggio | 7 4:21
+qi: Chi sconfisse Sisera nella sua tenda?
+qr: Cine l-a răpus pe Sisera în cortul ei?
+ai: Jael | Debora | Delilah | Rahab
+ar: Iael | Debora | Dalila | Rahav
+
+= gedeone | 🏺 | Gedeone e i trecento | Ghedeon și cei trei sute | 7 6:11
+@ ofra | 7 6:11
+it: L'Angelo dell'Eterno apparve a Gedeone, che batteva il grano nel torchio per nasconderlo ai Madianiti.
+ro: Îngerul Domnului i s-a arătat lui Ghedeon, care treiera grâul în teasc, ca să-l scape de madianiți.
+@ harod | 7 7:1
+it: Gedeone si accampò presso la sorgente di Harod; l'accampamento di Madian era al nord, verso la collina di Moreh.
+ro: Ghedeon a tăbărât lângă izvorul Harod; tabăra lui Madian era la miazănoapte, spre dealul More.
+? domanda | 7 7:6
+qi: Quanti uomini lambirono l'acqua portandola alla bocca con la mano?
+qr: Câți oameni au lipăit apa, ducând-o la gură cu mâna?
+ai: 300 | 10 000 | 22 000 | 70
+ar: 300 | 10 000 | 22 000 | 70
+@ more | 7 7:20
+it: Di notte i trecento suonarono le trombe e spezzarono le brocche con le fiaccole accese.
+ro: Noaptea, cei trei sute au sunat din trâmbițe și au spart ulcioarele cu făclii aprinse.
+? domanda | 7 7:20
+qi: Che cosa gridarono gli uomini di Gedeone?
+qr: Ce au strigat oamenii lui Ghedeon?
+ai: «La spada dell'Eterno e di Gedeone!» | «Viva il re d'Israele!» | «Fuggite, Madianiti!» | «Gerico è caduta!»
+ar: „Sabia Domnului și a lui Ghedeon!” | „Trăiască împăratul lui Israel!” | „Fugiți, madianiților!” | „A căzut Ierihonul!”
+@ betbarah | 7 7:24
+it: Gli uomini di Efraim occuparono i guadi fino a Beth-Barah e catturarono i principi Oreb e Zeeb.
+ro: Bărbații lui Efraim au tăiat trecerea apelor până la Bet-Bara și au prins pe căpeteniile Oreb și Zeeb.
+? personaggio | 7 7:25
+qi: Quali principi di Madian catturarono gli uomini di Efraim?
+qr: Pe care căpetenii ale lui Madian i-au prins bărbații lui Efraim?
+ai: Oreb e Zeeb | Zebah e Tsalmunna | Sihon e Og | Jabin e Sisera
+ar: Oreb și Zeeb | Zebah și Țalmuna | Sihon și Og | Iabin și Sisera
+@ succoth | 7 8:5
+it: Gedeone attraversò il Giordano, stanco ma ancora all'inseguimento, e chiese pane agli uomini di Sukkoth.
+ro: Ghedeon a trecut Iordanul, obosit, dar tot urmărind pe vrăjmași, și a cerut pâine celor din Sucot.
+? domanda | 7 8:6
+qi: Come risposero i capi di Sukkoth alla richiesta di pane?
+qr: Cum au răspuns căpeteniile din Sucot la cererea de pâine?
+ai: Rifiutarono | Diedero pane in abbondanza | Diedero soltanto acqua | Mandarono soldati in aiuto
+ar: Au refuzat | Au dat pâine din belșug | Au dat numai apă | Au trimis ostași în ajutor
+@ karkor | 7 8:10
+it: A Karkor Gedeone sorprese quel che restava dell'esercito di Zebah e Tsalmunna.
+ro: La Carcor, Ghedeon a surprins ce mai rămăsese din oastea lui Zebah și Țalmuna.
+? ordina | 7 8:12
+qi: Metti in ordine la storia di Gedeone.
+qr: Pune în ordine istoria lui Ghedeon.
+ai: L'Angelo gli appare a Ofrah | I trecento bevono al fonte di Harod | Trombe e brocche nella notte | L'inseguimento fino a Karkor
+ar: Îngerul i se arată la Ofra | Cei trei sute beau la izvorul Harod | Trâmbițe și ulcioare noaptea | Urmărirea până la Carcor
+
+= abimelek | 🔥 | Abimelek e la parabola degli alberi | Abimelec și pilda copacilor | 7 9:1
+@ ofra | 7 9:5
+it: Abimelek, figlio di Gedeone, uccise i suoi fratelli a Ofrah; si salvò soltanto Jotham, il più giovane.
+ro: Abimelec, fiul lui Ghedeon, i-a ucis pe frații lui la Ofra; a scăpat numai Iotam, cel mai tânăr.
+@ sichem | 7 9:7
+it: Dal monte Gherizim Jotham raccontò agli uomini di Sichem la parabola degli alberi che cercavano un re.
+ro: De pe muntele Garizim, Iotam le-a spus oamenilor din Sihem pilda copacilor care căutau un împărat.
+? domanda | 7 9:14
+qi: Nella parabola di Jotham, quale pianta accettò di regnare sugli alberi?
+qr: În pilda lui Iotam, ce plantă a primit să împărățească peste copaci?
+ai: Il rovo | L'ulivo | Il fico | La vite
+ar: Spinul | Măslinul | Smochinul | Vița
+@ aruma | 7 9:41
+it: Abimelek si stabilì ad Arumah, mentre a Sichem Gaal si ribellava contro di lui.
+ro: Abimelec a locuit la Aruma, pe când la Sihem Gaal se răscula împotriva lui.
+? personaggio | 7 9:26
+qi: Chi si ribellò contro Abimelek a Sichem?
+qr: Cine s-a răsculat împotriva lui Abimelec la Sihem?
+ai: Gaal, figlio di Ebed | Jotham | Zebul | Gedeone
+ar: Gaal, fiul lui Ebed | Iotam | Zebul | Ghedeon
+@ tebes | 7 9:53
+it: Mentre assaliva la torre di Thebets, una donna gettò una macina sulla testa di Abimelek.
+ro: Pe când ataca turnul din Tebeț, o femeie a aruncat o piatră de moară în capul lui Abimelec.
+? evento | 7 9:53
+qi: Che cosa gettò una donna dalla torre di Thebets su Abimelek?
+qr: Ce a aruncat o femeie din turnul Tebețului peste Abimelec?
+ai: La parte superiore di una macina | Una lancia | Olio bollente | Un vaso di terra
+ar: O bucată de piatră de moară | O suliță | Untdelemn fierbinte | Un vas de pământ
+
+= iefte | 🕊️ | Jefte il Galaadita | Iefta, galaaditul | 7 11:1
+@ tob | 7 11:3
+it: Scacciato dai fratelli, Jefte abitava nel paese di Tob, dove si radunarono attorno a lui uomini senza nulla.
+ro: Izgonit de frații lui, Iefta locuia în țara Tob, unde s-au strâns în jurul lui niște oameni fără căpătâi.
+@ mizpagalaad | 7 11:11
+it: Gli anziani di Galaad vennero a cercarlo: Jefte divenne loro capo e ripeté le sue parole davanti all'Eterno a Mitspah.
+ro: Bătrânii Galaadului au venit să-l caute: Iefta a ajuns căpetenia lor și și-a spus cuvintele înaintea Domnului la Mițpa.
+? personaggio | 7 11:12
+qi: Contro quale popolo combatté Jefte?
+qr: Împotriva cărui popor a luptat Iefta?
+ai: I figli di Ammon | I Filistei | I Madianiti | Gli Amalekiti
+ar: Fiii lui Amon | Filistenii | Madianiții | Amaleciții
+@ aroer | 7 11:33
+it: Jefte sconfisse gli Ammoniti da Aroer fino verso Minnith, prendendo venti città.
+ro: Iefta i-a bătut pe amoniți de la Aroer până spre Minit, luând douăzeci de cetăți.
+? domanda | 7 11:33
+qi: Quante città prese Jefte agli Ammoniti?
+qr: Câte cetăți le-a luat Iefta amoniților?
+ai: 20 | 7 | 12 | 40
+ar: 20 | 7 | 12 | 40
+@ guado | 7 12:6
+it: Ai guadi del Giordano, chi non sapeva dire «Scibboleth» si rivelava uno degli Efraimiti.
+ro: La vadurile Iordanului, cine nu putea spune „Șibolet” se dădea de gol că era efraimit.
+? puzzle | 7 12:6
+qi: Ricomponi la parola d'ordine dei guadi del Giordano.
+qr: Refă cuvântul de recunoaștere de la vadurile Iordanului.
+ai: SCIBBOLETH
+ar: SIBOLET
+
+= sansone_timna | 🦁 | Sansone a Timnah | Samson la Timna | 7 14:1
+@ zora | 7 13:25
+it: Lo Spirito dell'Eterno cominciò a muovere Sansone al campo di Dan, fra Tsorah ed Eshtaol.
+ro: Duhul Domnului a început să-l miște pe Samson la Mahane-Dan, între Țorea și Eștaol.
+@ timna | 7 14:6
+it: Nelle vigne di Timnah un giovane leone gli venne contro ruggendo, e Sansone lo squarciò a mani nude.
+ro: La viile din Timna, un pui de leu a venit răcnind înaintea lui, iar Samson l-a sfâșiat fără nimic în mână.
+? evento | 7 14:8
+qi: Che cosa trovò Sansone, tempo dopo, nel corpo del leone?
+qr: Ce a găsit Samson, după o vreme, în trupul leului?
+ai: Uno sciame d'api e del miele | Un anello d'oro | Delle monete d'argento | Un nido di uccelli
+ar: Un roi de albine și miere | Un inel de aur | Niște bani de argint | Un cuib de păsări
+@ ascalon | 7 14:19
+it: Per pagare l'enigma, Sansone scese ad Ashkelon e prese trenta vestiti ai Filistei.
+ro: Ca să plătească ghicitoarea, Samson s-a coborât la Ascalon și a luat treizeci de haine de la filisteni.
+? domanda | 7 14:12
+qi: Quanti vestiti promise Sansone a chi avesse sciolto l'enigma?
+qr: Câte haine a făgăduit Samson celor ce vor dezlega ghicitoarea?
+ai: 30 | 7 | 3 | 100
+ar: 30 | 7 | 3 | 100
+@ timna | 7 15:5 | i campi dei Filistei | ogoarele filistenilor
+it: Sansone catturò delle volpi, legò delle fiaccole alle loro code e bruciò i covoni e le vigne dei Filistei.
+ro: Samson a prins niște vulpi, le-a legat făclii de cozi și a ars snopii și viile filistenilor.
+? domanda | 7 15:4
+qi: Quante volpi catturò Sansone?
+qr: Câte vulpi a prins Samson?
+ai: 300 | 30 | 100 | 1000
+ar: 300 | 30 | 100 | 1000
+@ lehi | 7 15:15
+it: A Lehi, con una mascella d'asino ancora fresca, Sansone uccise mille uomini.
+ro: La Lehi, cu o falcă de măgar încă proaspătă, Samson a ucis o mie de oameni.
+? evento | 7 15:19
+qi: Che cosa fece Dio a Lehi quando Sansone aveva sete?
+qr: Ce a făcut Dumnezeu la Lehi când Samson era însetat?
+ai: Fendette la roccia e ne uscì dell'acqua | Mandò la pioggia | Gli mandò un corvo con del pane | Lo portò al Giordano
+ar: A despicat stânca și a ieșit apă | A trimis ploaie | I-a trimis un corb cu pâine | L-a dus la Iordan
+
+= sansone_gaza | 🏛️ | Sansone e Delilah | Samson și Dalila | 7 16:1
+@ gaza | 7 16:2
+it: A Gaza i Filistei aspettavano Sansone alla porta per ucciderlo al mattino.
+ro: La Gaza, filistenii îl pândeau pe Samson la poartă, ca să-l omoare dimineața.
+@ ebron | 7 16:3 | il monte di fronte a Hebron | muntele din fața Hebronului
+it: A mezzanotte Sansone divelse le porte della città di Gaza e le portò in cima al monte di fronte a Hebron.
+ro: La miezul nopții, Samson a smuls porțile cetății Gaza și le-a dus pe vârful muntelui din fața Hebronului.
+? evento | 7 16:3
+qi: Che cosa portò Sansone sulle spalle fino al monte di fronte a Hebron?
+qr: Ce a dus Samson pe umeri până pe muntele din fața Hebronului?
+ai: Le porte della città di Gaza con gli stipiti | Una colonna del tempio | Un leone | Il carro di un re filisteo
+ar: Porțile cetății Gaza cu ușorii lor | Un stâlp al templului | Un leu | Carul unui împărat filistean
+@ sorek | 7 16:4
+it: Nella valle di Sorek Sansone si innamorò di Delilah, che i principi dei Filistei pagarono per tradirlo.
+ro: În valea Sorec, Samson s-a îndrăgostit de Dalila, pe care domnitorii filistenilor au plătit-o ca să-l vândă.
+? domanda | 7 16:17
+qi: Dove si trovava la forza di Sansone, come alla fine rivelò a Delilah?
+qr: Unde stătea puterea lui Samson, cum i-a spus în cele din urmă Dalilei?
+ai: Nei capelli mai rasati, perché era nazireo | Nella spada | In un amuleto | Nelle mani
+ar: În părul netuns, fiindcă era nazireu | În sabie | Într-un talisman | În mâini
+@ gaza | 7 16:25 | il tempio di Dagon | templul lui Dagon
+it: Prigioniero e cieco, Sansone fu portato nel tempio di Dagon; pregò l'Eterno e fece crollare l'edificio.
+ro: Prins și orb, Samson a fost adus în templul lui Dagon; s-a rugat Domnului și a prăbușit casa.
+? domanda | 7 16:29
+qi: A che cosa si appoggiò Sansone per far crollare il tempio?
+qr: De ce s-a sprijinit Samson ca să dărâme templul?
+ai: Alle due colonne centrali | Al muro della porta | All'altare di Dagon | Alla statua del dio
+ar: De cei doi stâlpi de la mijloc | De zidul porții | De altarul lui Dagon | De chipul idolului
+
+= daniti_lais | 🏹 | I Daniti cercano una terra | Daniții își caută un ținut | 7 18:2
+@ zora | 7 18:2
+it: La tribù di Dan mandò cinque uomini valorosi da Tsorah e da Eshtaol a esplorare il paese.
+ro: Seminția lui Dan a trimis din Țorea și din Eștaol cinci oameni viteji să cerceteze țara.
+@ monteefraim | 7 18:3 | la casa di Mikah | casa lui Mica
+it: Nella regione montuosa di Efraim si fermarono nella casa di Mikah e riconobbero la voce del giovane levita.
+ro: În muntele lui Efraim au poposit în casa lui Mica și au recunoscut glasul tânărului levit.
+? personaggio | 7 18:3
+qi: Chi trovarono gli esploratori nella casa di Mikah?
+qr: Pe cine au găsit iscoadele în casa lui Mica?
+ai: Un giovane levita che faceva da sacerdote | Il profeta Samuele | Un re dei Filistei | Un soldato di Hatsor
+ar: Un tânăr levit care era preot | Pe prorocul Samuel | Un împărat filistean | Un ostaș din Hațor
+@ lais | 7 18:7
+it: A Laish trovarono un popolo tranquillo e sicuro, lontano dai Sidoni e senza alleati.
+ro: La Laiș au găsit un popor liniștit și fără grijă, departe de sidonieni și fără legături cu nimeni.
+? domanda | 7 18:7
+qi: Com'era il popolo di Laish?
+qr: Cum era poporul din Laiș?
+ai: Tranquillo, sicuro e senza alleati | Forte e armato di carri | Pieno di giganti | Sottomesso ai Filistei
+ar: Liniștit, fără grijă și fără legături cu nimeni | Tare și cu care de război | Plin de uriași | Supus filistenilor
+@ kiriath | 7 18:12
+it: Seicento uomini armati di Dan si accamparono a Kirjath-Jearim, in Giuda.
+ro: Șase sute de oameni înarmați din Dan au tăbărât la Chiriat-Iearim, în Iuda.
+? domanda | 7 18:11
+qi: Quanti uomini armati partirono dalla tribù di Dan?
+qr: Câți oameni înarmați au plecat din seminția lui Dan?
+ai: 600 | 300 | 5 | 1000
+ar: 600 | 300 | 5 | 1000
+@ dan | 7 18:29
+it: Presero Laish, ricostruirono la città e la chiamarono Dan, dal nome del loro padre.
+ro: Au luat Laișul, au zidit din nou cetatea și i-au pus numele Dan, după numele tatălui lor.
+? luogo | 7 18:29
+qi: Come si chiamava prima la città di Dan?
+qr: Cum se numea mai înainte cetatea Dan?
+ai: Laish | Luz | Kirjath-Sefer | Hatsor
+ar: Laiș | Luz | Chiriat-Sefer | Hațor
+
+= rut | 🌾 | Ruth e Naomi | Rut și Naomi | 8 1:1
+@ betlemme | 8 1:1
+it: Durante una carestia, Elimelek di Betlemme partì con la moglie Naomi e i due figli per il paese di Moab.
+ro: Pe vremea unei foamete, Elimelec din Betleem a plecat cu nevasta lui, Naomi, și cu cei doi fii în țara Moabului.
+@ moab | 8 1:4 | i campi di Moab | câmpiile Moabului
+it: In Moab i figli sposarono Orpah e Ruth; dopo dieci anni morirono, e Naomi restò sola.
+ro: În Moab, fiii s-au însurat cu Orpa și Rut; după zece ani au murit, iar Naomi a rămas singură.
+? domanda | 8 1:16
+qi: Che cosa rispose Ruth a Naomi, che le chiedeva di tornare dal suo popolo?
+qr: Ce i-a răspuns Rut Naomei, care îi cerea să se întoarcă la poporul ei?
+ai: «Dove andrai tu andrò anch'io; il tuo Dio sarà il mio Dio» | «Tornerò da mia madre» | «Resterò in Moab» | «Andrò in Egitto»
+ar: „Unde vei merge tu, voi merge și eu; Dumnezeul tău va fi Dumnezeul meu” | „Mă voi întoarce la mama mea” | „Voi rămâne în Moab” | „Voi merge în Egipt”
+@ betlemme | 8 1:22 | Betlemme, al ritorno | Betleem, la întoarcere
+it: Naomi e Ruth arrivarono a Betlemme al principio della mietitura dell'orzo.
+ro: Naomi și Rut au ajuns la Betleem la începutul secerișului orzului.
+? evento | 8 1:22
+qi: In quale periodo Naomi e Ruth arrivarono a Betlemme?
+qr: În ce vreme au ajuns Naomi și Rut la Betleem?
+ai: Al principio della mietitura dell'orzo | D'inverno | Alla vendemmia | Alla festa delle capanne
+ar: La începutul secerișului orzului | Iarna | La culesul viilor | La sărbătoarea corturilor
+@ campoboaz | 8 2:3
+it: Ruth andò a spigolare e capitò nel campo di Boaz, parente di Elimelek.
+ro: Rut s-a dus să strângă spice și a ajuns pe ogorul lui Boaz, rudă cu Elimelec.
+? personaggio | 8 2:1
+qi: A chi apparteneva il campo dove spigolò Ruth?
+qr: Al cui era ogorul unde a strâns Rut spice?
+ai: A Boaz | A Elimelek | A Obed | A Isai
+ar: Al lui Boaz | Al lui Elimelec | Al lui Obed | Al lui Isai
+@ betlemme | 8 4:10 | la porta della città | poarta cetății
+it: Alla porta della città, davanti agli anziani, Boaz prese Ruth in moglie; nacque Obed, nonno di Davide.
+ro: La poarta cetății, înaintea bătrânilor, Boaz a luat-o pe Rut de nevastă; s-a născut Obed, bunicul lui David.
+? ordina | 8 4:17
+qi: Metti in ordine la famiglia: dal figlio di Ruth fino al re.
+qr: Pune în ordine familia: de la fiul lui Rut până la împărat.
+ai: Obed | Isai | Davide
+ar: Obed | Isai | David

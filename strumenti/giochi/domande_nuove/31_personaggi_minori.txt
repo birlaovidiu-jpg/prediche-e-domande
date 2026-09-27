@@ -1,0 +1,142 @@
+# Domande nuove — personaggi minori
+personaggi|3|1 10:8
+IT|Di chi era figlio Nimrod, il primo potente sulla terra?|Di Kush|Di Cam|Di Sem|Di Mitsraim|Kush generò Nimrod, che cominciò a essere potente sulla terra.
+RO|Al cui fiu era Nimrod, cel dintâi om puternic pe pământ?|Al lui Cuș|Al lui Ham|Al lui Sem|Al lui Mițraim|Cuș a născut și pe Nimrod; el a început să fie puternic pe pământ.
+personaggi|3|1 11:31
+IT|Chi portò Abramo, Sarai e Lot fuori da Ur dei Caldei per andare nel paese di Canaan?|Terah|Nahor|Haran|Melchisedek|Terah prese Abramo suo figlio, Lot figlio di Haran, e Sarai sua nuora, e uscirono insieme da Ur dei Caldei per andare nel paese di Canaan.
+RO|Cine i-a scos pe Avram, Sarai și Lot din Ur din Haldeea ca să meargă în țara Canaan?|Terah|Nahor|Haran|Melhisedec|Terah a luat pe fiul său Avram, pe Lot, fiul lui Haran, și pe Sarai, nora sa, și au ieșit împreună din Ur din Haldeea ca să meargă în țara Canaan.
+personaggi|3|1 11:28
+IT|Dove morì Haran, fratello di Abramo, prima di suo padre Terah?|A Ur dei Caldei|A Haran|In Canaan|In Egitto|Haran morì in presenza di Terah, suo padre, nel suo paese natìo, a Ur dei Caldei.
+RO|Unde a murit Haran, fratele lui Avram, înaintea tatălui său Terah?|La Ur din Haldeea|La Haran|În Canaan|În Egipt|Haran a murit înaintea tatălui său Terah, în țara lui de naștere, la Ur din Haldeea.
+personaggi|3|1 22:23
+IT|Di chi era figlio Betuel, padre di Rebecca?|Di Nahor e Milkah|Di Terah|Di Lot|Di Labano|Betuel generò Rebecca. Questi otto Milkah li partorì a Nahor, fratello di Abrahamo.
+RO|Al cui fiu era Betuel, tatăl Rebecăi?|Al lui Nahor și al Milcăi|Al lui Terah|Al lui Lot|Al lui Laban|Betuel a născut pe Rebeca. Pe acești opt fii i-a născut Milca lui Nahor, fratele lui Avraam.
+personaggi|3|1 25:13
+IT|Come si chiamava il primogenito di Ismaele?|Nebajoth|Kedar|Dumah|Tema|Questi sono i nomi dei figli d'Ismaele: Nebajoth, il primogenito d'Ismaele; poi Kedar, Adbeel, Mibsam.
+RO|Cum se numea întâiul născut al lui Ismael?|Nebaiot|Chedar|Duma|Tema|Iată numele fiilor lui Ismael: Nebaiot, întâiul născut al lui Ismael; Chedar, Adbeel, Mibsam.
+personaggi|3|1 29:24
+IT|Quale serva diede Labano a sua figlia Lea come serva?|Zilpah|Bilhah|Agar|Debora|Labano diede la sua serva Zilpah come serva a Lea sua figlia.
+RO|Ce roabă i-a dat Laban fiicei sale Lea ca slujnică?|Zilpa|Bilha|Agar|Debora|Laban i-a dat roaba sa Zilpa fetei sale Lea ca slujnică.
+personaggi|3|1 29:29
+IT|Quale serva diede Labano a Rachele?|Bilhah|Zilpah|Agar|Keturah|Labano diede la sua serva Bilhah come serva a Rachele sua figlia.
+RO|Ce roabă i-a dat Laban Rahelei?|Bilha|Zilpa|Agar|Chetura|Laban i-a dat roaba sa Bilha fetei sale Rahela ca slujnică.
+personaggi|3|1 29:32
+IT|Come si chiamava il primo figlio di Lea?|Ruben|Simeone|Levi|Giuda|Lea concepì e partorì un figlio, al quale pose nome Ruben.
+RO|Cum se numea primul fiu al Leei?|Ruben|Simeon|Levi|Iuda|Lea a rămas însărcinată și a născut un fiu, căruia i-a pus numele Ruben.
+personaggi|3|1 29:35
+IT|Quale figlio di Lea fu chiamato così perché disse: «Questa volta loderò l'Eterno»?|Giuda|Levi|Simeone|Ruben|«Questa volta loderò l'Eterno»; perciò lo chiamò Giuda.
+RO|Care fiu al Leei a fost numit așa pentru că ea a zis: „De data aceasta voi lăuda pe Domnul”?|Iuda|Levi|Simeon|Ruben|„De data aceasta voi lăuda pe Domnul!” De aceea i-a pus numele Iuda.
+personaggi|3|2 6:16
+IT|Come si chiamavano i tre figli di Levi?|Ghershon, Kehath e Merari|Amram, Itshar e Hebron|Nadab, Abihu ed Eleazar|Ruben, Simeone e Giuda|Questi sono i nomi dei figli di Levi: Ghershon, Kehath e Merari.
+RO|Cum se numeau cei trei fii ai lui Levi?|Gherșon, Chehat și Merari|Amram, Ițhar și Hebron|Nadab, Abihu și Eleazar|Ruben, Simeon și Iuda|Iată numele fiilor lui Levi: Gherșon, Chehat și Merari.
+personaggi|3|2 6:23
+IT|Come si chiamavano i quattro figli di Aaronne?|Nadab, Abihu, Eleazar e Ithamar|Ghershom ed Eliezer|Kore, Dathan, Abiram e On|Ofni e Fineas|Elisceba gli partorì Nadab, Abihu, Eleazar e Ithamar.
+RO|Cum se numeau cei patru fii ai lui Aaron?|Nadab, Abihu, Eleazar și Itamar|Gherșom și Eliezer|Core, Datan, Abiram și On|Hofni și Fineas|Elișeba i-a născut pe Nadab, Abihu, Eleazar și Itamar.
+personaggi|3|4 16:1
+IT|Quali due Rubeniti si unirono alla ribellione di Kore?|Dathan e Abiram|Nadab e Abihu|Giosuè e Caleb|Eldad e Medad|Kore, con Dathan e Abiram, figli di Eliab, e On, figlio di Peleth, figli di Ruben, insorse contro Mosè.
+RO|Care doi rubeniți s-au alăturat răscoalei lui Core?|Datan și Abiram|Nadab și Abihu|Iosua și Caleb|Eldad și Medad|Core, cu Datan și Abiram, fiii lui Eliab, și On, fiul lui Pelet, fiii lui Ruben, s-au răsculat împotriva lui Moise.
+personaggi|4|4 11:26
+IT|Quali due uomini profetizzarono nell'accampamento, pur non essendo andati alla tenda?|Eldad e Medad|Dathan e Abiram|Giosuè e Caleb|Hur e Aaronne|Due uomini, uno chiamato Eldad e l'altro Medad, erano rimasti nell'accampamento; e lo Spirito si posò su di loro e profetizzarono.
+RO|Care doi bărbați au prorocit în tabără, deși nu se duseseră la cort?|Eldad și Medad|Datan și Abiram|Iosua și Caleb|Hur și Aaron|Doi oameni, unul numit Eldad și altul Medad, rămăseseră în tabără; Duhul S-a odihnit peste ei și au prorocit.
+personaggi|4|4 11:29
+IT|Che cosa desiderò Mosè quando Giosuè voleva impedire a Eldad e Medad di profetizzare?|Che tutto il popolo fosse profeta|Che fossero puniti|Che se ne andassero|Che smettessero|«Fossero pure tutti profeti nel popolo dell'Eterno, e volesse l'Eterno mettere su di loro il suo Spirito!».
+RO|Ce și-a dorit Moise când Iosua voia să-i oprească pe Eldad și Medad să prorocească?|Ca tot poporul să fie proroci|Să fie pedepsiți|Să plece|Să înceteze|„O, de ar fi tot poporul Domnului alcătuit din proroci, și de ar pune Domnul Duhul Său peste ei!”
+personaggi|3|6 24:32
+IT|Dove furono sepolte le ossa di Giuseppe portate dall'Egitto?|A Sichem|A Hebron|A Betel|A Scilo|Le ossa di Giuseppe, che i figli d'Israele avevano portate dall'Egitto, furono sepolte a Sichem.
+RO|Unde au fost îngropate oasele lui Iosif aduse din Egipt?|La Sihem|La Hebron|La Betel|La Silo|Oasele lui Iosif, pe care copiii lui Israel le aduseseră din Egipt, au fost îngropate la Sihem.
+personaggi|3|6 24:33
+IT|Quale figlio di Aaronne morì e fu sepolto sulla collina di Fineas, dopo Giosuè?|Eleazar|Ithamar|Nadab|Abihu|Eleazar, figlio di Aaronne, morì e fu sepolto sulla collina di Fineas, suo figlio.
+RO|Care fiu al lui Aaron a murit și a fost îngropat pe dealul lui Fineas, după Iosua?|Eleazar|Itamar|Nadab|Abihu|Eleazar, fiul lui Aaron, a murit și a fost îngropat pe dealul lui Fineas, fiul său.
+personaggi|3|7 10:1
+IT|Quale giudice di Issacar giudicò Israele ventitré anni dopo Abimelek?|Tola|Jair|Ibtsan|Elon|Dopo Abimelek sorse a liberare Israele Tola, figlio di Puah; giudicò Israele ventitré anni.
+RO|Ce judecător din Isahar a judecat pe Israel douăzeci și trei de ani după Abimelec?|Tola|Iair|Ibțan|Elon|După Abimelec, s-a ridicat ca să izbăvească pe Israel Tola, fiul lui Pua; el a judecat pe Israel douăzeci și trei de ani.
+personaggi|4|7 10:4
+IT|Quale giudice di Galaad aveva trenta figli che cavalcavano trenta asinelli?|Jair|Tola|Jefte|Abdon|Jair ebbe trenta figli che cavalcavano trenta asinelli e avevano trenta città.
+RO|Ce judecător din Galaad avea treizeci de fii care călăreau pe treizeci de mânji de măgari?|Iair|Tola|Iefta|Abdon|Iair a avut treizeci de fii care călăreau pe treizeci de mânji de măgari și aveau treizeci de cetăți.
+personaggi|3|8 1:2
+IT|Come si chiamavano i due figli di Noemi, morti in Moab?|Mahlon e Kilion|Obed e Iesse|Er e Onan|Ofni e Fineas|Il nome dei suoi due figli era Mahlon e Kilion, Efratei di Betlemme di Giuda.
+RO|Cum se numeau cei doi fii ai Naomei, morți în Moab?|Mahlon și Chilion|Obed și Isai|Er și Onan|Hofni și Fineas|Numele celor doi fii ai lui erau Mahlon și Chilion, efratiți din Betleemul lui Iuda.
+personaggi|3|8 1:3
+IT|Come si chiamava il marito di Noemi?|Elimelek|Boaz|Salmon|Mahlon|Elimelek, marito di Noemi, morì, e lei rimase con i suoi due figli.
+RO|Cum se numea bărbatul Naomei?|Elimelec|Boaz|Salmon|Mahlon|Elimelec, bărbatul Naomei, a murit, și ea a rămas cu cei doi fii ai ei.
+personaggi|3|9 1:1
+IT|Come si chiamava il padre di Samuele?|Elkanah|Eli|Iesse|Kish|C'era un uomo di Ramathaim-Tsofim… si chiamava Elkanah.
+RO|Cum se numea tatăl lui Samuel?|Elcana|Eli|Isai|Chiș|Era un om din Ramataim-Țofim… numele lui era Elcana.
+personaggi|3|9 8:2
+IT|Come si chiamavano i figli di Samuele, giudici a Beer-Sceba?|Joel e Abiah|Ofni e Fineas|Nadab e Abihu|Mahlon e Kilion|Il suo primogenito si chiamava Joel e il secondo Abiah; erano giudici a Beer-Sceba.
+RO|Cum se numeau fiii lui Samuel, judecători la Beer-Șeba?|Ioel și Abia|Hofni și Fineas|Nadab și Abihu|Mahlon și Chilion|Fiul său întâi născut se numea Ioel, iar al doilea Abia; ei erau judecători la Beer-Șeba.
+personaggi|3|9 14:50
+IT|Come si chiamava il capo dell'esercito di Saul, suo cugino?|Abner|Joab|Amasa|Benaiah|Il capo del suo esercito si chiamava Abner, figlio di Ner, zio di Saul.
+RO|Cum se numea căpetenia oștirii lui Saul, vărul lui?|Abner|Ioab|Amasa|Benaia|Căpetenia oștirii lui se numea Abner, fiul lui Ner, unchiul lui Saul.
+personaggi|3|9 22:18
+IT|Quale Edomita uccise gli ottantacinque sacerdoti di Nob per ordine di Saul?|Doeg|Agag|Achish|Nabal|Doeg, l'Edomita, si volse e si scagliò contro i sacerdoti, e uccise quel giorno ottantacinque uomini.
+RO|Ce edomit i-a ucis pe cei optzeci și cinci de preoți din Nob la porunca lui Saul?|Doeg|Agag|Achiș|Nabal|Doeg, edomitul, s-a întors și a lovit pe preoți; în ziua aceea a omorât optzeci și cinci de oameni.
+personaggi|3|9 22:20
+IT|Quale figlio di Ahimelek scampò alla strage di Nob e fuggì da Davide?|Abiathar|Tsadok|Eli|Ahitub|Uno dei figli di Ahimelek, chiamato Abiathar, scampò e fuggì presso Davide.
+RO|Ce fiu al lui Ahimelec a scăpat din măcelul de la Nob și a fugit la David?|Abiatar|Țadoc|Eli|Ahitub|Unul din fiii lui Ahimelec, numit Abiatar, a scăpat și a fugit la David.
+personaggi|3|10 8:17
+IT|Chi erano i sacerdoti al tempo del regno di Davide?|Tsadok e Ahimelek|Eli e Fineas|Nadab e Abihu|Anna e Caiafa|Tsadok, figlio di Ahitub, e Ahimelek, figlio di Abiathar, erano sacerdoti.
+RO|Cine erau preoții pe vremea domniei lui David?|Țadoc și Ahimelec|Eli și Fineas|Nadab și Abihu|Ana și Caiafa|Țadoc, fiul lui Ahitub, și Ahimelec, fiul lui Abiatar, erau preoți.
+personaggi|3|10 9:2
+IT|Chi era il servo della casa di Saul che informò Davide di Mefibosceth?|Tsiba|Scimei|Hushai|Ahithofel|C'era un servo della casa di Saul, di nome Tsiba, che fu chiamato presso Davide.
+RO|Cine era slujitorul casei lui Saul care i-a spus lui David despre Mefiboșet?|Țiba|Șimei|Hușai|Ahitofel|Era un slujitor al casei lui Saul, numit Țiba, pe care l-au chemat la David.
+personaggi|3|10 15:12
+IT|Quale consigliere di Davide si unì alla congiura di Absalom?|Ahithofel|Hushai|Nathan|Gad|Absalom mandò a chiamare Ahithofel il Ghilonita, consigliere di Davide.
+RO|Ce sfetnic al lui David s-a alăturat uneltirii lui Absalom?|Ahitofel|Hușai|Natan|Gad|Absalom a trimis să cheme din cetatea lui pe Ahitofel, ghilonitul, sfetnicul lui David.
+personaggi|3|10 17:23
+IT|Che cosa fece Ahithofel quando vide che il suo consiglio non era stato seguito?|Si impiccò|Fuggì in Egitto|Tornò da Davide|Si fece sacerdote|Ahithofel, vedendo che il suo consiglio non era stato seguito, sellò l'asino, andò a casa, mise ordine alle sue cose e si impiccò.
+RO|Ce a făcut Ahitofel când a văzut că sfatul lui n-a fost urmat?|S-a spânzurat|A fugit în Egipt|S-a întors la David|S-a făcut preot|Ahitofel, văzând că sfatul lui n-a fost urmat, a pus șaua pe măgar, s-a dus acasă, și-a pus casa în rânduială și s-a spânzurat.
+personaggi|3|10 19:32
+IT|Quale vecchio di ottant'anni aveva fornito i viveri a Davide a Mahanaim?|Barzillai il Galaadita|Tsiba|Scimei|Hushai|Barzillai era molto vecchio, ottant'anni; aveva provveduto al mantenimento del re mentre stava a Mahanaim.
+RO|Ce bătrân de optzeci de ani îi dăduse de mâncare lui David la Mahanaim?|Barzilai, galaaditul|Țiba|Șimei|Hușai|Barzilai era foarte bătrân, în vârstă de optzeci de ani; el hrănise pe împărat cât a stat la Mahanaim.
+personaggi|3|11 4:6
+IT|Chi era soprintendente al lavoro forzato sotto Salomone?|Adoniram|Tsadok|Benaiah|Nathan|Adoniram, figlio di Abda, era sovrintendente al lavoro forzato.
+RO|Cine era mai-mare peste oamenii de corvoadă sub Solomon?|Adoniram|Țadoc|Benaia|Natan|Adoniram, fiul lui Abda, era mai-mare peste oamenii de corvoadă.
+personaggi|3|11 7:14
+IT|Chi era Hiram, l'artigiano di Tiro che lavorò il bronzo per il tempio di Salomone?|Figlio di una vedova della tribù di Neftali|Il re di Tiro stesso|Un levita di Gerusalemme|Un sacerdote egiziano|Era figlio di una vedova della tribù di Neftali, e suo padre era di Tiro, lavoratore del bronzo.
+RO|Cine era Hiram, meșterul din Tir care a lucrat arama pentru templul lui Solomon?|Fiul unei văduve din seminția lui Neftali|Chiar împăratul Tirului|Un levit din Ierusalim|Un preot egiptean|Era fiul unei văduve din seminția lui Neftali și tatăl său era din Tir; lucra în aramă.
+personaggi|3|12 5:17
+IT|Che cosa chiese Naaman di portare via dalla terra d'Israele?|Il carico di due muli di terra|Dell'acqua del Giordano|Una pietra dell'altare|Un profeta|Naaman disse: «Sia permesso al tuo servo di prendere di questa terra quanto ne possono portare due muli».
+RO|Ce a cerut Naaman să ia din pământul lui Israel?|Încărcătura a doi catâri de pământ|Apă din Iordan|O piatră de la altar|Un proroc|Naaman a zis: „Dă voie robului tău să ia din pământul acesta încărcătura a doi catâri.”
+personaggi|3|12 8:15
+IT|Chi uccise il re di Siria Ben-Hadad soffocandolo con una coperta bagnata?|Hazael|Naaman|Jehu|Rezin|Hazael prese una coperta, la immerse nell'acqua e la stese sulla faccia del re, che morì; e Hazael regnò al suo posto.
+RO|Cine l-a ucis pe Ben-Hadad, împăratul Siriei, înăbușindu-l cu o învelitoare udă?|Hazael|Naaman|Iehu|Rețin|Hazael a luat o învelitoare, a înmuiat-o în apă și a întins-o pe fața împăratului, care a murit; și Hazael a domnit în locul lui.
+personaggi|3|12 10:15
+IT|Quale uomo fece salire Jehu sul suo carro dicendo: «Il tuo cuore è retto come il mio?»|Jonadab, figlio di Rekab|Elia|Eliseo|Naaman|Jehu incontrò Jonadab, figlio di Rekab… gli diede la mano e lo fece salire con sé sul carro.
+RO|Ce om a luat Iehu în carul lui, întrebându-l: „Este inima ta tot atât de curată ca a mea?”|Ionadab, fiul lui Recab|Ilie|Elisei|Naaman|Iehu a întâlnit pe Ionadab, fiul lui Recab… i-a dat mâna și l-a suit lângă el în car.
+personaggi|3|15 3:2
+IT|Chi ricostruì l'altare del Dio d'Israele insieme al sommo sacerdote Jeshua dopo il ritorno?|Zorobabele|Esdra|Neemia|Mardocheo|Jeshua, figlio di Jotsadak, con i suoi fratelli sacerdoti, e Zorobabele, figlio di Scealtiel, con i suoi fratelli, costruirono l'altare del Dio d'Israele.
+RO|Cine a zidit din nou altarul Dumnezeului lui Israel împreună cu marele preot Iosua, după întoarcere?|Zorobabel|Ezra|Neemia|Mardoheu|Iosua, fiul lui Ioțadac, cu frații săi preoți, și Zorobabel, fiul lui Șealtiel, cu frații săi, au zidit altarul Dumnezeului lui Israel.
+personaggi|3|17 2:5
+IT|Di quale tribù era Mardocheo?|Di Beniamino|Di Giuda|Di Levi|Di Efraim|A Susa c'era un Giudeo chiamato Mardocheo, figlio di Iair, figlio di Scimei, figlio di Kish, un Beniaminita.
+RO|Din ce seminție era Mardoheu?|Din Beniamin|Din Iuda|Din Levi|Din Efraim|În Susa era un iudeu numit Mardoheu, fiul lui Iair, fiul lui Șimei, fiul lui Chiș, un om din Beniamin.
+personaggi|3|17 6:1
+IT|Che cosa si fece leggere il re Assuero una notte in cui non riusciva a dormire?|Il libro delle memorie, le cronache|I salmi di Davide|Una lettera di Aman|La legge di Mosè|Quella notte il re non poteva dormire; si fece portare il libro delle memorie, le cronache, e ne fu fatta la lettura davanti al re.
+RO|Ce a pus împăratul Ahașveroș să i se citească într-o noapte în care nu putea dormi?|Cartea aducerilor-aminte, cronicile|Psalmii lui David|O scrisoare de la Haman|Legea lui Moise|În noaptea aceea împăratul n-a putut să doarmă și a poruncit să-i aducă cartea aducerilor-aminte, cronicile; și au citit din ea înaintea împăratului.
+personaggi|3|17 6:11
+IT|Chi dovette condurre Mardocheo a cavallo per la città, proclamando il suo onore?|Aman|Il re|Ester|Un principe persiano|Aman prese la veste e il cavallo, rivestì Mardocheo, lo fece cavalcare per la piazza della città e gridava davanti a lui.
+RO|Cine a trebuit să-l plimbe pe Mardoheu călare prin cetate, vestindu-i cinstea?|Haman|Împăratul|Estera|Un prinț persan|Haman a luat haina și calul, l-a îmbrăcat pe Mardoheu, l-a plimbat călare pe ulițele cetății și striga înaintea lui.
+personaggi|3|42 1:13
+IT|Quale nome disse l'angelo a Zaccaria di dare a suo figlio?|Giovanni|Zaccaria|Elia|Gesù|«Tua moglie Elisabetta ti partorirà un figlio, al quale porrai nome Giovanni».
+RO|Ce nume i-a spus îngerul lui Zaharia să-i pună fiului său?|Ioan|Zaharia|Ilie|Isus|„Nevasta ta Elisabeta îți va naște un fiu, căruia îi vei pune numele Ioan.”
+personaggi|3|42 3:14
+IT|Che cosa disse Giovanni Battista ai soldati che gli chiedevano che cosa fare?|Non estorcete e accontentatevi della vostra paga|Lasciate l'esercito|Andate al tempio|Uccidete i nemici|«Non fate estorsioni né violenze, e accontentatevi della vostra paga».
+RO|Ce le-a spus Ioan Botezătorul ostașilor care îl întrebau ce să facă?|Să nu stoarcă bani și să se mulțumească cu lefurile lor|Să lase oștirea|Să meargă la templu|Să-i ucidă pe vrăjmași|„Să nu stoarceți nimic de la nimeni prin amenințări, nici prin învinuiri nedrepte, ci să vă mulțumiți cu lefurile voastre.”
+personaggi|3|43 1:44
+IT|Da quale città erano Filippo, Andrea e Pietro?|Betsaida|Capernaum|Nazaret|Cana|Filippo era di Betsaida, della città di Andrea e di Pietro.
+RO|Din ce cetate erau Filip, Andrei și Petru?|Betsaida|Capernaum|Nazaret|Cana|Filip era din Betsaida, cetatea lui Andrei și a lui Petru.
+personaggi|3|43 11:16
+IT|Quale discepolo disse: «Andiamo anche noi a morire con lui», prima di andare da Lazzaro?|Tommaso, detto Didimo|Pietro|Giovanni|Filippo|Tommaso, detto Didimo, disse ai condiscepoli: «Andiamo anche noi a morire con lui!».
+RO|Care ucenic a zis: „Haidem să mergem și noi să murim cu El!”, înainte să meargă la Lazăr?|Toma, zis Geamăn|Petru|Ioan|Filip|Toma, zis Geamăn, a zis celorlalți ucenici: „Haidem să mergem și noi să murim cu El!”
+personaggi|3|43 12:21
+IT|A quale discepolo si rivolsero alcuni Greci dicendo: «Signore, vorremmo vedere Gesù»?|Filippo|Pietro|Giovanni|Giuda|Si avvicinarono a Filippo, che era di Betsaida di Galilea, e lo pregarono: «Signore, vorremmo vedere Gesù».
+RO|La ce ucenic au venit niște greci zicând: „Domnule, am vrea să vedem pe Isus”?|Filip|Petru|Ioan|Iuda|S-au apropiat de Filip, care era din Betsaida din Galileea, și l-au rugat: „Domnule, am vrea să vedem pe Isus.”
+personaggi|3|43 14:8
+IT|Quale discepolo disse a Gesù: «Signore, mostraci il Padre e ci basta»?|Filippo|Tommaso|Pietro|Giuda|Filippo gli disse: «Signore, mostraci il Padre e ci basta».
+RO|Care ucenic I-a zis lui Isus: „Doamne, arată-ne pe Tatăl, și ne este de ajuns”?|Filip|Toma|Petru|Iuda|Filip I-a zis: „Doamne, arată-ne pe Tatăl, și ne este de ajuns.”
+personaggi|3|43 13:23
+IT|Dove stava il discepolo che Gesù amava durante l'ultima cena?|Appoggiato sul petto di Gesù|All'estremità della tavola|Alla porta|Fuori, a vegliare|Uno dei discepoli, quello che Gesù amava, era a tavola appoggiato sul petto di Gesù.
+RO|Unde stătea ucenicul pe care-l iubea Isus la Cina cea de taină?|Culcat pe sânul lui Isus|La capătul mesei|La ușă|Afară, de strajă|Unul din ucenici, acela pe care-l iubea Isus, stătea la masă culcat pe sânul lui Isus.
+personaggi|4|44 4:36
+IT|Che cosa fece Barnaba con il campo che possedeva?|Lo vendette e portò il denaro ai piedi degli apostoli|Lo diede ai poveri direttamente|Vi costruì una chiesa|Lo tenne per sé|Barnaba, possedendo un campo, lo vendette e ne portò il ricavato deponendolo ai piedi degli apostoli.
+RO|Ce a făcut Barnaba cu țarina pe care o avea?|A vândut-o și a adus banii la picioarele apostolilor|A dat-o direct săracilor|A zidit pe ea o biserică|A păstrat-o|Barnaba avea o țarină; a vândut-o și a adus banii la picioarele apostolilor.

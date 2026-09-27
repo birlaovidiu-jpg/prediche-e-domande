@@ -11,7 +11,7 @@
   --display:Optima,"Avenir Next Demi Bold","Avenir Next","Gill Sans","Trebuchet MS",sans-serif;
   --moderno:"SF Pro Display","Avenir Next","Helvetica Neue",-apple-system,BlinkMacSystemFont,sans-serif;
   --om:0 2px 10px rgba(0,0,0,.35); --om2:0 12px 40px rgba(0,0,0,.55);
-  --lato:264px; --barra:58px;
+  --lato:280px; --barra:58px;
   --sat:env(safe-area-inset-top,0px); --sab:env(safe-area-inset-bottom,0px);
 }
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
@@ -52,8 +52,8 @@ a{color:var(--oro)}
     radial-gradient(1.7px 1.7px at 8% 46%, rgba(255,255,255,.32), transparent)}
 .av-cont{position:relative;z-index:2;display:flex;flex-direction:column;align-items:center;
   text-align:center;padding:0 6vmin}
-.av-logo{width:min(34vmin,240px);height:auto;display:block;
-  filter:drop-shadow(0 8px 34px rgba(255,255,255,.3))}
+.av-logo{height:min(68vmin,480px);width:auto;display:block;
+  filter:drop-shadow(0 10px 30px rgba(0,0,0,.55))}
 .av-tit{font-family:var(--serif);font-size:min(9vmin,62px);color:#fff;line-height:1.06;
   margin-top:4vmin;letter-spacing:-.4px;text-shadow:0 4px 26px rgba(0,0,0,.7)}
 .av-riga{width:min(30vmin,220px);height:3px;border-radius:3px;margin:3.4vmin 0 2.6vmin;
@@ -71,8 +71,8 @@ a{color:var(--oro)}
   padding:var(--sat) 14px 0;display:flex;align-items:center;gap:11px;
   background:rgba(15,17,23,.82);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);
   border-bottom:1px solid var(--bordo)}
-#barra .marchio{width:auto;height:30px;border-radius:0;flex:0 0 auto;
-  filter:drop-shadow(0 2px 8px rgba(105,145,209,.35))}
+#barra .marchio{width:auto;height:40px;border-radius:0;flex:0 0 auto;cursor:pointer;-webkit-tap-highlight-color:transparent;
+  filter:drop-shadow(0 2px 8px rgba(230,32,63,.35))}
 #barra .tit{display:flex;flex-direction:column;line-height:1.15;min-width:0}
 #barra .tit b{font-size:16px;font-weight:650;letter-spacing:.1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 #barra .tit span{font-size:11.5px;color:var(--tx3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -90,7 +90,7 @@ a{color:var(--oro)}
 #voci{display:flex;flex-direction:column;gap:2px;flex:1}
 .voce{display:flex;align-items:center;gap:11px;padding:10px 12px;border-radius:var(--r2);
   cursor:pointer;color:var(--tx2);border:0;background:none;text-align:left;width:100%;
-  font-size:14.5px;position:relative;transition:background .12s,color .12s}
+  font-size:16.5px;position:relative;transition:background .12s,color .12s}
 .voce .ic{font-size:17px;width:22px;text-align:center;flex:0 0 auto}
 .voce .et{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .voce .cnt{font-size:11px;color:var(--tx3);background:var(--sup2);padding:1px 7px;border-radius:20px;
@@ -123,6 +123,11 @@ h3{font-size:16px}
 .g2{grid-template-columns:repeat(auto-fit,minmax(290px,1fr))}
 .g3{grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}
 .g4{grid-template-columns:repeat(auto-fill,minmax(168px,1fr))}
+/* prediche/esperienze/poesie: tutte e tre sempre 3 per fila (anche su iPad,
+   dove auto-fit a volte ne metteva 2 o 4 secondo lo spazio) — solo su
+   schermo stretto scende a 2 */
+.g-pred{grid-template-columns:repeat(3,1fr)}
+@media(max-width:640px){ .g-pred{grid-template-columns:repeat(2,1fr)} }
 
 /* ---------- pulsanti ---------- */
 .bt{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:11px 17px;border-radius:var(--r2);
@@ -133,8 +138,15 @@ h3{font-size:16px}
 .bt.pr{background:linear-gradient(180deg,var(--ross-c),var(--ross));border-color:transparent;color:#fff;
   box-shadow:0 5px 16px rgba(200,16,46,.35);font-weight:650}
 .bt.vd{background:linear-gradient(180deg,var(--verde-c),var(--verde));border-color:transparent;color:#04150c;font-weight:650}
+/* blu acceso: il pulsante «Avanti» di Vero o Falso e di Impiccato */
+.bt.blu{background:linear-gradient(180deg,#4da3ff,#1a66ea);border-color:transparent;color:#fff;font-weight:700;
+  box-shadow:0 6px 18px -4px rgba(45,134,255,.8),0 0 0 1px rgba(140,195,255,.4)}
 .bt.or{background:linear-gradient(180deg,#eec174,var(--oro));border-color:transparent;color:#241703;font-weight:650}
 .bt.pi{background:none;border-color:var(--bordo)}
+/* «← Giochi» per tornare a tutti i giochi: colorato, si vede subito */
+.bt.pi.torna-gio{background:linear-gradient(180deg,#b18cff,#7446e8);border-color:transparent;color:#fff;font-weight:700;
+  box-shadow:0 6px 18px -4px rgba(126,80,240,.8),0 0 0 1px rgba(200,175,255,.4)}
+.bt.pi.torna-gio:hover{filter:brightness(1.08)}
 .bt.mini{padding:7px 12px;font-size:13px;border-radius:9px}
 .bt[disabled]{opacity:.4;pointer-events:none}
 .fila{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
@@ -146,12 +158,28 @@ input[type=text],input[type=number],input[type=search],select,textarea{
   background:var(--fondo2);border:1px solid var(--bordo);border-radius:var(--r3);padding:10px 12px;
   color:var(--tx);outline:none;width:100%;font-size:15px;transition:border-color .15s}
 input:focus,select:focus,textarea:focus{border-color:var(--ross-c)}
+/* il calendario nativo non prende i colori scuri del resto: stessa forma
+   del campo di testo qui accanto, ma sfondo chiaro e scritta nera così resta leggibile */
+input[type=date]{background:#ffffff;border:1px solid var(--bordo);border-radius:var(--r3);
+  padding:10px 12px;color:#000;outline:none;width:100%;font-size:15px;transition:border-color .15s}
+input[type=date]:focus{border-color:var(--ross-c)}
 textarea{resize:vertical;min-height:110px;line-height:1.65;font-family:var(--sans)}
+/* una casella scrivibile come le altre (stesso sfondo/bordo/misura), ma un
+   contentEditable invece di una textarea — ci va sopra la barra B/I/U/.../
+   dei cantici, che su un &lt;textarea&gt; non potrebbe funzionare (il browser
+   non sa mostrare grassetto/colori dentro a un testo semplice) */
+.ce-campo{background:var(--fondo2);border:1px solid var(--bordo);border-radius:var(--r3);
+  padding:10px 12px;color:var(--tx);outline:none;width:100%;font-size:15px;
+  line-height:1.55;font-family:var(--sans);overflow-y:auto;transition:border-color .15s}
+.ce-campo:focus{border-color:var(--ross-c)}
+.ce-campo p,.ce-campo>div{margin:0 0 2px}
 select{appearance:none;background-image:linear-gradient(45deg,transparent 50%,var(--tx3) 50%),linear-gradient(135deg,var(--tx3) 50%,transparent 50%);
   background-position:calc(100% - 17px) 50%,calc(100% - 12px) 50%;background-size:5px 5px,5px 5px;background-repeat:no-repeat;padding-right:34px}
 .cerca{position:relative}
 .cerca input{padding-left:36px}
 .cerca::before{content:"🔎";position:absolute;left:11px;top:50%;transform:translateY(-50%);font-size:14px;opacity:.6}
+.cerca.senza-lente input{padding-left:12px}
+.cerca.senza-lente::before{display:none}
 
 /* ---------- riquadri numerici ---------- */
 .kpi{background:var(--sup);border:1px solid var(--bordo);border-radius:var(--r);padding:15px 16px;position:relative;overflow:hidden}
@@ -179,6 +207,8 @@ select{appearance:none;background-image:linear-gradient(45deg,transparent 50%,va
 .rg .az{display:flex;gap:6px;flex:0 0 auto}
 .vuoto{text-align:center;padding:44px 18px;color:var(--tx3)}
 .vuoto .em{font-size:40px;display:block;margin-bottom:10px;opacity:.55}
+/* mentre trascini un file .pptx sopra a Prediche/Poesie/Esperienze */
+body.imp-trascina #ipZona{border-color:var(--ross-c);background:rgba(200,16,46,.1);color:var(--tx)}
 
 /* ---------- etichette ---------- */
 .tag{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:600;padding:3px 9px;
@@ -197,11 +227,33 @@ select{appearance:none;background-image:linear-gradient(45deg,transparent 50%,va
   max-height:min(86vh,900px);display:flex;flex-direction:column;box-shadow:var(--om2);animation:su .22s ease}
 /* alcune finestre — i cantici — prendono tutta l'altezza dello schermo */
 .foglio.alto{max-height:none;height:calc(100vh - 36px)}
+/* il modulo dei cantici resta com'era (stessi campi, stesso modo di
+   funzionare), solo giallo panna (#fdf6e3, come le altre pagine) invece che scuro: basta ridefinire qui
+   dentro le stesse variabili di colore che il resto del foglio già usa
+   dappertutto (sfondo, bordi, testo), non serve toccare ogni riga singola */
+.foglio.chiaro{
+  --fondo:#f6edd3; --fondo2:#f6edd3; --sup:#fdf6e3; --sup2:#f6edd3;
+  --bordo:#e2d6b6; --bordo2:#d2c5a2; --tx:#20242c; --tx2:#4c5364; --tx3:#7a8094;
+}
+/* le variabili qua sopra bastano per gli sfondi/i bordi (letti da var() dentro
+   alle regole già esistenti), ma il COLORE del testo di solito arriva per
+   eredità dal body (scuro) — senza questa riga il testo restava chiaro su
+   sfondo chiaro, quasi invisibile */
+.foglio.chiaro{color:var(--tx);box-shadow:0 12px 40px rgba(0,0,0,.28)}
+.foglio.chiaro .cs-str.rit .cs-tx{color:#8a6215}
 @keyframes su{from{opacity:0;transform:translateY(16px) scale(.98)}to{opacity:1;transform:none}}
 .foglio .cap{display:flex;align-items:center;gap:12px;padding:16px 20px;border-bottom:1px solid var(--bordo)}
 .foglio .cap b{font-family:var(--serif);font-size:18px;flex:1}
 .foglio .cor{padding:20px;overflow-y:auto;flex:1}
 .foglio .pie{padding:14px 20px;border-top:1px solid var(--bordo);display:flex;gap:10px;justify-content:flex-end;flex-wrap:wrap}
+/* la finestra dell'appunto con la tastiera aperta: sta tutta sopra la tastiera, e il riquadro
+   dove scrivi viene subito sotto al titolo (colori, carattere e grandezza vanno sotto) */
+#modale.sopra-tastiera{align-items:flex-start;padding:8px 12px}
+#modale.sopra-tastiera .foglio{max-height:100%;animation:none}
+.foglio.tx-fin.con-tastiera .cor{display:flex;flex-direction:column;padding:12px 16px}
+.foglio.tx-fin.con-tastiera #txArea{order:-1;margin-bottom:12px;min-height:90px}
+.foglio.tx-fin.con-tastiera .cap{padding:10px 16px}
+.foglio.tx-fin.con-tastiera .pie{padding:10px 16px}
 .chiudi{background:none;border:0;font-size:22px;color:var(--tx3);cursor:pointer;line-height:1;padding:2px 6px;border-radius:8px}
 .chiudi:hover{color:var(--tx);background:var(--sup2)}
 
@@ -245,6 +297,10 @@ select{appearance:none;background-image:linear-gradient(45deg,transparent 50%,va
   background:linear-gradient(0deg,rgba(0,0,0,.78),transparent);transition:opacity .3s;
   pointer-events:none}
 #comandi .cmd,#comandi #pos{pointer-events:auto}
+/* nascosti: spenti del tutto, non solo trasparenti — altrimenti un tocco
+   "in mezzo" che cade per caso dove sta un pulsante invisibile lo premerebbe */
+#comandi.nascosto{opacity:0}
+#comandi.nascosto .cmd,#comandi.nascosto #pos{pointer-events:none}
 body.proiettore #comandi,body.proiettore .zona i{display:none!important}
 .cmd{width:56px;height:56px;border-radius:50%;border:1px solid rgba(255,255,255,.3);
   background:rgba(255,255,255,.10);color:#fff;font-size:23px;cursor:pointer;
@@ -312,6 +368,37 @@ body.proiettore #comandi,body.proiettore .zona i{display:none!important}
 .d-vers:active{transform:scale(.96)}
 .d-vers.spenta{opacity:.5;cursor:default;border-color:rgba(224,178,92,.2);background:none}
 body.proiettore .d-vers{cursor:default}
+/* Come all'inizio: si accende insieme alla risposta e resta acceso, non si
+   nasconde più insieme al resto dei comandi (era stato agganciato a
+   #proi.extra-via alla v7.55, ma Ovidiu lo rivuole sempre visibile con la
+   risposta, comandi accesi o no — tolto quell'aggancio). */
+
+/* ----- diapositiva PowerPoint importata «esatta»: ogni scritta e figura
+   sta ESATTAMENTE dove stava nell'originale — coordinate fisse (in una
+   tela virtuale larga 1280), poi tutta la diapositiva viene rimpicciolita
+   o ingrandita con un solo transform:scale calcolato da adattaPptx(),
+   sempre proporzionale, mai storta ---- */
+.pptx-wrap{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
+.pptx-slide{position:relative;flex:0 0 auto;background:#fff;overflow:hidden;
+  transform-origin:center center;box-shadow:0 20px 60px rgba(0,0,0,.5)}
+.pptx-forma{position:absolute;overflow:hidden}
+.pptx-tx{display:flex;flex-direction:column}
+.pptx-tx.anc-ctr{justify-content:center}
+.pptx-tx.anc-b{justify-content:flex-end}
+.pptx-tx p{margin:0;line-height:1.22;white-space:pre-wrap;overflow-wrap:break-word}
+.pptx-tx ul,.pptx-tx ol{margin:0;padding-left:1.1em}
+.pptx-im{display:flex;align-items:center;justify-content:center}
+.pptx-im img{max-width:100%;max-height:100%;object-fit:contain;display:block}
+/* la copia fedele delle diapositive PowerPoint (7g_pptx_fedele.js) */
+.pf-slide{overflow:hidden}
+.pf{position:absolute;overflow:visible;transform-origin:50% 50%;box-sizing:border-box}
+.pf-g{position:absolute;left:0;top:0;width:100%;height:100%;overflow:visible}
+.pf-t{position:absolute;inset:0;display:flex;flex-direction:column;overflow:visible;box-sizing:border-box;line-height:1.2}
+.pf-t p{margin:0;white-space:pre-wrap;overflow-wrap:break-word}
+.pf-im{overflow:hidden}
+.pf-im img{position:absolute;max-width:none;max-height:none;display:block}
+.pf-tab{border-collapse:collapse;table-layout:fixed}
+.pf-tab p{margin:0;white-space:pre-wrap}
 
 /* ----- diapositiva versetto ----- */
 .v-rif{font-family:var(--display);font-weight:600;font-size:clamp(24px,3vw,52px);color:var(--oro);
@@ -321,13 +408,17 @@ body.proiettore .d-vers{cursor:default}
   padding:0 2vw}
 .v-manca{text-align:center;color:rgba(255,255,255,.5);font-size:clamp(15px,1.6vw,24px);max-width:26em;margin:24px auto 0}
 
-/* il pulsante «esc», in alto a destra: si vede col dito o col mouse
-   e sparisce da solo, così il pubblico non lo vede */
-#esc{position:absolute;top:1.4vh;right:1.4vw;z-index:11;
+/* il pulsante «esc», in alto a destra: si vede solo toccando proprio quel
+   angolo, così il pubblico non lo vede mai per sbaglio. «top» tiene conto
+   di --sat (la barra di stato dell'iPad, orologio compreso, quando il
+   programma gira a schermo intero aggiunto alla Home): senza, in quella
+   modalità l'orologio ci finiva sopra e il pulsante restava nascosto */
+#esc{position:absolute;top:calc(var(--sat) + 12px);right:1.4vw;z-index:11;
   background:rgba(0,0,0,.45);border:1px solid rgba(255,255,255,.25);color:rgba(255,255,255,.85);
   border-radius:10px;padding:7px 14px;font:600 13px/1 -apple-system,Helvetica,Arial,sans-serif;
   letter-spacing:1.5px;text-transform:uppercase;cursor:pointer;
-  opacity:0;transition:opacity .3s;backdrop-filter:blur(6px);pointer-events:auto}
+  opacity:1;transition:opacity .3s;backdrop-filter:blur(6px);pointer-events:auto}
+#esc.nascosto{opacity:0;pointer-events:none}
 #esc:hover{background:rgba(200,16,46,.7);color:#fff}
 body.proiettore #esc{display:none}
 
@@ -370,6 +461,79 @@ body.proiettore #esc{display:none}
 .lettura ol,.lettura ul{padding-left:1.3em;margin:0 0 18px}
 .lettura li{margin-bottom:11px}
 
+/* ---------- Domande bibliche / Chi ha detto: niente più elenco che scorre,
+   solo i controlli, sparsi su tutta l'altezza della pagina ---------- */
+.quiz-pagina{display:flex;flex-direction:column;justify-content:space-evenly;gap:22px;
+  min-height:calc(100vh - var(--barra) - var(--sat) - var(--sab) - 68px)}
+.quiz-pagina .az-quiz{margin-bottom:0}
+/* le scelte: non più una barra di filtri stretta, ma un riquadro a testa
+   per ogni scelta (lingua, ambito, difficoltà…), grandi e colorati, che si
+   allargano da soli a riempire la riga — --ac è il colore di quel riquadro,
+   scelto diverso per ognuno solo per riconoscerli al volo */
+.scelte{display:grid;gap:16px;grid-auto-flow:dense}
+/* colonne fisse (non auto-fit): così le caselle si distribuiscono sempre
+   in righe piene e simmetriche, invece di un numero di colonne che cambia
+   da solo con la larghezza e lascia buchi storti qua e là */
+.scelte-3{grid-template-columns:repeat(3,1fr)}
+.scelte-4{grid-template-columns:repeat(4,1fr)}
+@media(max-width:900px){ .scelte-3,.scelte-4{grid-template-columns:repeat(2,1fr)}
+  /* su iPad verticale (2 sole colonne) la pagina diventava più alta dello
+     schermo di poco: riquadri un po' più compatti per farla rientrare */
+  .quiz-pagina{gap:14px}
+  .scelte{gap:12px}
+  .scelta{padding:12px 14px 13px 16px}
+  .scelta-tit{margin-bottom:7px}
+  .scelta-op{gap:7px}
+  .scelta .op{padding:8px 13px;font-size:13.5px}
+}
+@media(max-width:640px){ .scelte-3,.scelte-4{grid-template-columns:repeat(1,1fr)} }
+
+/* ---- Domande bibliche / Chi ha detto in ORIZZONTALE: schermo fisso come la
+   Scuola del Sabato, senza scorrimento — i riquadri si stringono da soli con
+   clamp() per stare sempre dentro allo schermo, qualunque sia l'altezza vera ---- */
+@media(orientation:landscape){
+  body.quiz-fissa{overflow:hidden}
+  body.quiz-fissa #vista{height:100dvh;overflow:hidden;max-width:none;
+    padding:calc(var(--barra) + var(--sat) + 8px) 20px calc(10px + var(--sab))}
+  body.quiz-fissa #vista>.sez{height:100%;animation:none}
+  body.quiz-fissa .quiz-pagina{height:100%;min-height:0;justify-content:space-between;gap:clamp(6px,1.3vh,16px)}
+  body.quiz-fissa .quiz-pagina h1{font-size:clamp(18px,3.4vh,28px);margin:0;flex:0 0 auto}
+  body.quiz-fissa .scelte{gap:clamp(6px,1.1vh,14px);flex:1 1 auto;min-height:0;overflow:hidden}
+  body.quiz-fissa .scelta{padding:clamp(6px,1.2vh,14px) clamp(9px,1.3vw,16px)}
+  body.quiz-fissa .scelta-tit{margin-bottom:clamp(2px,.6vh,8px);font-size:clamp(10px,1.25vh,12px)}
+  body.quiz-fissa .scelta-op{gap:clamp(4px,.8vh,8px)}
+  body.quiz-fissa .scelta .op{padding:clamp(5px,.9vh,9px) clamp(7px,1vw,15px);font-size:clamp(11px,1.5vh,14px)}
+  body.quiz-fissa .conta-viste{gap:clamp(4px,.8vh,10px) 12px;font-size:clamp(11px,1.4vh,13px)}
+  body.quiz-fissa .az-quiz{padding:clamp(8px,1.3vh,16px) clamp(10px,1.4vw,18px);flex:0 0 auto;gap:12px}
+  body.quiz-fissa .az-conta b{font-size:clamp(18px,2.6vh,28px)}
+  /* se anche stringendo non basta (un telefono in orizzontale, pochissima
+     altezza), torna scorrevole invece di rimpicciolire fino a diventare illeggibile */
+  @media(max-height:440px){
+    body.quiz-fissa{overflow:auto}
+    body.quiz-fissa #vista{height:auto;overflow:visible}
+    body.quiz-fissa .quiz-pagina{height:auto;
+      min-height:calc(100vh - var(--barra) - var(--sat) - var(--sab) - 40px)}
+    body.quiz-fissa .scelte{overflow:visible}
+  }
+}
+.scelta{position:relative;overflow:hidden;background:var(--sup);border:1px solid var(--bordo);
+  border-radius:var(--r);padding:16px 18px 18px 20px}
+.scelta::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;
+  background:var(--ac,var(--ross-c))}
+.scelta.larga{grid-column:span 2}
+@media(max-width:640px){ .scelta.larga{grid-column:span 1} }
+.scelta-tit{font-size:12px;letter-spacing:.8px;text-transform:uppercase;font-weight:700;
+  color:var(--tx3);margin-bottom:11px}
+.scelta-op{display:flex;flex-wrap:wrap;gap:9px}
+.scelta .op{border:1px solid var(--bordo2);background:var(--fondo2);color:var(--tx2);
+  padding:10px 16px;border-radius:12px;font-size:14px;font-weight:600;cursor:pointer;
+  font-family:inherit;transition:background .15s,border-color .15s,color .15s,transform .15s,box-shadow .2s}
+.scelta .op:hover{border-color:var(--ac,var(--ross-c));color:var(--tx)}
+.scelta .op:active{transform:scale(.96)}
+.scelta .op.on{background:var(--ac,var(--ross));border-color:var(--ac,var(--ross));color:#0b0d13;
+  box-shadow:0 6px 18px -4px var(--ac,var(--ross));font-weight:700}
+.scelta select{margin-top:2px}
+
 /* ---------- barra dei filtri ---------- */
 .filtri{display:flex;gap:10px;flex-wrap:wrap;align-items:flex-end;
   background:var(--sup);border:1px solid var(--bordo);border-radius:var(--r);padding:14px 16px;margin-bottom:16px}
@@ -379,6 +543,22 @@ body.proiettore #esc{display:none}
   font-size:13.5px;color:var(--tx2);font-weight:550;transition:background .13s,color .13s;white-space:nowrap}
 .segm button.on{background:var(--ross);color:#fff}
 .segm.pic button{padding:5px 11px;font-size:12.5px}
+
+/* ---- Alba e tramonto: data/ricerca alla stessa altezza di Ieri/Oggi/Domani ---- */
+.sole-filtri .segm,.sole-filtri .cerca input,.sole-filtri .cal-bt{height:40px}
+.sole-filtri .cal-bt{padding:0 14px;font-size:14.5px;font-weight:500;justify-content:flex-start;white-space:nowrap}
+/* ---- il calendario per scegliere una data: celle grandi, pensate per il dito ---- */
+.cal-testa{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+.cal-testa b{font-family:var(--serif);font-size:17px;text-transform:capitalize}
+.cal-sett{display:grid;grid-template-columns:repeat(7,1fr);gap:6px;margin-bottom:6px}
+.cal-sett span{text-align:center;font-size:11.5px;color:var(--tx3);font-weight:600;text-transform:uppercase}
+.cal-griglia{display:grid;grid-template-columns:repeat(7,1fr);gap:6px}
+.cal-g{aspect-ratio:1;border:1px solid var(--bordo);border-radius:50%;background:var(--fondo2);
+  color:var(--tx);font-size:17px;cursor:pointer;display:flex;align-items:center;justify-content:center;
+  transition:background .13s,color .13s}
+.cal-g:hover{background:var(--bordo)}
+.cal-g.oggi{border-color:var(--ross-c);color:var(--ross-c);font-weight:700}
+.cal-g.on{background:var(--ross);border-color:var(--ross);color:#fff;font-weight:700}
 
 /* ---------- selezione per la condivisione ---------- */
 .rg.sel{border-color:var(--ross-c);background:rgba(200,16,46,.10)}
@@ -403,7 +583,9 @@ body.proiettore #esc{display:none}
 @media(max-width:980px){
   :root{--lato:0px}
   .ham{display:block}
-  #lato{transform:translateX(-100%);transition:transform .26s cubic-bezier(.32,.72,0,1);width:270px;top:0;padding-top:calc(14px + var(--sat))}
+  /* il menu scorrevole parte SOTTO la barra in alto (come quello fisso): prima
+     partiva da 0 e la prima voce, «Home», restava nascosta dietro la barra */
+  #lato{transform:translateX(-100%);transition:transform .26s cubic-bezier(.32,.72,0,1);width:280px}
   body.menu #lato{transform:none;box-shadow:var(--om2)}
   body.menu #velo{display:block}
   #vista{margin-left:0;padding-left:15px;padding-right:15px}
@@ -440,39 +622,74 @@ body.proiettore #esc{display:none}
 .lez-carta .lez-mini{position:relative;aspect-ratio:3/4;overflow:hidden;background:var(--fondo2);
   border-radius:var(--r) var(--r) 0 0}
 .lez-carta .lez-mini img{width:100%;height:100%;object-fit:cover;display:block}
-.lez-bollo{position:absolute;top:8px;right:8px;background:rgba(0,0,0,.65);color:#fff;font-size:10px;
-  font-weight:700;padding:2px 7px;border-radius:20px;letter-spacing:.5px}
+/* senza questo, su iPhone/iPad la pressione lunga apre il menu di Safari
+   sull'immagine (Salva in Foto, Copia soggetto…) invece di «Condividi»: */
+.lez-cop,.lez-cop img,.lez-mini,.lez-mini img{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}
+/* rossa e bianca: sulle copertine chiare si leggeva male */
+.lez-bollo{position:absolute;top:8px;right:8px;background:var(--ross);color:#fff;font-size:10px;
+  font-weight:700;padding:2px 7px;border-radius:20px;letter-spacing:.5px;
+  border:1px solid rgba(255,255,255,.25);box-shadow:0 2px 6px rgba(0,0,0,.5)}
+.lez-oggi{position:absolute;top:8px;left:8px;background:var(--verde-c);color:#fff;font-size:10px;
+  font-weight:700;padding:2px 8px;border-radius:20px;letter-spacing:.5px;box-shadow:0 2px 8px rgba(31,164,99,.5)}
+/* il contorno verde sta DENTRO al riquadro, non fuori: la griglia taglia tutto quello che esce
+   dai suoi bordi, e su iPad il riquadro alto quanto la griglia perdeva il lato di sopra e di sotto */
+body.sab-fissa .lez-carta.oggi{border-color:var(--verde-c)}
+body.sab-fissa .lez-carta.oggi::after{content:"";position:absolute;inset:0;z-index:6;pointer-events:none;
+  border:3px solid var(--verde-c);border-radius:calc(var(--r) - 1px)}
+/* il riquadro per il trimestre senza ancora un lezionario: un invito a
+   trascinarne uno o toccarlo per aggiungerlo, non una scheda vuota e storta */
+.lez-vuota{display:flex;flex-direction:column;align-items:center;justify-content:center;
+  gap:4px;border:2px dashed var(--bordo2);background:var(--fondo2);cursor:pointer;
+  text-align:center;transition:border-color .15s,background .15s;padding:8px}
+.lez-vuota:hover{border-color:var(--ross-c);background:var(--sup2);transform:none}
+.lez-vuota .lv-piu{font-size:clamp(18px,3vh,26px);color:var(--tx3);opacity:.6}
+.lez-vuota b{font-size:clamp(11px,1.5vh,14px);color:var(--tx2)}
+.lez-vuota span{font-size:clamp(8.5px,1.1vh,10.5px);color:var(--tx3)}
 
 /* ---- lettore PDF ---- */
 #lettore{position:fixed;inset:0;z-index:850;background:#1a1c22;display:none}
 #lettore.on{display:block}
-#letEsc{position:fixed;top:calc(10px + var(--sat));right:12px;z-index:12;
-  background:rgba(0,0,0,.5);border:1px solid rgba(255,255,255,.25);color:rgba(255,255,255,.9);
-  border-radius:10px;padding:8px 15px;font:600 13px/1 -apple-system,Helvetica,Arial,sans-serif;
-  letter-spacing:1.5px;text-transform:uppercase;cursor:pointer;backdrop-filter:blur(8px);transition:opacity .25s}
-#letEsc:hover{background:rgba(200,16,46,.75);color:#fff}
-/* la barra degli strumenti, in piedi sul fianco sinistro */
-.let-sx{position:fixed;left:10px;top:50%;transform:translateY(-50%);z-index:11;
-  display:flex;flex-direction:column;gap:4px;padding:8px 6px;
-  background:rgba(30,32,40,.92);border:1px solid rgba(255,255,255,.14);border-radius:16px;
-  box-shadow:0 14px 40px rgba(0,0,0,.5);backdrop-filter:blur(10px);transition:opacity .25s,transform .25s}
-.lst{width:62px;min-height:54px;border:0;background:none;border-radius:12px;cursor:pointer;
-  font-size:19px;color:#d6dae6;display:flex;flex-direction:column;align-items:center;justify-content:center;
-  gap:3px;padding:6px 2px;transition:background .13s;-webkit-tap-highlight-color:transparent}
-.lst i{font-style:normal;font-size:9.5px;letter-spacing:.2px;color:rgba(255,255,255,.66);line-height:1}
+/* esc sta SOPRA la barra degli strumenti (che è sul fianco sinistro), non più
+   nell'angolo a destra. Sia lui che la barra prendono il colore della carta
+   scelta per la pagina (--carta, impostato da applicaCarta) e cambiano da
+   soli quando lo cambi: sono chiari come tutte le carte, quindi testo scuro */
+#letEsc{position:fixed;top:calc(8px + var(--sat));left:var(--let-x,28px);z-index:12;
+  background:var(--carta,#fff);border:1px solid rgba(0,0,0,.14);color:rgba(0,0,0,.75);
+  border-radius:8px;padding:5px 8px;font:600 10.5px/1 -apple-system,Helvetica,Arial,sans-serif;
+  letter-spacing:.8px;text-transform:uppercase;cursor:pointer;backdrop-filter:blur(8px);
+  box-shadow:0 8px 24px rgba(0,0,0,.35);transition:opacity .25s,background-color .2s}
+#letEsc:hover{background:var(--ross);color:#fff;border-color:transparent}
+/* la barra degli strumenti, in piedi sul fianco sinistro — più piccola di
+   prima (ha più pulsanti adesso) e con il tetto d'altezza tenuto più basso,
+   così anche da centrata non arriva mai a toccare esc, sopra di lei */
+.let-sx{position:fixed;left:var(--let-x,28px);top:50%;transform:translateY(-50%);z-index:11;
+  display:flex;flex-direction:column;gap:1px;padding:4px 3px;
+  background:var(--carta,#fff);border:1px solid rgba(0,0,0,.12);border-radius:12px;
+  box-shadow:0 14px 40px rgba(0,0,0,.35);backdrop-filter:blur(10px);
+  transition:opacity .25s,transform .25s,background-color .2s}
+.lst{width:42px;min-height:36px;border:0;background:none;border-radius:10px;cursor:pointer;
+  font-size:16px;color:#2a2a2a;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  gap:1px;padding:3px 1px;transition:background .13s;-webkit-tap-highlight-color:transparent}
+.lst svg{width:19px;height:19px}
+.lst i{font-style:normal;font-size:7px;letter-spacing:0;color:rgba(0,0,0,.6);line-height:1}
 .lst.on i{color:#fff}
 .lst.spento{opacity:.35}
-.let-sx{max-height:calc(100vh - 20px);overflow-y:auto;scrollbar-width:none}
+.let-sx{max-height:calc(100vh - 140px);overflow-y:auto;scrollbar-width:none}
 .let-sx::-webkit-scrollbar{display:none}
-.lst .pallino{width:22px;height:22px;border-radius:50%;border:2px solid rgba(255,255,255,.55);background:#e02b3c}
-.lst:hover{background:rgba(255,255,255,.10)}
+.lst .pallino{width:19px;height:19px;border-radius:50%;border:2px solid rgba(0,0,0,.3);background:#e02b3c}
+.lst:hover{background:rgba(0,0,0,.07)}
 .lst.on{background:var(--ross);color:#fff}
-.lst-sep{height:1px;background:rgba(255,255,255,.16);margin:5px 6px}
+.lst-sep{height:1px;background:rgba(0,0,0,.14);margin:3px 6px}
 
 .col-griglia{display:flex;flex-wrap:wrap;gap:9px}
 .col-g{width:40px;height:40px;border-radius:11px;border:2px solid rgba(255,255,255,.25);cursor:pointer;padding:0}
 .col-g.pic{width:24px;height:24px;border-radius:50%}
 .col-g.pic2{width:26px;height:26px;border-radius:8px}
+/* i colori degli appunti: righe da 10, tutte piene e larghe quanto la finestra */
+.col-griglia.dieci{display:grid;grid-template-columns:repeat(10,minmax(0,1fr));gap:8px}
+.col-griglia.dieci .col-g{width:100%;height:auto;min-height:24px;aspect-ratio:1/1}
+.col-griglia.dieci.piccoli{grid-template-columns:repeat(10,minmax(0,26px));justify-content:space-between;gap:9px 4px}
+.col-griglia.dieci.piccoli .col-g{min-height:0}
 .col-g:hover{border-color:#fff}
 .let-area{position:absolute;inset:0;overflow:auto;-webkit-overflow-scrolling:touch;touch-action:pan-x pan-y}
 .let-stack{display:flex;flex-direction:column;align-items:center;gap:2mm;
@@ -491,21 +708,26 @@ body.proiettore #esc{display:none}
   white-space:normal;cursor:move;touch-action:none;
   width:max-content;text-shadow:0 1px 0 rgba(255,255,255,.35)}
 .let-tx .tx-corpo{display:block;white-space:pre-wrap;overflow-wrap:break-word}
-.let-tx.presa{outline:1.5px dashed rgba(90,120,220,.9);outline-offset:2px;border-radius:3px}
+.let-tx.presa,.let-tx.selezionata{outline:1.5px dashed rgba(90,120,220,.9);outline-offset:2px;border-radius:3px}
 .tx-h{position:absolute;display:none;align-items:center;justify-content:center;
   background:var(--ross);color:#fff;border-radius:50%;cursor:grab;touch-action:none;
   box-shadow:0 2px 8px rgba(0,0,0,.5);font-size:11px}
-.let-tx:hover .tx-h,.let-tx.presa .tx-h{display:flex}
+.let-tx:hover .tx-h,.let-tx.presa .tx-h,.let-tx.selezionata .tx-h{display:flex}
 .tx-mano{width:20px;height:20px;left:-11px;top:-11px}
 .tx-largo{width:14px;height:14px;right:-8px;bottom:-8px;border-radius:4px;cursor:ew-resize;background:#1f6feb}
 .col-g.on{border-color:#fff;box-shadow:0 0 0 3px var(--ross)}
 .let-num{position:absolute;right:-2px;bottom:-24px;font-size:11px;color:rgba(255,255,255,.4)}
 .let-area.scorre .let-stack{gap:2mm}
+/* la pagina che si sta disegnando di nascosto, pronta a prendere il posto di quella che vedi */
+/* i Libri, a tutto schermo: la pagina arriva ai bordi, senza margini ai lati */
+#lettore.libro .let-stack{padding:calc(4px + var(--sat)) 0 calc(24px + var(--sab))}
+.let-stack.in-attesa{position:absolute;left:0;right:0;top:0;visibility:hidden;pointer-events:none}
+/* la «fotografia» della pagina che si ingrandisce mentre pizzichi */
+.let-lente{position:fixed;z-index:3;pointer-events:none;will-change:transform;background:#1a1d24}
 .let-carico{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);color:#aab;font-size:15px;z-index:5}
-.let-pie{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(12px + var(--sab));z-index:11;
-  display:flex;align-items:center;gap:8px;padding:8px 12px;
-  background:rgba(30,32,40,.92);border:1px solid rgba(255,255,255,.14);border-radius:16px;
-  box-shadow:0 14px 40px rgba(0,0,0,.5);backdrop-filter:blur(10px);transition:opacity .25s;max-width:94vw;flex-wrap:wrap;justify-content:center}
+/* la barra in basso (pagina, zoom) non serve: resta nel foglio solo perché
+   altro codice aggiorna ancora i suoi numeri, ma non si vede più */
+.let-pie{display:none}
 .let-pie input{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.16);border-radius:9px;
   padding:6px;width:66px;text-align:center;color:#fff;font-size:14px}
 .let-pie #letTot,.let-pie #letZoom{font-size:13px;color:#aab;min-width:42px;text-align:center}
@@ -519,11 +741,26 @@ body.proiettore #esc{display:none}
   background:#fdfaf2;font-family:var(--moderno);font-weight:600;line-height:1.35;outline:none;
   box-shadow:inset 0 2px 10px rgba(0,0,0,.12)}
 .tx-area:focus{border-color:var(--ross-c);box-shadow:inset 0 2px 10px rgba(0,0,0,.12),0 0 0 3px rgba(200,16,46,.18)}
-.nl-ant{display:flex;gap:14px;align-items:flex-start}
-.nl-cop{width:96px;height:128px;flex:0 0 auto;border-radius:10px;overflow:hidden;
-  background:var(--fondo2);border:1px solid var(--bordo);display:flex;align-items:center;
-  justify-content:center;font-size:30px;color:var(--tx3)}
+/* i numeri sotto alla barra della grandezza dell'appunto: ognuno sta sotto il
+   punto della barra che vale quel numero, e quello scelto si vede più forte */
+.dim-scala{position:relative;height:16px}
+.dim-scala span{position:absolute;top:0;transform:translateX(-50%);font-size:11px;line-height:16px;
+  color:var(--tx3);font-variant-numeric:tabular-nums}
+.dim-scala span.on{color:var(--tx);font-weight:700}
+@media(max-width:360px){ .dim-scala span:nth-child(even){display:none} }
+.nl-ant{display:flex;gap:16px;align-items:flex-start}
+/* più grande e cliccabile: si tocca per scegliere il PDF, o ci si trascina sopra */
+.nl-cop{width:156px;height:208px;flex:0 0 auto;border-radius:12px;overflow:hidden;cursor:pointer;
+  background:var(--fondo2);border:2px dashed var(--bordo2);display:flex;flex-direction:column;
+  align-items:center;justify-content:center;gap:6px;font-size:38px;color:var(--tx3);text-align:center;
+  transition:border-color .15s,background .15s}
+.nl-cop:hover{border-color:var(--ross-c);background:var(--sup2)}
+.nl-cop i{font-style:normal;font-size:11.5px;line-height:1.35;color:var(--tx3);padding:0 6px}
 .nl-cop img{width:100%;height:100%;object-fit:cover;display:block}
+.nl-cop:has(img){border-style:solid;cursor:pointer}
+/* mentre trascini un file dal desktop sopra la pagina della Scuola del Sabato */
+body.sab-trascina .sab-pagina{outline:3px dashed var(--ross-c);outline-offset:-3px;border-radius:18px}
+body.sab-trascina .nl-cop{border-color:var(--ross-c);background:rgba(200,16,46,.1)}
 .lez-cest{position:absolute;top:8px;right:8px;width:26px;height:26px;border:0;border-radius:8px;
   background:rgba(255,139,156,.12);color:#ff8b9c;cursor:pointer;font-size:13px;line-height:1;opacity:.75}
 .lez-cest:hover{opacity:1;background:rgba(255,139,156,.24)}
@@ -559,7 +796,7 @@ body.proiettore #esc{display:none}
 .lez-gg button{border:1px solid var(--bordo);background:var(--sup2);color:var(--tx2);border-radius:8px;
   padding:4px 9px;font-size:11.5px;cursor:pointer}
 .lez-gg button:hover{border-color:var(--ross-c);color:var(--tx)}
-@media(max-width:760px){ .let-sx{left:5px;padding:6px 4px} .lst{width:56px;min-height:50px;font-size:17px} }
+@media(max-width:760px){ .let-sx{padding:4px 3px} .lst{width:42px;min-height:40px;font-size:16px} }
 @media(max-width:760px){
   .let-tit{display:none}
   .let-barra{gap:6px;padding-left:8px;padding-right:8px}
@@ -711,8 +948,47 @@ body.home-fissa #vista>.sez{height:100%;animation:none}
 .fp-crif{display:block;font-style:normal;font-size:.78em;color:#8a6a20;margin-top:.35em}
 .fp-ol{padding-left:1.4em;margin:0 0 1.05em}
 .fp-ol li{margin-bottom:.55em}
-.cp-tit{font-family:var(--serif);font-size:clamp(21px,2.2vw,30px);color:#fff;line-height:1.15;
-  text-shadow:0 2px 14px rgba(0,0,0,.85);font-weight:600;text-wrap:balance}
+/* le tre schede (prediche/esperienze/poesie) usano tutte questa stessa carta
+   stretta: una sola riga di titolo sopra la copertina, il resto (bollo/
+   persona/autore, testo biblico, pulsanti) su una riga sola sotto — niente
+   più copertina grande + due righe di testo di prima */
+.scheda-min{background:var(--sup);border:1px solid var(--bordo);border-radius:var(--r2);
+  overflow:hidden;cursor:pointer;transition:border-color .13s}
+.scheda-min:hover{border-color:var(--bordo2)}
+.scheda-min,.scheda-min *{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}
+/* stessa altezza per le tre sezioni (prima esperienze/poesie erano più
+   basse con .xs) e un filo più alta di prima */
+.cm-cop{position:relative;height:64px}
+.cm-tit{position:absolute;left:10px;right:36px;bottom:6px;font-family:var(--serif);
+  font-size:14.5px;font-weight:600;color:#fff;text-shadow:0 1px 8px rgba(0,0,0,.85);
+  line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cm-tit.grande{font-size:18.5px}
+/* colore della COPERTINA (non del titolo, che resta bianco): una tinta per
+   sezione (prediche blu, esperienze viola, poesie calda, la stessa
+   famiglia della vecchia sfondoHtml notte/alba) e chiara/scura per
+   lingua — chiara=italiano, scura=romeno, stessa regola nelle tre sezioni
+   così è intuitiva da imparare a colpo d'occhio. Sostituisce la foto/cielo
+   di sfondoHtml() su questa carta piccola: una foto che cambia da riquadro
+   a riquadro non può anche portare un codice colore leggibile */
+.cm-cop.pr-it{background:linear-gradient(135deg,#4a90d9,#2f6bb0)}
+.cm-cop.pr-ro{background:linear-gradient(135deg,#1c3766,#0f2040)}
+.cm-cop.es-it{background:linear-gradient(135deg,#a879d6,#8250b8)}
+.cm-cop.es-ro{background:linear-gradient(135deg,#4a2c73,#2c1a47)}
+.cm-cop.po-it{background:linear-gradient(135deg,#e8a94f,#cf7f2e)}
+.cm-cop.po-ro{background:linear-gradient(135deg,#9c3550,#6e2036)}
+.cm-tag{position:absolute;top:5px;right:7px;font-size:9.5px;padding:1px 6px;line-height:1.5}
+/* il bollo «dove l'ho raccontata/detta/predicato», di nuovo sulla carta
+   (nell'angolo opposto alla lingua) come prima della carta stretta */
+.cm-loc{position:absolute;top:5px;left:7px;font-size:9.5px;padding:2px 7px;line-height:1.5;
+  background:rgba(0,0,0,.45);color:#fff;border:1px solid rgba(255,255,255,.3);border-radius:20px;
+  cursor:pointer;display:flex;align-items:center;gap:2px}
+.cm-info{display:flex;align-items:center;justify-content:space-between;gap:8px;
+  padding:6px 8px;cursor:default}
+.cm-meta{font-size:11px;color:var(--tx3);white-space:nowrap;overflow:hidden;
+  text-overflow:ellipsis;flex:1;min-width:0}
+.cm-meta .esp-bollo{padding:1px 7px;font-size:10px}
+.cm-az{display:flex;gap:5px;flex:0 0 auto}
+.cm-az .bt{padding:5px 9px;font-size:12.5px;border-radius:7px}
 
 /* barre di controllo, compatte */
 .pr-top{position:sticky;top:calc(var(--barra) + var(--sat));z-index:45;
@@ -725,22 +1001,33 @@ body.home-fissa #vista>.sez{height:100%;animation:none}
 .barra.via{display:none}
 .bs{display:flex;align-items:center;gap:3px;padding-right:7px;border-right:1px solid var(--bordo)}
 .bs:last-of-type{border-right:0}
-.bx{min-width:27px;height:26px;border:1px solid transparent;background:transparent;border-radius:7px;
-  cursor:pointer;color:var(--tx2);font-size:12.5px;padding:0 6px;display:inline-flex;
+.bx{min-width:31px;height:30px;border:1px solid transparent;background:transparent;border-radius:8px;
+  cursor:pointer;color:var(--tx2);font-size:14px;padding:0 7px;display:inline-flex;
   align-items:center;justify-content:center;gap:4px;white-space:nowrap}
 .bx:hover{background:var(--fondo2);color:var(--tx);border-color:var(--bordo)}
 .bx.on{background:var(--ross);color:#fff;border-color:transparent}
-.bx .pt{width:13px;height:13px;border-radius:4px;border:1px solid rgba(255,255,255,.35);display:inline-block}
-.bx.col-bt{font-size:11.5px}
-.bnum{font-size:12px;color:var(--tx2);min-width:20px;text-align:center;font-variant-numeric:tabular-nums}
-.bsel{background:var(--fondo2);border:1px solid var(--bordo);border-radius:7px;
-  padding:3px 6px;font-size:12px;max-width:120px;height:26px}
+.bx .pt{width:15px;height:15px;border-radius:4px;border:1px solid rgba(255,255,255,.35);display:inline-block}
+.bx.col-bt{font-size:13px}
+.bnum{font-size:13px;color:var(--tx2);min-width:22px;text-align:center;font-variant-numeric:tabular-nums}
+/* le caselle A−[..]A+ ora si possono scrivere a mano: stesso aspetto di
+   prima (era solo testo), niente frecce su/giù del numero */
+input.bnum{border:none;background:transparent;padding:0;outline:none;
+  font-family:inherit;width:2.6em;-moz-appearance:textfield}
+input.bnum::-webkit-inner-spin-button,input.bnum::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}
+input.bnum:focus{background:var(--fondo2);border-radius:4px}
+.bsel{background:var(--fondo2);border:1px solid var(--bordo);border-radius:8px;
+  padding:4px 7px;font-size:13px;max-width:120px;height:30px}
 .bsel.pic{max-width:62px}
 .bpin{display:flex;gap:2px;padding-left:7px;border-left:1px solid var(--bordo)}
 .bx.pin{opacity:.45;font-size:11px}
 .bx.pin.on{opacity:1;background:rgba(200,16,46,.22);color:#ff9aa8}
 .barre-via{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
 .foglio-panna.in-modifica{outline:2px dashed var(--ross-c);outline-offset:8px;cursor:text}
+/* segni di paragrafo (¶), come in Word — solo per vedere dove finisce ogni riga */
+.foglio-panna.mostra-segni p::after,.foglio-panna.mostra-segni h1::after,
+.foglio-panna.mostra-segni h2::after,.foglio-panna.mostra-segni h3::after,
+.foglio-panna.mostra-segni li::after,.foglio-panna.mostra-segni blockquote::after{
+  content:' ¶';opacity:.32;font-weight:400}
 .foglio-panna.in-modifica:focus{outline-color:var(--verde-c)}
 
 /* pannello dei colori */
@@ -988,48 +1275,77 @@ body.sab-fissa #vista>.sez{height:100%;animation:none}
 .sab-testa h1{font-size:clamp(19px,3.1vh,30px);line-height:1.1}
 .sab-testa .occhiello{margin-bottom:1px}
 .sab-testa .sotto{margin:0;font-size:clamp(11.5px,1.6vh,14px);flex:1 1 300px;max-width:64ch}
-body.sab-fissa .lez-hero{margin-top:0;padding:clamp(9px,1.4vh,20px);gap:clamp(10px,1.8vw,26px);
+.sab-cerca{flex:1 1 200px;max-width:280px;align-self:center}
+body.sab-fissa .sab-cerca input{padding:clamp(6px,.9vh,9px) 12px clamp(6px,.9vh,9px) 34px;
+  font-size:clamp(11.5px,1.6vh,14px)}
+body.sab-fissa .lez-hero{margin-top:0;padding:clamp(7px,1vh,14px);gap:clamp(9px,1.6vw,20px);
   flex:0 0 auto;min-height:0}
-body.sab-fissa .lez-cop{flex:0 0 clamp(78px,13vh,200px);align-self:flex-start}
+/* la copertina resta sempre verticale: larghezza fissa, l'altezza segue da
+   sola la sua proporzione vera (l'altro modo, con aspect-ratio + stretch,
+   veniva tagliata storta) */
+body.sab-fissa .lez-cop{flex:0 0 clamp(110px,15vh,200px);align-self:flex-start}
 .lez-tit{margin:2px 0 3px;font-size:clamp(16px,2.5vh,30px);line-height:1.15;
   display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-body.sab-fissa .lez-anno{font-size:clamp(21px,3.6vh,44px);margin:2px 0 clamp(5px,1.1vh,14px)}
-body.sab-fissa .lez-tri{grid-template-columns:repeat(4,1fr);gap:clamp(5px,.8vw,9px)}
-body.sab-fissa .lez-tri .tri{padding:clamp(5px,.85vh,9px) clamp(6px,.7vw,11px);border-radius:9px}
-body.sab-fissa .lez-tri .tri b{font-size:clamp(11px,1.6vh,14px)}
-body.sab-fissa .lez-tri .tri span{font-size:clamp(8.5px,1.2vh,10.5px)}
-body.sab-fissa .tri-lg{margin-top:clamp(3px,.6vh,7px);gap:5px}
-body.sab-fissa .tri-lg button{padding:2px 8px;font-size:clamp(14px,2.2vh,20px)}
-body.sab-fissa .lez-sabato{margin-top:clamp(6px,1.2vh,14px);padding:clamp(7px,1.2vh,12px) 14px;border-radius:11px}
-body.sab-fissa .lez-sabato b{font-size:clamp(12.5px,1.9vh,16px);margin:2px 0 1px}
-body.sab-fissa .lez-sabato span{font-size:clamp(8.5px,1.2vh,10.5px);letter-spacing:1.5px}
-body.sab-fissa .lez-sabato i{font-size:clamp(10.5px,1.5vh,12.5px)}
-.lez-bt{margin-top:clamp(7px,1.3vh,16px);gap:7px}
-body.sab-fissa .lez-bt .bt{padding:clamp(6px,1.1vh,11px) clamp(9px,1.1vw,15px);font-size:clamp(11.5px,1.6vh,14px)}
-.lez-pie{margin-top:clamp(5px,1vh,12px);font-size:clamp(10.5px,1.5vh,12.5px);color:var(--tx3)}
+body.sab-fissa .lez-anno{font-size:clamp(17px,2.4vh,30px);margin:1px 0 clamp(4px,.8vh,10px)}
+body.sab-fissa .lez-tri{grid-template-columns:repeat(4,1fr);gap:clamp(4px,.7vw,8px)}
+body.sab-fissa .lez-tri .tri{padding:clamp(3px,.5vh,7px) clamp(5px,.6vw,9px);border-radius:8px}
+body.sab-fissa .lez-tri .tri b{font-size:clamp(10px,1.35vh,13px)}
+body.sab-fissa .lez-tri .tri span{font-size:clamp(8px,1.05vh,10px)}
+body.sab-fissa .tri-lg{margin-top:clamp(2px,.4vh,5px);gap:4px}
+body.sab-fissa .tri-lg button{padding:1px 7px;font-size:clamp(13px,1.9vh,17px)}
+body.sab-fissa .lez-sabato{margin-top:clamp(4px,.8vh,10px);padding:clamp(5px,.9vh,9px) 12px;border-radius:10px}
+body.sab-fissa .lez-sabato b{font-size:clamp(11.5px,1.6vh,14px);margin:1px 0}
+body.sab-fissa .lez-sabato span{font-size:clamp(8px,1.05vh,10px);letter-spacing:1.3px}
+body.sab-fissa .lez-sabato i{font-size:clamp(10px,1.3vh,11.5px)}
+/* i pulsanti riempiono tutta la riga, invece di stare stretti a sinistra */
+.lez-bt{margin-top:clamp(5px,.9vh,12px);gap:8px;flex-wrap:nowrap}
+.lez-bt .bt{flex:1 1 0;white-space:nowrap;text-align:center;justify-content:center}
+body.sab-fissa .lez-bt .bt{padding:clamp(9px,1.5vh,15px) clamp(8px,1vw,13px);font-size:clamp(13px,1.9vh,16px)}
+.lez-pie{margin-top:clamp(3px,.7vh,9px);font-size:clamp(10px,1.35vh,11.5px);color:var(--tx3)}
 .sab-filtri{margin-top:0;flex:0 0 auto;padding:clamp(6px,.9vh,10px) clamp(9px,1.2vw,14px);
   align-items:flex-end;gap:9px}
 body.sab-fissa .sab-filtri .cerca input{max-width:none}
 body.sab-fissa .sab-filtri .campo{margin:0}
 body.sab-fissa .sab-filtri label{font-size:clamp(9px,1.2vh,11px);margin-bottom:2px}
-body.sab-fissa .sab-filtri .segm button,body.sab-fissa .sab-filtri input{
+body.sab-fissa .sab-filtri .segm button,body.sab-fissa .sab-filtri input,
+body.sab-fissa .sab-filtri select{
   padding:clamp(5px,.9vh,9px) clamp(8px,1vw,13px);font-size:clamp(11.5px,1.6vh,14px)}
+body.sab-fissa .sab-filtri select{padding-right:30px}
 .sab-elenco{flex:1 1 auto;min-height:0;display:flex;flex-direction:column;gap:clamp(4px,.8vh,10px)}
-.sab-elenco h2{font-size:clamp(14px,2.1vh,20px);flex:0 0 auto}
-/* le copertine si distribuiscono su tutta la larghezza, senza buchi a destra */
-.sab-griglia{flex:1 1 auto;min-height:0;overflow:auto;align-content:stretch;
-  grid-template-columns:repeat(auto-fit,minmax(clamp(96px,10vw,170px),1fr));
-  grid-auto-rows:minmax(96px,1fr);gap:clamp(7px,.9vw,14px)}
-/* la scheda riempie la striscia rimasta: la copertina si adatta,
-   il titolo resta sempre in vista */
-body.sab-fissa .lez-carta{display:flex;flex-direction:column;height:100%;min-height:0;overflow:hidden}
-body.sab-fissa .lez-carta .lez-mini{aspect-ratio:auto;flex:1 1 auto;min-height:0}
-body.sab-fissa .lez-carta>div:last-child{flex:0 0 auto}
-.lez-nome{display:block;font-size:13px;line-height:1.3;padding-right:26px}
+.sab-elenco h2{font-size:clamp(14px,2.1vh,20px);flex:0 0 auto;display:flex;align-items:center;gap:10px}
+/* sempre esattamente 4 riquadri, uno per trimestre — un anno e una lingua alla
+   volta, mai più di quattro, così stanno bene distribuiti e non si allungano
+   quando ce n'è solo uno o due: quelli vuoti diventano un invito ad aggiungere */
+body.sab-fissa .sab-griglia{flex:1 1 auto;min-height:0;overflow:hidden;align-content:stretch;
+  grid-template-columns:repeat(4,1fr);grid-auto-rows:1fr;gap:clamp(8px,1.1vw,16px)}
+/* La carta È la copertina: stessa proporzione di un lezionario vero (3:4),
+   alta quanto la riga, larga quel che ne consegue e centrata nella colonna.
+   Così l'immagine la riempie tutta senza tagliare niente e senza bordi
+   vuoti — e il titolo sta su una striscia sopra all'immagine, in basso. */
+body.sab-fissa .lez-carta{display:flex;flex-direction:column;width:100%;height:auto;
+  aspect-ratio:3/4;max-height:100%;align-self:center;min-height:0;overflow:hidden}
+body.sab-fissa .lez-carta .lez-mini{aspect-ratio:auto;flex:1 1 auto;width:100%;min-height:0;
+  border-radius:var(--r)}
+body.sab-fissa .lez-carta .lez-mini img{object-fit:cover}
+/* senza copertina (capita più spesso in rumeno): il 📘 riempie lo stesso
+   spazio della copertina vera, così i 4 riquadri restano tutti uguali */
+body.sab-fissa .lez-carta .lez-mini .lez-noco{aspect-ratio:auto;width:100%;height:100%}
+.lez-nome{display:block;font-size:13px;line-height:1.3}
+/* la striscia del titolo sta SOPRA l'immagine, in basso: una sfumatura scura
+   sotto le lettere bianche, così si leggono su qualunque copertina */
+.lez-piede{position:absolute;left:0;right:0;bottom:0;z-index:2;
+  display:flex;align-items:flex-end;gap:6px;padding:16px 9px 7px;
+  background:linear-gradient(180deg,rgba(0,0,0,0),rgba(0,0,0,.62) 42%,rgba(0,0,0,.9))}
+.lez-piede .lez-pt{flex:1 1 auto;min-width:0}
+.lez-piede .lez-nome{color:#fff;text-shadow:0 1px 3px rgba(0,0,0,.9)}
+.lez-piede .lez-pt>span{display:block;font-size:11px;color:rgba(255,255,255,.82);
+  text-shadow:0 1px 3px rgba(0,0,0,.9)}
+.lez-piede .lez-cest{position:static;flex:0 0 auto;background:rgba(255,255,255,.16);color:#fff;opacity:.9}
+.lez-piede .lez-cest:hover{background:rgba(255,139,156,.55)}
 body.sab-fissa .lez-nome{font-size:clamp(10px,1.35vh,13px);
   display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-body.sab-fissa .lez-carta>div:last-child{padding:5px 8px 6px}
-body.sab-fissa .lez-carta>div:last-child span{font-size:clamp(9px,1.2vh,11.5px)}
+body.sab-fissa .lez-piede{padding:clamp(12px,2vh,20px) clamp(7px,.8vw,10px) clamp(5px,.9vh,9px)}
+body.sab-fissa .lez-piede .lez-pt>span{font-size:clamp(8.5px,1.05vh,10.5px)}
 body.sab-fissa .sab-filtri .bt{white-space:nowrap}
 @media(max-width:760px){
   body.sab-fissa{overflow:auto}
@@ -1037,7 +1353,8 @@ body.sab-fissa .sab-filtri .bt{white-space:nowrap}
     padding:calc(var(--barra) + var(--sat) + 20px) 16px calc(48px + var(--sab))}
   body.sab-fissa #vista>.sez{height:auto}
   .sab-pagina{height:auto}
-  .sab-griglia{overflow:visible}
+  body.sab-fissa .sab-griglia{overflow:visible;grid-auto-rows:minmax(96px,1fr);
+    grid-template-columns:repeat(2,1fr)}
 }
 
 /* ---- scegliere in blocco cosa proiettare ---- */
@@ -1057,16 +1374,16 @@ body.sab-fissa .sab-filtri .bt{white-space:nowrap}
              0 30px 84px -20px color-mix(in srgb,var(--luce2,#d4653c) 52%,transparent),
              0 14px 38px rgba(0,0,0,.55)}
 
-/* ---- il marchio sulla home: il logo pulito, azzurro, senza rosso attorno ---- */
+/* ---- il marchio sulla home: la B rossa, ritagliata, senza sfondo attorno ---- */
 .hm-marca{display:flex;align-items:center;gap:clamp(12px,1.6vw,22px);flex:0 0 auto}
-.hm-marca img{width:clamp(58px,9.5vh,116px);height:auto;display:block;
-  filter:drop-shadow(0 6px 20px rgba(105,145,209,.42))}
+.hm-marca img{height:clamp(64px,10.5vh,130px);width:auto;display:block;
+  filter:drop-shadow(0 6px 20px rgba(230,32,63,.35))}
 .hm-marca-tx{min-width:0}
 .hm-marca-tx b{display:block;font-family:var(--serif);font-size:clamp(20px,3.2vh,34px);
   line-height:1.08;color:var(--tx);letter-spacing:-.3px}
 .hm-marca-tx span{display:block;margin-top:4px;font-size:clamp(9.5px,1.4vh,12px);
   letter-spacing:.22em;text-transform:uppercase;color:#7fa3e0;font-weight:700}
-@media(max-width:900px){ .hm-marca img{width:64px} }
+@media(max-width:900px){ .hm-marca img{height:74px} }
 
 /* ---- quante ce ne sono in italiano e quante in rumeno ---- */
 .conta-lg{display:inline-flex;align-items:center;flex-wrap:wrap;gap:6px 12px;margin-top:10px;
@@ -1089,6 +1406,35 @@ body.pred-fissa #vista>.sez{height:100%;animation:none}
 .pr-barra .bs{display:flex;align-items:center;gap:3px;padding:0 7px;
   border-left:1px solid var(--bordo);border-right:1px solid var(--bordo)}
 .pr-barra .bs:first-of-type{border-left:0}
+/* in lettura (non mentre scrivi) il foglio è a tutto schermo, in verticale e in
+   orizzontale: niente barra in alto, niente menu a sinistra, niente margini */
+body.pred-fissa.pred-legge #barra,body.pred-fissa.pred-legge #lato,body.pred-fissa.pred-legge #velo{display:none!important}
+body.pred-fissa.pred-legge #vista{margin-left:0;padding:var(--sat) 0 0}
+body.pred-fissa.pred-legge .pr-zona{padding:0;background:var(--fp-pag,#fdf6e3)}
+body.pred-fissa.pred-legge .foglio-pieno{max-width:none;width:100%;min-height:100%;margin:0;box-shadow:none;border-radius:0}
+/* la penna sul foglio (5b_penna.js): i segni stanno in un livello sopra al foglio */
+.pr-zona{position:relative}
+#foglioPr{position:relative}
+.pn-svg{position:absolute;z-index:4;pointer-events:none;overflow:visible;mix-blend-mode:multiply}
+.pn-svg.attiva{pointer-events:auto;touch-action:pan-y;cursor:crosshair}
+.pn-svg path{fill:none;stroke-linecap:round;stroke-linejoin:round}
+.pn-svg .pn-evid{opacity:.45}
+#pnBt.on{background:rgba(200,16,46,.28);border-color:var(--ross);color:#fff}
+.pn-barra{position:fixed;left:calc(8px + env(safe-area-inset-left,0px));top:50%;transform:translateY(-50%);z-index:30;
+  display:flex;flex-direction:column;align-items:center;gap:3px;padding:8px 5px;background:rgba(20,23,34,.94);
+  border:1px solid var(--bordo2);border-radius:16px;box-shadow:var(--om2);max-height:calc(100dvh - 20px);overflow-y:auto}
+.pn-b{display:flex;flex-direction:column;align-items:center;gap:1px;border:0;background:none;color:#fff;font-size:20px;
+  padding:6px 4px;border-radius:10px;cursor:pointer;min-width:60px;line-height:1.1}
+.pn-b i{font-style:normal;font-size:10.5px;color:#aab3c8}
+.pn-b.on{background:rgba(200,16,46,.32)}
+.pn-col{display:grid;grid-template-columns:repeat(2,22px);gap:6px;justify-content:center;padding:5px 0}
+.pn-c{width:22px;height:22px;border-radius:50%;border:2px solid rgba(255,255,255,.25);cursor:pointer;padding:0}
+.pn-c.on{border-color:#fff;box-shadow:0 0 0 2px var(--ross)}
+.pn-fine{color:#7ee2a8}
+/* un tocco sulla pagina in anteprima nasconde questa barra: resta solo il foglio */
+.pr-pagina.barra-via .pr-barra{display:none}
+/* i pulsanti di questa barra, leggermente più grandi che nel resto del programma */
+.pr-barra .bt.mini{padding:9px 14px;font-size:14.5px}
 .pr-lg .bx{font-size:17px;padding:3px 8px}
 .pr-lg .bx.on{background:rgba(200,16,46,.22);border-color:var(--ross)}
 .pl-n{display:inline-block;min-width:17px;padding:0 4px;border-radius:9px;margin-left:3px;
@@ -1105,6 +1451,9 @@ body.pred-fissa #vista>.sez{height:100%;animation:none}
 .fp-img.mezza{max-width:55%}
 .fp-img.grande{max-width:80%}
 .fp-img.piena{max-width:100%}
+/* le pagine di un PDF importato: intere, a tutta larghezza, una sotto l'altra */
+.fp-fig.fp-pdfpag{margin:0 0 14px}
+.fp-img.fp-pdfpag{display:block;width:100%;max-width:100%;height:auto;border-radius:0;box-shadow:0 2px 10px rgba(0,0,0,.18);cursor:default}
 @media(max-width:760px){
   .pr-barra{padding:6px 8px;gap:4px}
   .pr-barra .bs{padding:0 4px}
@@ -1120,8 +1469,8 @@ body.pred-fissa #vista>.sez{height:100%;animation:none}
 .base-mu:hover{background:rgba(255,209,102,.26)!important}
 
 /* ---- a che punto sei del giro: quelle già presentate non tornano ---- */
-.conta-viste{display:flex;align-items:center;flex-wrap:wrap;gap:8px 14px;margin-top:9px;
-  padding:8px 14px;border-radius:12px;font-size:13px;color:var(--tx2);
+.conta-viste{display:flex;align-items:center;flex-wrap:wrap;gap:8px 14px;
+  padding:16px 18px;border-radius:var(--r);font-size:13px;color:var(--tx2);
   border:1px solid var(--verde-c);background:linear-gradient(120deg,rgba(31,164,99,.14),rgba(31,164,99,.05))}
 .cv-tit{font-weight:700;color:var(--verde-c);letter-spacing:.2px}
 .cv-n{font-variant-numeric:tabular-nums}
@@ -1129,12 +1478,19 @@ body.pred-fissa #vista>.sez{height:100%;animation:none}
 .cv-n.b b{color:var(--tx2)}
 .conta-viste .bt{margin-left:auto}
 
+/* ---- voci tolte dall'elenco: rimetti + elimina per sempre, sempre in coppia ---- */
+.via-coppia{display:inline-flex;gap:3px}
+
 /* ---- i filtri delle domande: due righe e basta, ricerca compresa ---- */
 .filtri2{display:flex;flex-direction:column;gap:10px;overflow:hidden}
-.filtri2 .fila-f{display:flex;align-items:flex-end;gap:9px;flex-wrap:nowrap;min-width:0;width:100%}
-.filtri2 .campo{min-width:0;flex:0 1 auto}
-.filtri2 .campo.stretto{flex:0 1 auto}
-.filtri2 .campo.largo{flex:1 1 0;min-width:70px}
+/* Esperienze: i due gruppi di pulsanti tengono SEMPRE la loro larghezza intera
+   (prima si stringevano e restavano tagliati: «Raccon…», la bandiera, «Tit…»).
+   Se la riga non basta, la ricerca e i pulsanti vanno a capo. */
+.filtri2 .fila-f{display:flex;align-items:flex-end;gap:10px 9px;flex-wrap:wrap;min-width:0;width:100%}
+.filtri2 .campo{min-width:0;flex:0 0 auto;max-width:100%}
+.filtri2 .campo.stretto{flex:0 0 auto}
+.filtri2 .campo.largo{flex:1 1 220px;min-width:200px}
+.filtri2 .fila-f>.bt{flex:0 0 auto}
 /* la difficoltà ha più pulsanti: le do più spazio che alla ricerca */
 .filtri2 .campo.largo.piu{flex:2.2 1 0}
 .filtri2 .campo>.segm,.filtri2 .campo>.cerca,.filtri2 .campo>select{min-width:0;max-width:100%}
@@ -1153,6 +1509,13 @@ body.pred-fissa #vista>.sez{height:100%;animation:none}
 @media(max-width:760px){
   .filtri2 .fila-f{flex-wrap:wrap}
 }
+/* telefono: ogni gruppo prende tutta la riga e i suoi pulsanti si dividono lo spazio */
+@media(max-width:520px){
+  .filtri2 .campo.stretto,.filtri2 .campo.largo{flex:1 1 100%}
+  .filtri2 .campo>.segm{display:flex;width:100%}
+  .filtri2 .segm button{flex:1 1 auto;padding:8px 6px}
+}
+@media(max-width:360px){ .filtri2 .segm button{font-size:12px;padding:8px 4px} }
 
 /* ---- il numero della predica sulla scheda ---- */
 .cp-num{position:absolute;top:11px;left:12px;z-index:2;min-width:26px;height:26px;
@@ -1190,3 +1553,1147 @@ body.pred-fissa #vista>.sez{height:100%;animation:none}
 .fp-nota{margin:0 0 1.6em;padding:.6em .9em;border-radius:8px;font-size:.72em;line-height:1.5;
   background:rgba(0,0,0,.045);border-left:3px solid rgba(0,0,0,.16);color:#5d564a}
 .pr-barra .esp-bollo{margin-left:2px}
+
+/* ================= GIOCHI BIBLICI ================= */
+.hm-gr.g4{grid-template-columns:repeat(4,1fr)}
+@media(max-width:1100px){ .hm-gr.g4{grid-template-columns:repeat(2,1fr)} }
+.gio-hub{display:grid}
+.gio-hub .tz{min-height:150px}
+.gio-pagina{display:flex;flex-direction:column;gap:18px}
+
+/* ---- cruciverba ----
+   La pagina scorre per intero (niente schermata fissa): le tre barre di scelta salgono
+   e escono, e la griglia — che si adatta allo schermo, vedi cvAdatta() — sta su tutto
+   lo schermo. --cv-c è la misura della cella. */
+.cv-pagina{gap:12px}
+.cv-barre{display:flex;flex-direction:column;gap:8px}
+.cv-bar{display:flex;flex-wrap:wrap;align-items:center;gap:8px 16px;padding:8px 12px;background:var(--sup);
+  border:1px solid var(--bordo);border-radius:var(--r2)}
+.cv-gr{display:flex;align-items:center;flex-wrap:wrap;gap:6px}
+.cv-gr-et{font-size:16px;line-height:1;white-space:nowrap;margin-right:2px}
+/* la barra dei giocatori: il pulsante e i giocatori scorrono insieme sulla stessa riga
+   (a capo solo se non ci stanno), senza il titolo — come nelle pagine fisse degli altri giochi */
+.cv-barre .gg-tit{display:none}
+.cv-barre .gg-sx,.cv-barre .gg-lista{display:contents}
+/* (la barra dei giocatori stretta è per tutti i giochi, vedi «GIOCATORI, LIVELLI…» più sotto) */
+.cv-bar .op{border:1px solid var(--bordo2);background:var(--fondo2);color:var(--tx2);padding:7px 11px;
+  border-radius:10px;font-size:13px;font-weight:600;cursor:pointer;font-family:inherit;white-space:nowrap;
+  transition:background .15s,border-color .15s,color .15s,transform .15s,box-shadow .2s}
+.cv-bar .op:hover{border-color:var(--ac,var(--ross-c));color:var(--tx)}
+.cv-bar .op:active{transform:scale(.96)}
+.cv-bar .op.on{background:var(--ac,var(--ross));border-color:var(--ac,var(--ross));color:#0b0d13;font-weight:700;
+  box-shadow:0 5px 14px -5px var(--ac,var(--ross))}
+.cv-bar .op.nuovo,.scelta .op.nuovo{background:var(--ac,var(--ross));border-color:var(--ac,var(--ross));color:#0b0d13;font-weight:700;
+  box-shadow:0 5px 14px -5px var(--ac,var(--ross))}
+.cv-bar .op.nuovo:hover,.scelta .op.nuovo:hover{color:#0b0d13;filter:brightness(1.08)}
+.cv-bar select{margin:0;padding:6px 10px;font-size:13px;width:auto;min-width:170px;max-width:230px}
+.cv-corpo{display:flex;flex-direction:column;gap:14px}
+.cv-wrap{overflow:auto;padding:4px}
+.cv-grid{display:grid;gap:3px;background:var(--fondo2);padding:6px;border-radius:10px;width:max-content;margin:0 auto}
+.cv-cella{position:relative;width:var(--cv-c,34px);height:var(--cv-c,34px)}
+.cv-cella input{width:100%;height:100%;text-align:center;text-transform:uppercase;font-weight:700;
+  font-size:calc(var(--cv-c,34px)*.5);padding:0;border-radius:5px;border:1px solid var(--bordo2);
+  background:var(--sup);color:var(--tx)}
+/* la lettera si accende appena la scrivi: verde se è giusta, rossa se è sbagliata */
+.cv-cella input{position:relative;z-index:1;transition:background .12s,border-color .12s,box-shadow .12s}
+.cv-cella input.giusta{background:rgba(31,164,99,.62);border-color:#5fd48f;color:#fff;
+  box-shadow:0 0 0 1px #5fd48f,0 0 12px rgba(95,212,143,.5)}
+.cv-cella input.sbagliata{background:rgba(214,32,60,.58);border-color:#ff6b81;color:#fff;
+  box-shadow:0 0 0 1px #ff6b81,0 0 12px rgba(255,107,129,.5)}
+/* la parola in cui sto scrivendo: una cornice gialla attorno alle sue caselle */
+.cv-cella.in-parola::before{content:"";position:absolute;inset:-2px;border-radius:7px;background:#ffcd56;z-index:0}
+.cv-num{position:absolute;top:1px;left:2px;font-size:max(8.5px,calc(var(--cv-c,34px)*.27));color:var(--tx3);
+  font-weight:700;pointer-events:none;z-index:2;line-height:1}
+/* le domande (orizzontali e verticali): più grandi di prima */
+.cv-indizi{display:grid;grid-template-columns:1fr 1fr;gap:20px 28px}
+@media(max-width:640px){ .cv-indizi{grid-template-columns:1fr} }
+.cv-indizi h2{font-size:19px;margin-bottom:10px}
+.cv-clue{font-size:16.5px;color:var(--tx2);margin-bottom:10px;line-height:1.45}
+.cv-clue b{color:var(--tx);font-family:var(--serif)}
+/* una parola tutta giusta è verde; tutta scritta ma con degli errori, rossa */
+.cv-clue.giusta,.cv-clue.giusta b{color:#5fd48f}
+.cv-clue.sbagliata,.cv-clue.sbagliata b{color:#ff8b9c}
+
+/* il pulsante «Proietta» sta nella barra in alto, solo dentro al Cruciverba: così
+   resta sempre a portata scorrendo la pagina fino alle domande */
+.bt-proietta{display:none;flex:0 0 auto;align-items:center;border:1px solid var(--bordo2);background:var(--sup2);
+  color:var(--tx);border-radius:999px;padding:8px 18px;font-size:14.5px;font-weight:700;cursor:pointer;
+  font-family:inherit;transition:background .15s,border-color .15s,color .15s,transform .1s}
+.bt-proietta:hover{border-color:#ff6b81}
+.bt-proietta:active{transform:scale(.96)}
+body.cv-attivo .bt-proietta,body.gio-fissa .bt-proietta{display:inline-flex}
+body.cv-proietta .bt-proietta{background:#ff6b81;border-color:#ff6b81;color:#0b0d13}
+/* proiettando, dello schermo resta solo il cruciverba (la griglia e le sue domande) e,
+   piccolo in alto a destra, il pulsante per smettere */
+body.cv-proietta #lato,body.cv-proietta #velo{display:none}
+body.cv-proietta #barra{background:none;border-bottom-color:transparent;backdrop-filter:none;
+  -webkit-backdrop-filter:none;pointer-events:none}
+body.cv-proietta #barra>*:not(.bt-proietta){visibility:hidden}
+body.cv-proietta .bt-proietta{pointer-events:auto;opacity:.7}
+body.cv-proietta #vista{margin-left:0;max-width:none}
+body.cv-proietta .cv-pagina>.bt.pi,body.cv-proietta .cv-pagina>h1,body.cv-proietta .cv-pagina>.sotto,
+body.cv-proietta .cv-barre{display:none}
+body.cv-proietta .cv-indizi h2{font-size:26px}
+body.cv-proietta .cv-clue{font-size:22px}
+
+/* ---- il riferimento biblico, come già in Domande/Chi ha detto: si tocca e
+   compare il versetto — qui in basso a destra della carta, non in proiezione ---- */
+/* il riferimento biblico sta sempre nel flusso della pagina (mai sopra ad altri pulsanti, come «Avanti») */
+.gio-vers{position:static;flex:0 0 auto;font-family:var(--display);
+  font-size:14.5px;color:var(--oro);cursor:pointer;font-weight:600;
+  padding:6px 13px;border-radius:10px;border:1px solid rgba(224,178,92,.36);
+  background:rgba(224,178,92,.10);transition:background .18s,transform .1s}
+.gio-vers:hover{background:rgba(224,178,92,.22)}
+.gio-vers:active{transform:scale(.96)}
+
+/* ---- vero o falso ---- */
+.vf-card{text-align:center;position:relative}
+.vf-azioni{display:grid;grid-template-columns:minmax(0,1fr) minmax(200px,340px) minmax(0,1fr);align-items:center;gap:12px;margin-top:6px}
+.vf-azioni .bt{width:100%}
+.vf-azioni .vf-rif{justify-self:start}
+@media(max-width:640px){ .vf-azioni{grid-template-columns:1fr} .vf-azioni .bt{order:-1} .vf-azioni .vf-rif{justify-self:center} .vf-azioni>span{display:none} }
+.imp-rif{display:flex;justify-content:flex-end;margin-top:10px}
+.vf-domanda{font-size:17px;font-weight:600;margin:10px 0}
+.vf-risposta{font-size:19px;color:var(--oro);font-family:var(--serif);margin-bottom:16px}
+.vf-bt{display:flex;gap:14px;justify-content:center}
+.vf-bt .bt{flex:0 1 160px;font-size:16px;padding:14px}
+/* le risposte si accendono subito: la giusta di verde, quella sbagliata che hai scelto di rosso */
+.bt.giusta{background:linear-gradient(180deg,#3fd08a,var(--verde));border-color:transparent;color:#04150c;font-weight:700;
+  box-shadow:0 0 0 3px rgba(95,212,143,.4),0 0 16px rgba(95,212,143,.45)}
+.bt.sbagliata{background:linear-gradient(180deg,#ff6b81,var(--ross));border-color:transparent;color:#fff;font-weight:700;
+  box-shadow:0 0 0 3px rgba(255,107,129,.4),0 0 16px rgba(255,107,129,.4)}
+.bt.spenta{opacity:.45}
+.bt.giusta[disabled],.bt.sbagliata[disabled]{opacity:1}
+/* Vero o Falso: dopo la risposta i due pulsanti restano, quello scelto in evidenza; la scheda si accende */
+.vf-bt .bt.scelto[disabled]{opacity:1;box-shadow:0 0 0 3px rgba(255,255,255,.6)}
+.vf-card.esito-giusto{border-color:var(--verde-c);box-shadow:0 0 0 2px var(--verde-c),0 0 24px rgba(95,212,143,.35)}
+.vf-card.esito-sbagliato{border-color:var(--ross-c);box-shadow:0 0 0 2px var(--ross-c),0 0 24px rgba(255,107,129,.35)}
+.vf-esito{font-weight:700;margin:10px 0}
+.vf-esito.giusto{color:var(--verde-c)}
+.vf-esito.falso{color:var(--ross-c)}
+.vf-fine{text-align:center}
+
+/* ---- impiccato ---- */
+.imp-vite{max-width:240px;text-align:center}
+.imp-scheda{text-align:center;position:relative}
+.imp-parola{font-family:var(--serif);font-size:clamp(22px,4vw,34px);letter-spacing:6px;margin:14px 0}
+.imp-indizio{font-size:13.5px;color:var(--tx2);line-height:1.4}
+.imp-descr{font-family:var(--serif);font-size:clamp(17px,2.2vw,22px);line-height:1.4;color:var(--tx);
+  margin:4px auto 0;max-width:760px}
+/* a partita finita: prima il risultato e il pulsante, poi (a lato, se c'è posto) il premio e la classifica */
+.imp-fine{display:flex;flex-direction:column;align-items:center}
+.imp-fine-dx{width:100%}
+/* le tre scelte stanno in una riga sola (l'indizio, più largo, in mezzo) */
+@media(min-width:901px){ .scelte-imp{grid-template-columns:1fr 2fr 1fr} .scelte-imp .scelta.larga{grid-column:auto} }
+.imp-tastiera{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin-top:14px}
+.imp-tasto{width:36px;height:40px;border-radius:8px;border:1px solid var(--bordo2);background:var(--fondo2);
+  color:var(--tx);font-weight:700;cursor:pointer;font-family:inherit}
+.imp-tasto:disabled{opacity:.4;cursor:default}
+.imp-tasto.giusta{background:rgba(31,164,99,.35);border-color:var(--verde-c)}
+.imp-tasto.sbagliata{background:rgba(200,16,46,.28);border-color:var(--ross-c)}
+
+/* ---- memoria ---- */
+/* le carte si dispongono in base a quante sono (--mc colonne, --mr righe, messi da vMemoria) */
+.mem-campo{display:flex;flex-direction:column;gap:14px}
+.mem-campo .mem-esito{order:-1}
+.mem-grid{display:grid;grid-template-columns:repeat(var(--mc,4),1fr);gap:10px}
+@media(max-width:640px){ .mem-grid{grid-template-columns:repeat(2,1fr)} }
+.mem-carta{position:relative;min-height:96px;border-radius:12px;border:1px solid var(--bordo);
+  background:var(--sup);cursor:pointer;padding:10px;display:flex;align-items:center;justify-content:center;
+  text-align:center;font-family:inherit}
+.mem-carta .mem-dietro{font-size:26px;color:var(--tx3)}
+.mem-carta .mem-davanti{display:none;font-size:12.5px;color:var(--tx);line-height:1.3}
+.mem-carta.su .mem-dietro,.mem-carta.trovata .mem-dietro{display:none}
+.mem-carta.su .mem-davanti,.mem-carta.trovata .mem-davanti{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:5;overflow:hidden}
+.mem-carta.su{border-color:var(--oro)}
+.mem-carta.trovata{border-color:#5fd48f;background:rgba(31,164,99,.32);box-shadow:0 0 12px rgba(95,212,143,.35)}
+.mem-carta.errata{border-color:#ff6b81;background:rgba(214,32,60,.3);box-shadow:0 0 12px rgba(255,107,129,.35)}
+
+/* ---- punteggio e premi (tutti i giochi) ---- */
+.premio-box{display:flex;align-items:center;gap:14px;background:var(--sup);border:1px solid var(--bordo);
+  border-radius:var(--r2);padding:14px 18px;margin:14px 0}
+.premio-ic{font-size:38px;line-height:1}
+.premio-testo{display:flex;flex-direction:column;gap:2px}
+.premio-testo b{font-family:var(--serif);font-size:18px}
+.premio-perc{color:var(--tx2);font-size:13.5px;font-variant-numeric:tabular-nums}
+.premio-record{color:var(--oro);font-size:12.5px;font-weight:600}
+
+/* ---- X e O biblico ---- */
+/* il campo è sempre centrato e grande: la misura di una casella (--tris-c) si adatta allo schermo */
+.tris-campo{display:flex;flex-direction:column;align-items:center;justify-content:center}
+.tris-grid{--tris-c:clamp(96px,27vw,160px);display:grid;grid-template-columns:repeat(3,var(--tris-c));
+  grid-template-rows:repeat(3,var(--tris-c));gap:calc(var(--tris-c)*.09);margin:0 auto;justify-content:center}
+.tris-cella{background:var(--sup);border:1px solid var(--bordo);border-radius:calc(var(--tris-c)*.14);font-size:var(--tris-f,calc(var(--tris-c)*.52));
+  min-width:0;min-height:0;padding:0;line-height:1;overflow:hidden;
+  font-family:var(--serif);display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--tx)}
+.tris-cella:disabled{cursor:default}
+.tris-cella.x{color:var(--ross-c)}
+.tris-cella.o{color:#5bb8f0}
+.tris-turno{text-align:center;font-size:15px;margin-bottom:10px}
+.tris-punteggio{display:flex;justify-content:center;gap:24px;margin-bottom:12px;font-family:var(--serif);font-size:16px}
+/* il riquadro della domanda (X e O, Blitz, Chi sono io?): grande quanto lo spazio che resta sullo schermo; le scritte
+   si adattano (--fs, messa da adattaCard()), così la domanda e le risposte stanno sempre dentro e larghe a sufficienza */
+.dom-card{--fs:24;display:flex;flex-direction:column;gap:clamp(8px,1.6vh,16px);text-align:center;
+  width:100%;max-width:1100px;margin-left:auto;margin-right:auto}
+.dom-sopra{margin:0;color:var(--tx2);font-size:calc(var(--fs)*.6px)}
+.dom-testo{margin:0;font-weight:650;line-height:1.25;font-size:calc(var(--fs)*1px);overflow-wrap:anywhere}
+.dom-opz{display:flex;flex-direction:column;gap:clamp(6px,1.2vh,12px)}
+.dom-opz .bt{width:100%;white-space:normal;line-height:1.2;font-size:calc(var(--fs)*.78px);padding:.55em 1em;
+  text-align:center;overflow-wrap:break-word}
+/* break-word e non anywhere: con anywhere Safari (iPad) misura le righe delle griglie di risposte
+   come se ogni lettera andasse a capo, e i pulsanti diventavano altissimi (le risposte C e D sparivano) */
+/* Chi sono io?: gli indizi, e le quattro risposte in due colonne */
+.csi-campo{display:flex;flex-direction:column;gap:14px}
+.csi-card .csi-lista{display:flex;flex-direction:column;gap:clamp(6px,1.2vh,12px);margin:0}
+.csi-card .csi-indizio{margin:0;font-size:calc(var(--fs)*.82px);line-height:1.3;text-align:center}
+.csi-card .csi-opz{display:grid;grid-template-columns:1fr 1fr}
+.csi-card .csi-avanti{align-self:center;min-width:240px}
+.csi-card .vf-esito{margin:0;font-size:calc(var(--fs)*.7px)}
+/* chi gioca con la ❌ e chi con il ⭕ */
+.tris-chi{flex-direction:column;flex-wrap:nowrap;gap:5px}
+.tris-chi-riga{display:flex;align-items:center;gap:7px;font-size:14px}
+.tris-chi-riga select{margin:0;padding:5px 9px;font-size:13px;width:auto;min-width:130px;flex:1 1 auto}
+
+/* ---- blitz biblico ---- */
+.blz-testa{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px}
+.blz-tempo{font-family:var(--serif);font-size:32px;font-variant-numeric:tabular-nums}
+.blz-tempo.poco{color:var(--ross-c)}
+.blz-punti{font-family:var(--serif);font-size:22px;color:var(--oro)}
+
+/* ---- completa la frase / chi sono io ---- */
+.cpl-frase,.csi-indizio{font-size:17px;line-height:1.55;text-align:center;margin:14px 0;font-family:var(--serif)}
+.cpl-blank{color:var(--oro);font-weight:700;border-bottom:2px dashed var(--oro)}
+.cpl-ok{color:#5fd48f;font-weight:800;border-bottom:2px solid #5fd48f;text-shadow:0 0 14px rgba(95,212,143,.45)}
+.csi-lista{display:flex;flex-direction:column;gap:8px;margin:10px 0;text-align:left}
+/* Completa la frase: dopo la risposta la frase con i pulsanti sta a sinistra e il premio con la classifica a destra
+   (in verticale uno sotto l'altro) */
+.cpl-campo{display:flex;flex-direction:column;gap:14px}
+.cpl-card .cpl-avanti{align-self:center;min-width:240px}
+.cpl-card .cpl-rif{align-self:center;margin:0 0 10px}
+.csi-card .csi-rif{font-size:calc(var(--fs,17)*.62px);padding:2px 9px;margin-left:6px;vertical-align:middle;white-space:nowrap}
+
+/* ---- Sette degli otto giochi: schermata fissa in orizzontale, come
+   Domande/Chi ha detto — chiesto per stare dentro allo schermo dell'iPad
+   orizzontale senza scorrere, e con le scritte più grandi (non più piccole:
+   minimi dei clamp() alzati apposta dopo la prima prova). Il Cruciverba
+   resta a parte, vedi vGiochi(). ---- */
+@media(orientation:landscape),(orientation:portrait) and (min-width:700px) and (min-height:900px){
+  body.gio-fissa{overflow:hidden}
+  body.gio-fissa #vista{height:100dvh;overflow:hidden;max-width:none;
+    padding:calc(var(--barra) + var(--sat) + 6px) 20px calc(8px + var(--sab))}
+  body.gio-fissa #vista>.sez{height:100%;animation:none}
+  body.gio-fissa .gio-pagina{height:100%;min-height:0;display:flex;flex-direction:column;
+    gap:clamp(6px,1.1vh,12px);overflow:hidden}
+  body.gio-fissa .gio-pagina>.bt.pi{flex:0 0 auto}
+  body.gio-fissa .gio-pagina h1{font-size:clamp(21.85px,4.01vh,37.8px);margin:0;flex:0 0 auto}
+  body.gio-fissa .gio-pagina>.sotto{margin:0;flex:0 0 auto;font-size:clamp(13.8px,1.77vh,18.9px)}
+  body.gio-fissa .scelte{gap:clamp(5px,.9vh,10px);flex:0 0 auto}
+  body.gio-fissa .scelta{padding:clamp(5px,.9vh,10px) clamp(8px,1.1vw,13px)}
+  body.gio-fissa .scelta-tit{margin-bottom:clamp(2px,.5vh,5px);font-size:clamp(12.65px,1.53vh,17.55px)}
+  body.gio-fissa .scelta-op{gap:clamp(4px,.7vh,7px)}
+  body.gio-fissa .scelta .op{padding:clamp(5px,.8vh,8px) clamp(7px,1vw,13px);font-size:clamp(13.8px,1.77vh,18.9px)}
+  body.gio-fissa .kpi{padding:clamp(5px,.9vh,10px) clamp(10px,1.3vw,16px);flex:0 0 auto}
+  body.gio-fissa .kpi .n{font-size:clamp(23px,4.01vh,40.5px)}
+  body.gio-fissa .scheda{flex:1 1 auto;min-height:0;overflow:auto;
+    padding:clamp(10px,1.5vh,18px);display:flex;flex-direction:column;justify-content:center}
+  /* impiccato */
+  body.gio-fissa .imp-parola{font-size:clamp(25.3px,5.19vh,45.9px);margin:clamp(5px,1vh,10px) 0}
+  body.gio-fissa .imp-tastiera{margin-top:clamp(5px,1vh,10px)}
+  body.gio-fissa .imp-tasto{width:clamp(28px,4.6vh,38px);height:clamp(32px,5vh,42px);font-size:clamp(14.95px,2.12vh,21.6px)}
+  body.gio-fissa .imp-indizio{font-size:clamp(13.8px,1.77vh,18.9px)}
+  body.gio-fissa .imp-descr{font-size:clamp(17.25px,2.71vh,28.35px);margin-top:0}
+  body.gio-fissa .imp-rif{flex:0 0 auto;margin-top:clamp(4px,.8vh,10px)}
+  body.gio-fissa .imp-fine{flex-direction:row;align-items:stretch;justify-content:center;gap:clamp(12px,2vw,28px);flex:1 1 auto;min-height:0;width:100%}
+  body.gio-fissa .imp-fine-sx{flex:0 0 36%;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:12px}
+  body.gio-fissa .imp-fine-sx .vf-esito{margin:0}
+  body.gio-fissa .imp-fine-dx{flex:1 1 0;min-width:0;overflow:auto;text-align:left}
+  body.gio-fissa .imp-fine-dx .premio-box{margin:0 0 8px}
+  /* memoria */
+  /* le carte riempiono tutto lo spazio che resta sotto alle barre, in righe e colonne uguali: sempre tutte dentro
+     allo schermo, qualunque sia il numero di carte; a partita finita il risultato sta a destra */
+  body.gio-fissa .mem-campo{flex:1 1 0;min-height:0;flex-direction:row;gap:14px}
+  body.gio-fissa .mem-grid{flex:1 1 0;min-width:0;min-height:0;grid-template-rows:repeat(var(--mr,4),minmax(0,1fr));gap:clamp(6px,1vh,10px)}
+  body.gio-fissa .mem-carta{min-height:0;padding:clamp(3px,.8vh,10px);overflow:hidden}
+  body.gio-fissa .mem-carta .mem-dietro{font-size:clamp(23px,4.72vh,40.5px)}
+  body.gio-fissa .mem-carta .mem-davanti{font-size:clamp(12.65px,1.95vh,18.9px)}
+  body.gio-fissa .mem-campo.fine .mem-esito{flex:0 0 min(360px,36%);order:2;overflow:auto;padding:clamp(8px,1.4vh,16px) 14px}
+  body.gio-fissa .mem-esito h2{font-size:clamp(19.55px,3.07vh,29.7px);margin:0 0 4px}
+  body.gio-fissa .mem-esito .premio-box,body.gio-fissa .imp-fine-dx .premio-box{margin:clamp(4px,.9vh,10px) 0;padding:clamp(6px,1.1vh,12px) 14px}
+  body.gio-fissa .mem-esito .classifica-box,body.gio-fissa .imp-fine-dx .classifica-box{margin-top:clamp(4px,.9vh,10px);padding:clamp(6px,1.1vh,12px) 14px}
+  body.gio-fissa .mem-esito .bt{padding:clamp(8px,1.4vh,12px) 14px}
+  /* vero o falso */
+  body.gio-fissa .vf-domanda{font-size:clamp(18.4px,3.07vh,27px)}
+  body.gio-fissa .vf-risposta{font-size:clamp(19.55px,3.3vh,29.7px)}
+  body.gio-fissa .vf-bt .bt{font-size:clamp(16.1px,2.24vh,22.95px);padding:clamp(8px,1.4vh,14px)}
+  /* X e O */
+  /* il campo riempie lo spazio che resta sotto alle barre, sempre quadrato e sempre tutto dentro allo schermo;
+     a partita finita sta a sinistra e i premi a destra */
+  body.gio-fissa .tris-campo{flex:1 1 0;min-height:0}
+  body.gio-fissa .tris-grid{height:100%;max-height:100%;aspect-ratio:1;max-width:100%;margin:0 auto;
+    grid-template-columns:repeat(3,minmax(0,1fr));grid-template-rows:repeat(3,minmax(0,1fr));gap:clamp(6px,1.5vh,14px)}
+  body.gio-fissa .tris-cella{font-size:var(--tris-f,clamp(30px,9vh,96px));border-radius:clamp(10px,2.4vh,22px)}
+  body.gio-fissa .tris-campo.fine{flex-direction:row;gap:24px}
+  body.gio-fissa .tris-campo.fine .tris-grid{height:min(100%,330px)}
+  body.gio-fissa .tris-campo.fine .tris-esito{flex:1 1 340px;max-width:560px;max-height:100%;overflow:auto}
+  body.gio-fissa .tris-chi-riga select{padding:4px 8px}
+  /* il riquadro delle domande (X e O, Blitz, Chi sono io?) riempie tutto lo spazio sotto alle barre */
+  body.gio-fissa .dom-card{flex:1 1 0;min-height:0;overflow:hidden;padding:clamp(12px,2vh,26px) clamp(14px,2.4vw,40px)}
+  body.gio-fissa .dom-testo{flex:0 0 auto}
+  body.gio-fissa .dom-opz{flex:1 1 0;min-height:0;justify-content:center}
+  body.gio-fissa .dom-opz .bt{flex:1 1 0;min-height:0;max-height:clamp(58px,15vh,130px);padding:0 1em;overflow:hidden}
+  /* X e O: il riquadro della domanda non si schiaccia mai (se no le risposte sparivano); se non ci sta,
+     la pagina del gioco si rimpicciolisce (adattaGioco) */
+  body.gio-fissa .tris-domanda{min-height:clamp(280px,46vh,440px)}
+  body.gio-fissa .csi-campo{flex:1 1 0;min-height:0;flex-direction:row}
+  body.gio-fissa .csi-campo .csi-card{flex:1 1 0;min-width:0;max-width:none;margin:0}
+  body.gio-fissa .csi-campo.fine .csi-premio{flex:0 0 min(360px,36%);overflow:auto}
+  body.gio-fissa .csi-card .csi-lista{flex:1 1 auto;min-height:0;justify-content:center;overflow:hidden}
+  body.gio-fissa .csi-card .csi-indizio{font-size:calc(var(--fs)*.82px)}
+  body.gio-fissa .csi-card .csi-opz{flex:0 0 auto}
+  body.gio-fissa .csi-card .csi-opz .bt{flex:none;height:clamp(44px,8vh,72px);max-height:none}
+  body.gio-fissa .csi-card .csi-avanti{flex:0 0 auto}
+  body.gio-fissa .csi-premio .premio-box{margin:0 0 8px;padding:clamp(6px,1.1vh,12px) 14px}
+  body.gio-fissa .csi-premio .classifica-box{margin-top:0;padding:clamp(6px,1.1vh,12px) 14px}
+  /* completa la frase: come Chi sono io?, la frase a sinistra e (dopo la risposta) premio e classifica a destra, che scorre solo lì dentro */
+  body.gio-fissa .cpl-campo{flex:1 1 0;min-height:0;flex-direction:row}
+  body.gio-fissa .cpl-campo .cpl-card{flex:1 1 0;min-width:0;margin:0}
+  body.gio-fissa .cpl-campo.fine .cpl-premio{flex:0 0 min(360px,36%);overflow:auto}
+  body.gio-fissa .cpl-premio .premio-box{margin:0 0 8px;padding:clamp(6px,1.1vh,12px) 14px}
+  body.gio-fissa .cpl-premio .classifica-box{margin-top:0;padding:clamp(6px,1.1vh,12px) 14px}
+  body.gio-fissa .cpl-card .vf-esito{margin:clamp(4px,.9vh,10px) 0}
+  body.gio-fissa .cpl-card .cpl-avanti{flex:0 0 auto}
+  body.gio-fissa .cpl-card .cpl-rif{flex:0 0 auto;margin:0 0 clamp(4px,.9vh,10px)}
+  /* blitz */
+  body.gio-fissa .blz-tempo{font-size:clamp(27.6px,5.43vh,48.6px)}
+  body.gio-fissa .blz-punti{font-size:clamp(18.4px,3.07vh,29.7px)}
+  /* completa la frase / chi sono io */
+  body.gio-fissa .cpl-frase,body.gio-fissa .csi-indizio{font-size:clamp(17.25px,2.83vh,25.65px)}
+  @media(max-height:440px){
+    body.gio-fissa{overflow:auto}
+    body.gio-fissa #vista{height:auto;overflow:visible}
+    body.gio-fissa .gio-pagina{height:auto;overflow:visible}
+    body.gio-fissa .scheda{overflow:visible}
+  }
+}
+
+/* ---- proiettare un gioco (mirroring): stessa pagina, ingrandita — i filtri
+   restano lì (rimpiccioliti) apposta, così il pulsante per tornare normale
+   resta sempre raggiungibile invece di sparire insieme a loro ---- */
+body.gioco-proiettore .bt-proietta{background:#ff6b81;border-color:#ff6b81;color:#0b0d13;pointer-events:auto;opacity:.7}
+body.gioco-proiettore #lato,body.gioco-proiettore #velo{display:none}
+body.gioco-proiettore #barra{background:none;border-bottom-color:transparent;backdrop-filter:none;
+  -webkit-backdrop-filter:none;pointer-events:none}
+body.gioco-proiettore #barra>*:not(.bt-proietta){visibility:hidden}
+body.gioco-proiettore #vista{margin-left:0;max-width:none}
+body.gioco-proiettore .gio-pagina>.bt.pi,body.gioco-proiettore .gio-pagina>h1,body.gioco-proiettore .scelte{display:none}
+body.gioco-proiettore .gio-pagina{max-width:none;margin:0}
+/* a tutto schermo: la barra in alto non occupa più posto, resta solo il pulsante per tornare, piccolo in un angolo */
+body.gioco-proiettore #barra{height:0;padding:0;border:0;overflow:visible}
+body.gioco-proiettore .bt-proietta{position:fixed;top:calc(6px + var(--sat));right:8px;z-index:70;opacity:.35;font-size:12px;padding:4px 10px}
+body.gioco-proiettore .bt-proietta:hover{opacity:.9}
+body.gioco-proiettore #vista{padding:calc(8px + var(--sat)) 14px calc(8px + var(--sab)) !important;height:100dvh}
+body.gioco-proiettore.gio-fissa #vista>.sez{height:100%}
+/* in proiezione i punteggi dei giocatori in gara si vedono tutti insieme, grandi */
+body.gioco-proiettore .gara-striscia{padding:10px 16px;gap:10px 18px}
+body.gioco-proiettore .gara-striscia .gs-tit{font-size:20px}
+body.gioco-proiettore .gara-striscia .gs-chi{font-size:26px}
+body.gioco-proiettore .gs-g{font-size:22px;padding:4px 14px 4px 4px;opacity:1}
+body.gioco-proiettore .gs-g .gc-av{width:34px;height:34px;font-size:17px}
+body.gioco-proiettore .gs-avanti,body.gioco-proiettore .gara-striscia .bt{font-size:16px}
+body.gioco-proiettore .gio-pagina h1{font-size:clamp(26px,4.2vw,46px)}
+body.gioco-proiettore .scelte{opacity:.6;transform:scale(.82);transform-origin:top left;margin-bottom:-20px}
+body.gioco-proiettore .tris-grid{--tris-c:clamp(140px,30vh,300px)}
+body.gioco-proiettore .imp-parola{font-size:clamp(30px,5.6vw,56px);letter-spacing:10px}
+body.gioco-proiettore .imp-descr{font-size:clamp(20px,2.6vw,30px);max-width:1100px}
+body.gioco-proiettore .imp-tasto{width:46px;height:50px;font-size:18px}
+body.gioco-proiettore .kpi .n{font-size:40px}
+body.gioco-proiettore .mem-carta .mem-davanti{font-size:clamp(15px,2.6vh,24px)}
+body.gioco-proiettore .vf-domanda{font-size:27px}
+body.gioco-proiettore .vf-risposta{font-size:29px}
+body.gioco-proiettore .blz-tempo{font-size:54px}
+body.gioco-proiettore .blz-punti{font-size:32px}
+body.gioco-proiettore .cpl-frase{font-size:25px}
+
+/* ---- classifica dei giochi (nomi + punti, finché non azzeri) ---- */
+.classifica-box{background:var(--sup);border:1px solid var(--bordo);border-radius:var(--r2);
+  padding:12px 16px;margin-top:10px}
+.classifica-tit{display:flex;align-items:center;gap:10px;font-weight:700;margin-bottom:8px;font-family:var(--serif)}
+.classifica-tit .bt{margin-left:auto}
+.classifica-riga{display:flex;align-items:center;gap:8px;padding:4px 0;font-size:14px;
+  border-top:1px solid var(--bordo)}
+.classifica-riga:first-child{border-top:none}
+.classifica-riga b{color:var(--oro);font-family:var(--serif);min-width:1.4em}
+.classifica-riga span{margin-left:auto;font-variant-numeric:tabular-nums;color:var(--tx2)}
+
+/* ================= GIOCATORI, LIVELLI E PAGINA DEL GIOCATORE ================= */
+.classifica-riga.cr-clic{cursor:pointer;border-radius:8px;transition:background .12s}
+/* ---- la gara: più giocatori insieme (6n_gara.js) ---- */
+.gc-gara.on{background:rgba(255,209,102,.22);border-color:#ffd166;color:#ffd166}
+.gara-striscia{display:flex;align-items:center;flex-wrap:wrap;gap:8px 12px;padding:8px 12px;border-radius:var(--r2);
+  background:linear-gradient(90deg,rgba(255,209,102,.18),rgba(255,209,102,.05));border:1px solid rgba(255,209,102,.45);flex:0 0 auto}
+.gara-striscia .gs-tit{font-weight:700;color:#ffd166;font-size:14px}
+.gara-striscia .gs-chi{font-size:17px}
+.gara-striscia .gs-chi b{color:var(--gc)}
+.gara-striscia .gs-elenco{display:flex;flex-wrap:wrap;gap:6px;flex:1 1 auto}
+.gs-g{display:inline-flex;align-items:center;gap:5px;padding:2px 9px 2px 3px;border-radius:20px;background:var(--sup2);font-size:13px;opacity:.75}
+.gs-g.ora{opacity:1;box-shadow:0 0 0 2px var(--gc)}
+.gs-g.fatto{opacity:1}
+.gs-g b{color:#ffd166}
+.gs-g .gc-av,.gara-gioc .gc-av,.gara-podio .gc-av{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;
+  background:var(--gc);color:#0b0d13;font-weight:800;font-size:12px}
+.gara-scelta{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin:12px 0}
+.gara-gioc{display:flex;align-items:center;gap:8px;padding:9px 11px;border:1px solid var(--bordo2);border-radius:12px;cursor:pointer;background:var(--sup2)}
+.gara-gioc:has(input:checked){border-color:var(--gc);box-shadow:0 0 0 2px var(--gc) inset}
+.gara-gioc input{width:18px;height:18px}
+.gara-caso{display:flex;align-items:center;gap:8px;font-size:14px;color:var(--tx2);margin:4px 0 12px}
+.gara-podio{display:flex;align-items:flex-end;justify-content:center;gap:12px;margin:6px 0 14px}
+.gara-podio .gp-p{display:flex;flex-direction:column;align-items:center;gap:4px;padding:12px 14px;border-radius:14px;background:var(--sup2);min-width:110px;border-top:4px solid var(--gc)}
+.gara-podio .gp-p.p1{order:2;padding-top:22px;background:rgba(245,197,66,.16)}
+.gara-podio .gp-p.p2{order:1}
+.gara-podio .gp-p.p3{order:3}
+.gara-podio .gp-p-med{font-size:34px;line-height:1}
+.gara-podio .gp-p .gc-av{width:34px;height:34px;font-size:16px}
+.gara-podio i{font-style:normal;font-size:20px;font-weight:700;color:#ffd166}
+.gara-vinc{margin-top:10px}
+/* gara a turni: quante domande a testa, e l'avviso grande «Ora tocca a …» sopra al gioco */
+.gara-n{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:4px 0 10px;font-size:14px;color:var(--tx2)}
+.gara-n>span{margin-right:4px}
+.gara-n-op{display:inline-flex;align-items:center;gap:6px;padding:7px 14px;border:1px solid var(--bordo2);border-radius:10px;background:var(--sup2);cursor:pointer}
+.gara-n-op:has(input:checked){border-color:#ffd166;box-shadow:0 0 0 2px #ffd166 inset}
+.gara-n-op b{font-size:17px;color:var(--tx)}
+.gara-durata{margin:4px 0 10px}
+.gara-striscia.da-passare .gs-avanti{animation:garaPulsa 1.2s ease-in-out infinite}
+@keyframes garaPulsa{50%{transform:scale(1.06)}}
+.gara-velo{position:fixed;inset:0;z-index:900;display:flex;align-items:center;justify-content:center;background:rgba(8,10,16,.45);
+  cursor:pointer;animation:garaVelo .25s ease-out}
+@keyframes garaVelo{from{opacity:0}to{opacity:1}}
+.gv-box{display:flex;flex-direction:column;align-items:center;gap:10px;padding:26px 40px;border-radius:22px;background:rgba(20,23,33,.94);
+  border:1px solid var(--bordo2);box-shadow:0 20px 60px rgba(0,0,0,.55);text-align:center;max-width:min(90vw,640px)}
+.gv-segno{font-size:clamp(30px,5vh,52px);font-weight:800}
+.gv-segno.si{color:var(--verde-c)}
+.gv-segno.no{color:var(--ross-c)}
+.gv-fine{font-size:clamp(18px,2.6vh,26px)}
+.gv-fine b{color:#ffd166}
+.gv-ora{font-size:clamp(16px,2.2vh,22px);color:var(--tx2)}
+.gv-nome{display:flex;align-items:center;gap:12px;font-size:clamp(30px,5.5vh,58px);font-weight:800;color:var(--gc)}
+.gv-nome .gc-av{display:inline-flex;align-items:center;justify-content:center;width:1.3em;height:1.3em;border-radius:50%;background:var(--gc);color:#0b0d13;font-size:.7em}
+.gv-tocca{font-size:13px;color:var(--tx3)}
+.spr-pausa .spr-tempo{opacity:.75}
+.classifica-riga.cr-clic:hover{background:var(--sup2)}
+
+/* la riga dei giocatori, dentro a ogni gioco: si tocca un giocatore per aprire
+   la sua pagina, la freccia ▶ per farlo giocare, ＋ per aggiungerne un altro */
+.gio-giocatori{display:flex;align-items:center;flex-wrap:wrap;gap:8px 14px;padding:8px 12px;
+  border:1px solid var(--bordo);border-radius:var(--r2);
+  background:linear-gradient(120deg,rgba(95,212,143,.10),rgba(91,184,240,.06))}
+.gg-sx{display:flex;align-items:center;flex-wrap:wrap;gap:8px 14px;flex:1 1 320px;min-width:0}
+.gg-sx.spento{opacity:.5;pointer-events:none}
+.gg-tit{font-size:12px;letter-spacing:.8px;text-transform:uppercase;font-weight:700;color:#5fd48f;white-space:nowrap}
+.gg-tit-liv{color:#ff8a9c}
+.gg-lista{display:flex;align-items:center;flex-wrap:wrap;gap:8px;flex:1 1 auto;min-width:0}
+.gg-nota{flex:1 0 100%;font-size:12.5px;color:var(--tx3)}
+/* il livello, a destra nella stessa riga: stessi pulsanti degli altri filtri */
+.gg-liv{display:flex;align-items:center;gap:10px;flex:0 0 auto}
+/* i livelli sopra alla riga dei giocatori; la riga dei giocatori va a capo e li mostra tutti */
+.gio-testa-gioc{display:flex;flex-direction:column;gap:6px;flex:0 0 auto}
+.gio-livelli{display:flex;align-items:center;justify-content:flex-start;flex-wrap:wrap;gap:8px}
+.gio-livelli .gg-tit-liv{display:inline}
+body.gioco-proiettore .gio-livelli{display:none}
+.gg-liv-op{display:flex;gap:6px;flex-wrap:wrap}
+.gg-liv .op{border:1px solid var(--bordo2);background:var(--fondo2);color:var(--tx2);padding:8px 13px;
+  border-radius:var(--r3);font-size:13.5px;font-weight:550;cursor:pointer;font-family:inherit;
+  transition:background .15s,border-color .15s,color .15s,transform .15s}
+.gg-liv .op:hover{border-color:#ff6b81;color:var(--tx)}
+.gg-liv .op:active{transform:scale(.96)}
+.gg-liv .op.on{background:#ff6b81;border-color:#ff6b81;color:#0b0d13;font-weight:700;box-shadow:0 6px 18px -4px #ff6b81}
+.gg-liv .op:disabled{opacity:.5;cursor:default}
+.gc{display:inline-flex;align-items:center;gap:2px;flex:0 0 auto;border-radius:999px;padding:3px;
+  background:var(--fondo2);border:1.5px solid var(--bordo2);transition:border-color .15s,box-shadow .15s,background .15s}
+.gc.attivo{border-color:var(--gc);background:rgba(var(--gcr),.16);box-shadow:0 0 0 3px rgba(var(--gcr),.18)}
+.gc-corpo{display:inline-flex;align-items:center;gap:8px;border:0;background:none;color:var(--tx);cursor:pointer;
+  padding:0 8px 0 0;border-radius:999px;font-size:14.5px;font-weight:600;min-height:34px}
+.gc-av{width:32px;height:32px;border-radius:50%;flex:0 0 auto;display:flex;align-items:center;justify-content:center;
+  font-weight:800;font-size:15px;color:#0b0d13;background:linear-gradient(140deg,var(--gc),rgba(var(--gcr),.65));
+  box-shadow:0 2px 8px rgba(var(--gcr),.35)}
+.gc-nome{max-width:12ch;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.gc-n{font-size:11px;font-weight:700;color:var(--tx3);background:var(--sup2);border-radius:20px;padding:1px 7px;
+  font-variant-numeric:tabular-nums}
+.gc-gioca,.gc-segno{width:32px;height:32px;border-radius:50%;border:0;cursor:pointer;flex:0 0 auto;
+  display:inline-flex;align-items:center;justify-content:center;font-size:14px;color:var(--tx2);
+  background:var(--sup2);transition:background .13s,transform .1s}
+.gc-gioca:hover,.gc-segno:hover{background:var(--bordo2)}
+.gc-gioca:active,.gc-segno:active{transform:scale(.92)}
+.gc.attivo .gc-gioca{background:var(--gc);color:#0b0d13;font-weight:800}
+.gc-segno{font-size:15px;opacity:.5;filter:grayscale(1)}
+.gc-segno.on{opacity:1;filter:none;background:rgba(var(--gcr),.3)}
+.gc-nuovo{flex:0 0 auto;border:1.5px dashed var(--bordo2);background:none;color:var(--tx2);border-radius:999px;
+  padding:0 14px;min-height:38px;cursor:pointer;font-size:14px;font-weight:600;white-space:nowrap}
+.gc-nuovo:hover{border-color:#5fd48f;color:#5fd48f}
+/* barra stretta, in tutti i giochi: caselle, avatar e pulsanti più piccoli, così ne stanno di più per riga */
+.gio-giocatori{gap:5px 7px;padding:5px 8px}
+.gio-giocatori .gc{padding:2px}
+.gio-giocatori .gc-corpo{gap:5px;padding-right:3px;font-size:13px;min-height:26px}
+.gio-giocatori .gc-av,.gio-giocatori .gc-gioca,.gio-giocatori .gc-segno{width:26px;height:26px}
+.gio-giocatori .gc-av{font-size:12.5px}
+.gio-giocatori .gc-gioca{font-size:11.5px}
+.gio-giocatori .gc-segno{font-size:12px}
+.gio-giocatori .gc-nuovo{min-height:31px;padding:0 10px;font-size:12.5px}
+.gio-giocatori .gc-nome{max-width:11ch}
+
+/* schermata fissa dell'iPad orizzontale: la riga resta UNA sola, che scorre di lato */
+@media(orientation:landscape),(orientation:portrait) and (min-width:700px) and (min-height:900px){
+  body.gio-fissa .gio-giocatori{flex:0 0 auto;flex-wrap:wrap;padding:5px 8px;gap:4px 10px}
+  body.gio-fissa .gg-sx{flex:1 1 0;flex-wrap:wrap;gap:8px 10px}
+  body.gio-fissa .gg-tit{display:none}
+  body.gio-fissa .gg-lista{flex-wrap:wrap;overflow:visible;padding:2px}
+  body.gio-fissa .gg-lista::-webkit-scrollbar{display:none}
+  body.gio-fissa .gg-liv .op{padding:clamp(5px,.8vh,8px) clamp(7px,1vw,13px);font-size:clamp(13.8px,1.77vh,18.23px)}
+  body.gio-fissa .gg-nota{flex:0 1 auto;font-size:13.8px}
+  body.gio-fissa .gg-nota:not(.vuota){display:none}
+  body.gio-fissa .gc-corpo{font-size:14.95px;min-height:26px}
+  body.gio-fissa .gc-av,body.gio-fissa .gc-gioca,body.gio-fissa .gc-segno{width:26px;height:26px}
+  body.gio-fissa .gc-nuovo{min-height:31px}
+}
+/* in proiezione il pubblico vede solo chi sta giocando, grande */
+body.gioco-proiettore .gg-tit,body.gioco-proiettore .gg-nota,body.gioco-proiettore .gc-nuovo,
+body.gioco-proiettore .gc-gioca,body.gioco-proiettore .gc-segno,body.gioco-proiettore .gc-n,
+body.gioco-proiettore .gc:not(.attivo),body.gioco-proiettore .gg-liv{display:none}
+body.gioco-proiettore .gio-giocatori{background:none;border:0;padding:0}
+body.gioco-proiettore .gc-corpo{font-size:26px;min-height:52px;pointer-events:none}
+body.gioco-proiettore .gc-av{width:48px;height:48px;font-size:24px}
+body.gioco-proiettore .gc-nome{max-width:16ch}
+
+/* ---- la pagina di un giocatore ---- */
+.gp-pagina{gap:16px}
+.gp-hero{position:relative;overflow:hidden;display:flex;align-items:center;gap:22px;flex-wrap:wrap;
+  padding:26px 28px;border-radius:22px;border:1px solid rgba(var(--gcr),.5);
+  background:radial-gradient(120% 140% at 0% 0%,rgba(var(--gcr),.42),transparent 60%),
+             radial-gradient(90% 120% at 100% 100%,rgba(var(--gcr),.20),transparent 62%),var(--sup);
+  box-shadow:0 18px 50px -18px rgba(var(--gcr),.55)}
+.gp-hero::after{content:"";position:absolute;right:-50px;top:-50px;width:210px;height:210px;border-radius:50%;
+  border:2px solid rgba(var(--gcr),.25);box-shadow:0 0 0 26px rgba(var(--gcr),.06),0 0 0 54px rgba(var(--gcr),.04);
+  pointer-events:none}
+.gp-avatar{position:relative;z-index:1;width:96px;height:96px;border-radius:50%;flex:0 0 auto;
+  display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-size:46px;font-weight:700;
+  color:#0b0d13;background:linear-gradient(140deg,var(--gc),rgba(var(--gcr),.62));
+  box-shadow:0 0 0 5px rgba(255,255,255,.14),0 12px 30px rgba(var(--gcr),.5)}
+.gp-chi{position:relative;z-index:1;flex:1 1 220px;min-width:0}
+.gp-nome{font-family:var(--serif);font-size:clamp(28px,4vw,42px);font-weight:600;line-height:1.1;
+  overflow:hidden;text-overflow:ellipsis}
+.gp-sotto{margin-top:6px;color:var(--tx2);font-size:15px}
+.gp-date{margin-top:4px;color:var(--tx3);font-size:13px}
+.gp-az{position:relative;z-index:1;display:flex;gap:10px;flex-wrap:wrap}
+.gp-az .gp-del{color:#ff8b9c}
+.gp-filtri .op b{margin-left:5px;opacity:.7;font-variant-numeric:tabular-nums}
+.gp-kpi{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.gp-premi{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+@media(max-width:700px){ .gp-kpi,.gp-premi{grid-template-columns:repeat(2,1fr)} }
+.gp-pr{display:flex;align-items:center;gap:10px;padding:12px 14px;border-radius:14px;
+  border:1px solid var(--bordo);background:var(--sup)}
+.gp-pr-ic{font-size:27px;line-height:1}
+.gp-pr b{font-family:var(--serif);font-size:25px;font-variant-numeric:tabular-nums}
+.gp-pr i{font-style:normal;color:var(--tx3);font-size:11.5px;text-transform:uppercase;letter-spacing:.6px;
+  font-weight:700;margin-left:auto}
+.gp-pr.oro{border-color:rgba(245,197,66,.5);background:linear-gradient(120deg,rgba(245,197,66,.16),var(--sup))}
+.gp-pr.argento{border-color:rgba(199,207,221,.4);background:linear-gradient(120deg,rgba(199,207,221,.12),var(--sup))}
+.gp-pr.bronzo{border-color:rgba(217,139,74,.45);background:linear-gradient(120deg,rgba(217,139,74,.14),var(--sup))}
+.gp-grafico h2,.gp-livelli h2,.gp-partite h2{margin:0 0 10px;font-size:18px}
+.gp-svg{width:100%;height:auto;display:block}
+.gp-gr{stroke:var(--bordo);stroke-width:1}
+.gp-et{fill:var(--tx3);font-size:11.5px;font-family:var(--sans)}
+.gp-so{stroke-width:1.4;stroke-dasharray:5 5;opacity:.75}
+.gp-so-t{font-size:10.5px;font-weight:700;font-family:var(--sans);opacity:.9}
+.gp-linea{fill:none;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round;
+  filter:drop-shadow(0 4px 8px rgba(0,0,0,.35))}
+.gp-svg circle{cursor:pointer}
+.gp-legenda{display:flex;gap:16px;flex-wrap:wrap;justify-content:center;margin-top:8px;font-size:12.5px;color:var(--tx3)}
+.gp-legenda i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:-1px}
+.gp-lv{display:grid;grid-template-columns:130px 1fr 160px;align-items:center;gap:12px;padding:7px 0}
+.gp-lv-et{font-weight:600;font-size:14px}
+.gp-lv-barra{height:12px;border-radius:8px;background:var(--fondo2);overflow:hidden;border:1px solid var(--bordo)}
+.gp-lv-barra i{display:block;height:100%;border-radius:8px}
+.gp-lv-n{font-size:13px;color:var(--tx2);text-align:right;font-variant-numeric:tabular-nums}
+@media(max-width:560px){ .gp-lv{grid-template-columns:100px 1fr} .gp-lv-n{grid-column:1/-1;text-align:left} }
+.gp-riga{display:grid;grid-template-columns:1fr auto auto;align-items:center;gap:14px;padding:11px 14px;
+  margin-bottom:8px;border-radius:12px;background:var(--fondo2);border:1px solid var(--bordo);
+  border-left:5px solid var(--bordo2)}
+.gp-riga.oro{border-left-color:#f5c542}
+.gp-riga.argento{border-left-color:#c7cfdd}
+.gp-riga.bronzo{border-left-color:#d98b4a}
+.gp-riga.no{border-left-color:#7b849c}
+.gp-r-data{display:flex;flex-direction:column;gap:2px;min-width:0}
+.gp-r-data b{font-size:14px}
+.gp-r-data span{font-size:12.5px;color:var(--tx3)}
+.gp-r-tag{display:flex;gap:6px;align-items:center}
+.gp-liv-b{font-size:12px;font-weight:700;padding:3px 10px;border-radius:20px;color:var(--lc);
+  border:1px solid var(--lc);background:rgba(255,255,255,.03);white-space:nowrap}
+.gp-lg{font-size:16px}
+.gp-r-ris{display:flex;align-items:center;gap:10px}
+.gp-perc{font-family:var(--serif);font-size:22px;font-variant-numeric:tabular-nums}
+.gp-med{font-size:24px}
+@media(max-width:640px){ .gp-riga{grid-template-columns:1fr auto} .gp-r-tag{grid-column:1/-1;order:3} }
+.gp-vuoto{text-align:center;padding:42px 24px}
+.gp-vuoto-ic{font-size:64px;line-height:1;margin-bottom:10px}
+.tris-premi{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+.tris-premi .premio-box{margin:0}
+/* se in orizzontale una pagina fissa non ci sta tutta (Memoria a 10 coppie, il
+   finale di X e O), scorre dentro a se stessa invece di tagliare in basso */
+@media(orientation:landscape),(orientation:portrait) and (min-width:700px) and (min-height:900px){
+  body.gio-fissa .gio-pagina{overflow-x:hidden;overflow-y:auto}
+  body.gio-fissa .mem-carta{min-height:clamp(58px,9.5vh,100px)}
+}
+/* a partita finita, la griglia di X e O e i premi stanno uno accanto all'altro */
+.tris-campo.fine{display:flex;gap:26px;align-items:flex-start;justify-content:center;flex-wrap:wrap}
+.tris-campo.fine .tris-grid{margin:0}
+.tris-campo.fine .tris-esito{flex:1 1 340px;max-width:560px}
+/* telefono: il livello prende tutta la riga e i tre pulsanti si dividono lo spazio */
+@media(max-width:560px){
+  .gg-liv{flex:1 1 100%;flex-wrap:wrap}
+  .gg-liv-op{flex:1 1 auto;flex-wrap:nowrap}
+  .gg-liv .op{flex:1 1 auto;padding:8px 6px;white-space:nowrap}
+}
+
+/* la firma in fondo alla pagina «Dati e copie» */
+.dati-firma{text-align:center;margin:36px 0 10px;padding-top:16px;border-top:1px solid var(--bordo);color:var(--tx3);font-size:13.5px}
+
+/* ---- Libri: l'elenco ---- */
+.lib-testa{display:flex;align-items:center;gap:14px;flex-wrap:wrap;justify-content:flex-end;margin-bottom:16px}
+.lez-piede .lib-nomina{margin-right:4px}
+.lib-segno{position:absolute;top:8px;left:8px;background:var(--ross);color:#fff;font-size:10.5px;font-weight:700;
+  padding:2px 8px;border-radius:20px;box-shadow:0 2px 6px rgba(0,0,0,.5);z-index:2}
+.lib-carta .lez-piede .lez-pt>span+span{color:#ffd9a0}
+.lib-vuoto{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;min-height:260px;
+  border:2px dashed var(--bordo2);border-radius:18px;background:var(--fondo2);cursor:pointer;text-align:center;padding:20px}
+.lib-vuoto span{font-size:46px;opacity:.6}
+.lib-vuoto b{font-size:17px;color:var(--tx2)}
+.lib-vuoto i{font-style:normal;font-size:13.5px;color:var(--tx3)}
+body.lib-trascina .lib-pagina{outline:3px dashed var(--ross-c);outline-offset:6px;border-radius:18px}
+/* ---- Libri: la lettura, solo da leggere, una pagina intera per schermo ---- */
+#libro{position:fixed;inset:0;z-index:850;background:#1a1c22;display:none}
+#libro.on{display:block}
+.lib-area{position:absolute;left:0;right:0;top:var(--sat);bottom:calc(56px + var(--sab));overflow-y:auto;overflow-x:hidden;
+  -webkit-overflow-scrolling:touch;scroll-snap-type:y mandatory;overscroll-behavior:contain}
+.lib-posto{display:flex;align-items:center;justify-content:center;scroll-snap-align:start;scroll-snap-stop:always;overflow:hidden}
+.lib-foglio{position:relative;background:var(--carta,#fff);box-shadow:0 10px 36px rgba(0,0,0,.5)}
+.lib-foglio canvas{display:block;mix-blend-mode:multiply}
+.lib-posto{position:relative}
+.lib-nastro{position:absolute;z-index:2;background:var(--ross);color:#fff;font:700 12px/1.2 -apple-system,Helvetica,Arial,sans-serif;
+  padding:10px 9px 14px;border-radius:0 0 6px 6px;box-shadow:0 4px 12px rgba(0,0,0,.35);
+  clip-path:polygon(0 0,100% 0,100% 100%,50% calc(100% - 7px),0 100%);white-space:nowrap}
+.let-foglio .lib-nastro{top:0;right:14px;z-index:5;pointer-events:none}
+.lst .lst-em{font-size:17px;line-height:19px;height:19px;display:block;font-weight:400}
+.lib-nastro.sopra{border-radius:6px 6px 0 0;padding:8px 9px;clip-path:none}
+.lib-carico{color:var(--tx2);text-align:center;padding-top:30vh;font-size:15px}
+.lib-barra{position:absolute;left:0;right:0;bottom:0;height:calc(56px + var(--sab));padding:0 12px var(--sab);
+  display:flex;align-items:center;gap:8px;background:#111317;border-top:1px solid rgba(255,255,255,.08);overflow-x:auto}
+.lib-bt{flex:0 0 auto;display:inline-flex;align-items:center;gap:5px;height:38px;padding:0 12px;border-radius:10px;
+  border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.06);color:#fff;font-size:15px;cursor:pointer}
+.lib-bt i{font-style:normal;font-size:12.5px;color:rgba(255,255,255,.8)}
+.lib-bt:hover{background:rgba(255,255,255,.14)}
+.lib-bt.on{background:var(--ross);border-color:transparent}
+.lib-bt.spento{opacity:.4}
+.lib-esc{font:600 11px/1 -apple-system,Helvetica,Arial,sans-serif;letter-spacing:.8px;text-transform:uppercase}
+.lib-esc:hover{background:var(--ross)}
+.lib-num{flex:0 0 auto;color:rgba(255,255,255,.8);font-size:14px;white-space:nowrap}
+.lib-num input{width:64px;height:34px;border-radius:8px;border:1px solid rgba(255,255,255,.2);background:#1d2027;color:#fff;
+  text-align:center;font-size:15px}
+.lib-tit{flex:1 1 auto;min-width:0;text-align:right;color:rgba(255,255,255,.6);font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+@media (max-width:700px){ .lib-bt i{display:none} .lib-tit{display:none} }
+
+/* ================= GIOCHI DAL 9 AL 16: stessi colori, bordi, ombre e pulsanti degli altri ================= */
+.gn-pagina .scelte{margin-bottom:0}
+.gn-kpi{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px}
+.gn-kpi .kpi .n{font-size:24px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.gn-centro{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:10px;text-align:center}
+.gn-fine{text-align:center;display:flex;flex-direction:column;align-items:center;gap:12px}
+.gn-fine h2{margin:0}
+.gn-fine .gn-kpi{width:100%}
+.gn-fine .premio-box,.gn-fine .classifica-box{width:100%;max-width:560px;text-align:left}
+.gn-record{margin:0;color:var(--oro);font-weight:600}
+.gn-opz{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+/* due colonne sempre uguali; una parola troppo lunga non va a capo a metà: esce e si nota, così le
+   scritte si rimpiccioliscono (adattaScritte) invece di spezzare «L'arcobalen-o» */
+.gn-opz .bt{overflow-wrap:normal}
+@media(max-width:640px){ .gn-opz{grid-template-columns:1fr} }
+.gn-opz .bt,.scl-opz .bt{white-space:normal;line-height:1.25;min-height:54px;font-size:16px;text-align:left;justify-content:flex-start}
+.gn-lett{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;width:28px;height:28px;border-radius:50%;
+  background:rgba(224,178,92,.18);color:var(--oro);font-weight:800;font-size:14px;margin-right:4px}
+.gn-esito{display:flex;flex-direction:column;align-items:center;gap:6px;padding:12px 14px;border-radius:var(--r2);text-align:center;
+  border:1px solid var(--bordo);background:var(--sup)}
+.gn-esito.si{border-color:var(--verde-c);box-shadow:0 0 0 1px var(--verde-c),0 0 22px rgba(95,212,143,.22)}
+.gn-esito.no{border-color:var(--ross-c);box-shadow:0 0 0 1px var(--ross-c),0 0 22px rgba(255,107,129,.2)}
+.gn-esito>b{font-size:15px;letter-spacing:.6px}
+.gn-esito.si>b{color:var(--verde-c)} .gn-esito.no>b{color:var(--ross-c)}
+.gn-punti{font-family:var(--serif);font-size:20px;color:var(--oro)}
+.gn-giusta{font-size:14.5px;color:var(--tx2)}
+.gn-spieg{font-size:14.5px;color:var(--tx2);line-height:1.45;max-width:720px}
+.gn-avanti{align-self:center;min-width:240px}
+.gn-barra{height:6px;border-radius:4px;background:var(--fondo2);overflow:hidden;margin-top:6px}
+.gn-barra i{display:block;height:100%;background:linear-gradient(90deg,var(--verde-c),#5bb8f0);border-radius:4px}
+.gn-ordina{display:flex;flex-direction:column;gap:8px}
+.gn-ord{justify-content:flex-start;white-space:normal;text-align:left;line-height:1.25;font-size:15.5px;min-height:48px}
+.gn-ord b{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;
+  background:var(--fondo2);color:var(--tx3);flex:0 0 auto}
+.gn-ord.on{border-color:var(--oro);background:rgba(224,178,92,.12)}
+.gn-ord.on b{background:var(--oro);color:#241703}
+.gn-premio-mini .premio-box{margin:0}
+.gn-progressi p{margin:6px 0;font-size:14.5px}
+.gn-trofeo{display:inline-block;padding:3px 9px;margin:2px;border-radius:20px;background:rgba(224,178,92,.14);border:1px solid rgba(224,178,92,.35);font-size:13px}
+.bt.scelto{border-color:var(--oro);box-shadow:0 0 0 2px var(--oro)}
+
+/* ---- 🎡 la ruota ---- */
+.ruo-campo{display:grid;grid-template-columns:minmax(0,1fr);gap:16px;align-items:start}
+@media(min-width:900px){ .ruo-campo{grid-template-columns:minmax(300px,420px) minmax(0,1fr)} }
+.ruo-ruota-box{position:relative;display:flex;flex-direction:column;align-items:center;max-width:420px;width:100%;margin:0 auto}
+.ruo-svg{width:100%;height:auto;filter:drop-shadow(0 14px 30px rgba(0,0,0,.45))}
+#ruoRuota{transform-origin:0 0;transition:transform 4.2s cubic-bezier(.12,.66,.1,1)}
+.ruo-sp.sp{filter:brightness(1.08)}
+.ruo-ic{font-size:20px}
+.ruo-et{font-size:10px;font-weight:800;fill:#101320;letter-spacing:.1px}
+.ruo-freccia{position:absolute;top:-6px;left:50%;transform:translateX(-50%);z-index:2;font-size:30px;color:#fff;
+  text-shadow:0 3px 10px rgba(0,0,0,.7)}
+.ruo-disco{position:relative;width:100%}
+.ruo-gira{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:26%;aspect-ratio:1/1;border-radius:50%;
+  border:0;background:linear-gradient(180deg,#ff8c9d,var(--ross));color:#fff;font-weight:800;font-size:clamp(11px,2.4vw,15px);line-height:1.1;
+  cursor:pointer;box-shadow:0 6px 18px rgba(200,16,46,.5);z-index:2}
+.ruo-gira[disabled]{opacity:.55;cursor:default}
+.ruo-gira:not([disabled]):active{transform:translate(-50%,-50%) scale(.95)}
+.ruo-msg{margin:10px 0 0;font-weight:700;color:var(--oro);text-align:center}
+.ruo-attesa{text-align:center}
+.ruo-legenda{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:10px}
+.ruo-legenda span{padding:5px 11px;border-radius:20px;background:var(--fondo2);border:1px solid var(--bordo);font-size:13px}
+
+/* ---- 🧱 costruisci il versetto ---- */
+.vrs-card{display:flex;flex-direction:column;gap:14px}
+.vrs-zona{display:flex;flex-wrap:wrap;gap:10px;align-items:center;min-height:70px;padding:12px;border-radius:var(--r2)}
+.vrs-risp{border:2px dashed rgba(224,178,92,.5);background:rgba(224,178,92,.05)}
+.vrs-pool{border:1px solid var(--bordo);background:var(--fondo2)}
+.vrs-vuoto{color:var(--tx3);font-size:14.5px}
+.vrs-blocco{display:inline-flex;align-items:center;padding:12px 16px;border-radius:12px;background:var(--sup2);border:1px solid var(--bordo2);
+  font-family:var(--serif);font-size:18px;cursor:grab;user-select:none;-webkit-user-select:none;touch-action:none;-webkit-touch-callout:none;
+  box-shadow:0 4px 12px rgba(0,0,0,.25);transition:background .15s}
+.vrs-risp .vrs-blocco{background:linear-gradient(180deg,rgba(224,178,92,.22),rgba(224,178,92,.1));border-color:rgba(224,178,92,.5)}
+.vrs-blocco.male{background:rgba(200,16,46,.3);border-color:var(--ross-c)}
+.vrs-blocco.fatto{background:rgba(31,164,99,.3);border-color:var(--verde-c)}
+.vrs-blocco.vrs-posto{opacity:.3}
+.vrs-ghost{position:fixed;left:0;top:0;z-index:950;pointer-events:none;opacity:.95;cursor:grabbing;box-shadow:0 14px 32px rgba(0,0,0,.5)}
+.vrs-segno{display:inline-block;width:4px;align-self:stretch;min-height:44px;border-radius:3px;background:var(--oro)}
+.vrs-msg{margin:0;text-align:center;color:var(--ross-c);font-weight:600}
+.vrs-msg.si{color:var(--verde-c)}
+.vrs-completo{display:flex;flex-direction:column;align-items:center;gap:12px;text-align:center}
+.vrs-completo h2{margin:0;color:var(--verde-c)}
+.vrs-testo{font-family:var(--serif);font-size:21px;line-height:1.5;margin:0;max-width:820px}
+#vrsTempo.poco,.spr-tempo.poco{color:var(--ross-c)}
+
+/* ---- 🧭 il viaggio ---- */
+.via-elenco{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
+.via-card{display:flex;align-items:center;gap:14px}
+.via-card.chiuso{opacity:.6}
+.via-card.fatto{border-color:var(--verde-c)}
+.via-card-ic{font-size:36px;flex:0 0 auto}
+.via-card-tx{flex:1 1 auto;min-width:0;display:flex;flex-direction:column;gap:3px}
+.via-card-tx span{font-size:12px;letter-spacing:.8px;color:var(--tx3);font-weight:700}
+.via-bloccato{font-size:12.5px;color:var(--tx3);max-width:150px}
+.via-testa{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.via-testa>b{font-size:18px;font-family:var(--serif)}
+.via-cont{margin-left:auto;font-weight:800;letter-spacing:.8px;color:var(--oro);font-size:13.5px}
+.via-campo{display:grid;grid-template-columns:minmax(0,1fr);gap:16px;align-items:start}
+@media(min-width:1000px){ .via-campo{grid-template-columns:minmax(0,1.25fr) minmax(0,1fr)} }
+.via-mappa{border-radius:18px;overflow:hidden;box-shadow:0 14px 34px rgba(0,0,0,.4)}
+.via-svg{display:block;width:100%;height:auto}
+.via-gr{stroke:rgba(224,178,92,.08);stroke-width:1}
+.via-nord{fill:rgba(224,178,92,.6);font-size:14px;font-weight:700}
+.via-fatta{stroke:var(--oro);stroke-width:4;stroke-linecap:round}
+.via-da-fare{stroke:rgba(224,178,92,.35);stroke-width:3;stroke-dasharray:4 9;stroke-linecap:round}
+.via-tappa circle{fill:#3a3223;stroke:rgba(224,178,92,.5);stroke-width:2}
+.via-tappa.vista circle{fill:var(--oro);stroke:#fff5d6}
+.via-tappa.prossima circle{fill:#1d2230;stroke:#5bb8f0;stroke-width:3}
+.via-q{fill:#5bb8f0;font-weight:800;font-size:13px}
+.via-et{fill:#f3e3c0;font-size:13px;font-weight:650;paint-order:stroke;stroke:#15130f;stroke-width:4px}
+.via-tappa:not(.vista):not(.prossima) .via-et{fill:rgba(243,227,192,.4)}
+.via-ini{fill:#101320;font-weight:800;font-size:14px}
+.via-lato{display:flex;flex-direction:column;gap:14px}
+.via-qui{display:flex;gap:10px;align-items:flex-start}
+.via-pin{font-size:26px}
+.via-qui b{font-size:18px;font-family:var(--serif)}
+.via-qui p{margin:4px 0 8px;color:var(--tx2);line-height:1.45}
+.via-prova{display:flex;flex-direction:column;gap:10px}
+.via-verso{margin:0;font-size:13px;letter-spacing:.6px;text-transform:uppercase;color:var(--tx3);font-weight:700}
+.via-prova .dom-testo{font-size:19px}
+.via-prova .dom-sopra{font-size:14px}
+.via-parola{display:flex;justify-content:center;gap:6px;flex-wrap:wrap}
+.via-parola span{min-width:28px;text-align:center;font-family:var(--serif);font-size:26px;border-bottom:2px solid var(--oro);padding:0 2px}
+.via-arrivo{margin:0;text-align:center;color:var(--oro)}
+
+/* ---- 🔐 il codice segreto ---- */
+.cdc-elenco{grid-template-columns:repeat(auto-fill,minmax(210px,1fr))}
+.cdc-liv{display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center;cursor:pointer;color:var(--tx);font:inherit}
+.cdc-liv:hover{border-color:var(--oro)}
+.cdc-liv.fatto{border-color:var(--verde-c)}
+.cdc-liv-ic{font-size:40px}
+.cdc-liv span{font-size:13px;color:var(--tx3)}
+.cdc-campo{display:grid;grid-template-columns:minmax(0,1fr);gap:16px;align-items:start}
+@media(min-width:900px){ .cdc-campo{grid-template-columns:minmax(260px,340px) minmax(0,1fr)} }
+.cdc-scrigno-box{display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center}
+.cdc-scrigno{font-size:78px;line-height:1;filter:drop-shadow(0 10px 20px rgba(0,0,0,.45))}
+.cdc-scrigno.aperto{animation:cdcApri .9s ease}
+@keyframes cdcApri{0%{transform:scale(.6) rotate(-12deg)}60%{transform:scale(1.25) rotate(6deg)}100%{transform:none}}
+.cdc-titolo{margin:0;font-weight:800;letter-spacing:1.4px;color:var(--oro)}
+.cdc-codice{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:8px}
+.cdc-et{font-weight:800;letter-spacing:1px;color:var(--tx3);font-size:13px}
+.cdc-slot{font-family:var(--serif);font-size:24px;padding:4px 10px;border-radius:10px;background:var(--fondo2);border:1px solid var(--bordo);letter-spacing:3px}
+.cdc-slot.ok{border-color:var(--oro);color:var(--oro)}
+.cdc-slot.nuova{animation:cdcParte .7s ease}
+@keyframes cdcParte{0%{transform:scale(1.6);box-shadow:0 0 30px var(--oro)}100%{transform:none}}
+.cdc-enigma{display:flex;flex-direction:column;gap:12px}
+.cdc-input{font-family:var(--serif);font-size:32px;text-align:center;letter-spacing:6px;padding:8px;border-radius:12px;
+  background:var(--fondo2);border:1px solid var(--bordo2);min-height:56px}
+.cdc-input.scuoti{animation:scuoti .45s}
+@keyframes scuoti{0%,100%{transform:none}20%,60%{transform:translateX(-9px)}40%,80%{transform:translateX(9px)}}
+.cdc-tast{display:grid;grid-template-columns:repeat(3,minmax(0,92px));gap:8px;justify-content:center}
+.cdc-t{height:56px;font-size:22px;font-weight:700}
+.cdc-aiuto{margin:0;color:var(--oro);font-weight:600}
+
+/* ---- 💡 parola misteriosa ---- */
+.pmi-card{display:flex;flex-direction:column;align-items:center;gap:12px;text-align:center}
+.pmi-cat{margin:0;letter-spacing:1px;font-size:14px;color:var(--tx2)}
+.pmi-lampade{display:flex;gap:10px;font-size:32px}
+.pmi-lampade .spenta{filter:grayscale(1) brightness(.5);opacity:.35}
+.pmi-lampade .accesa{filter:drop-shadow(0 0 10px rgba(255,190,80,.7))}
+.pmi-parola{margin:4px 0}
+.pmi-indizi p{margin:4px 0;color:var(--tx2);font-size:15.5px}
+.pmi-valore{font-size:13.5px;color:var(--tx3)}
+
+/* ---- 🏛️ il tempio ---- */
+.tpl-campo{display:grid;grid-template-columns:minmax(0,1fr);gap:16px;align-items:start}
+@media(min-width:900px){ .tpl-campo{grid-template-columns:minmax(320px,1fr) minmax(0,1fr)} }
+.tpl-edificio{display:flex;flex-direction:column;gap:10px}
+.tpl-svg{width:100%;height:auto}
+/* il Tempio in 3D */
+.tpl-3d-box{position:relative;width:100%;aspect-ratio:4/3;border-radius:14px;overflow:hidden;background:#1a2230}
+.tpl-3d{display:block;width:100%;height:100%;touch-action:none;cursor:grab}
+.tpl-3d-bt{position:absolute;top:8px;right:8px;display:flex;gap:6px;z-index:2}
+.tpl-3d-bt .bt{background:rgba(15,17,23,.72);backdrop-filter:blur(4px)}
+.tpl-3d-bt .bt.on{background:var(--oro);color:#1a1405;border-color:var(--oro)}
+.tpl-3d-aiuto{position:absolute;left:10px;bottom:6px;margin:0;font-size:11px;color:rgba(255,255,255,.7);pointer-events:none;text-shadow:0 1px 3px #000}
+.tpl-3d-grande{position:fixed;inset:0;z-index:950;background:#000}
+.tpl-3d-grande .tpl-3d-bt{top:calc(10px + var(--sat));right:12px}
+.tpl-parte.nuova{animation:tplSale 1.1s cubic-bezier(.2,.8,.2,1)}
+@keyframes tplSale{0%{opacity:0;transform:translateY(-40px)}100%{opacity:1;transform:none}}
+.tpl-fasi{display:flex;flex-wrap:wrap;gap:6px}
+.tpl-fasi span{font-size:12px;padding:4px 9px;border-radius:20px;background:var(--fondo2);border:1px solid var(--bordo);color:var(--tx3)}
+.tpl-fasi span.fatta{border-color:var(--verde-c);color:var(--verde-c)}
+.tpl-fasi span.ora{border-color:var(--oro);color:var(--oro);font-weight:700}
+.tpl-info{display:flex;flex-direction:column;align-items:center;gap:12px;text-align:center}
+.tpl-fase{margin:0;font-family:var(--serif);font-size:28px}
+.tpl-maestro{margin:0;font-weight:800;letter-spacing:1px;color:var(--oro);font-size:18px}
+.tpl-ass{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.tpl-ass>div{display:flex;flex-direction:column;gap:8px}
+.tpl-ass .bt{white-space:normal;line-height:1.25;min-height:50px}
+
+/* ---- ⚡ bibbia sprint ---- */
+.spr-testa{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.spr-tempo{font-family:var(--serif);font-size:44px;font-variant-numeric:tabular-nums;line-height:1}
+.spr-tempo.grande{font-size:72px;color:var(--oro)}
+.spr-combo{font-weight:800;letter-spacing:.8px;color:var(--tx3)}
+.spr-combo.on{color:#ffb347;text-shadow:0 0 16px rgba(255,150,40,.6)}
+.spr-punti{font-family:var(--serif);font-size:26px;color:var(--oro)}
+.spr-bonus{margin:0;font-weight:800;color:#5cffb8;text-align:center}
+.spr-card.bonus{box-shadow:0 0 0 2px #5cffb8,0 0 28px rgba(92,255,184,.3)}
+.spr-inizio{display:flex;flex-direction:column;align-items:center;gap:14px;text-align:center}
+.spr-via{min-width:240px;font-size:18px}
+.spr-errori{width:100%;max-width:760px;text-align:left}
+.spr-errori summary{cursor:pointer;font-weight:700;padding:8px 0}
+.spr-err{display:flex;flex-direction:column;gap:4px;align-items:flex-start;padding:10px 0;border-top:1px solid var(--bordo)}
+.spr-err span{font-size:14px;color:var(--tx2)}
+
+/* ---- 🏆 la scalata ---- */
+.scl-campo{display:grid;grid-template-columns:minmax(0,1fr);gap:16px;align-items:start}
+@media(min-width:900px){ .scl-campo{grid-template-columns:minmax(0,1fr) 230px} }
+.scl-opz{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media(max-width:640px){ .scl-opz{grid-template-columns:1fr} }
+.scl-opz .bt{position:relative;overflow:hidden}
+.scl-opz .bt.tolta{opacity:.25}
+.scl-pub{position:absolute;left:0;right:0;bottom:0;height:6px;background:rgba(255,255,255,.06)}
+.scl-pub i{display:block;height:100%;background:#5bb8f0}
+.scl-pub em{position:absolute;right:8px;bottom:6px;font-style:normal;font-size:12px;color:#5bb8f0;font-weight:800}
+.scl-libro{margin:0;text-align:center;color:var(--oro)}
+.scl-conf{display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap}
+.scl-conf b{letter-spacing:1px}
+.scl-sicuro{margin:0;text-align:center;font-weight:800;color:var(--oro);letter-spacing:.8px}
+.scl-aiuti{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+.scl-aiuto.usato{opacity:.35;text-decoration:line-through}
+.scl-scala ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:3px}
+.scl-scala li{display:flex;align-items:center;gap:8px;padding:5px 10px;border-radius:9px;font-variant-numeric:tabular-nums;font-size:14px}
+.scl-scala li span{width:20px;color:var(--tx3);font-size:12px}
+.scl-scala li b{flex:1 1 auto;text-align:right;font-weight:650}
+.scl-scala li.sicuro b{color:var(--oro)}
+.scl-scala li.fatto{color:var(--verde-c)}
+.scl-scala li.ora{background:linear-gradient(90deg,#e0b25c,#f5c542);color:#241703}
+.scl-scala li.ora span{color:#241703}
+.scl-card.milione{border-color:#f5c542;box-shadow:0 0 0 2px #f5c542,0 0 40px rgba(245,197,66,.35);
+  background:radial-gradient(ellipse at top,rgba(245,197,66,.16),transparent 60%),var(--sup)}
+.scl-card.milione .dom-sopra{color:#f5c542;font-weight:800;letter-spacing:1.4px}
+.scl-fine.campione{border-color:#f5c542;box-shadow:0 0 0 2px #f5c542,0 0 40px rgba(245,197,66,.35)}
+.scl-trofeo{font-size:90px;line-height:1;animation:cdcApri 1s ease}
+@media(max-width:899px){ .scl-scala ol{flex-direction:row;flex-wrap:wrap} .scl-scala li{flex:1 1 30%} }
+
+/* ---- la pagina dei 16 giochi: sull'iPad (in orizzontale e in verticale) sta tutta nello schermo ---- */
+@media(min-width:641px) and (min-height:560px){
+  body.gio-hub-fissa{overflow:hidden}
+  body.gio-hub-fissa #vista{height:100vh;height:100dvh;overflow:hidden;max-width:none;
+    padding:calc(var(--barra) + var(--sat) + 12px) 18px calc(12px + var(--sab))}
+  body.gio-hub-fissa #vista>.sez{height:100%;animation:none;display:flex;flex-direction:column;gap:clamp(6px,1.2vh,12px)}
+  body.gio-hub-fissa #vista>.sez>h1{margin:0;flex:0 0 auto;font-size:clamp(20px,3vh,28px)}
+  body.gio-hub-fissa .hm-gr.g4.gio-hub{flex:1 1 0;min-height:0;grid-template-columns:repeat(4,minmax(0,1fr));
+    grid-template-rows:repeat(4,minmax(0,1fr));gap:clamp(7px,1.2vh,14px)}
+  body.gio-hub-fissa .gio-hub .tz{min-height:0;padding:clamp(8px,1.4vh,18px) clamp(10px,1.3vw,18px);gap:4px;border-radius:16px}
+  body.gio-hub-fissa .gio-hub .tz-ic{font-size:clamp(20px,3.6vh,40px)}
+  body.gio-hub-fissa .gio-hub .tz-tx b{font-size:clamp(13px,2vh,19px)}
+  body.gio-hub-fissa .gio-hub .tz-tx i{font-size:clamp(10.5px,1.4vh,13.5px);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  body.gio-hub-fissa .gio-hub .tz-fr{top:8px;right:12px;font-size:18px}
+}
+
+/* ---- i giochi dal 9 al 16 in schermata fissa (iPad in orizzontale): tutto dentro lo schermo, come i primi 8.
+   Dove il contenuto è tanto (un viaggio, gli errori dello Sprint) scorre solo il suo riquadro, non la pagina ---- */
+@media(orientation:landscape) and (min-width:900px),(orientation:portrait) and (min-width:700px) and (min-height:900px){
+  body.gio-fissa .gn-pagina{gap:clamp(6px,1.1vh,12px)}
+  body.gio-fissa .gn-pagina .gn-kpi{flex:0 0 auto;gap:8px;grid-template-columns:repeat(auto-fit,minmax(110px,1fr))}
+  body.gio-fissa .gn-pagina .gn-kpi .kpi{padding:clamp(3px,.6vh,8px) 12px}
+  body.gio-fissa .gn-pagina .gn-kpi .kpi .n{font-size:clamp(18.4px,3.07vh,32.4px)}
+  body.gio-fissa .gn-pagina .gn-kpi .kpi .e{font-size:11.5px;margin-top:0}
+  body.gio-fissa .gn-pagina .scheda{justify-content:flex-start}
+  /* le risposte a griglia (A B C D) non si schiacciano: se serve scorre il riquadro, non si sovrappongono */
+  body.gio-fissa .gn-pagina .dom-card{overflow:auto}
+  body.gio-fissa .gn-pagina .dom-opz{flex:0 0 auto;justify-content:flex-start}
+  body.gio-fissa .gn-pagina .dom-opz .bt{flex:none;max-height:none;overflow:visible}
+  body.gio-fissa .gn-pagina .dom-testo{font-size:clamp(18.4px,3.3vh,32.4px)}
+  body.gio-fissa .gn-pagina .dom-sopra{font-size:clamp(12.65px,1.89vh,18.9px)}
+  body.gio-fissa .gn-pagina .gn-opz .bt,body.gio-fissa .scl-opz .bt{min-height:clamp(38px,6vh,54px);font-size:clamp(14.95px,2.24vh,21.6px);padding:.4em .9em}
+  body.gio-fissa .gn-esito{padding:clamp(6px,1vh,12px) 12px;gap:3px}
+  body.gio-fissa .gn-spieg,body.gio-fissa .gn-giusta{font-size:clamp(13.8px,2.01vh,19.58px)}
+  body.gio-fissa .gn-fine{flex:1 1 0;min-height:0;overflow:auto;justify-content:flex-start}
+  /* ruota: la ruota alta quanto lo spazio, la domanda accanto */
+  body.gio-fissa .ruo-campo{flex:1 1 0;min-height:0;display:grid;grid-template-columns:auto minmax(0,1fr);grid-template-rows:minmax(0,1fr)}
+  body.gio-fissa .ruo-ruota-box{height:auto;width:auto;max-width:none;justify-content:center;align-self:center}
+  body.gio-fissa .ruo-disco{height:calc(100% - 26px);aspect-ratio:1/1;width:auto;max-width:48vw}
+  body.gio-fissa .ruo-svg{width:100%;height:100%}
+  body.gio-fissa .ruo-msg{margin:4px 0 0;font-size:14.95px}
+  body.gio-fissa .ruo-dom,body.gio-fissa .ruo-attesa{height:100%;overflow:auto;margin:0}
+  /* costruisci il versetto */
+  body.gio-fissa .vrs-card{flex:1 1 0;min-height:0;overflow:auto;gap:clamp(6px,1.2vh,14px)}
+  body.gio-fissa .vrs-zona{min-height:clamp(50px,8vh,70px);padding:8px}
+  /* le due zone dei blocchi, il messaggio e il suggerimento non si schiacciano: se il versetto non ci sta,
+     si rimpicciolisce la pagina (adattaGioco) invece di far uscire i blocchi e coprirli col pulsante */
+  body.gio-fissa .vrs-card>*{flex:0 0 auto}
+  body.gio-fissa .vrs-blocco{padding:clamp(7px,1.2vh,12px) 14px;font-size:clamp(17.25px,2.6vh,24.3px)}
+  body.gio-fissa .gn-premio-mini{display:none}
+  /* viaggio */
+  body.gio-fissa .via-elenco{flex:1 1 0;min-height:0;overflow:auto;align-content:start}
+  body.gio-fissa .via-testa{flex:0 0 auto}
+  body.gio-fissa .via-campo{flex:1 1 0;min-height:0;grid-template-rows:minmax(0,1fr)}
+  body.gio-fissa .via-mappa{height:100%;display:flex;align-items:center;background:#15130f}
+  body.gio-fissa .via-svg{width:100%;height:100%}
+  body.gio-fissa .via-lato{height:100%;overflow:auto;gap:10px}
+  body.gio-fissa .via-prova .dom-testo{font-size:clamp(17.25px,2.83vh,25.65px)}
+  body.gio-fissa .via-prova .gn-opz .bt,body.gio-fissa .gn-ord{min-height:clamp(36px,5.5vh,48px)}
+  /* codice segreto */
+  body.gio-fissa .cdc-elenco{flex:1 1 0;min-height:0;overflow:auto;align-content:start}
+  body.gio-fissa .cdc-campo{flex:1 1 0;min-height:0;grid-template-rows:minmax(0,1fr)}
+  body.gio-fissa .cdc-scrigno-box{height:100%;justify-content:center}
+  body.gio-fissa .cdc-card{height:100%;overflow:auto;margin:0}
+  body.gio-fissa .cdc-scrigno{font-size:clamp(50.6px,10.62vh,105.3px)}
+  body.gio-fissa .cdc-input{font-size:clamp(23px,4.01vh,43.2px);min-height:0;padding:4px}
+  body.gio-fissa .cdc-t{height:clamp(34px,5.4vh,56px);font-size:clamp(18.4px,2.83vh,29.7px)}
+  body.gio-fissa .cdc-tast{gap:6px}
+  /* parola misteriosa */
+  body.gio-fissa .pmi-card{flex:1 1 0;min-height:0;overflow:auto;gap:clamp(4px,1vh,12px)}
+  body.gio-fissa .pmi-lampade{font-size:clamp(25.3px,4.48vh,43.2px)}
+  /* tempio */
+  body.gio-fissa .tpl-campo{flex:1 1 0;min-height:0;grid-template-rows:minmax(0,1fr)}
+  body.gio-fissa .tpl-edificio{height:100%;overflow:hidden;justify-content:center}
+  body.gio-fissa .tpl-svg{flex:1 1 0;min-height:0;width:100%}
+  body.gio-fissa .tpl-3d-box{flex:1 1 0;min-height:0;aspect-ratio:auto}
+  body.gio-fissa .tpl-card,body.gio-fissa .tpl-info{height:100%;overflow:auto;margin:0}
+  body.gio-fissa .tpl-ass .bt{min-height:clamp(34px,5vh,50px)}
+  /* sprint */
+  body.gio-fissa .spr-inizio{flex:1 1 0;justify-content:center}
+  body.gio-fissa .spr-tempo{font-size:clamp(32.2px,5.9vh,59.4px)}
+  /* scalata */
+  body.gio-fissa .scl-campo{flex:1 1 0;min-height:0;grid-template-rows:minmax(0,1fr)}
+  body.gio-fissa .scl-sx{height:100%;min-height:0;display:flex;flex-direction:column}
+  body.gio-fissa .scl-card,body.gio-fissa .scl-fine{flex:1 1 0;min-height:0;overflow:auto;margin:0}
+  body.gio-fissa .scl-scala{height:100%;overflow:auto;padding:8px 10px}
+  body.gio-fissa .scl-scala li{padding:clamp(1px,.35vh,5px) 8px;font-size:clamp(12.65px,1.89vh,18.9px)}
+}
+
+/* iPad in verticale: la ruota sopra, grande quanto la larghezza, e la domanda sotto */
+@media(orientation:portrait) and (min-width:700px) and (min-height:900px){
+  body.gio-fissa .ruo-campo{grid-template-columns:minmax(0,1fr);grid-template-rows:auto minmax(0,1fr)}
+  body.gio-fissa .ruo-dom,body.gio-fissa .ruo-attesa{height:auto;min-height:0;overflow:auto}
+}
+/* libri: il nome si tocca per cambiarlo; con la pagina ingrandita si scorre anche di lato */
+.lib-nome{cursor:pointer;text-decoration:underline dotted rgba(255,255,255,.5);text-underline-offset:3px}
+.lib-tit{cursor:pointer}
+.lib-area.zoom{scroll-snap-type:none;overflow-x:auto}
+.lib-area.zoom .lib-posto{scroll-snap-align:none}
+.lib-stack{transform-origin:0 0}
+
+/* ---- iPhone: i pulsanti delle azioni (Presenta, PowerPoint, PDF…) vanno a capo, due per riga, con la scritta intera ---- */
+@media(max-width:640px){
+  .az-quiz{gap:12px}
+  .az-quiz .az-conta{max-width:none;flex:1 1 100%}
+  .az-bt.una-riga{flex:1 1 100%;flex-wrap:wrap;overflow:visible}
+  .az-bt.una-riga .bt{flex:1 1 calc(50% - 6px);white-space:normal;min-height:44px;font-size:14px}
+  .bt:not(.mini){min-height:40px}
+}
+
+/* il pulsante del menu sul telefono e sull'iPad in verticale: più grande, con la scritta «Menu» */
+@media(max-width:980px){
+  .ham{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;min-width:48px;height:46px;
+    padding:3px 6px;border:1px solid var(--bordo2);background:var(--sup2);border-radius:12px}
+  .ham span{font-size:20px;line-height:1}
+  .ham i{font-style:normal;font-size:10px;font-weight:700;letter-spacing:.4px;color:var(--tx2);line-height:1}
+  body.menu .ham{background:var(--ross);border-color:transparent}
+  body.menu .ham i{color:#fff}
+}
+@media(max-width:640px){
+  .lez-bt{flex-wrap:wrap}
+  .lez-bt .bt{flex:1 1 calc(50% - 6px);min-width:0;white-space:normal}
+  .lez-bt .bt:first-child{flex-basis:100%}
+}
+
+/* ======================= 🕯️ MISTERO BIBLICO (6o_mistero.js) ======================= */
+.mis-testa-arch{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin:4px 0 12px}
+.mis-testa-arch h2{margin:0;font-size:24px;letter-spacing:1px}
+.mis-cont{font-size:16px;color:var(--tx2);background:var(--sup2);border:1px solid var(--bordo);border-radius:20px;padding:4px 14px}
+.mis-speciali{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px;margin-bottom:14px}
+.mis-spec{display:flex;align-items:center;gap:14px;text-align:left;cursor:pointer;border:1px solid var(--bordo2);font:inherit;color:inherit;padding:14px 16px}
+.mis-spec b{display:block;font-size:17px;letter-spacing:.5px}
+.mis-spec i{font-style:normal;color:var(--tx2);font-size:14px}
+.mis-spec-ic{font-size:36px}
+.mis-spec.giorno{background:linear-gradient(120deg,rgba(245,184,92,.22),rgba(245,184,92,.05));border-color:#f5b85c}
+.mis-spec.giorno.fatto{opacity:.75}
+.mis-spec.continua{background:linear-gradient(120deg,rgba(91,184,240,.22),rgba(91,184,240,.05));border-color:#5bb8f0}
+.mis-gruppo{margin-bottom:16px}
+.mis-gr-tit{font-size:18px;margin:6px 0 8px}
+.mis-griglia{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:12px}
+.mis-card{display:flex;flex-direction:column;align-items:flex-start;gap:4px;text-align:left;cursor:pointer;font:inherit;color:inherit;
+  border:1px solid var(--bordo2);padding:12px 14px;position:relative;transition:transform .15s,box-shadow .15s;min-height:150px}
+.mis-card:hover{transform:translateY(-2px);box-shadow:0 10px 26px rgba(0,0,0,.35)}
+.mis-card.chiuso{opacity:.55;cursor:default}
+.mis-card.fatto{border-color:#f5c542}
+.mis-num{font-size:11.5px;letter-spacing:2px;color:#f5b85c;font-weight:700}
+.mis-card-ic{font-size:34px;line-height:1.1}
+.mis-card-tit{font-family:var(--serif);font-size:18px;line-height:1.2}
+.mis-card-rif{font-size:13px;color:var(--tx3)}
+.mis-card-st{font-size:13px;color:var(--tx2);margin-top:auto}
+.mis-dif{position:absolute;top:10px;right:10px;font-size:11px;font-weight:700;color:var(--dc)}
+/* l'introduzione del caso */
+.mis-intro{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:10px;padding:clamp(16px,3vh,40px);flex:1 1 auto;min-height:0}
+.mis-intro-lampada{font-size:clamp(40px,7vh,72px);animation:misFiamma 2.4s ease-in-out infinite}
+@keyframes misFiamma{0%,100%{transform:scale(1) rotate(-2deg);filter:drop-shadow(0 0 10px rgba(255,190,90,.6))}50%{transform:scale(1.06) rotate(2deg);filter:drop-shadow(0 0 22px rgba(255,190,90,.9))}}
+.mis-intro-su{font-size:clamp(13px,1.8vh,16px);letter-spacing:3px;color:#f5b85c;font-weight:700}
+.mis-intro-tit{font-size:clamp(26px,5vh,48px);margin:0;letter-spacing:1px}
+.mis-intro-sotto{margin:0;color:var(--tx2);font-size:clamp(16px,2.3vh,22px)}
+.mis-intro-tx{font-family:var(--serif);font-size:clamp(19px,3.2vh,32px);line-height:1.45;max-width:30em;margin:6px 0}
+.mis-intro-az{display:flex;gap:12px;flex-wrap:wrap;justify-content:center}
+.bt.mis-grande{font-size:clamp(17px,2.4vh,22px);padding:.7em 1.4em}
+/* la barra dell'indagine */
+.mis-barra{display:flex;align-items:center;flex-wrap:wrap;gap:8px 12px;padding:8px 12px;border-radius:var(--r2);background:var(--sup);border:1px solid var(--bordo);flex:0 0 auto}
+.mis-b-tit{font-family:var(--serif);font-size:clamp(16px,2.2vh,21px)}
+.mis-b-n{font-size:clamp(14px,1.9vh,17px);color:var(--tx2)}
+.mis-b-n b{color:#f5b85c}
+.mis-b-pt{font-size:clamp(14px,1.9vh,17px);color:#4fd1a5;font-weight:700}
+.mis-b-bt{font-size:clamp(14px,1.9vh,17px)}
+.mis-barra .mis-b-bt:first-of-type{margin-left:auto}
+/* la scena: gli elementi stanno al loro posto e si toccano */
+.mis-scena{position:relative;flex:1 1 auto;min-height:clamp(320px,55vh,720px);overflow:hidden;padding:0}
+.mis-deco{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:clamp(80px,22vh,220px);opacity:.08;letter-spacing:.3em;pointer-events:none;white-space:nowrap}
+.mis-el{position:absolute;left:var(--x);top:var(--y);transform:translate(-50%,-50%);display:flex;flex-direction:column;align-items:center;gap:2px;
+  min-width:clamp(78px,10vw,130px);padding:8px 10px;border-radius:16px;border:2px solid rgba(255,255,255,.28);background:rgba(10,12,20,.55);
+  color:#fff;cursor:pointer;font:inherit;backdrop-filter:blur(3px);-webkit-backdrop-filter:blur(3px);transition:transform .15s,border-color .15s,box-shadow .15s;
+  animation:misRespiro 3.2s ease-in-out infinite}
+.mis-el:hover{transform:translate(-50%,-50%) scale(1.06);border-color:#f5b85c}
+.mis-el-ic{font-size:clamp(30px,5vh,52px);line-height:1}
+.mis-el-n{font-size:clamp(13px,1.8vh,17px);font-weight:600;text-shadow:0 1px 3px rgba(0,0,0,.6)}
+.mis-el.persona{border-style:dashed}
+.mis-el.trovato{border-color:#4fd1a5;background:rgba(20,60,45,.6);animation:none}
+.mis-el-ok{position:absolute;top:-8px;right:-8px;width:24px;height:24px;border-radius:50%;background:#4fd1a5;color:#06210f;font-style:normal;font-weight:800;display:flex;align-items:center;justify-content:center;font-size:14px}
+.mis-el.mis-nuovo{animation:misTrovato .6s ease}
+@keyframes misRespiro{0%,100%{box-shadow:0 0 0 0 rgba(245,184,92,.0)}50%{box-shadow:0 0 0 6px rgba(245,184,92,.18)}}
+@keyframes misTrovato{0%{transform:translate(-50%,-50%) scale(1.3)}100%{transform:translate(-50%,-50%) scale(1)}}
+/* le scene: sfondi diversi per ogni luogo, con i colori dei giochi */
+.mis-scena-palazzo{background:radial-gradient(circle at 50% 30%,rgba(245,184,92,.28),transparent 60%),linear-gradient(160deg,#3a1d4a,#1b1030 60%,#120b1f)}
+.mis-scena-deserto{background:radial-gradient(circle at 70% 20%,rgba(255,214,120,.35),transparent 55%),linear-gradient(180deg,#6b4a22,#3d2a14 70%,#231809)}
+.mis-scena-mare{background:radial-gradient(circle at 30% 20%,rgba(160,200,255,.2),transparent 55%),linear-gradient(180deg,#13324f,#0b1f33 60%,#061220)}
+.mis-scena-prigione{background:repeating-linear-gradient(90deg,rgba(255,255,255,.05) 0 6px,transparent 6px 70px),linear-gradient(180deg,#26272e,#15161b)}
+.mis-scena-monte{background:radial-gradient(circle at 50% 10%,rgba(255,150,80,.35),transparent 55%),linear-gradient(180deg,#3a2a2a,#1f1817 70%,#140f0e)}
+.mis-scena-citta{background:radial-gradient(circle at 60% 25%,rgba(240,210,150,.22),transparent 55%),linear-gradient(180deg,#4a3b2b,#2a2119 70%,#17120d)}
+.mis-scena-campo{background:radial-gradient(circle at 50% 15%,rgba(200,240,160,.22),transparent 55%),linear-gradient(180deg,#2f4a2a,#1c2e19 70%,#101c0e)}
+.mis-scena-tempio{background:radial-gradient(circle at 50% 25%,rgba(255,225,150,.3),transparent 60%),linear-gradient(180deg,#4a3a1a,#2b2210 70%,#171207)}
+.mis-scena-notte{background:radial-gradient(circle at 80% 15%,rgba(220,230,255,.25),transparent 40%),linear-gradient(180deg,#141a33,#0b0f22 70%,#060814)}
+.mis-scena-casa{background:radial-gradient(circle at 50% 30%,rgba(255,200,130,.25),transparent 60%),linear-gradient(180deg,#3d2c20,#241a13 70%,#140e0a)}
+.mis-scena-giardino{background:radial-gradient(circle at 40% 20%,rgba(220,255,200,.2),transparent 55%),linear-gradient(180deg,#1f3d2a,#12261a 70%,#0a160f)}
+.mis-scena-fiume{background:radial-gradient(circle at 50% 20%,rgba(170,220,255,.22),transparent 55%),linear-gradient(180deg,#1d3a3f,#112428 70%,#08151a)}
+/* l'indizio trovato */
+.mis-indizio{text-align:center}
+.mis-ind-ic{font-size:56px;line-height:1.1}
+.mis-ind-chi{font-size:14px;letter-spacing:1.5px;color:#f5b85c;font-weight:700;margin:6px 0;text-transform:uppercase}
+.mis-ind-tx{font-family:var(--serif);font-size:clamp(19px,2.6vh,25px);line-height:1.5;margin:6px 0 0}
+.mis-indizio.test .mis-ind-tx{font-style:italic}
+.mis-tac-tit{font-family:var(--serif);font-size:20px;margin-bottom:4px}
+.mis-tac-n{color:var(--tx2);margin-bottom:10px}
+.mis-tac-n b{color:#f5b85c}
+.mis-tac{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.mis-tac li{display:flex;gap:10px;align-items:flex-start;font-size:17px;padding:8px 10px;border-radius:10px;background:var(--sup2)}
+.mis-tac li span{font-size:22px}
+.mis-tac li::before{content:"✓";color:#4fd1a5;font-weight:800}
+.mis-tac-aiuti{margin-top:12px;color:#ffd166}
+.mis-aiuto-tx{font-size:19px;line-height:1.5;margin:0}
+/* le prove */
+.mis-prova{display:flex;flex-direction:column;gap:12px;flex:1 1 auto;min-height:0;overflow:auto}
+.mis-p-su{font-size:clamp(13px,1.8vh,16px);letter-spacing:2px;color:#f5b85c;font-weight:700}
+.mis-p-q{font-size:clamp(21px,3.4vh,34px);margin:0;line-height:1.3}
+.mis-opz .bt{font-size:clamp(16px,2.5vh,24px);white-space:normal;text-align:left;justify-content:flex-start;min-height:clamp(48px,7vh,76px)}
+.mis-vero{display:flex;flex-direction:column;gap:8px}
+.mis-v{display:flex;align-items:center;gap:12px;text-align:left;justify-content:flex-start;font-size:clamp(16px,2.4vh,22px);white-space:normal;min-height:clamp(46px,6.5vh,70px)}
+.mis-v-box{flex:0 0 auto;width:30px;height:30px;border-radius:8px;border:2px solid var(--bordo2);display:flex;align-items:center;justify-content:center;font-weight:800;color:#4fd1a5}
+.mis-v.on{border-color:#4fd1a5;background:rgba(79,209,165,.14)}
+.mis-v.on .mis-v-box{border-color:#4fd1a5}
+.mis-prova .gn-ord{font-size:clamp(15px,2.3vh,21px);white-space:normal;text-align:left}
+/* la fine del caso */
+.mis-fine{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px;align-items:start}
+.mis-risolto{text-align:center;display:flex;flex-direction:column;align-items:center;gap:6px;animation:misApri .7s cubic-bezier(.2,1.4,.4,1)}
+.mis-risolto h2{font-size:clamp(26px,4vh,40px);margin:0;color:#f5c542}
+@keyframes misApri{0%{transform:scale(.6);opacity:0}100%{transform:scale(1);opacity:1}}
+.mis-lucchetto{font-size:70px;animation:misLuc 1.2s ease}
+@keyframes misLuc{0%{transform:rotate(-20deg) scale(.5)}60%{transform:rotate(10deg) scale(1.15)}100%{transform:none}}
+.mis-f-comp{letter-spacing:3px;font-weight:700;color:var(--tx2)}
+.mis-stelle{font-size:44px;letter-spacing:6px;animation:misApri .9s .3s both}
+.mis-record{font-size:20px;font-weight:800;color:#ffd166}
+.mis-trofei{font-size:16px;color:#f5c542}
+.mis-storia h2{margin:0 0 6px}
+.mis-s-tit{display:block;font-family:var(--serif);font-size:19px;margin-bottom:6px}
+.mis-storia p{font-size:17px;line-height:1.6;margin:0 0 10px}
+.mis-f-riga{display:flex;justify-content:space-between;padding:6px 2px;border-bottom:1px solid var(--bordo);font-size:16px}
+.mis-f-riga b{color:#4fd1a5}
+.mis-f-riga.tot{font-size:20px;border-bottom:0}
+.mis-f-riga.tot b{color:#f5c542}
+.mis-f-az{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap}
+/* telefono: gli elementi della scena in griglia, grandi da toccare */
+@media(max-width:640px){
+  .mis-scena{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;padding:12px;min-height:0}
+  .mis-el{position:relative;left:auto;top:auto;transform:none;min-width:0;width:100%}
+  .mis-el:hover{transform:scale(1.03)}
+  @keyframes misTrovato{0%{transform:scale(1.2)}100%{transform:none}}
+  .mis-barra .mis-b-bt:first-of-type{margin-left:0}
+}
+/* la proposta automatica del prossimo giocatore in gara */
+.gara-prossimo{text-align:center;display:flex;flex-direction:column;align-items:center;gap:8px}
+.gara-prossimo .gc-av{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:var(--gc);color:#0b0d13;font-weight:800}
+.gp-fatto{font-size:19px;margin:0}
+.gp-perc{color:#ffd166;font-size:22px}
+.gp-ora{margin:10px 0 0;color:var(--tx2);font-size:16px;letter-spacing:.5px}
+.gp-nome{display:flex;align-items:center;gap:12px;font-size:34px;font-weight:800;color:var(--gc)}
+.gp-nome .gc-av{width:52px;height:52px;font-size:26px}

@@ -42,7 +42,25 @@ PR=json.load(open(dove('prediche_pages.json')))
 try: mappa=json.load(open(dove('mappa_prediche.json')))
 except SystemExit: mappa={}
 PO=json.load(open(dove('poesie_finali.json')))
+# poesie originali (scritte apposta, rime vere) — file a parte, in coda alle
+# vecchie così i loro numeri d'ordine non cambiano (strumenti/poesie/)
+try:
+    PO=PO+json.load(open(dove('poesie_estensione.json')))
+except SystemExit:
+    pass
 ES=json.load(open(dove('esperienze_500.json')))
+# altre esperienze vere (storia documentata, mai inventata) e racconti originali,
+# trovate/scritte a parte (strumenti/esperienze/, solo fonti libere/di dominio
+# pubblico per i fatti) — file a parte, così l'originale resta intatto
+try:
+    ES_EST=json.load(open(dove('esperienze_estensione.json')))
+    ES=ES+ES_EST
+except SystemExit:
+    pass
+# Dal 25 settembre 2026 il programma parte SENZA prediche, poesie ed esperienze di serie:
+# Ovidiu le carica lui (dal backup e dal file fatto con strumenti/archivio/esporta.py).
+# I file dei dati restano in dati/, solo non entrano più nel programma.
+PR=[]; PO=[]; ES=[]
 PRc=[[p['num'],p['tit'],0 if p['lg']=='it' else 1,p.get('rif',''),p['testo'],
       p.get('html',''),p.get('fam','helvetica'),p.get('px',21),p.get('col') or '#241d10'] for p in PR]
 POc=[[p['tit'],0 if p['lg']=='it' else 1,p['testo']] for p in PO]
@@ -50,9 +68,86 @@ ESc=[[e['tit'],0 if e['lg']=='it' else 1,e.get('rif',''),e['testo'],1 if e.get('
 
 # ---- «Chi ha detto?» ----
 CHD=json.load(open(dove('chihadetto_nuovo.json')))
+# altre frasi vere, trovate leggendo il testo delle Bibbie (strumenti/chihadetto/
+# genera_estensione.py) — un file a parte, così l'originale resta intatto
+try:
+    CHD_EST=json.load(open(dove('chihadetto_estensione.json')))
+    CHD=dict(CHD); CHD['d']=CHD['d']+CHD_EST
+except SystemExit:
+    CHD_EST=[]
+
+# «Chi ha detto?»: le frasi che hanno GIÀ scritto dentro il nome di chi parla («io sono l'Eterno», «Salmo di Davide…»)
+# non si possono usare — la risposta sarebbe nella domanda. Si tolgono qui, così vale per tutti i giochi e per la sezione.
+import re as _re, unicodedata as _ud
+def _tok(s):
+    s=_ud.normalize('NFD',s.lower().replace('’',"'"))
+    s=''.join(c for c in s if _ud.category(c)!='Mn').replace('ș','s').replace('ş','s').replace('ț','t').replace('ţ','t')
+    return _re.findall(r"[a-z0-9]+",s)
+_ART={'l','il','lo','la','i','gli','le','un','uno','una','di','del','de','lui','al','a','si','e','ed'}
+def _nome_dentro(x):
+    parole=[t for t in _tok(CHD['p'][x['lg']][x['chi']]) if t not in _ART and len(t)>=2]
+    frase=set(_tok(x['q']))
+    return bool(parole) and all(t in frase for t in parole)
+_prima=len(CHD['d'])
+CHD['d']=[x for x in CHD['d'] if not _nome_dentro(x)]
+print(f"  «Chi ha detto?»: tolte {_prima-len(CHD['d'])} frasi con il nome di chi parla già dentro ({len(CHD['d'])} restano)")
 
 # ---- le Bibbie ----
 BIB=json.load(open(dove('bibbia.json')))
+
+# ---- parole vere della Bibbia (Cruciverba/Impiccato): estratte dal testo stesso,
+#      mai inventate — per ogni parola tengo il libro e il riferimento del suo
+#      primo versetto, così i giochi possono mostrarlo e farlo cliccare ----
+import gzip,unicodedata
+from collections import Counter
+def _pulisci_parola(w):
+    w=w.lower()
+    w=unicodedata.normalize('NFD',w)
+    w=''.join(ch for ch in w if unicodedata.category(ch)!='Mn')
+    w=w.replace('ș','s').replace('ş','s').replace('ț','t').replace('ţ','t')
+    w=re.sub(r'[^a-z]','',w)
+    return w.upper()
+def parole_bibbia(cod,quante=10000,minlen=4,maxlen=13):
+    testo=gzip.decompress(base64.b64decode(BIB['v'][cod]['z'])).decode('utf-8')
+    righe=testo.split('\n')
+    cpl=BIB['cpl']; capv=BIB['cap']
+    conta=Counter(); primo={}
+    ir=0; ic=0
+    for Li in range(len(cpl)):
+        for c in range(1,cpl[Li]+1):
+            nv=capv[ic]; ic+=1
+            for v in range(1,nv+1):
+                riga=righe[ir]; ir+=1
+                for grezza in re.split(r"[^A-Za-zÀ-ÖØ-öø-ÿĂăÂâÎîȘșȚțŞşŢţ]+",riga):
+                    if not grezza: continue
+                    p=_pulisci_parola(grezza)
+                    if not (minlen<=len(p)<=maxlen): continue
+                    conta[p]+=1
+                    if p not in primo: primo[p]=(Li+1,c,v)
+    scelte=sorted(conta.items(),key=lambda kv:(-kv[1],kv[0]))[:quante]
+    out=[]
+    for parola,_ in scelte:
+        L,c,v=primo[parola]
+        nome=LIBRI[L-1][2] if cod=='ro' else LIBRI[L-1][1]
+        out.append([parola,L,f"{nome} {c}:{v}"])
+    return out
+PBIT=parole_bibbia('it')
+PBRO=parole_bibbia('ro')
+
+# ---- le 5.000 parole per lingua del Cruciverba, ognuna con il suo indizio
+#      (strumenti/cruciverba/genera.py le prepara da domande, personaggi e
+#      versetti già dentro al programma, più gli indizi scritti a mano) ----
+CRV=json.load(open(dove('cruciverba_parole.json')))
+CRVLIB=json.load(open(dove('cruciverba_libri.json')))
+
+# ---- le parole dell'Impiccato, ognuna con la sua piccola descrizione
+#      (strumenti/impiccato/genera.py le prepara da quelle scritte a mano) ----
+IMPP=json.load(open(dove('impiccato_parole.json')))
+
+# ---- i contenuti dei giochi dal 9 al 16, in italiano e in rumeno
+#      (strumenti/giochi/genera.py li prepara dai file scritti a mano) ----
+GNUOVI=json.load(open(dove('giochi_nuovi.json')))
+MISTERI=json.load(open(dove('misteri.json')))   # Mistero Biblico: strumenti/misteri/genera.py
 
 # ---- località del mondo, per alba e tramonto ----
 LOC=json.load(open(dove('localita.json')))
@@ -83,6 +178,18 @@ const _PO={js(POc)};
 const _ES={js(ESc)};
 const _LOCD={js(LOC)};
 const _BIBD={js(BIB)};
+const _PBIT={js(PBIT)};
+const _PBRO={js(PBRO)};
+const PAROLE_BIBBIA={{it:_PBIT.map(x=>({{parola:x[0],L:x[1],v:x[2]}})),ro:_PBRO.map(x=>({{parola:x[0],L:x[1],v:x[2]}}))}};
+const _CRVD={js(CRV)};
+const _CRVLIB={js(CRVLIB)};
+const _IMPD={js(IMPP)};
+const GIOCHI_NUOVI={js(GNUOVI)};
+const MISTERI={js(MISTERI)};
+const IMPICCATO_PAROLE={{it:_IMPD.it.map(x=>({{parola:x[0],dif:x[1],desc:x[2],v:x[3]}})),ro:_IMPD.ro.map(x=>({{parola:x[0],dif:x[1],desc:x[2],v:x[3]}}))}};
+const CRUCIVERBA_LIBRI={{it:_CRVLIB.it.map(x=>({{L:x[0],parola:x[1],ind:[x[2]]}})),ro:_CRVLIB.ro.map(x=>({{L:x[0],parola:x[1],ind:[x[2]]}}))}};
+const _CRVMAP=l=>_CRVD[l].map(x=>({{parola:x[0],dif:x[1],tipo:x[2],L:x[3],ind:x[4],chi:x[5]}}));
+const CRUCIVERBA_PAROLE={{it:_CRVMAP('it'),ro:_CRVMAP('ro')}};
 const _CHD={js(CHD)};
 const RACCOLTE={{avventista:{{et:'Innario avventista',br:'Avventista',lg:'it',ic:'📕'}},
   riformista:{{et:'Nuovo innario riformista',br:'Riformista',lg:'it',ic:'📗'}},
@@ -115,4 +222,4 @@ html=(html.replace('__CSS__',css).replace('__DATI__',dati).replace('__PDFWORKER_
 nome=f'Prediche_e_Domande_v{VER}.html'
 io.open(os.path.join(QUI,nome),'w',encoding='utf-8').write(html)
 print(f"✓ {nome} — {len(html.encode())/1024:.0f} KB")
-print(f"  domande {len(Q)} · chi ha detto {len(CHD['d'])} · cantici {len(CC)} · libri {len(libri)}")
+print(f"  domande {len(Q)} · chi ha detto {len(CHD['d'])} · cantici {len(CC)} · libri {len(libri)} · parole bibbia it {len(PBIT)} ro {len(PBRO)} · parole cruciverba it {len(CRV['it'])} ro {len(CRV['ro'])}")

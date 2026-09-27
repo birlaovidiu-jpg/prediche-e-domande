@@ -1,0 +1,191 @@
+# Altri viaggi dell'Antico Testamento (2)
+
+= meriba_kadesh | 🪨 | Le acque di Meriba | Apele Meriba | 4 20:1
+@ sin | 4 20:1 | il deserto di Sin | pustia Țin
+it: Nel primo mese tutta l'assemblea arrivò al deserto di Sin e si fermò a Kadesh.
+ro: În luna întâi, toată adunarea a ajuns în pustia Țin și s-a oprit la Cades.
+@ kadesh | 4 20:1
+it: A Kadesh morì Miriam, la sorella di Mosè, e lì fu sepolta.
+ro: La Cades a murit Maria, sora lui Moise, și acolo a fost îngropată.
+? personaggio | 4 20:1
+qi: Chi morì a Kadesh e fu sepolta lì?
+qr: Cine a murit la Cades și a fost îngropată acolo?
+ai: Miriam | Sefora | Iochebed | Sara
+ar: Maria | Sefora | Iochebed | Sara
+@ kadesh | 4 20:11 | la roccia | stânca
+it: Il popolo non aveva acqua; Mosè alzò la mano e percosse la roccia con il bastone, e ne uscì acqua in abbondanza.
+ro: Poporul n-avea apă; Moise a ridicat mâna și a lovit stânca cu toiagul, și a ieșit apă din belșug.
+? domanda | 4 20:11
+qi: Quante volte Mosè percosse la roccia?
+qr: De câte ori a lovit Moise stânca?
+ai: Due volte | Una volta | Sette volte | Tre volte
+ar: De două ori | O dată | De șapte ori | De trei ori
+@ kadesh | 4 20:12 | il giudizio dell'Eterno | judecata Domnului
+it: L'Eterno disse a Mosè e ad Aaronne che non avrebbero introdotto il popolo nel paese promesso.
+ro: Domnul le-a spus lui Moise și lui Aaron că nu vor duce ei poporul în țara făgăduită.
+? domanda | 4 20:12
+qi: Perché Mosè e Aaronne non entrarono nel paese promesso?
+qr: De ce n-au intrat Moise și Aaron în țara făgăduită?
+ai: Non avevano creduto nell'Eterno per dargli gloria davanti al popolo | Erano troppo vecchi | Avevano costruito il vitello d'oro | Il popolo non li voleva
+ar: Nu crezuseră în Domnul ca să-L sfințească înaintea poporului | Erau prea bătrâni | Făcuseră vițelul de aur | Poporul nu-i voia
+@ hor | 4 20:28
+it: Sul monte Hor Mosè vestì Eleazar con le vesti di Aaronne, e Aaronne morì sulla cima del monte.
+ro: Pe muntele Hor, Moise l-a îmbrăcat pe Eleazar cu veșmintele lui Aaron, și Aaron a murit pe vârful muntelui.
+? personaggio | 4 20:28
+qi: Chi ricevette le vesti del sommo sacerdote dopo Aaronne?
+qr: Cine a primit veșmintele marelui preot după Aaron?
+ai: Eleazar, suo figlio | Giosuè | Finehas | Core
+ar: Eleazar, fiul lui | Iosua | Fineas | Core
+
+= mefibosceth | 🦽 | Mefibosceth alla mensa del re | Mefiboșet la masa împăratului | 10 9:1
+@ lodebar | 10 9:4
+it: Davide cercò qualcuno della casa di Saul per usargli bontà: Tsiba disse che un figlio di Gionathan viveva a Lodebar.
+ro: David a căutat pe cineva din casa lui Saul ca să-i facă bine: Țiba a spus că un fiu al lui Ionatan locuia la Lodebar.
+@ gerusalemme | 10 9:7
+it: Davide disse a Mefibosceth: «Non temere; tu mangerai sempre alla mia mensa».
+ro: David i-a zis lui Mefiboșet: „Nu te teme; vei mânca totdeauna la masa mea”.
+? domanda | 10 9:7
+qi: Per amore di chi Davide usò bontà a Mefibosceth?
+qr: Din dragoste pentru cine i-a făcut David bine lui Mefiboșet?
+ai: Di Gionathan, suo padre | Di Samuele | Di Mikal | Di Abner
+ar: Pentru Ionatan, tatăl lui | Pentru Samuel | Pentru Mical | Pentru Abner
+@ gerusalemme | 10 9:13 | la mensa del re | masa împăratului
+it: Mefibosceth, storpio di ambedue i piedi, abitava a Gerusalemme e mangiava sempre alla mensa del re.
+ro: Mefiboșet, olog de amândouă picioarele, locuia la Ierusalim și mânca totdeauna la masa împăratului.
+? personaggio | 10 9:2
+qi: Chi era il servo della casa di Saul che informò Davide?
+qr: Cine era slujitorul casei lui Saul care l-a înștiințat pe David?
+ai: Tsiba | Scimei | Ahithofel | Hushai
+ar: Țiba | Șimei | Ahitofel | Hușai
+@ giordano | 10 19:24
+it: Quando Davide tornò dopo la ribellione di Absalom, Mefibosceth gli scese incontro, trascurato nei piedi e nella barba.
+ro: Când David s-a întors după răscoala lui Absalom, Mefiboșet i-a ieșit înainte, cu picioarele și barba neîngrijite.
+? domanda | 10 19:24
+qi: Come si presentò Mefibosceth al re che tornava?
+qr: Cum s-a înfățișat Mefiboșet înaintea împăratului care se întorcea?
+ai: Con i piedi trascurati, la barba lunga e le vesti non lavate | Con una corona | Con un esercito | Con molti doni d'oro
+ar: Cu picioarele neîngrijite, cu barba netăiată și hainele nespălate | Cu o cunună | Cu o oaste | Cu multe daruri de aur
+
+= ritorno_davide | 👑 | Il ritorno di Davide a Gerusalemme | Întoarcerea lui David la Ierusalim | 10 19:15
+@ mahanaim | 10 19:8
+it: Dopo la morte di Absalom, il re si sedette alla porta di Mahanaim, e tutto il popolo venne davanti a lui.
+ro: După moartea lui Absalom, împăratul a șezut la poarta Mahanaimului, și tot poporul a venit înaintea lui.
+@ giordano | 10 19:31
+it: Barzillai di Galaad accompagnò il re fino al Giordano.
+ro: Barzilai din Galaad l-a însoțit pe împărat până la Iordan.
+? domanda | 10 19:32
+qi: Quanti anni aveva Barzillai?
+qr: Câți ani avea Barzilai?
+ai: 80 | 40 | 120 | 65
+ar: 80 | 40 | 120 | 65
+@ giordano | 10 19:37 | il saluto a Barzillai | despărțirea de Barzilai
+it: Barzillai tornò a casa sua e lasciò che il giovane Kimham andasse con il re.
+ro: Barzilai s-a întors acasă și l-a lăsat pe tânărul Chimham să meargă cu împăratul.
+? personaggio | 10 19:37
+qi: Chi andò con il re al posto di Barzillai?
+qr: Cine a mers cu împăratul în locul lui Barzilai?
+ai: Kimham | Tsiba | Ittai | Shobi
+ar: Chimham | Țiba | Itai | Șobi
+@ ghilgal | 10 19:40
+it: Il re passò a Ghilgal, accompagnato da tutto il popolo di Giuda e da metà del popolo d'Israele.
+ro: Împăratul a trecut la Ghilgal, însoțit de tot poporul lui Iuda și de jumătate din poporul lui Israel.
+? luogo | 10 19:15
+qi: Dove andarono gli uomini di Giuda incontro al re, per fargli passare il Giordano?
+qr: Unde au mers oamenii lui Iuda înaintea împăratului, ca să-l treacă Iordanul?
+ai: A Ghilgal | A Hebron | A Bethel | A Gerico
+ar: La Ghilgal | La Hebron | La Betel | La Ierihon
+@ gerusalemme | 10 20:3
+it: Finalmente Davide rientrò nella sua casa a Gerusalemme.
+ro: În sfârșit, David a intrat în casa lui din Ierusalim.
+? ordina | 10 20:3
+qi: Metti in ordine il ritorno di Davide.
+qr: Pune în ordine întoarcerea lui David.
+ai: La porta di Mahanaim | Il Giordano con Barzillai | Ghilgal | Gerusalemme
+ar: Poarta Mahanaimului | Iordanul cu Barzilai | Ghilgal | Ierusalim
+
+= scimei_gat | 🐴 | Scimei e il torrente Kidron | Șimei și pârâul Chedron | 11 2:36
+@ gerusalemme | 11 2:36
+it: Salomone disse a Scimei di costruirsi una casa a Gerusalemme e di non uscire mai dalla città.
+ro: Solomon i-a spus lui Șimei să-și zidească o casă la Ierusalim și să nu iasă niciodată din cetate.
+@ chedron | 11 2:37
+it: «Il giorno che passerai il torrente Kidron, sappi che morirai».
+ro: „În ziua când vei ieși și vei trece pârâul Chedron, să știi că vei muri”.
+? luogo | 11 2:37
+qi: Quale torrente Scimei non doveva attraversare?
+qr: Ce pârâu nu trebuia să treacă Șimei?
+ai: Il Kidron | Il Giordano | Il Kishon | Lo Jabbok
+ar: Chedron | Iordanul | Chison | Iabocul
+@ gat | 11 2:40
+it: Dopo tre anni due servi di Scimei fuggirono a Gath, ed egli sellò l'asino e andò a riprenderli.
+ro: După trei ani, doi robi ai lui Șimei au fugit la Gat, iar el și-a pus samarul pe măgar și s-a dus să-i aducă înapoi.
+? personaggio | 11 2:39
+qi: Da quale re di Gath erano fuggiti i servi di Scimei?
+qr: La care împărat al Gatului fugiseră robii lui Șimei?
+ai: Akish | Agag | Hiram | Nahash
+ar: Achiș | Agag | Hiram | Nahaș
+@ gerusalemme | 11 2:46 | il ritorno a Gerusalemme | întoarcerea la Ierusalim
+it: Tornato a Gerusalemme, Scimei fu punito come Salomone aveva detto.
+ro: Întors la Ierusalim, Șimei a fost pedepsit cum spusese Solomon.
+? domanda | 11 2:39
+qi: Dopo quanti anni i servi di Scimei fuggirono?
+qr: După câți ani au fugit robii lui Șimei?
+ai: Tre anni | Un anno | Sette anni | Dieci anni
+ar: Trei ani | Un an | Șapte ani | Zece ani
+
+= roboamo_scishak | 🛡️ | Scishak e gli scudi d'oro | Șișac și scuturile de aur | 11 14:25
+@ egitto | 11 14:25
+it: Nel quinto anno del re Roboamo, Scishak, re d'Egitto, salì contro Gerusalemme.
+ro: În al cincilea an al domniei lui Roboam, Șișac, împăratul Egiptului, s-a suit împotriva Ierusalimului.
+@ gerusalemme | 11 14:26
+it: Scishak portò via i tesori del tempio e del palazzo reale, compresi gli scudi d'oro di Salomone.
+ro: Șișac a luat vistieriile Casei Domnului și ale casei împăratului, și toate scuturile de aur făcute de Solomon.
+? personaggio | 11 14:25
+qi: Quale re d'Egitto saccheggiò Gerusalemme al tempo di Roboamo?
+qr: Care împărat al Egiptului a jefuit Ierusalimul în vremea lui Roboam?
+ai: Scishak | Neko | Faraone Hofra | Tirhakah
+ar: Șișac | Neco | Faraon Hofra | Tirhaca
+@ tempio | 11 14:27
+it: Al posto degli scudi d'oro Roboamo fece fare scudi di bronzo e li affidò alle guardie del palazzo.
+ro: În locul scuturilor de aur, Roboam a făcut scuturi de aramă și le-a încredințat străjerilor casei împăratului.
+? domanda | 11 14:27
+qi: Con che cosa sostituì Roboamo gli scudi d'oro?
+qr: Cu ce a înlocuit Roboam scuturile de aur?
+ai: Con scudi di bronzo | Con scudi d'argento | Con scudi di legno | Non li sostituì
+ar: Cu scuturi de aramă | Cu scuturi de argint | Cu scuturi de lemn | Nu le-a înlocuit
+@ egitto | 11 14:26 | il ritorno di Scishak | întoarcerea lui Șișac
+it: Scishak tornò in Egitto portando con sé tutto il bottino.
+ro: Șișac s-a întors în Egipt, luând cu el toată prada.
+? domanda | 11 14:25
+qi: In quale anno del regno di Roboamo salì Scishak?
+qr: În ce an al domniei lui Roboam s-a suit Șișac?
+ai: Nel quinto | Nel primo | Nel decimo | Nel ventesimo
+ar: În al cincilea | În primul | În al zecelea | În al douăzecilea
+
+= eliseo_ascia | 🪓 | Il ferro della scure che galleggia | Fierul securii care plutește | 12 6:1
+@ gerico | 12 6:1
+it: I figli dei profeti dissero a Eliseo che il luogo dove abitavano era troppo stretto per loro.
+ro: Fiii prorocilor i-au spus lui Elisei că locul unde locuiau era prea strâmt pentru ei.
+@ giordano | 12 6:4
+it: Andarono al Giordano con Eliseo e cominciarono a tagliare gli alberi.
+ro: Au mers la Iordan cu Elisei și au început să taie copaci.
+? domanda | 12 6:2
+qi: Dove andarono i figli dei profeti a prendere il legname?
+qr: Unde s-au dus fiii prorocilor să ia lemne?
+ai: Al Giordano | Al Libano | Al Karmel | A Bethel
+ar: La Iordan | În Liban | La Carmel | La Betel
+@ giordano | 12 6:5 | la riva del fiume | malul râului
+it: Mentre uno abbatteva un tronco, il ferro della scure cadde nell'acqua: «Ah, mio signore, l'avevo preso in prestito!».
+ro: Pe când doborî unul un copac, fierul securii a căzut în apă: „Ah, domnul meu, era împrumutat!”
+? evento | 12 6:6
+qi: Come fece Eliseo a far tornare a galla il ferro?
+qr: Cum a făcut Elisei să iasă fierul deasupra apei?
+ai: Gettò un pezzo di legno nel punto dove era caduto | Si tuffò nel fiume | Pregò tutta la notte | Chiamò i pescatori
+ar: A aruncat o bucată de lemn în locul unde căzuse | S-a aruncat în râu | S-a rugat toată noaptea | A chemat pescarii
+@ giordano | 12 6:7 | il ferro ripreso | fierul luat înapoi
+it: Eliseo disse: «Prendilo», e l'uomo stese la mano e lo prese.
+ro: Elisei a zis: „Ia-l”, iar omul a întins mâna și l-a luat.
+? domanda | 12 6:5
+qi: Perché l'uomo si disperò quando cadde il ferro?
+qr: De ce s-a tânguit omul când a căzut fierul?
+ai: Perché la scure era presa in prestito | Perché era d'oro | Perché era del re | Perché era l'unica del paese
+ar: Pentru că securea era împrumutată | Pentru că era de aur | Pentru că era a împăratului | Pentru că era singura din țară

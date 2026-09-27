@@ -1,0 +1,79 @@
+# Altri luoghi della Bibbia (seconda serie): città, monti, valli, fiumi, regioni, isole e chiese dell'Apocalisse.
+# RISPOSTA IT|RISPOSTA RO|livello 1-3|libro|tipo|indizio italiano|indizio rumeno
+BEER-SCEBA|BEER-SEBA|2|1|l|La città del sud dove Abrahamo scavò un pozzo e fece alleanza con Abimelek|Cetatea din sud unde Avraam a săpat o fântână și a făcut legământ cu Abimelec
+GHILGAL|GHILGAL|2|6|l|Il primo accampamento d'Israele in Canaan, dove furono innalzate le dodici pietre del Giordano|Prima tabără a lui Israel în Canaan, unde s-au ridicat cele douăsprezece pietre din Iordan
+MITSPAH|MITPA|3|1|l|Il luogo dove Labano e Giacobbe fecero alleanza con un mucchio di pietre|Locul unde Laban și Iacov au făcut legământ cu o movilă de pietre
+JEZREEL|IZREEL|2|11|l|La città dove Achab aveva un palazzo e dove Naboth fu ucciso per la sua vigna|Cetatea unde Ahab avea un palat și unde Nabot a fost ucis pentru via lui
+MEGHIDDO|MEGHIDO|3|12|l|La città dove il re Giosia fu ucciso dal faraone Neko|Cetatea unde împăratul Iosia a fost ucis de faraonul Neco
+HESHBON|HESBON|3|4|l|La città del re Sihon, conquistata da Israele|Cetatea împăratului Sihon, cucerită de Israel
+SEIR|SEIR|3|1|l|La regione montuosa dove abitavano Esaù e i suoi discendenti|Ținutul muntos unde locuiau Esau și urmașii lui
+HAMATH|HAMAT|3|4|l|La città della Siria che segnava il confine nord della terra promessa|Cetatea din Siria care însemna hotarul de nord al țării făgăduite
+RAMAH|RAMA|2|9|l|La città dove abitava Samuele e dove fu sepolto|Cetatea unde locuia Samuel și unde a fost îngropat
+GHIBEAH|GHIBEA|3|7|l|La città di Beniamino dove avvenne il terribile crimine contro la concubina del levita|Cetatea lui Beniamin unde s-a petrecut fapta cumplită împotriva țiitoarei leviților
+KEILAH|CHEILA|3|9|l|La città che Davide liberò dai Filistei e i cui abitanti l'avrebbero poi consegnato a Saul|Cetatea pe care David a izbăvit-o de filisteni și ai cărei locuitori l-ar fi dat apoi în mâna lui Saul
+ANATHOTH|ANATOT|2|24|l|Il paese di sacerdoti dove nacque il profeta Geremia|Locul de preoți unde s-a născut proorocul Ieremia
+TEKOA|TECOA|3|30|l|La città di Giuda da cui veniva il profeta Amos, pastore|Cetatea lui Iuda din care era proorocul Amos, păstor
+CESAREA|CEZAREEA|2|44|l|La città portuale romana dove abitava il centurione Cornelio|Cetatea portuară romană unde locuia sutașul Corneliu
+CIRENE|CIRENE|3|41|l|La città africana da cui veniva Simone, costretto a portare la croce di Gesù|Cetatea africană din care era Simon, silit să poarte crucea lui Isus
+ICONIO|ICONIA|3|44|l|La città della Licaonia dove Paolo e Barnaba predicarono nel primo viaggio|Cetatea din Licaonia unde au predicat Pavel și Barnaba în prima călătorie
+DERBE|DERBE|3|44|l|La città della Licaonia raggiunta da Paolo dopo essere stato lapidato a Listra|Cetatea din Licaonia la care a ajuns Pavel după ce fusese ucis cu pietre la Listra
+TARSO|TARS|2|44|l|La città della Cilicia dove nacque Paolo|Cetatea din Cilicia unde s-a născut Pavel
+TROAS|TROA|3|44|l|La città dove Paolo ebbe la visione dell'uomo macedone che lo invitava a passare in Macedonia|Cetatea unde Pavel a avut vedenia omului macedonean care îl chema în Macedonia
+ALESSANDRIA|ALEXANDRIA|3|44|l|La grande città d'Egitto da cui veniva l'oratore Apollo|Marea cetate din Egipt din care era cuvântătorul Apolo
+ITALIA|ITALIA|2|44|l|Il paese verso cui Paolo fu mandato prigioniero e dove si trova Roma|Țara spre care a fost trimis Pavel ca prizonier și unde se află Roma
+PENUEL|PENUEL|3|1|l|Il luogo dove Giacobbe lottò con Dio fino all'alba|Locul unde Iacov s-a luptat cu Dumnezeu până în zori
+SHARON|SARON|3|22|l|La pianura costiera la cui rosa è cantata nel Cantico dei Cantici|Câmpia de pe țărm cu trandafirul cântat în Cântarea Cântărilor
+SAREPTA|SAREPTA|3|42|l|La città fenicia dove Elia visse presso una vedova, moltiplicandole farina e olio|Cetatea feniciană unde a locuit Ilie la o văduvă, înmulțindu-i făina și untdelemnul
+BETFAGE|BETFAGHE|3|40|l|Il villaggio del monte degli Ulivi da cui Gesù mandò a prendere l'asina|Satul de pe Muntele Măslinilor de unde Isus a trimis să aducă măgărița
+CILICIA|CILICIA|3|44|l|La regione dell'Asia Minore di cui Tarso era la città principale|Ținutul din Asia Mică în care Tarsul era cetatea de frunte
+LAODICEA|LAODICEEA|2|66|l|La chiesa dell'Apocalisse che non era né fredda né calda|Biserica din Apocalipsa care nu era nici rece, nici caldă
+MESOPOTAMIA|MESOPOTAMIA|2|1|l|La regione fra il Tigri e l'Eufrate dove si trovava Haran|Ținutul dintre Tigru și Eufrat unde se afla Haranul
+ARABIA|ARABIA|3|48|l|La terra dove Paolo andò dopo la sua conversione|Țara unde a mers Pavel după convertirea lui
+ELATH|ELAT|3|11|l|Il porto sul Mar Rosso presso il quale Salomone costruì una flotta|Portul de pe Marea Roșie lângă care Solomon a făcut o flotă
+JABBOK|IABOC|2|1|l|Il torrente dove Giacobbe lottò con l'angelo|Pârâul unde Iacov s-a luptat cu îngerul
+KINNERETH|CHINERET|3|4|l|Il nome antico del lago di Galilea|Numele vechi al lacului Galileii
+MADIAN|MADIAN|2|2|l|Il paese dove Mosè fuggì e sposò Sefora|Țara unde a fugit Moise și s-a căsătorit cu Sefora
+TSOAR|TOAR|3|1|l|La piccola città dove Lot si rifugiò lasciando Sodoma|Cetățuia unde s-a adăpostit Lot părăsind Sodoma
+PADDAN-ARAM|PADAN-ARAM|3|1|l|La regione dove Giacobbe fuggì presso Labano|Ținutul unde a fugit Iacov la Laban
+ARNON|ARNON|3|4|l|Il fiume che segnava il confine fra Moab e gli Amorei|Râul care însemna hotarul dintre Moab și amoriți
+HINNOM|HINOM|3|12|l|La valle presso Gerusalemme dove si facevano passare i bambini per il fuoco in onore di Molek|Valea de lângă Ierusalim unde se treceau copiii prin foc în cinstea lui Moloh
+TOFET|TOFET|3|12|l|Il luogo, nella valle di Hinnom, dove si bruciavano i figli in onore di un idolo|Locul din valea Hinom unde se ardeau fiii în cinstea unui idol
+HAVILAH|HAVILA|3|1|l|La terra bagnata dal fiume Pishon, ricca d'oro|Țara scăldată de râul Pison, bogată în aur
+TAHPANHES|TAHPANES|3|24|l|La città d'Egitto dove fuggirono i Giudei portando con sé Geremia|Cetatea din Egipt unde au fugit iudeii luând cu ei pe Ieremia
+MIGDOL|MIGDOL|3|2|l|Il luogo presso cui Israele si accampò prima di attraversare il Mar Rosso|Locul lângă care s-a tăbărât Israel înainte de a trece Marea Roșie
+SCINAR|SINEAR|3|1|l|La pianura dove gli uomini costruirono la torre di Babele|Câmpia unde au zidit oamenii turnul Babel
+OFIR|OFIR|3|11|l|La terra famosa per il suo oro da cui tornavano le navi di Salomone|Țara faimoasă pentru aurul ei de unde se întorceau corăbiile lui Solomon
+MAMRE|MAMRE|2|1|l|Il luogo delle querce dove Abrahamo ricevette tre visitatori|Locul stejarilor unde a primit Avraam trei vizitatori
+PARAN|PARAN|3|1|l|Il deserto dove abitò Ismaele|Pustia unde a locuit Ismael
+ACAIA|AHAIA|3|44|l|La provincia romana della Grecia di cui Corinto era la capitale|Provincia romană din Grecia al cărei capitală era Corintul
+IOPPE|IOPE|3|44|l|Il porto dove Pietro ebbe la visione del lenzuolo con gli animali|Portul unde Petru a avut vedenia cearșafului cu animale
+TARSHISH|TARSIS|3|32|l|La città lontana verso cui Giona tentò di fuggire|Cetatea îndepărtată spre care a încercat să fugă Iona
+ETIOPIA|ETIOPIA|3|44|l|Il regno africano a sud dell'Egitto di cui era regina Candace|Împărăția africană la sud de Egipt a cărei împărăteasă era Candace
+MEDIA||3|27|l|Il regno che, con la Persia, prese Babilonia|
+LAISH|LAIS|3|7|l|La città che i Daniti conquistarono e chiamarono Dan|Cetatea pe care au cucerit-o danitii și au numit-o Dan
+HATSOR|HATOR|3|6|l|La città del re Jabin, incendiata da Giosuè|Cetatea împăratului Iabin, arsă de Iosua
+JABESH|IABES|3|9|l|La città di Galaad che Saul liberò dagli Ammoniti|Cetatea din Galaad pe care a izbăvit-o Saul de amoniți
+TEMAN|TEMAN|3|18|l|La città da cui veniva Elifaz, l'amico di Giobbe|Cetatea din care era Elifaz, prietenul lui Iov
+RABBAH|RABA|3|10|l|La capitale degli Ammoniti, assediata da Joab|Capitala amoniților, asediată de Ioab
+BETH-SCEMESH|BET-SEMES|3|9|l|La città di Giuda dove i Filistei rimandarono l'arca su un carro|Cetatea lui Iuda unde filistenii au trimis înapoi chivotul într-un car
+TIRTSAH|TIRTA|3|11|l|La città dove regnarono alcuni re d'Israele prima di Samaria|Cetatea unde au domnit câțiva împărați ai lui Israel înainte de Samaria
+GHEZER|GHEZER|3|11|l|La città data in dote alla figlia del faraone, moglie di Salomone|Cetatea dată ca zestre fiicei faraonului, soția lui Solomon
+KADESH-BARNEA|CADES-BARNEA|3|4|l|Il luogo da cui Mosè mandò gli esploratori nella terra promessa|Locul de unde a trimis Moise iscoadele în țara făgăduită
+PATMOS|PATMOS|2|66|l|L'isola dove Giovanni ricevette la rivelazione dell'Apocalisse|Insula unde a primit Ioan descoperirea Apocalipsei
+CRETA|CRETA|2|56|l|L'isola dove Paolo lasciò Tito|Insula unde l-a lăsat Pavel pe Tit
+SMIRNE|SMIRNA|3|66|l|La chiesa dell'Apocalisse a cui è promessa «la corona della vita»|Biserica din Apocalipsa căreia i se făgăduiește «cununa vieții»
+PERGAMO|PERGAM|3|66|l|La chiesa dell'Apocalisse dove si trova il trono di Satana|Biserica din Apocalipsa unde se află scaunul de domnie al Satanei
+TIATIRA|TIATIRA|3|66|l|La chiesa dell'Apocalisse dove una donna chiamata Jezebel insegnava|Biserica din Apocalipsa unde învăța o femeie numită Izabela
+SARDI|SARDES|3|66|l|La chiesa dell'Apocalisse che aveva fama di vivere ma era morta|Biserica din Apocalipsa care avea nume că trăiește, dar era moartă
+COLOSSE|COLOSE|3|51|l|La città della Frigia a cui Paolo scrisse una lettera|Cetatea din Frigia căreia i-a scris Pavel o epistolă
+LISTRA|LISTRA|3|44|l|La città dove Paolo fu lapidato e trascinato fuori, dato per morto|Cetatea unde Pavel a fost ucis cu pietre și târât afară, socotit mort
+AREOPAGO|AREOPAG|3|44|l|Il colle di Atene dove Paolo parlò del «Dio sconosciuto»|Dealul din Atena unde a vorbit Pavel despre «Dumnezeul necunoscut»
+SICHAR|SIHAR|3|43|l|La città della Samaria presso cui Gesù parlò con una donna al pozzo|Cetatea Samariei lângă care a vorbit Isus cu o femeie la fântână
+NAIN|NAIN|3|42|l|La città dove Gesù risuscitò il figlio di una vedova|Cetatea unde Isus a înviat pe fiul unei văduve
+CORAZIN|HORAZINE|3|40|l|La città della Galilea rimproverata da Gesù insieme a Betsaida|Cetatea din Galileea mustrată de Isus împreună cu Betsaida
+LIDDA|LIDA|3|44|l|La città dove Pietro guarì il paralitico Enea|Cetatea unde Petru a vindecat pe paraliticul Enea
+MILETO|MILET|3|44|l|La città dove Paolo salutò gli anziani di Efeso prima di partire|Cetatea unde Pavel a luat rămas bun de la bătrânii din Efes
+FENICIA|FENICIA|3|44|l|La regione costiera di cui Tiro e Sidone erano le città principali|Ținutul de coastă în care Tirul și Sidonul erau cetățile de frunte
+DECAPOLI|DECAPOLE|3|41|l|La regione delle dieci città a est del Giordano dove l'uomo guarito parlò di Gesù|Ținutul celor zece cetăți la est de Iordan unde omul vindecat a vestit pe Isus
+ARMAGHEDDON|ARMAGHEDON|3|66|l|Il luogo dove, secondo l'Apocalisse, i re della terra si radunano per la battaglia|Locul unde, după Apocalipsa, se adună împărații pământului pentru bătălie
+MAKPELAH|MACPELA|3|1|l|La caverna comprata da Abrahamo dagli Hitthei per seppellire Sara|Peștera cumpărată de Avraam de la hetiți ca să îngroape pe Sara

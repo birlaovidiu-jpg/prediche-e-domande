@@ -1,0 +1,162 @@
+# Altri viaggi (5)
+
+= inviati_babilonia | 💰 | Gli inviati di Babilonia da Ezechia | Solii Babilonului la Ezechia | 12 20:12
+@ babilonia | 12 20:12
+it: Berodak-Baladan, re di Babilonia, mandò lettere e un dono a Ezechia, che era stato ammalato.
+ro: Berodac-Baladan, împăratul Babilonului, i-a trimis scrisori și un dar lui Ezechia, care fusese bolnav.
+@ gerusalemme | 12 20:13
+it: Ezechia accolse gli inviati e mostrò loro tutta la casa del suo tesoro: argento, oro, aromi e armi.
+ro: Ezechia i-a primit pe soli și le-a arătat toată casa vistieriei lui: argintul, aurul, mirodeniile și armele.
+? domanda | 12 20:13
+qi: Che cosa mostrò Ezechia agli inviati di Babilonia?
+qr: Ce le-a arătat Ezechia solilor Babilonului?
+ai: Tutta la casa del suo tesoro | Solo il tempio | Le mura della città | Nulla
+ar: Toată casa vistieriei lui | Numai Templul | Zidurile cetății | Nimic
+@ gerusalemme | 12 20:17 | la parola di Isaia | cuvântul lui Isaia
+it: Il profeta Isaia annunciò che un giorno tutto sarebbe stato portato a Babilonia.
+ro: Prorocul Isaia a vestit că într-o zi totul va fi dus la Babilon.
+? personaggio | 12 20:14
+qi: Quale profeta chiese a Ezechia che cosa avessero visto gli inviati?
+qr: Care proroc l-a întrebat pe Ezechia ce văzuseră solii?
+ai: Isaia | Geremia | Michea | Elia
+ar: Isaia | Ieremia | Mica | Ilie
+@ babilonia | 12 20:17 | il futuro esilio | robia de mai târziu
+it: Anni dopo la profezia si compì: i tesori di Gerusalemme furono portati a Babilonia.
+ro: După mulți ani, prorocia s-a împlinit: vistieriile Ierusalimului au fost duse la Babilon.
+? domanda | 12 20:12
+qi: Perché il re di Babilonia mandò un dono a Ezechia?
+qr: De ce i-a trimis împăratul Babilonului un dar lui Ezechia?
+ai: Aveva sentito che Ezechia era stato ammalato | Voleva comprare il tempio | Chiedeva aiuto contro l'Egitto | Voleva sposare sua figlia
+ar: Auzise că Ezechia fusese bolnav | Voia să cumpere Templul | Cerea ajutor împotriva Egiptului | Voia să se însoare cu fata lui
+
+= discepoli_giovanni | ❓ | I discepoli di Giovanni vanno da Gesù | Ucenicii lui Ioan merg la Isus | 40 11:2
+@ prigioneerode | 40 11:2
+it: Giovanni, in prigione, udì delle opere del Cristo e mandò due dei suoi discepoli a interrogarlo.
+ro: Ioan, în temniță, a auzit despre lucrările lui Hristos și a trimis doi dintre ucenicii lui să-L întrebe.
+@ capernaum | 40 11:3 | la Galilea | Galileea
+it: I discepoli chiesero a Gesù: «Sei tu colui che deve venire, oppure dobbiamo aspettarne un altro?».
+ro: Ucenicii L-au întrebat pe Isus: „Tu ești Acela care are să vină sau să așteptăm pe altul?”
+? domanda | 40 11:5
+qi: Che cosa rispose Gesù ai discepoli di Giovanni?
+qr: Ce le-a răspuns Isus ucenicilor lui Ioan?
+ai: Di riferire che i ciechi vedono, gli zoppi camminano e ai poveri è annunciato l'evangelo | «Sì, sono io il re» | «Chiedete al sommo sacerdote» | «Non lo so»
+ar: Să spună că orbii își capătă vederea, șchiopii umblă și săracilor li se propovăduiește Evanghelia | „Da, Eu sunt împăratul” | „Întrebați-l pe marele preot” | „Nu știu”
+@ prigioneerode | 40 11:4 | il ritorno da Giovanni | întoarcerea la Ioan
+it: I discepoli tornarono da Giovanni per riferirgli ciò che avevano udito e visto.
+ro: Ucenicii s-au întors la Ioan să-i spună ce auziseră și văzuseră.
+? domanda | 40 11:11
+qi: Che cosa disse Gesù di Giovanni Battista dopo la partenza dei discepoli?
+qr: Ce a spus Isus despre Ioan Botezătorul după plecarea ucenicilor?
+ai: Che fra i nati di donna non è sorto nessuno più grande di lui | Che era un falso profeta | Che doveva uscire di prigione | Che era Elia in persona
+ar: Că dintre cei născuți din femei nu s-a ridicat nici unul mai mare decât el | Că era un proroc mincinos | Că trebuia să iasă din temniță | Că era chiar Ilie
+
+= settimana_passione | 🌿 | I giorni prima della Pasqua | Zilele dinaintea Paștelui | 40 21:17
+@ betania | 40 21:17
+it: Dopo l'ingresso a Gerusalemme, Gesù uscì dalla città e passò la notte a Betania.
+ro: După intrarea în Ierusalim, Isus a ieșit din cetate și a mas la Betania.
+@ betfage | 40 21:19 | il fico lungo la strada | smochinul de lângă drum
+it: Tornando in città al mattino, Gesù vide un fico con sole foglie e lo fece seccare.
+ro: Dimineața, pe când se întorcea în cetate, Isus a văzut un smochin care avea numai frunze și l-a făcut să se usuce.
+? evento | 40 21:19
+qi: Che cosa trovò Gesù sul fico lungo la strada?
+qr: Ce a găsit Isus în smochinul de lângă drum?
+ai: Soltanto foglie | Molti frutti maturi | Un nido di uccelli | Un uomo nascosto
+ar: Numai frunze | Multe roade coapte | Un cuib de păsări | Un om ascuns
+@ tempio | 40 21:23
+it: Nel tempio i capi dei sacerdoti chiesero a Gesù con quale autorità facesse quelle cose.
+ro: În Templu, preoții cei mai de seamă L-au întrebat pe Isus cu ce putere face lucrurile acestea.
+? domanda | 40 22:21
+qi: Che cosa rispose Gesù sulla moneta del tributo?
+qr: Ce a răspuns Isus despre banul birului?
+ai: «Rendete a Cesare ciò che è di Cesare e a Dio ciò che è di Dio» | «Non pagate il tributo» | «Date tutto al tempio» | «Chiedete a Pilato»
+ar: „Dați Cezarului ce este al Cezarului și lui Dumnezeu ce este al lui Dumnezeu” | „Nu plătiți birul” | „Dați totul Templului” | „Întrebați-l pe Pilat”
+@ ulivi | 40 24:3
+it: Seduto sul monte degli Ulivi, Gesù parlò ai discepoli della fine del tempo e del suo ritorno.
+ro: Pe când ședea pe Muntele Măslinilor, Isus le-a vorbit ucenicilor despre sfârșitul veacului și despre venirea Lui.
+? domanda | 40 24:3
+qi: Che cosa chiesero i discepoli a Gesù sul monte degli Ulivi?
+qr: Ce L-au întrebat ucenicii pe Isus pe Muntele Măslinilor?
+ai: Quando sarebbero avvenute queste cose e quale sarebbe stato il segno della sua venuta | Dove avrebbero mangiato la Pasqua | Chi fosse il più grande | Quanto costava il tempio
+ar: Când se vor întâmpla aceste lucruri și care va fi semnul venirii Lui | Unde vor mânca Paștele | Cine este cel mai mare | Cât costa Templul
+@ betania | 40 26:6 | la casa di Simone il lebbroso | casa lui Simon leprosul
+it: A Betania, in casa di Simone il lebbroso, una donna versò sul capo di Gesù un olio profumato di gran prezzo.
+ro: În Betania, în casa lui Simon leprosul, o femeie a turnat pe capul lui Isus un mir de mare preț.
+? domanda | 40 26:13
+qi: Che cosa promise Gesù per la donna che versò il profumo?
+qr: Ce a făgăduit Isus pentru femeia care a turnat mirul?
+ai: Che ovunque sarà predicato l'evangelo si racconterà ciò che ha fatto | Che sarebbe diventata ricca | Che avrebbe visto il tempio | Che avrebbe avuto un figlio
+ar: Că oriunde va fi propovăduită Evanghelia se va spune și ce a făcut ea | Că se va îmbogăți | Că va vedea Templul | Că va avea un fiu
+
+= paolo_arabia | 🏜️ | Paolo in Arabia e i primi anni | Pavel în Arabia și primii ani | 48 1:17
+@ damasco | 48 1:16
+it: Dopo la chiamata di Dio, Paolo non consultò nessuno.
+ro: După chemarea lui Dumnezeu, Pavel nu s-a sfătuit cu nimeni.
+@ arabia | 48 1:17
+it: Paolo non salì subito a Gerusalemme, ma se ne andò in Arabia.
+ro: Pavel nu s-a suit îndată la Ierusalim, ci s-a dus în Arabia.
+? luogo | 48 1:17
+qi: Dove andò Paolo subito dopo la sua conversione, secondo la lettera ai Galati?
+qr: Unde s-a dus Pavel îndată după întoarcerea lui la Dumnezeu, după Epistola către galateni?
+ai: In Arabia | A Roma | In Egitto | A Tarso
+ar: În Arabia | La Roma | În Egipt | La Tars
+@ damasco | 48 1:17 | il ritorno a Damasco | întoarcerea la Damasc
+it: Poi Paolo ritornò di nuovo a Damasco.
+ro: Apoi Pavel s-a întors din nou la Damasc.
+? domanda | 48 1:18
+qi: Dopo quanti anni Paolo salì a Gerusalemme a vedere Pietro?
+qr: După câți ani s-a suit Pavel la Ierusalim să-l vadă pe Petru?
+ai: 3 | 1 | 14 | 7
+ar: 3 | 1 | 14 | 7
+@ gerusalemme | 48 1:18
+it: A Gerusalemme Paolo rimase con Pietro quindici giorni e vide anche Giacomo, fratello del Signore.
+ro: La Ierusalim, Pavel a stat cu Petru cincisprezece zile și l-a văzut și pe Iacov, fratele Domnului.
+? domanda | 48 1:18
+qi: Per quanti giorni Paolo rimase con Pietro a Gerusalemme?
+qr: Câte zile a stat Pavel cu Petru la Ierusalim?
+ai: 15 | 40 | 3 | 7
+ar: 15 | 40 | 3 | 7
+@ tarso | 48 1:21 | la Siria e la Cilicia | Siria și Cilicia
+it: Poi Paolo andò nelle regioni della Siria e della Cilicia.
+ro: Apoi Pavel s-a dus în ținuturile Siriei și Ciliciei.
+? ordina | 48 1:21
+qi: Metti in ordine i primi viaggi di Paolo secondo la lettera ai Galati.
+qr: Pune în ordine primele călătorii ale lui Pavel după Epistola către galateni.
+ai: Arabia | Di nuovo Damasco | Gerusalemme con Pietro | La Siria e la Cilicia
+ar: Arabia | Din nou Damasc | Ierusalim cu Petru | Siria și Cilicia
+
+= paolo_filippi | 🟣 | Paolo e Sila a Filippi | Pavel și Sila la Filipi | 44 16:9
+@ troas | 44 16:9
+it: A Troas Paolo ebbe una visione: un uomo macedone lo supplicava: «Passa in Macedonia e soccorrici».
+ro: La Troa, Pavel a avut o vedenie: un macedonean îl ruga: „Treci în Macedonia și ajută-ne!”
+@ samotracia | 44 16:11
+it: Salpando da Troas, si diressero a Samotracia e il giorno dopo a Neapolis.
+ro: Plecând din Troa, s-au dus drept la Samotracia, iar a doua zi la Neapole.
+? domanda | 44 16:9
+qi: Che cosa diceva l'uomo della visione di Paolo?
+qr: Ce spunea omul din vedenia lui Pavel?
+ai: «Passa in Macedonia e soccorrici» | «Torna a Gerusalemme» | «Vieni a Roma» | «Resta a Troas»
+ar: „Treci în Macedonia și ajută-ne!” | „Întoarce-te la Ierusalim” | „Vino la Roma” | „Rămâi la Troa”
+@ filippi | 44 16:14
+it: Lungo il fiume, fuori di Filippi, Lidia, commerciante di porpora di Tiatiri, ascoltò e il Signore aprì il suo cuore.
+ro: Lângă râu, afară din Filipi, Lidia, vânzătoare de porfiră din Tiatira, a ascultat, și Domnul i-a deschis inima.
+? personaggio | 44 16:14
+qi: Chi era Lidia?
+qr: Cine era Lidia?
+ai: Una commerciante di porpora della città di Tiatiri | Una profetessa di Filippi | La moglie del carceriere | Una schiava indovina
+ar: O vânzătoare de porfiră din cetatea Tiatira | O prorociță din Filipi | Nevasta temnicerului | O roabă ghicitoare
+@ filippi | 44 16:25 | la prigione di Filippi | temnița din Filipi
+it: Verso mezzanotte Paolo e Sila pregavano e cantavano inni; un terremoto aprì le porte della prigione.
+ro: Pe la miezul nopții, Pavel și Sila se rugau și cântau imne; un cutremur a deschis ușile temniței.
+? domanda | 44 16:31
+qi: Che cosa risposero Paolo e Sila al carceriere che chiedeva come essere salvato?
+qr: Ce i-au răspuns Pavel și Sila temnicerului care întreba cum să fie mântuit?
+ai: «Credi nel Signore Gesù Cristo e sarai salvato tu e la tua casa» | «Fuggi da Filippi» | «Liberaci subito» | «Offri un sacrificio»
+ar: „Crede în Domnul Isus, și vei fi mântuit tu și casa ta” | „Fugi din Filipi” | „Slobozește-ne îndată” | „Adu o jertfă”
+@ tessalonica | 44 17:1
+it: Lasciata Filippi, passarono per Anfipoli e Apollonia e giunsero a Tessalonica.
+ro: După ce au plecat din Filipi, au trecut prin Amfipoli și Apolonia și au ajuns la Tesalonic.
+? ordina | 44 17:1
+qi: Metti in ordine il viaggio verso la Macedonia.
+qr: Pune în ordine drumul spre Macedonia.
+ai: La visione a Troas | Samotracia | Neapolis | Lidia a Filippi | La prigione | Tessalonica
+ar: Vedenia de la Troa | Samotracia | Neapole | Lidia la Filipi | Temnița | Tesalonic

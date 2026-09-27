@@ -1,0 +1,223 @@
+# Altri viaggi (6)
+
+= paolo_atene | 🏛️ | Da Tessalonica ad Atene | De la Tesalonic la Atena | 44 17:10
+@ tessalonica | 44 17:10
+it: Per la sommossa di Tessalonica, i fratelli fecero partire di notte Paolo e Sila per Berea.
+ro: Din pricina tulburării din Tesalonic, frații i-au trimis noaptea pe Pavel și pe Sila la Bereea.
+@ berea | 44 17:11
+it: I Giudei di Berea ricevettero la parola con prontezza, esaminando ogni giorno le Scritture.
+ro: Iudeii din Bereea au primit Cuvântul cu toată râvna și cercetau Scripturile în fiecare zi.
+? domanda | 44 17:11
+qi: Che cosa facevano ogni giorno i Giudei di Berea?
+qr: Ce făceau în fiecare zi iudeii din Bereea?
+ai: Esaminavano le Scritture per vedere se le cose stavano così | Andavano al mercato | Digiunavano | Contavano le monete del tempio
+ar: Cercetau Scripturile ca să vadă dacă ce li se spunea era așa | Mergeau la piață | Posteau | Numărau banii Templului
+@ atene | 44 17:16
+it: Ad Atene lo spirito di Paolo si inacerbiva vedendo la città piena di idoli.
+ro: În Atena, duhul lui Pavel se întărâta în el când vedea cetatea plină de idoli.
+? domanda | 44 17:16
+qi: Che cosa turbava Paolo ad Atene?
+qr: Ce îl tulbura pe Pavel în Atena?
+ai: La città piena di idoli | Il mare in tempesta | La mancanza di sinagoghe | La lingua greca
+ar: Cetatea plină de idoli | Marea furtunoasă | Lipsa sinagogilor | Limba greacă
+@ atene | 44 17:23 | l'Areopago | Areopagul
+it: In mezzo all'Areopago Paolo parlò di un altare trovato in città, con la scritta: «Al Dio sconosciuto».
+ro: În mijlocul Areopagului, Pavel a vorbit despre un altar găsit în cetate, cu scrierea: „Unui Dumnezeu necunoscut!”
+? evento | 44 17:23
+qi: Quale scritta aveva trovato Paolo su un altare di Atene?
+qr: Ce scriere găsise Pavel pe un altar din Atena?
+ai: «Al Dio sconosciuto» | «A Giove, il più grande» | «Alla dea Diana» | «Al re Cesare»
+ar: „Unui Dumnezeu necunoscut!” | „Lui Jupiter, cel mai mare” | „Zeiței Diana” | „Împăratului Cezar”
+@ corinto | 44 18:1
+it: Dopo l'Areopago, alcuni credettero, fra cui Dionigi l'areopagita e Damaris; poi Paolo andò a Corinto.
+ro: După Areopag, câțiva au crezut, printre care Dionisie Areopagitul și Damaris; apoi Pavel s-a dus la Corint.
+? personaggio | 44 17:34
+qi: Quale donna credette dopo il discorso di Paolo ad Atene?
+qr: Ce femeie a crezut după cuvântarea lui Pavel din Atena?
+ai: Damaris | Lidia | Febe | Priscilla
+ar: Damaris | Lidia | Fivi | Priscila
+
+= paolo_corinto | ⚖️ | Paolo a Corinto | Pavel la Corint | 44 18:1
+@ atene | 44 18:1
+it: Paolo lasciò Atene e si recò a Corinto.
+ro: Pavel a plecat din Atena și s-a dus la Corint.
+@ corinto | 44 18:8
+it: A Corinto credette al Signore Crispo, capo della sinagoga, con tutta la sua famiglia, e molti Corinzi.
+ro: În Corint a crezut în Domnul Crisp, fruntașul sinagogii, cu toată casa lui, și mulți corinteni.
+? personaggio | 44 18:8
+qi: Quale capo della sinagoga di Corinto credette con tutta la sua famiglia?
+qr: Care fruntaș al sinagogii din Corint a crezut cu toată casa lui?
+ai: Crispo | Sostene | Gallione | Giasone
+ar: Crisp | Sosten | Galion | Iason
+@ corinto | 44 18:9 | la visione notturna | vedenia de noapte
+it: Una notte il Signore disse a Paolo in visione: «Non temere, ma parla e non tacere».
+ro: Într-o noapte, Domnul i-a zis lui Pavel în vedenie: „Nu te teme, ci vorbește și nu tăcea”.
+? domanda | 44 18:11
+qi: Per quanto tempo rimase Paolo a Corinto insegnando la parola?
+qr: Cât timp a rămas Pavel în Corint, învățând Cuvântul?
+ai: Un anno e sei mesi | Tre mesi | Due anni | Sette giorni
+ar: Un an și șase luni | Trei luni | Doi ani | Șapte zile
+@ corinto | 44 18:12 | il tribunale | scaunul de judecată
+it: Quando Gallione era proconsole dell'Acaia, i Giudei condussero Paolo al tribunale, ma Gallione non volle giudicare.
+ro: Pe când Galion era dregător al Ahaiei, iudeii l-au dus pe Pavel la scaunul de judecată, dar Galion n-a vrut să judece.
+? personaggio | 44 18:12
+qi: Chi era il proconsole dell'Acaia quando Paolo fu portato al tribunale?
+qr: Cine era dregătorul Ahaiei când Pavel a fost dus la scaunul de judecată?
+ai: Gallione | Felice | Festo | Sergio Paolo
+ar: Galion | Felix | Festus | Sergius Paulus
+@ cencrea | 44 18:18
+it: Dopo molti giorni Paolo salpò per la Siria dal porto di Cencrea.
+ro: După multe zile, Pavel a plecat cu corabia în Siria din portul Chencrea.
+? ordina | 44 18:18
+qi: Metti in ordine il soggiorno di Paolo a Corinto.
+qr: Pune în ordine șederea lui Pavel în Corint.
+ai: L'arrivo da Atene | Crispo crede | La visione notturna | Il tribunale di Gallione | La partenza da Cencrea
+ar: Sosirea din Atena | Crisp crede | Vedenia de noapte | Scaunul de judecată al lui Galion | Plecarea din Chencrea
+
+= ritorno_primo_viaggio | ↩️ | Il ritorno dal primo viaggio | Întoarcerea din prima călătorie | 44 14:21
+@ derbe | 44 14:21
+it: Dopo aver evangelizzato Derbe e fatto molti discepoli, Paolo e Barnaba tornarono indietro.
+ro: După ce au vestit Evanghelia în Derbe și au făcut mulți ucenici, Pavel și Barnaba s-au întors înapoi.
+@ listra | 44 14:22
+it: A Listra, dove Paolo era stato lapidato, confermarono gli animi dei discepoli.
+ro: La Listra, unde Pavel fusese ucis cu pietre, au întărit sufletele ucenicilor.
+? domanda | 44 14:22
+qi: Che cosa dicevano Paolo e Barnaba ai discepoli?
+qr: Ce le spuneau Pavel și Barnaba ucenicilor?
+ai: Che attraverso molte afflizioni dobbiamo entrare nel regno di Dio | Che la persecuzione era finita | Che dovevano lasciare la città | Che Paolo non sarebbe più tornato
+ar: Că în Împărăția lui Dumnezeu trebuie să intrăm prin multe necazuri | Că prigoana se sfârșise | Că trebuiau să plece din cetate | Că Pavel nu se va mai întoarce
+@ iconio | 44 14:21
+it: Passarono di nuovo per Iconio.
+ro: Au trecut din nou prin Iconia.
+? domanda | 44 14:23
+qi: Che cosa fecero Paolo e Barnaba in ogni chiesa?
+qr: Ce au făcut Pavel și Barnaba în fiecare biserică?
+ai: Designarono degli anziani, pregando e digiunando | Costruirono una sinagoga | Raccolsero un tributo | Scelsero un re
+ar: Au rânduit prezbiteri, cu rugăciune și post | Au zidit o sinagogă | Au strâns un bir | Au ales un împărat
+@ antiochiapis | 44 14:21
+it: Tornarono ad Antiochia di Pisidia, poi attraversarono la Pisidia verso la Panfilia.
+ro: S-au întors în Antiohia Pisidiei, apoi au străbătut Pisidia spre Pamfilia.
+? luogo | 44 14:19
+qi: In quale città, lungo questo ritorno, Paolo era stato lapidato poco prima?
+qr: În ce cetate de pe acest drum de întoarcere fusese Pavel ucis cu pietre cu puțin înainte?
+ai: Listra | Derbe | Perge | Attalia
+ar: Listra | Derbe | Perga | Atalia
+@ attalia | 44 14:25
+it: Dopo aver annunciato la parola a Perge, scesero ad Attalia.
+ro: După ce au vestit Cuvântul în Perga, s-au pogorât la Atalia.
+? luogo | 44 14:25
+qi: Da quale porto salparono per tornare ad Antiochia?
+qr: Din ce port au plecat ca să se întoarcă la Antiohia?
+ai: Attalia | Seleucia | Troas | Cencrea
+ar: Atalia | Seleucia | Troa | Chencrea
+@ antiochia | 44 14:27
+it: Ad Antiochia radunarono la chiesa e raccontarono come Dio aveva aperto ai gentili la porta della fede.
+ro: În Antiohia au adunat biserica și au istorisit cum deschisese Dumnezeu neamurilor ușa credinței.
+? ordina | 44 14:27
+qi: Metti in ordine il viaggio di ritorno.
+qr: Pune în ordine drumul de întoarcere.
+ai: Derbe | Listra | Iconio | Antiochia di Pisidia | Attalia | Antiochia di Siria
+ar: Derbe | Listra | Iconia | Antiohia Pisidiei | Atalia | Antiohia Siriei
+
+= epafra_valle | 🙏 | Le chiese della valle del Lico | Bisericile din valea Licului | 51 4:12
+@ colosse | 51 4:12
+it: Epafra, di Colosse, combatteva sempre nelle preghiere per i credenti della sua città.
+ro: Epafra, din Colose, se lupta totdeauna în rugăciuni pentru credincioșii din cetatea lui.
+@ laodicea | 51 4:15
+it: Paolo salutò i fratelli di Laodicea e Ninfa con la chiesa che si radunava in casa sua.
+ro: Pavel i-a salutat pe frații din Laodiceea și pe Nimfa cu biserica din casa ei.
+? domanda | 51 4:16
+qi: Che cosa chiese Paolo di fare con la lettera ai Colossesi?
+qr: Ce a cerut Pavel să se facă cu Epistola către coloseni?
+ai: Di leggerla anche nella chiesa di Laodicea | Di bruciarla | Di tenerla segreta | Di mandarla a Roma
+ar: Să fie citită și în biserica din Laodiceea | Să fie arsă | Să fie ținută în taină | Să fie trimisă la Roma
+@ ierapoli | 51 4:13
+it: Epafra aveva un grande zelo anche per quelli di Laodicea e di Gerapoli.
+ro: Epafra avea o mare râvnă și pentru cei din Laodiceea și din Ierapole.
+? personaggio | 51 4:12
+qi: Chi combatteva nelle preghiere per i Colossesi?
+qr: Cine se lupta în rugăciuni pentru coloseni?
+ai: Epafra | Tichico | Onesimo | Archippo
+ar: Epafra | Tihic | Onisim | Arhip
+@ colosse | 51 4:17 | il messaggio ad Archippo | vestea pentru Arhip
+it: Paolo mandò a dire ad Archippo: «Guarda di adempiere il ministero che hai ricevuto nel Signore».
+ro: Pavel a trimis să i se spună lui Arhip: „Ia seama la slujba pe care ai primit-o în Domnul, ca s-o împlinești bine”.
+? ordina | 51 4:17
+qi: Metti in ordine le tre città della valle, da Colosse.
+qr: Pune în ordine cele trei cetăți din vale, de la Colose.
+ai: Colosse | Laodicea | Gerapoli
+ar: Colose | Laodiceea | Ierapole
+
+= lettera_pietro | ✉️ | La lettera di Pietro ai dispersi | Epistola lui Petru către cei risipiți | 60 1:1
+@ ponto | 60 1:1
+it: Pietro scrisse agli eletti che vivevano come stranieri, dispersi nel Ponto.
+ro: Petru a scris aleșilor care trăiau ca străini, risipiți în Pont.
+@ galazia | 60 1:1
+it: La lettera era rivolta anche ai credenti della Galazia.
+ro: Epistola era trimisă și credincioșilor din Galatia.
+? luogo | 60 1:1
+qi: Quale di queste regioni è nominata all'inizio della prima lettera di Pietro?
+qr: Care dintre aceste ținuturi este pomenit la începutul Epistolei întâi a lui Petru?
+ai: La Bitinia | L'Egitto | La Macedonia | La Spagna
+ar: Bitinia | Egiptul | Macedonia | Spania
+@ cappadocia | 60 1:1
+it: C'erano credenti dispersi anche nella Cappadocia.
+ro: Erau credincioși risipiți și în Capadocia.
+? domanda | 60 5:13
+qi: Chi salutava i destinatari insieme alla chiesa di Babilonia?
+qr: Cine îi saluta pe cei ce primeau epistola, împreună cu biserica din Babilon?
+ai: Marco, «mio figlio» | Paolo | Giacomo | Sila e Timoteo
+ar: Marcu, „fiul meu” | Pavel | Iacov | Sila și Timotei
+@ efeso | 60 1:1 | l'Asia | Asia
+it: La lettera arrivava anche ai credenti della provincia d'Asia.
+ro: Epistola ajungea și la credincioșii din Asia.
+? domanda | 60 1:1
+qi: Come chiama Pietro i credenti a cui scrive?
+qr: Cum îi numește Petru pe credincioșii cărora le scrie?
+ai: Eletti che vivono come stranieri dispersi | Re e sacerdoti di Roma | Discepoli di Giovanni | Figli di Abraamo in Egitto
+ar: Aleși care trăiesc ca străini, risipiți | Împărați și preoți din Roma | Ucenici ai lui Ioan | Fii ai lui Avraam în Egipt
+@ bitinia | 60 1:1
+it: Infine la Bitinia, l'ultima regione nominata nel saluto di Pietro.
+ro: În sfârșit, Bitinia, ultimul ținut pomenit în salutul lui Petru.
+? ordina | 60 1:1
+qi: Metti in ordine le regioni del saluto di Pietro.
+qr: Pune în ordine ținuturile din salutul lui Petru.
+ai: Ponto | Galazia | Cappadocia | Asia | Bitinia
+ar: Pont | Galatia | Capadocia | Asia | Bitinia
+
+= compagni_paolo | 🧭 | Gli ultimi compagni di Paolo | Ultimii tovarăși ai lui Pavel | 55 4:10
+@ roma | 55 4:9
+it: Dalla prigione di Roma Paolo scrisse a Timoteo: «Cerca di venire presto da me».
+ro: Din temnița din Roma, Pavel i-a scris lui Timotei: „Caută să vii în curând la mine”.
+@ tessalonica | 55 4:10
+it: Dema aveva lasciato Paolo, avendo amato il mondo presente, ed era andato a Tessalonica.
+ro: Dima l-a părăsit pe Pavel, din dragoste pentru lumea de acum, și s-a dus la Tesalonic.
+? personaggio | 55 4:10
+qi: Chi lasciò Paolo per amore del mondo presente?
+qr: Cine l-a părăsit pe Pavel din dragoste pentru lumea de acum?
+ai: Dema | Luca | Crescente | Tichico
+ar: Dima | Luca | Crescent | Tihic
+@ galazia | 55 4:10
+it: Crescente era andato in Galazia.
+ro: Crescent se dusese în Galatia.
+? domanda | 55 4:13
+qi: Che cosa chiese Paolo a Timoteo di portargli da Troas?
+qr: Ce i-a cerut Pavel lui Timotei să-i aducă din Troa?
+ai: Il mantello, i libri e le pergamene | Una spada e uno scudo | Oro e argento | Un asino e del pane
+ar: Mantaua, cărțile și pergamentele | O sabie și un scut | Aur și argint | Un măgar și pâine
+@ illiria | 55 4:10 | la Dalmazia | Dalmația
+it: Tito era andato in Dalmazia.
+ro: Tit se dusese în Dalmația.
+? domanda | 55 4:11
+qi: Chi era rimasto con Paolo?
+qr: Cine rămăsese cu Pavel?
+ai: Soltanto Luca | Tutti i suoi compagni | Nessuno | Timoteo e Tito
+ar: Numai Luca | Toți tovarășii lui | Nimeni | Timotei și Tit
+@ efeso | 55 4:12
+it: Tichico era stato mandato da Paolo a Efeso.
+ro: Pe Tihic, Pavel îl trimisese la Efes.
+? personaggio | 55 4:11
+qi: Chi chiese Paolo di portare con sé, perché gli era utile nel ministero?
+qr: Pe cine a cerut Pavel să fie adus, pentru că îi era de folos în slujbă?
+ai: Marco | Dema | Alessandro | Crescente
+ar: Marcu | Dima | Alexandru | Crescent

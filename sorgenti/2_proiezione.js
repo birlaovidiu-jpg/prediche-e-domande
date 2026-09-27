@@ -176,7 +176,7 @@ function slideHtml(s){
            <div class="d-dom" data-fit="1">${esc(s.d)}</div>
            ${f>=1?`<div class="d-solo"><b>${esc(s.o[s.g])}</b></div>`:''}
          </div>
-         ${s.v&&f>=1?`<div class="d-vers" data-vers="${esc(s.v)}">${esc(s.v)}</div>`:''}`;
+         ${s.v&&f>=1?`<div class="d-vers" data-vers="${esc(s.v)}" data-lg="${esc(s.lg||'')}">${esc(s.v)}</div>`:''}`;
       break;
     }
     const ris = f>=4;
@@ -187,7 +187,7 @@ function slideHtml(s){
          <div class="d-opz">${s.o.map((t,i)=>
            `<div class="d-op${ris&&i===s.g?' giusta':''}${(f>i)?'':' velata'}"><span class="let">${lettere[i]}</span><span class="tst">${esc(t)}</span></div>`).join('')}</div>
        </div>
-       ${s.v&&ris?`<div class="d-vers" data-vers="${esc(s.v)}">${esc(s.v)}</div>`:''}`;
+       ${s.v&&ris?`<div class="d-vers" data-vers="${esc(s.v)}" data-lg="${esc(s.lg||'')}">${esc(s.v)}</div>`:''}`;
     break; }
   case 'versetto':
     c=`<div class="cont mid conRif"><div class="v-rif">${esc(s.rif)}</div>
@@ -226,10 +226,73 @@ function slideHtml(s){
     c=`<div class="cont mid"><div class="p-cit">${esc(s.testo)}</div>
        ${s.rif?`<div class="p-rif">${esc(s.rif)}</div>`:''}</div>`;
     break;
+  case 'pptxdia':
+    c=htmlDiapoPptx(s);
+    break;
   default: c=`<div class="cont mid"><div class="p-tst">${esc(s.testo||'')}</div></div>`;
   }
   return sf+c;
 }
+/* ---------- diapositiva PowerPoint importata, copia esatta dell'originale ----------
+   ogni forma ha già la sua posizione/misura in pixel di una tela virtuale
+   larga 1280 (vedi leggiFormeEsatte in 7e_importa_pptx.js): qui si disegna
+   quella tela con posizionamento assoluto, poi adattaPptx() la rimpicciolisce
+   o ingrandisce con un solo transform:scale per farla entrare nello schermo. */
+function htmlFormaPptxTesto(fo){
+  const parti=[]; let elencoAperto=null;
+  (fo.par||[]).forEach(p=>{
+    const inner=(p.runs||[]).map(r=>{
+      let h=esc(r.t);
+      if(r.u) h=`<u>${h}</u>`;
+      if(r.i) h=`<i>${h}</i>`;
+      if(r.b) h=`<b>${h}</b>`;
+      return `<span style="font-size:${r.px||18}px;color:${r.colore||'#000'}">${h}</span>`;
+    }).join('');
+    if(p.elenco){
+      const tag=p.numerato?'ol':'ul';
+      if(elencoAperto!==tag){ if(elencoAperto) parti.push(`</${elencoAperto}>`); parti.push(`<${tag}>`); elencoAperto=tag; }
+      parti.push(`<li>${inner}</li>`);
+    } else {
+      if(elencoAperto){ parti.push(`</${elencoAperto}>`); elencoAperto=null; }
+      parti.push(`<p${p.allinea?` style="text-align:${p.allinea}"`:''}>${inner}</p>`);
+    }
+  });
+  if(elencoAperto) parti.push(`</${elencoAperto}>`);
+  return parti.join('');
+}
+function htmlDiapoPptx(s){
+  if(s.fedele) return htmlPptxFedele(s);   /* le diapositive importate dalla 8.1.4: copia fedele (7g_pptx_fedele.js) */
+  const sf2=s.sfondoPptx;
+  const sfondoCss = sf2&&sf2.tipo==='colore' ? `background:${esc(sf2.val)}`
+    : sf2&&sf2.tipo==='immagine' ? `background:#fff url('${esc(fileUrl[sf2.id]||'')}') center/cover no-repeat` : 'background:#fff';
+  const forme=(s.forme||[]).map(fo=>{
+    const box=`left:${Math.round(fo.x)}px;top:${Math.round(fo.y)}px;width:${Math.round(fo.w)}px;height:${Math.round(fo.h)}px`;
+    if(fo.tipo==='immagine') return `<div class="pptx-forma pptx-im" style="${box}"><img src="${esc(fileUrl[fo.id]||'')}" alt=""></div>`;
+    const anc = fo.anc==='ctr'?' anc-ctr':fo.anc==='b'?' anc-b':'';
+    return `<div class="pptx-forma pptx-tx${anc}" style="${box}">${htmlFormaPptxTesto(fo)}</div>`;
+  }).join('');
+  return `<div class="pptx-wrap"><div class="pptx-slide" id="pptxSlide" style="width:1280px;height:${Math.round(s.alt||720)}px;${sfondoCss}">${forme}</div></div>`;
+}
+/* rimpicciolisce/ingrandisce la diapositiva pptx per farla entrare nello
+   schermo, sempre proporzionale (mai storta): un solo scale, niente CSS
+   responsive per-forma, perché le posizioni sono già fisse in pixel */
+/* misuraEl: l'elemento di cui guardare davvero la misura, se diverso da
+   dove sta la diapositiva — serve nel riquadro piccolo della regia
+   (#rgTela non ha una sua altezza propria, la tiene .rg-mini) */
+function adattaPptx(t,misuraEl){
+  if(!t) return;
+  const el=t.querySelector('#pptxSlide'); if(!el) return;
+  const r=(misuraEl||t).getBoundingClientRect();
+  const largV=parseFloat(el.style.width)||1280, altV=parseFloat(el.style.height)||720;
+  const scala=Math.max(.05,Math.min(r.width/largV, r.height/altV));
+  el.style.transform=`scale(${scala})`;
+}
+window.addEventListener('resize',()=>{
+  if(!PROI.aperta || zoomNativo()) return;
+  const s=PROI.slide&&PROI.slide[PROI.i]; if(!s||s.t!=='pptxdia') return;
+  const t=$('#tela'); if(t) adattaPptx(t);
+  const rt=$('#rgTela'); if(rt) adattaPptx(rt,rt.parentElement);
+});
 
 /* ---------- comandi ---------- */
 function proietta(slide,tema,titolo,uniforme){
@@ -241,8 +304,8 @@ function proietta(slide,tema,titolo,uniforme){
   p.innerHTML=`<div id="tela"></div>
     <div class="zona sx"><i>‹</i></div>
     <div class="zona dx"><i>›</i></div>
-    <button id="esc" onclick="pChiudi()" title="Esci dalla proiezione">esc</button>
-    <div id="comandi">
+    <button id="esc" class="nascosto" onclick="pChiudi()" title="Esci dalla proiezione">esc</button>
+    <div id="comandi" class="nascosto">
       <button class="cmd pic" onclick="pFinestra()" title="Apri la finestra per il proiettore">🖥</button>
       <button class="cmd pic" onclick="passaARegia()" title="Passa alla regia: tu leggi, lo schermo proietta">🎬</button>
       ${bottoneBase()}
@@ -252,29 +315,48 @@ function proietta(slide,tema,titolo,uniforme){
       <button class="cmd pic" onclick="pSchermo()" title="Schermo intero">⛶</button>
       <button class="cmd pic" onclick="pChiudi()" title="Chiudi">✕</button>
     </div>`;
-  p.classList.add('on'); PROI.aperta=true;
+  p.classList.add('on','extra-via'); PROI.aperta=true;
   document.documentElement.style.overflow='hidden';
   /* un solo gestore: il versetto ha la precedenza, poi destra/sinistra */
   p.onclick=e=>{
     if(e.target.closest('#comandi')) return;
     const v=e.target.closest('.d-vers');
-    if(v){ mostraVersetto(v.dataset.vers); return; }
+    if(v){ mostraVersetto(v.dataset.vers, v.dataset.lg||undefined); return; }
     (e.clientX < window.innerWidth*0.32) ? pIndietro() : pAvanti();
   };
   pDisegna();
-  clearTimeout(PROI._t); PROI._t=setTimeout(pNascondi,4000);
-  p.onmousemove=pMostra; p.ontouchstart=pMostra;
+  /* Comandi nascosti FIN DALL'INIZIO, non più dopo 4 secondi: chi proietta lo
+     schermo intero (per esempio con AirPlay, che qui su iPad è il modo più
+     comune, non la finestra separata) toccava spesso per cambiare
+     diapositiva, e ogni tocco riaccendeva i comandi per altri 4 secondi —
+     il pubblico finiva per vederli quasi sempre. Ora si accendono SOLO
+     toccando proprio dove stanno (l'angolo in alto a destra per «esc», la
+     striscia in basso per gli altri): toccare per avanzare, in mezzo allo
+     schermo, non li fa comparire. */
+  clearTimeout(PROI._t);
+  const vicinoAiComandi=e=>{
+    const t=e.touches&&e.touches[0]; const x=t?t.clientX:e.clientX, y=t?t.clientY:e.clientY;
+    /* la striscia in basso conta solo nel CENTRO dello schermo: il riferimento
+       biblico (.d-vers) sta in basso a destra, e toccandolo non deve accendere
+       anche la barra dei comandi — un solo tocco, un solo effetto */
+    const centro = x>window.innerWidth*0.25 && x<window.innerWidth*0.75;
+    return (y>window.innerHeight-92 && centro) || (y<70 && x>window.innerWidth-140);
+  };
+  p.onmousemove=e=>{ if(vicinoAiComandi(e)) pMostra(); };
+  p.ontouchstart=e=>{ if(vicinoAiComandi(e)) pMostra(); };
 }
-function pMostra(){ const c=$('#comandi'), e=$('#esc');
-  if(c){ c.style.opacity='1'; clearTimeout(PROI._t); PROI._t=setTimeout(pNascondi,4000); }
-  if(e) e.style.opacity='1'; }
-function pNascondi(){ const c=$('#comandi'), e=$('#esc');
-  if(c) c.style.opacity='0'; if(e) e.style.opacity='0'; }
+function pMostra(){ const c=$('#comandi'), e=$('#esc'), p=$('#proi');
+  if(c){ c.classList.remove('nascosto'); clearTimeout(PROI._t); PROI._t=setTimeout(pNascondi,4000); }
+  if(e) e.classList.remove('nascosto');
+  if(p) p.classList.remove('extra-via'); }
+function pNascondi(){ const c=$('#comandi'), e=$('#esc'), p=$('#proi');
+  if(c) c.classList.add('nascosto'); if(e) e.classList.add('nascosto');
+  if(p) p.classList.add('extra-via'); }
 function pDisegna(){
   const s=PROI.slide[PROI.i], h=slideHtml(s);
-  const t=$('#tela'); if(t){ fitUniforme(); t.innerHTML=h; adattaTesto(t); }
+  const t=$('#tela'); if(t){ fitUniforme(); t.innerHTML=h; adattaTesto(t); adattaPptx(t); }
   /* in regia il contenuto va nel riquadro piccolo, non a schermo intero */
-  const rt=$('#rgTela'); if(rt) rt.innerHTML=regiaHtml(s);
+  const rt=$('#rgTela'); if(rt){ rt.innerHTML=regiaHtml(s); adattaPptx(rt,rt.parentElement); }
   const p=$('#pos'); if(p) p.textContent=`${PROI.i+1} / ${PROI.slide.length}`;
   const rp=$('#rgPos'); if(rp) rp.textContent=`${PROI.i+1} / ${PROI.slide.length}`;
   if(PROI.canale) PROI.canale.postMessage({tipo:'slide',html:h,i:PROI.i,n:PROI.slide.length});
@@ -330,14 +412,30 @@ async function pFinestra(auto){
     <title>Proiezione — ${esc(PROI.titolo||'SDARM')}</title><style>${css}
     html,body{background:#05070c;margin:0;overflow:hidden;cursor:none}
     #proi{display:flex!important;position:fixed;inset:0}
+    /* qui non ci sono comandi (schermo per il pubblico): il riferimento
+       del versetto non serve mai, resta sempre spento */
+    .d-vers{display:none!important}
     </style></head><body class="proiettore">
     <div id="proi" class="on"><div id="tela"></div></div>
     <script>
+      /* questa finestra è un documento a sé (aperta con document.write): non
+         conosce le funzioni della pagina principale, quindi la stessa
+         adattaPptx() di 2_proiezione.js va ripetuta qui in piccolo —
+         altrimenti una diapositiva PowerPoint «esatta» arriva enorme e
+         tagliata, perché nessuno le applica più lo scale giusto. */
+      function adattaQui(){
+        const el=document.getElementById('pptxSlide'); if(!el) return;
+        const t=document.getElementById('tela'), r=t.getBoundingClientRect();
+        const lw=parseFloat(el.style.width)||1280, lh=parseFloat(el.style.height)||720;
+        const sc=Math.max(.05,Math.min(r.width/lw, r.height/lh));
+        el.style.transform='scale('+sc+')';
+      }
       const c=new BroadcastChannel('proiezione_sdarm');
       c.onmessage=e=>{ const m=e.data;
-        if(m.tipo==='slide') document.getElementById('tela').innerHTML=m.html;
+        if(m.tipo==='slide'){ document.getElementById('tela').innerHTML=m.html; adattaQui(); }
         if(m.tipo==='fine') window.close(); };
       c.postMessage({tipo:'pronto'});
+      window.addEventListener('resize',adattaQui);
       document.addEventListener('keydown',ev=>{ if(ev.key==='Escape') window.close(); });
     <\/script></body></html>`);
   w.document.close();
@@ -530,6 +628,7 @@ function regiaHtml(s){
   else if(s.t==='cantico-str'||s.t==='cantico-tit'){ t=s.testo||s.tit||''; cl='mp'; }
   else if(s.t==='versetto'){ t=s.rif+'\n'+(s.txt||''); cl='mc'; }
   else if(s.t==='domanda'){ t=s.d+'\n'+s.o.map((o,i)=>'abc'[i]+') '+o).join('\n'); cl='mp'; }
+  else if(s.t==='pptxdia') return htmlDiapoPptx(s);   /* stessa diapositiva esatta, rimpicciolita nel riquadro */
   else t=s.testo||'';
   return sf+`<div class="rg-tx ${cl}">${esc(t)}</div>`;
 }

@@ -1,0 +1,70 @@
+# Cose della Bibbia: oggetti, animali, piante, materiali, fenomeni. Tipo c.
+# RISPOSTA IT|RISPOSTA RO|livello 1-3|libro|tipo|indizio italiano|indizio rumeno
+ARCA|CORABIA|1|1|c|La grande barca che Noè costruì per salvarsi dal diluvio|Nava cea mare pe care a zidit-o Noe ca să scape de potop
+ARCA||2|2|c|La cassa d'oro con il propiziatorio e i due cherubini, custodita nel luogo santissimo|
+|CHIVOT|2|2|c||Lada de aur cu capacul ispășirii și cei doi heruvimi, păstrată în locul preasfânt
+TABERNACOLO|CORT|2|2|c|Il santuario mobile che Israele portò con sé nel deserto|Locașul sfânt mobil pe care Israel l-a purtat cu el prin pustie
+TEMPIO|TEMPLU|1|11|c|La casa di Dio costruita da Salomone a Gerusalemme|Casa lui Dumnezeu zidită de Solomon la Ierusalim
+ALTARE|ALTAR|1|2|c|Il luogo dove si offrivano i sacrifici a Dio|Locul unde se aduceau jertfele lui Dumnezeu
+CANDELABRO|SFESNIC|3|2|c|Il sostegno d'oro a sette lampade nel luogo santo|Suportul de aur cu șapte candele din locașul sfânt
+EFOD|EFOD|3|2|c|La veste sacra del sommo sacerdote, con le pietre dei nomi delle tribù|Haina sfântă a marelui preot, cu pietrele numelor semințiilor
+MANNA|MANA|1|2|c|Il cibo che Dio fece piovere dal cielo nel deserto|Hrana pe care Dumnezeu a făcut-o să plouă din cer în pustie
+VERGA|TOIAG|2|2|c|Il bastone di Mosè che si trasformò in serpente|Bățul lui Moise care s-a prefăcut în șarpe
+VITELLO|VITEL|2|2|c|L'idolo d'oro che Aronne fece mentre Mosè era sul monte|Idolul de aur pe care l-a făcut Aaron cât timp Moise era pe munte
+FIONDA|PRASTIE|2|9|c|L'arma con cui Davide colpì Golia|Arma cu care David l-a lovit pe Goliat
+CORONA|COROANA|1|43|c|L'ornamento dei re; a Gesù ne misero una di spine|Podoaba împăraților; lui Isus i-au pus una de spini
+SPADA|SABIE|1|49|c|L'arma che nell'armatura di Dio rappresenta la Parola di Dio|Arma care în armura lui Dumnezeu înseamnă Cuvântul lui Dumnezeu
+SCUDO|SCUT|2|49|c|Il pezzo dell'armatura di Dio che rappresenta la fede|Piesa din armura lui Dumnezeu care înseamnă credința
+ELMO|COIF|2|49|c|Il pezzo dell'armatura di Dio che rappresenta la salvezza|Piesa din armura lui Dumnezeu care înseamnă mântuirea
+CORAZZA|PLATOSA|2|49|c|Il pezzo dell'armatura di Dio che rappresenta la giustizia|Piesa din armura lui Dumnezeu care înseamnă neprihănirea
+ARPA|HARFA|2|9|c|Lo strumento che Davide suonava davanti a Saul|Instrumentul pe care David îl cânta înaintea lui Saul
+TROMBA|TRAMBITA|2|6|c|Lo strumento che accompagnò la caduta delle mura di Gerico|Instrumentul care a însoțit prăbușirea zidurilor Ierihonului
+TIMPANO|TIMPAN|3|2|c|Lo strumento a percussione con cui Miriam guidò la danza|Instrumentul de percuție cu care Maria a condus dansul
+SICOMORO|SICOMOR|2|42|c|L'albero su cui salì Zaccheo per vedere Gesù|Pomul în care s-a suit Zacheu ca să vadă pe Isus
+ULIVO|MASLIN|1|1|c|L'albero il cui ramoscello portò la colomba a Noè|Pomul a cărui ramură a adus-o porumbelul lui Noe
+FICO|SMOCHIN|1|1|c|L'albero le cui foglie Adamo ed Eva cucirono per coprirsi|Pomul ale cărui frunze le-au cusut Adam și Eva ca să se acopere
+MELOGRANO|RODIE|3|2|c|Il frutto rosso i cui ornamenti decoravano l'orlo della veste del sommo sacerdote|Fructul roșu ale cărui podoabe împodobeau poalele hainei marelui preot
+CEDRO|CEDRU|2|11|c|L'albero maestoso del Libano usato per il tempio|Pomul falnic din Liban folosit la Templu
+MIRRA|SMIRNA|2|40|c|Il profumo, dono dei magi, usato anche per imbalsamare|Substanța aromată, dar al magilor, folosită și la îmbălsămare
+INCENSO|TAMAIE|2|2|c|Il profumo che si bruciava sull'altare d'oro|Mirosul plăcut care se ardea pe altarul de aur
+ORO|AUR|1|40|c|Il metallo prezioso che i magi portarono a Gesù|Metalul scump pe care magii l-au adus lui Isus
+ARGENTO|ARGINT|1|40|c|Il metallo delle trenta monete date a Giuda|Metalul celor treizeci de bani dați lui Iuda
+BRONZO|ARAMA|2|4|c|Il metallo del serpente innalzato da Mosè nel deserto|Metalul șarpelui înălțat de Moise în pustie
+PORPORA|PURPURA|2|42|c|Il colore regale con cui i soldati vestirono Gesù|Culoarea împărătească cu care au îmbrăcat soldații pe Isus
+PANE|PAINE|1|43|c|L'alimento che Gesù moltiplicò per cinquemila persone|Hrana pe care Isus a înmulțit-o pentru cinci mii de oameni
+VINO|VIN|1|43|c|La bevanda in cui Gesù cambiò l'acqua alle nozze|Băutura în care Isus a prefăcut apa la nuntă
+OLIO|UNTDELEMN|2|3|c|Il liquido con cui si ungevano re e sacerdoti|Lichidul cu care se ungeau împărații și preoții
+MIELE|MIERE|2|2|c|Il dolce prodotto delle api che, con il latte, caratterizzava la terra promessa|Dulceața albinelor care, împreună cu laptele, caracteriza țara făgăduită
+LATTE|LAPTE|2|2|c|Con il miele, descriveva la terra promessa|Împreună cu mierea, descria țara făgăduită
+AGNELLO|MIEL|1|2|c|L'animale sacrificato a Pasqua; Giovanni chiamò così Gesù|Animalul jertfit la Paști; Ioan l-a numit așa pe Isus
+COLOMBA|PORUMBEL|1|1|c|L'uccello che Noè mandò fuori dall'arca e tornò con un ramo d'ulivo|Pasărea pe care Noe a trimis-o din corabie și s-a întors cu o ramură de măslin
+CORVO|CORB|2|1|c|L'uccello che Noè mandò per primo e che sfamò Elia|Pasărea pe care Noe a trimis-o întâi și care l-a hrănit pe Ilie
+LEONE|LEU|1|27|c|Il re degli animali, davanti al quale fu gettato Daniele|Regele animalelor, înaintea căruia a fost aruncat Daniel
+SERPENTE|SARPE|1|1|c|Il rettile che ingannò Eva nel giardino|Reptila care a amăgit pe Eva în grădină
+ASINO|MAGARITA|2|4|c|L'animale che parlò al profeta Balaam|Animalul care a vorbit prorocului Balaam
+CAMMELLO|CAMILA|2|1|c|L'animale del deserto che Rebecca abbeverò al pozzo|Animalul din pustie pe care Rebeca l-a adăpat la fântână
+PECORA|OAIE|1|42|c|L'animale smarrito che il buon pastore va a cercare|Animalul pierdut pe care bunul păstor îl caută
+LOCUSTE|LACUSTE|3|2|c|Gli insetti dell'ottava piaga d'Egitto|Insectele celei de-a opta plăgi a Egiptului
+RANE|BROASTE|3|2|c|Gli animali della seconda piaga d'Egitto|Animalele celei de-a doua plăgi a Egiptului
+GRANDINE|GRINDINA|3|2|c|La settima piaga d'Egitto: pietre di ghiaccio dal cielo|A șaptea plagă a Egiptului: pietre de gheață din cer
+TENEBRE|INTUNERIC|2|2|c|La nona piaga d'Egitto: tre giorni senza luce|A noua plagă a Egiptului: trei zile fără lumină
+CROCE|CRUCE|1|41|c|Lo strumento di supplizio su cui Gesù fu crocifisso|Unealta de osândă pe care a fost răstignit Isus
+STELLA|STEAUA|1|40|c|Ciò che guidò i magi fino a Betlemme|Ceea ce a călăuzit pe magi până la Betleem
+ARCOBALENO|CURCUBEU|1|1|c|Il segno dell'alleanza di Dio con Noè dopo il diluvio|Semnul legământului lui Dumnezeu cu Noe după potop
+TAVOLE|TABLELE|2|2|c|Ciò che era di pietra e su cui Dio scrisse i dieci comandamenti|Ceea ce era de piatră și pe care Dumnezeu a scris cele zece porunci
+ROVETO|RUG|2|2|c|Il cespuglio che ardeva senza consumarsi|Tufișul care ardea fără să se mistuie
+NUVOLA|NOR|2|2|c|La colonna che guidava Israele di giorno nel deserto|Stâlpul care călăuzea pe Israel ziua în pustie
+POZZO|FANTANA|2|43|c|Dove Gesù chiese da bere a una donna samaritana|Unde Isus a cerut să bea de la o femeie samariteancă
+CISTERNA|CISTERNA|3|1|c|Il pozzo vuoto in cui i fratelli gettarono Giuseppe|Groapa goală în care frații au aruncat pe Iosif
+SEPOLCRO|MORMANT|2|43|c|La tomba scavata nella roccia dove fu deposto Gesù|Groapa săpată în stâncă unde a fost pus Isus
+MANTELLO|MANTAUA|2|12|c|Ciò che Elia lasciò cadere su Eliseo salendo in cielo|Ceea ce Ilie a lăsat să cadă peste Elisei când s-a suit la cer
+TALENTO|TALANT|2|40|c|La grande somma di denaro della parabola dei servi|Suma mare de bani din pilda slujitorilor
+SEME|SAMANTA|2|40|c|Ciò che il seminatore getta nel terreno nella parabola|Ceea ce semănătorul aruncă în pământ în pilda lui
+GRANO|GRAU|2|40|c|Il cereale che nella parabola cresce insieme alla zizzania|Cerealele care în pildă cresc împreună cu neghina
+LIEVITO|ALUAT|3|40|c|Ciò che fa crescere tutta la pasta, simbolo del regno dei cieli|Ceea ce face să crească tot aluatul, pildă pentru împărăția cerurilor
+SALE|SARE|1|40|c|Voi siete il ... della terra, disse Gesù|Voi sunteți ... pământului, a zis Isus
+LUCE|LUMINA|1|40|c|Voi siete la ... del mondo, disse Gesù|Voi sunteți ... lumii, a zis Isus
+PERLA|MARGARITAR|3|40|c|La gemma di grande valore per cui il mercante vendette tutto|Piatra de mare preț pentru care negustorul a vândut tot
+TESORO|COMOARA|2|40|c|Nascosto in un campo, chi lo trova vende tutto per comprarlo|Ascunsă într-un ogor, cine o găsește vinde tot ca să-l cumpere
+RETE|MREAJA|2|40|c|Lo strumento con cui i pescatori prendono i pesci|Unealta cu care pescarii prind peștii
+TRONO|TRON|2|66|c|Il seggio del re; ventiquattro circondano quello di Dio nell'Apocalisse|Scaunul împăratului; douăzeci și patru îl înconjoară pe cel al lui Dumnezeu în Apocalipsa

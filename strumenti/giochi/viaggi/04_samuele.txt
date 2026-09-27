@@ -1,0 +1,757 @@
+# Viaggi dei libri di Samuele
+
+= anna_samuele | 🙏 | Anna porta Samuele a Sciloh | Ana îl duce pe Samuel la Silo | 9 1:3
+@ ramatim | 9 1:3
+it: Ogni anno Elkanah saliva dalla sua città per adorare l'Eterno a Sciloh, con Anna e Peninna.
+ro: În fiecare an, Elcana se suia din cetatea lui ca să se închine Domnului la Silo, împreună cu Ana și Penina.
+@ silo | 9 1:10
+it: Nel tempio di Sciloh Anna, piena di amarezza, pregò l'Eterno e pianse, chiedendo un figlio.
+ro: În templul de la Silo, Ana, cu amărăciune în suflet, s-a rugat Domnului și a plâns, cerând un fiu.
+? domanda | 9 1:13
+qi: Che cosa pensò il sacerdote Eli vedendo Anna pregare?
+qr: Ce a crezut preotul Eli când a văzut-o pe Ana rugându-se?
+ai: Che fosse ubriaca | Che fosse malata | Che fosse una profetessa | Che avesse perso qualcosa
+ar: Că este beată | Că este bolnavă | Că este prorociță | Că a pierdut ceva
+@ silo | 9 1:28 | Sciloh, il bambino dato all'Eterno | Silo, copilul dat Domnului
+it: Svezzato il bambino, Anna lo portò a Sciloh: «Per tutti i giorni della sua vita è dato all'Eterno».
+ro: După ce l-a înțărcat, Ana l-a dus la Silo: „Toată viața lui este dat Domnului”.
+? personaggio | 9 1:20
+qi: Come chiamò Anna il figlio che aveva chiesto all'Eterno?
+qr: Ce nume i-a pus Ana fiului pe care-l ceruse de la Domnul?
+ai: Samuele | Saul | Davide | Eli
+ar: Samuel | Saul | David | Eli
+@ ramatim | 9 2:11 | il ritorno a Ramah | întoarcerea la Rama
+it: Elkanah tornò a casa a Ramah, e il fanciullo restò a servire l'Eterno sotto la guida del sacerdote Eli.
+ro: Elcana s-a întors acasă la Rama, iar copilul a rămas să slujească Domnului sub privirile preotului Eli.
+? domanda | 9 2:19
+qi: Che cosa portava Anna ogni anno al piccolo Samuele?
+qr: Ce îi aducea Ana în fiecare an micului Samuel?
+ai: Una piccola veste fatta da lei | Un agnello | Un libro della legge | Dei sandali nuovi
+ar: O mantie mică făcută de ea | Un miel | O carte a legii | Niște sandale noi
+
+= arca_catturata | 📦 | Il viaggio dell'arca fra i Filistei | Călătoria chivotului la filisteni | 9 4:1
+@ silo | 9 4:4
+it: Dopo una sconfitta, gli anziani d'Israele fecero portare l'arca da Sciloh all'accampamento.
+ro: După o înfrângere, bătrânii lui Israel au adus chivotul de la Silo în tabără.
+@ ebenezer | 9 4:11
+it: A Eben-Ezer Israele fu sconfitto di nuovo e l'arca di Dio fu presa dai Filistei.
+ro: La Eben-Ezer, Israel a fost bătut din nou, iar chivotul lui Dumnezeu a fost luat de filisteni.
+? personaggio | 9 4:21
+qi: Come fu chiamato il bambino nato quando l'arca fu presa, perché «la gloria si è allontanata»?
+qr: Ce nume i s-a dat copilului născut când a fost luat chivotul, pentru că „s-a dus slava”?
+ai: Ikabod | Obed | Samuele | Ebenezer
+ar: I-Cabod | Obed | Samuel | Eben-Ezer
+@ asdod | 9 5:3
+it: Ad Ashdod i Filistei misero l'arca nel tempio di Dagon, accanto all'idolo.
+ro: La Asdod, filistenii au pus chivotul în templul lui Dagon, lângă idol.
+? evento | 9 5:3
+qi: Che cosa trovarono gli abitanti di Ashdod il mattino dopo?
+qr: Ce au găsit locuitorii din Asdod a doua zi dimineața?
+ai: Dagon caduto con la faccia a terra davanti all'arca | Il tempio vuoto | L'arca sparita | Il tempio in fiamme
+ar: Pe Dagon căzut cu fața la pământ înaintea chivotului | Templul gol | Chivotul dispărut | Templul în flăcări
+@ gat | 9 5:9
+it: L'arca fu portata a Gath, ma la mano dell'Eterno colpì anche quella città.
+ro: Chivotul a fost dus la Gat, dar mâna Domnului a lovit și cetatea aceea.
+? luogo | 9 5:10
+qi: In quale città fu mandata l'arca dopo Gath?
+qr: În ce cetate a fost trimis chivotul după Gat?
+ai: Ekron | Gaza | Ashkelon | Gerusalemme
+ar: Ecron | Gaza | Ascalon | Ierusalim
+@ ekron | 9 5:10
+it: A Ekron gli abitanti gridarono: «Hanno portato da noi l'arca del Dio d'Israele per farci morire!».
+ro: La Ecron, locuitorii au strigat: „Au adus la noi chivotul Dumnezeului lui Israel, ca să ne omoare!”
+? domanda | 9 6:1
+qi: Per quanto tempo l'arca rimase nel paese dei Filistei?
+qr: Cât timp a stat chivotul în țara filistenilor?
+ai: 7 mesi | 7 anni | 40 giorni | 3 settimane
+ar: 7 luni | 7 ani | 40 de zile | 3 săptămâni
+@ betsemesh | 9 6:12
+it: Due vacche che allattavano tirarono il carro con l'arca dritte verso Beth-Scemesh, muggendo.
+ro: Două vaci cu viței au tras carul cu chivotul drept spre Bet-Șemeș, mugind.
+? evento | 9 6:12
+qi: Come andarono le vacche che tiravano il carro con l'arca?
+qr: Cum au mers vacile care trăgeau carul cu chivotul?
+ai: Diritte verso Beth-Scemesh, senza piegare né a destra né a sinistra | Tornarono dai loro vitelli | Si fermarono al Giordano | Girarono sette volte intorno a Ekron
+ar: Drept spre Bet-Șemeș, fără să se abată la dreapta sau la stânga | S-au întors la vițeii lor | S-au oprit la Iordan | Au înconjurat de șapte ori Ecronul
+@ kiriath | 9 7:1
+it: Gli uomini di Kirjath-Jearim portarono l'arca nella casa di Abinadab, sulla collina.
+ro: Oamenii din Chiriat-Iearim au dus chivotul în casa lui Abinadab, pe deal.
+? ordina | 9 7:1
+qi: Metti in ordine il viaggio dell'arca.
+qr: Pune în ordine călătoria chivotului.
+ai: Eben-Ezer | Ashdod | Gath | Ekron | Beth-Scemesh | Kirjath-Jearim
+ar: Eben-Ezer | Asdod | Gat | Ecron | Bet-Șemeș | Chiriat-Iearim
+
+= samuele_giudice | ⚖️ | Samuele giudice d'Israele | Samuel, judecătorul lui Israel | 9 7:15
+@ rama | 9 7:17
+it: Samuele abitava a Ramah; da lì ogni anno partiva per giudicare Israele.
+ro: Samuel locuia la Rama; de acolo pleca în fiecare an să judece pe Israel.
+@ betel | 9 7:16
+it: Ogni anno Samuele faceva il giro di Bethel, Ghilgal e Mitspah, e giudicava Israele in tutti quei luoghi.
+ro: În fiecare an, Samuel mergea la Betel, la Ghilgal și la Mițpa, și judeca pe Israel în toate locurile acelea.
+? domanda | 9 7:15
+qi: Per quanto tempo Samuele fu giudice d'Israele?
+qr: Cât timp a fost Samuel judecător al lui Israel?
+ai: Per tutto il tempo della sua vita | Per sette anni | Per quarant'anni esatti | Fino all'arrivo dei Filistei
+ar: În tot timpul vieții lui | Șapte ani | Patruzeci de ani întocmai | Până la venirea filistenilor
+@ ghilgal | 9 7:16
+it: A Ghilgal, dove Israele aveva eretto le pietre del Giordano, Samuele giudicava il popolo.
+ro: La Ghilgal, unde Israel ridicase pietrele din Iordan, Samuel judeca poporul.
+? luogo | 9 7:16
+qi: Quale di questi luoghi NON era nel giro annuale di Samuele?
+qr: Care dintre aceste locuri NU era în drumul anual al lui Samuel?
+ai: Gerusalemme | Bethel | Ghilgal | Mitspah
+ar: Ierusalim | Betel | Ghilgal | Mițpa
+@ mizpa | 9 7:12
+it: Presso Mitspah, dopo la vittoria sui Filistei, Samuele aveva eretto una pietra ricordo.
+ro: Lângă Mițpa, după biruința asupra filistenilor, Samuel ridicase o piatră de aducere aminte.
+? evento | 9 7:12
+qi: Che cosa disse Samuele chiamando la pietra Eben-Ezer?
+qr: Ce a zis Samuel când a numit piatra Eben-Ezer?
+ai: «Fin qui l'Eterno ci ha soccorso» | «Qui abiterà l'arca» | «Questa è la porta del cielo» | «Qui finisce Israele»
+ar: „Până aici Domnul ne-a ajutat” | „Aici va locui chivotul” | „Aceasta este poarta cerului” | „Aici se sfârșește Israel”
+@ rama | 9 7:17 | di nuovo a Ramah | din nou la Rama
+it: Poi Samuele tornava a Ramah, dove era la sua casa e dove costruì un altare all'Eterno.
+ro: Apoi Samuel se întorcea la Rama, unde era casa lui și unde a zidit un altar Domnului.
+? puzzle | 9 7:17
+qi: Ricomponi il nome della città dove Samuele aveva la sua casa.
+qr: Refă numele cetății unde își avea Samuel casa.
+ai: RAMAH
+ar: RAMA
+
+= asine_saul | 🫏 | Saul cerca le asine | Saul caută măgărițele | 9 9:3
+@ ghibea | 9 9:3
+it: Kish mandò suo figlio Saul con un servo a cercare le asine che si erano smarrite.
+ro: Chis l-a trimis pe fiul său Saul cu un slujitor să caute măgărițele care se rătăciseră.
+@ monteefraim | 9 9:4
+it: Saul passò per i monti di Efraim e per il paese di Shalisha, ma non trovò le asine.
+ro: Saul a trecut prin muntele lui Efraim și prin țara Șalișa, dar n-a găsit măgărițele.
+? personaggio | 9 9:6
+qi: Chi suggerì a Saul di andare a chiedere all'uomo di Dio?
+qr: Cine i-a propus lui Saul să meargă să întrebe pe omul lui Dumnezeu?
+ai: Il suo servo | Suo padre Kish | Gionathan | Una donna al pozzo
+ar: Slujitorul lui | Tatăl lui, Chis | Ionatan | O femeie la fântână
+@ rama | 9 9:20 | la città del veggente | cetatea văzătorului
+it: Samuele disse a Saul che le asine erano state ritrovate e lo invitò a mangiare con lui.
+ro: Samuel i-a spus lui Saul că măgărițele fuseseră găsite și l-a poftit să mănânce cu el.
+? evento | 9 10:1
+qi: Che cosa fece Samuele a Saul il mattino dopo?
+qr: Ce i-a făcut Samuel lui Saul a doua zi dimineața?
+ai: Gli versò sul capo un vasetto d'olio | Gli diede una spada | Gli regalò le asine | Lo mandò a Sciloh
+ar: I-a turnat pe cap un vas cu untdelemn | I-a dat o sabie | I-a dăruit măgărițele | L-a trimis la Silo
+@ tseltsah | 9 10:2
+it: Presso la tomba di Rachele due uomini gli dissero che le asine erano state ritrovate.
+ro: Lângă mormântul Rahelei, doi oameni i-au spus că măgărițele fuseseră găsite.
+? domanda | 9 9:20
+qi: Da quanti giorni si erano smarrite le asine?
+qr: De câte zile se rătăciseră măgărițele?
+ai: 3 | 7 | 1 | 40
+ar: 3 | 7 | 1 | 40
+@ ghibea | 9 10:10 | la collina di Dio | dealul lui Dumnezeu
+it: Una schiera di profeti gli venne incontro, e lo Spirito di Dio venne su Saul, che profetizzò con loro.
+ro: O ceată de proroci i-a ieșit înainte, și Duhul lui Dumnezeu a venit peste Saul, care a prorocit cu ei.
+? domanda | 9 10:11
+qi: Che cosa si domandava la gente vedendo Saul profetizzare?
+qr: Ce se întrebau oamenii când îl vedeau pe Saul prorocind?
+ai: «È anche Saul tra i profeti?» | «Chi è questo re?» | «Dove sono le asine?» | «Perché Samuele non è qui?»
+ar: „Este și Saul între proroci?” | „Cine este acest împărat?” | „Unde sunt măgărițele?” | „De ce nu este Samuel aici?”
+
+= jabesh | 🐂 | Saul salva Jabesh di Galaad | Saul scapă Iabesul din Galaad | 9 11:1
+@ ghibea | 9 11:5
+it: Saul tornava dai campi dietro ai buoi quando seppe che Nahash l'Ammonita minacciava Jabesh.
+ro: Saul venea de la câmp în urma boilor când a aflat că Nahaș, amonitul, amenința Iabesul.
+@ bezek | 9 11:8
+it: A Bezek Saul passò in rassegna il popolo radunato contro gli Ammoniti.
+ro: La Bezec, Saul a numărat poporul strâns împotriva amoniților.
+? domanda | 9 11:2
+qi: Quale condizione crudele aveva posto Nahash agli abitanti di Jabesh?
+qr: Ce condiție crudă le pusese Nahaș locuitorilor din Iabes?
+ai: Cavare a tutti l'occhio destro | Dargli tutti i bambini | Distruggere il tempio | Andare schiavi in Egitto
+ar: Să le scoată tuturor ochiul drept | Să-i dea toți copiii | Să dărâme templul | Să meargă robi în Egipt
+@ jabesh | 9 11:11
+it: All'alba, divisi in tre schiere, gli uomini di Saul piombarono sull'accampamento ammonita.
+ro: În revărsatul zorilor, împărțiți în trei cete, oamenii lui Saul au năvălit în tabăra amoniților.
+? evento | 9 11:11
+qi: Come attaccò Saul gli Ammoniti?
+qr: Cum i-a atacat Saul pe amoniți?
+ai: Diviso il popolo in tre schiere, alla veglia del mattino | Con trecento uomini e delle fiaccole | Di notte, con il fuoco | Con un solo campione
+ar: Împărțind poporul în trei cete, în straja dimineții | Cu trei sute de oameni și făclii | Noaptea, cu foc | Cu un singur viteaz
+@ ghilgal | 9 11:15
+it: A Ghilgal il popolo proclamò re Saul davanti all'Eterno, con grande gioia.
+ro: La Ghilgal, poporul l-a pus împărat pe Saul înaintea Domnului, cu mare bucurie.
+? ordina | 9 11:15
+qi: Metti in ordine la storia di Jabesh.
+qr: Pune în ordine istoria Iabesului.
+ai: Nahash assedia Jabesh | Saul riceve la notizia a Ghibeah | La rassegna a Bezek | La vittoria all'alba | Saul re a Ghilgal
+ar: Nahaș împresoară Iabesul | Saul primește vestea la Ghibea | Numărătoarea de la Bezec | Biruința din zori | Saul împărat la Ghilgal
+
+= gionathan_micmas | 🧗 | Gionathan a Mikmash | Ionatan la Micmaș | 9 14:1
+@ gheba | 9 13:3
+it: Gionathan aveva sconfitto la guarnigione dei Filistei a Gheba.
+ro: Ionatan bătuse straja filistenilor de la Gheba.
+@ micmas | 9 14:6
+it: Gionathan e il suo scudiero salirono di nascosto verso la postazione dei Filistei, fra due rocce a punta.
+ro: Ionatan și cel ce-i ducea armele s-au suit pe ascuns spre straja filistenilor, între două stânci ascuțite.
+? personaggio | 9 14:6
+qi: Chi accompagnava Gionathan nella salita verso i Filistei?
+qr: Cine l-a însoțit pe Ionatan când s-a suit spre filisteni?
+ai: Il suo scudiero | Davide | Abner | Il sacerdote Ahijah
+ar: Cel ce-i ducea armele | David | Abner | Preotul Ahia
+@ micmas | 9 14:14 | la postazione dei Filistei | straja filistenilor
+it: In quella prima strage caddero circa venti uomini, e tutto il campo dei Filistei fu preso dal terrore.
+ro: În această primă înfrângere au căzut cam douăzeci de oameni, și toată tabăra filistenilor a fost cuprinsă de groază.
+? domanda | 9 14:6
+qi: Che cosa disse Gionathan al suo scudiero prima di salire?
+qr: Ce i-a zis Ionatan celui ce-i ducea armele înainte să se suie?
+ai: «Nulla può impedire all'Eterno di salvare con molti o con pochi» | «Torniamo da mio padre» | «Aspettiamo la notte» | «Chiamiamo Samuele»
+ar: „Domnul poate să izbăvească prin mulți sau prin puțini” | „Să ne întoarcem la tata” | „Să așteptăm noaptea” | „Să-l chemăm pe Samuel”
+@ aialon | 9 14:31
+it: Quel giorno Israele sconfisse i Filistei da Mikmash fino ad Ajalon.
+ro: În ziua aceea, Israel i-a bătut pe filisteni de la Micmaș până la Aialon.
+? evento | 9 14:27
+qi: Che cosa mangiò Gionathan, senza sapere del giuramento di suo padre?
+qr: Ce a mâncat Ionatan, fără să știe de jurământul tatălui său?
+ai: Un po' di miele da un favo | Del pane consacrato | Dei fichi | Della carne
+ar: Puțină miere dintr-un fagure | Pâine sfințită | Smochine | Carne
+
+= saul_amalek | 👑 | Saul contro Amalek | Saul împotriva lui Amalec | 9 15:4
+@ telaim | 9 15:4
+it: Saul radunò il popolo e lo passò in rassegna a Telaim.
+ro: Saul a strâns poporul și l-a numărat la Telaim.
+@ amalek | 9 15:5
+it: Saul arrivò alla città di Amalek e tese un'imboscata nella valle.
+ro: Saul a ajuns la cetatea lui Amalec și a pus o pândă în vale.
+? personaggio | 9 15:8
+qi: Quale re degli Amalekiti Saul risparmiò contro l'ordine di Dio?
+qr: Pe care împărat al amaleciților l-a cruțat Saul, împotriva poruncii lui Dumnezeu?
+ai: Agag | Akish | Nahash | Og
+ar: Agag | Achiș | Nahaș | Og
+@ carmelgiuda | 9 15:12
+it: Saul andò a Karmel e si eresse un monumento.
+ro: Saul s-a dus la Carmel și și-a ridicat un semn de biruință.
+? domanda | 9 15:14
+qi: Che cosa sentì Samuele che smentiva le parole di Saul?
+qr: Ce a auzit Samuel, care arăta că Saul nu spunea adevărul?
+ai: Il belare delle pecore e il muggire dei buoi | Il suono delle trombe | Il pianto dei prigionieri | Il rumore dei carri
+ar: Behăitul oilor și mugetul boilor | Sunetul trâmbițelor | Plânsul prinșilor | Huruitul carelor
+@ ghilgal | 9 15:22
+it: A Ghilgal Samuele rimproverò Saul: il regno gli sarebbe stato tolto.
+ro: La Ghilgal, Samuel l-a mustrat pe Saul: împărăția avea să-i fie luată.
+? domanda | 9 15:22
+qi: Che cosa disse Samuele a Saul a Ghilgal?
+qr: Ce i-a spus Samuel lui Saul la Ghilgal?
+ai: «L'ubbidienza è migliore del sacrificio» | «Il tuo sacrificio è gradito» | «Torna ad Amalek» | «Costruisci un altare»
+ar: „Ascultarea face mai mult decât jertfele” | „Jertfa ta este primită” | „Întoarce-te la Amalec” | „Zidește un altar”
+@ rama | 9 15:34
+it: Samuele se ne andò a Ramah e non rivide più Saul fino al giorno della sua morte.
+ro: Samuel s-a dus la Rama și nu l-a mai văzut pe Saul până în ziua morții lui.
+? ordina | 9 15:34
+qi: Metti in ordine la campagna contro Amalek.
+qr: Pune în ordine războiul împotriva lui Amalec.
+ai: La rassegna a Telaim | L'imboscata nella valle di Amalek | Il monumento a Karmel | Il rimprovero a Ghilgal | Samuele torna a Ramah
+ar: Numărătoarea de la Telaim | Pânda din valea lui Amalec | Semnul de la Carmel | Mustrarea de la Ghilgal | Samuel se întoarce la Rama
+
+= davide_unto | 🫒 | Davide unto a Betlemme | David uns la Betleem | 9 16:1
+@ rama | 9 16:1
+it: L'Eterno disse a Samuele: «Riempi di olio il tuo corno e va' da Isai di Betlemme».
+ro: Domnul i-a zis lui Samuel: „Umple-ți cornul cu untdelemn și du-te la Isai din Betleem”.
+@ betlemme | 9 16:7
+it: Vedendo Eliab, Samuele pensò che fosse lui l'unto dell'Eterno, ma Dio non lo aveva scelto.
+ro: Când l-a văzut pe Eliab, Samuel a crezut că el este unsul Domnului, dar Dumnezeu nu-l alesese.
+? domanda | 9 16:7
+qi: Che cosa disse l'Eterno a Samuele vedendo Eliab?
+qr: Ce i-a zis Domnul lui Samuel când l-a văzut pe Eliab?
+ai: «L'uomo guarda all'apparenza, ma l'Eterno guarda al cuore» | «È lui, ungilo» | «Aspetta domani» | «Scegli il più alto»
+ar: „Omul se uită la ce izbește ochii, dar Domnul se uită la inimă” | „El este, unge-l” | „Așteaptă până mâine” | „Alege-l pe cel mai înalt”
+@ betlemme | 9 16:13 | i campi di Betlemme | ogoarele Betleemului
+it: Il più giovane, Davide, pascolava le pecore; lo fecero venire e Samuele lo unse in mezzo ai fratelli.
+ro: Cel mai mic, David, păștea oile; l-au chemat, iar Samuel l-a uns în mijlocul fraților lui.
+? domanda | 9 16:10
+qi: Quanti figli di Isai passarono davanti a Samuele prima che venisse chiamato Davide?
+qr: Câți fii ai lui Isai au trecut pe dinaintea lui Samuel înainte să fie chemat David?
+ai: 7 | 3 | 10 | 12
+ar: 7 | 3 | 10 | 12
+@ ghibea | 9 16:23
+it: Davide entrò al servizio di Saul: quando il cattivo spirito lo tormentava, Davide suonava e Saul si calmava.
+ro: David a intrat în slujba lui Saul: când duhul cel rău îl chinuia, David cânta și Saul se liniștea.
+? domanda | 9 16:23
+qi: Quale strumento suonava Davide per Saul?
+qr: Ce instrument cânta David pentru Saul?
+ai: L'arpa | La tromba | Il flauto | Il tamburello
+ar: Harpa | Trâmbița | Fluierul | Timpana
+
+= davide_golia | 🪨 | Davide e Goliath | David și Goliat | 9 17:1
+@ betlemme | 9 17:15
+it: Davide andava e veniva dal servizio di Saul per pascolare le pecore di suo padre a Betlemme.
+ro: David se ducea și se întorcea de la Saul ca să pască oile tatălui său la Betleem.
+@ elah | 9 17:2
+it: Israele era accampato nella valle del Terebinto, di fronte ai Filistei; Isai mandò Davide a portare cibo ai fratelli.
+ro: Israel era tăbărât în valea terebinților, în fața filistenilor; Isai l-a trimis pe David să le ducă de mâncare fraților.
+? personaggio | 9 17:4
+qi: Da quale città veniva il gigante Goliath?
+qr: Din ce cetate era uriașul Goliat?
+ai: Gath | Gaza | Ashdod | Ekron
+ar: Gat | Gaza | Asdod | Ecron
+@ soco | 9 17:1
+it: I Filistei erano accampati fra Soko e Azekah; per quaranta giorni Goliath sfidò Israele.
+ro: Filistenii erau tăbărâți între Soco și Azeca; patruzeci de zile Goliat a batjocorit pe Israel.
+? domanda | 9 17:40
+qi: Quante pietre lisce scelse Davide nel torrente?
+qr: Câte pietre netede și-a ales David din pârâu?
+ai: 5 | 1 | 3 | 7
+ar: 5 | 1 | 3 | 7
+@ elah | 9 17:49 | il campo di battaglia | locul luptei
+it: Con la fionda e una pietra Davide colpì Goliath in fronte, e il gigante cadde a terra.
+ro: Cu praștia și o piatră, David l-a lovit pe Goliat în frunte, iar uriașul a căzut la pământ.
+? domanda | 9 17:4
+qi: Quanto era alto Goliath?
+qr: Cât de înalt era Goliat?
+ai: Sei cubiti e un palmo | Tre cubiti | Dieci cubiti | Due metri esatti
+ar: Șase coți și o palmă | Trei coți | Zece coți | Doi metri întocmai
+@ gerusalemme | 9 17:54
+it: Davide portò la testa del Filisteo a Gerusalemme e ripose le sue armi nella sua tenda.
+ro: David a dus capul filisteanului la Ierusalim, iar armele lui le-a pus în cortul lui.
+? ordina | 9 17:54
+qi: Metti in ordine la storia di Davide e Goliath.
+qr: Pune în ordine istoria lui David și Goliat.
+ai: Davide porta il cibo ai fratelli | Davide rifiuta l'armatura di Saul | Sceglie cinque pietre | Colpisce Goliath in fronte | Porta la testa a Gerusalemme
+ar: David le duce mâncare fraților | David nu primește armura lui Saul | Își alege cinci pietre | Îl lovește pe Goliat în frunte | Duce capul la Ierusalim
+
+= davide_fugge | 🏃 | Davide fugge da Saul | David fuge de Saul | 9 19:12
+@ ghibea | 9 19:12
+it: Mikal fece calare Davide dalla finestra, ed egli fuggì e si mise in salvo.
+ro: Mical l-a coborât pe David pe fereastră, și el a fugit și a scăpat.
+@ naioth | 9 19:18
+it: Davide andò da Samuele a Ramah e abitarono insieme a Naioth.
+ro: David s-a dus la Samuel la Rama și au locuit amândoi la Naiot.
+? personaggio | 9 19:12
+qi: Chi aiutò Davide a fuggire calandolo dalla finestra?
+qr: Cine l-a ajutat pe David să fugă, coborându-l pe fereastră?
+ai: Mikal, sua moglie | Gionathan | Samuele | Abigail
+ar: Mical, nevasta lui | Ionatan | Samuel | Abigail
+@ nob | 9 21:6
+it: A Nob il sacerdote Ahimelek diede a Davide i pani consacrati.
+ro: La Nob, preotul Ahimelec i-a dat lui David pâinile sfințite.
+? evento | 9 21:9
+qi: Quale arma ricevette Davide a Nob?
+qr: Ce armă a primit David la Nob?
+ai: La spada di Goliath | La lancia di Saul | L'arco di Gionathan | Una fionda nuova
+ar: Sabia lui Goliat | Sulița lui Saul | Arcul lui Ionatan | O praștie nouă
+@ gat | 9 21:13
+it: Davide fuggì da Akish, re di Gath, ma ebbe paura e si finse pazzo.
+ro: David a fugit la Achiș, împăratul Gatului, dar s-a temut și s-a prefăcut nebun.
+? personaggio | 9 21:10
+qi: Da quale re filisteo andò Davide a Gath?
+qr: La ce împărat filistean s-a dus David la Gat?
+ai: Akish | Agag | Nahash | Dagon
+ar: Achiș | Agag | Nahaș | Dagon
+@ adullam | 9 22:2
+it: Nella caverna di Adullam si radunarono attorno a lui quelli che erano in difficoltà.
+ro: În peștera Adulam s-au strâns în jurul lui toți cei necăjiți.
+? domanda | 9 22:2
+qi: Quanti uomini erano con Davide nella caverna di Adullam?
+qr: Câți oameni erau cu David în peștera Adulam?
+ai: Circa 400 | Circa 40 | Circa 1000 | 12
+ar: Aproape 400 | Aproape 40 | Aproape 1000 | 12
+@ mizpamoab | 9 22:3
+it: Davide affidò suo padre e sua madre al re di Moab, a Mitspah.
+ro: David și-a încredințat tatăl și mama împăratului Moabului, la Mițpa.
+? domanda | 9 22:3
+qi: A chi affidò Davide i suoi genitori?
+qr: Cui și-a încredințat David părinții?
+ai: Al re di Moab | Ad Akish | A Samuele | Al sacerdote di Nob
+ar: Împăratului Moabului | Lui Achiș | Lui Samuel | Preotului din Nob
+@ hereth | 9 22:5
+it: Il profeta Gad gli disse di tornare nel paese di Giuda, e Davide andò nella foresta di Hereth.
+ro: Prorocul Gad i-a spus să se întoarcă în țara lui Iuda, și David a mers în pădurea Heret.
+? personaggio | 9 22:5
+qi: Quale profeta disse a Davide di tornare in Giuda?
+qr: Care proroc i-a spus lui David să se întoarcă în Iuda?
+ai: Gad | Nathan | Samuele | Elia
+ar: Gad | Natan | Samuel | Ilie
+
+= davide_deserto | 🏜️ | Davide nel deserto di Giuda | David în pustia lui Iuda | 9 23:1
+@ hereth | 9 23:1
+it: Davide seppe che i Filistei attaccavano Keilah e rubavano il grano dalle aie.
+ro: David a aflat că filistenii atacau Cheila și jefuiau ariile.
+@ keila | 9 23:5
+it: Davide andò con i suoi uomini, sconfisse i Filistei e salvò gli abitanti di Keilah.
+ro: David s-a dus cu oamenii lui, i-a bătut pe filisteni și i-a scăpat pe locuitorii Cheilei.
+? domanda | 9 23:12
+qi: Che cosa avrebbero fatto gli abitanti di Keilah, secondo la risposta dell'Eterno?
+qr: Ce ar fi făcut locuitorii Cheilei, după răspunsul Domnului?
+ai: Avrebbero consegnato Davide a Saul | L'avrebbero fatto re | L'avrebbero nascosto | Sarebbero fuggiti con lui
+ar: L-ar fi dat pe David în mâinile lui Saul | L-ar fi făcut împărat | L-ar fi ascuns | Ar fi fugit cu el
+@ zif | 9 23:17
+it: Nel deserto di Zif Gionathan andò a trovare Davide e lo incoraggiò in Dio.
+ro: În pustia Zif, Ionatan a venit la David și l-a întărit în Dumnezeu.
+? domanda | 9 23:17
+qi: Che cosa disse Gionathan a Davide nel deserto di Zif?
+qr: Ce i-a zis Ionatan lui David în pustia Zif?
+ai: «Tu regnerai su Israele e io sarò il secondo dopo di te» | «Torna a casa» | «Mio padre ti ha perdonato» | «Fuggi in Egitto»
+ar: „Tu vei domni peste Israel, și eu voi fi al doilea după tine” | „Întoarce-te acasă” | „Tata te-a iertat” | „Fugi în Egipt”
+@ maon | 9 23:28
+it: Nel deserto di Maon Saul stava per raggiungerlo, ma dovette tornare indietro per un attacco dei Filistei.
+ro: În pustia Maon, Saul era cât pe ce să-l prindă, dar a trebuit să se întoarcă din pricina filistenilor.
+? luogo | 9 23:28
+qi: Come fu chiamato il luogo dove Saul smise di inseguire Davide?
+qr: Cum s-a numit locul unde Saul a încetat să-l urmărească pe David?
+ai: La roccia della divisione | La roccia del soccorso | Il pozzo del giuramento | La valle di Akor
+ar: Sela-Hamahlecot, stânca împărțirii | Eben-Ezer, piatra ajutorului | Beer-Șeba, fântâna jurământului | Valea Acor
+@ engedi | 9 24:4
+it: In una caverna di En-Ghedi Davide tagliò di nascosto un lembo del mantello di Saul, ma non volle colpirlo.
+ro: Într-o peșteră de la En-Ghedi, David a tăiat pe ascuns colțul mantiei lui Saul, dar n-a vrut să-l lovească.
+? evento | 9 24:4
+qi: Che cosa tagliò Davide a Saul nella caverna?
+qr: Ce i-a tăiat David lui Saul în peșteră?
+ai: Un lembo del mantello | Una ciocca di capelli | La cintura | La corda dell'arco
+ar: Colțul mantiei | O șuviță de păr | Brâul | Coarda arcului
+@ carmelgiuda | 9 25:3
+it: A Karmel il ricco Nabal insultò gli uomini di Davide; sua moglie Abigail portò dei doni e lo fermò.
+ro: La Carmel, bogatul Nabal i-a batjocorit pe oamenii lui David; nevasta lui, Abigail, a adus daruri și l-a oprit.
+? personaggio | 9 25:3
+qi: Chi era la moglie saggia di Nabal?
+qr: Cine era nevasta înțeleaptă a lui Nabal?
+ai: Abigail | Mikal | Betsabea | Ruth
+ar: Abigail | Mical | Bat-Șeba | Rut
+@ zif | 9 26:12 | l'accampamento di Saul | tabăra lui Saul
+it: Di notte Davide entrò nell'accampamento di Saul addormentato e prese la lancia e la brocca dell'acqua.
+ro: Noaptea, David a intrat în tabăra lui Saul, care dormea, și a luat sulița și urciorul cu apă.
+? domanda | 9 26:12
+qi: Che cosa prese Davide vicino al capo di Saul addormentato?
+qr: Ce a luat David de lângă capul lui Saul, care dormea?
+ai: La lancia e la brocca dell'acqua | La corona | La spada e lo scudo | Il mantello reale
+ar: Sulița și urciorul cu apă | Cununa | Sabia și scutul | Mantia împărătească
+
+= davide_filistei | 🔥 | Davide a Tsiklag | David la Țiclag | 9 27:1
+@ zif | 9 27:1
+it: Davide pensò: «Un giorno perirò per mano di Saul» e decise di rifugiarsi nel paese dei Filistei.
+ro: David și-a zis: „Voi pieri într-o zi ucis de Saul” și a hotărât să fugă în țara filistenilor.
+@ gat | 9 27:2
+it: Davide passò con i suoi seicento uomini da Akish, re di Gath.
+ro: David a trecut cu cei șase sute de oameni ai lui la Achiș, împăratul Gatului.
+? domanda | 9 27:2
+qi: Quanti uomini erano con Davide quando andò da Akish?
+qr: Câți oameni erau cu David când s-a dus la Achiș?
+ai: 600 | 400 | 300 | 1000
+ar: 600 | 400 | 300 | 1000
+@ ziklag | 9 27:6
+it: Akish diede a Davide la città di Tsiklag.
+ro: Achiș i-a dat lui David cetatea Țiclag.
+? luogo | 9 27:6
+qi: Quale città diede Akish a Davide?
+qr: Ce cetate i-a dat Achiș lui David?
+ai: Tsiklag | Gath | Ekron | Gaza
+ar: Țiclag | Gat | Ecron | Gaza
+@ afek | 9 29:1
+it: Ad Afek i capi dei Filistei non vollero Davide nella battaglia contro Israele e lo rimandarono indietro.
+ro: La Afec, căpeteniile filistenilor nu l-au vrut pe David în lupta împotriva lui Israel și l-au trimis înapoi.
+? domanda | 9 29:4
+qi: Perché i capi dei Filistei rimandarono indietro Davide?
+qr: De ce l-au trimis înapoi căpeteniile filistenilor pe David?
+ai: Temevano che si rivoltasse contro di loro in battaglia | Era malato | Non aveva armi | Akish era morto
+ar: Se temeau să nu se întoarcă împotriva lor în luptă | Era bolnav | N-avea arme | Achiș murise
+@ ziklag | 9 30:1 | Tsiklag bruciata | Țiclagul ars
+it: Tornati a Tsiklag, trovarono la città bruciata dagli Amalekiti e le famiglie portate via.
+ro: Întorși la Țiclag, au găsit cetatea arsă de amaleciți și familiile luate robi.
+? evento | 9 30:6
+qi: Che cosa fece Davide nella grande angoscia di Tsiklag?
+qr: Ce a făcut David în marea strâmtorare de la Țiclag?
+ai: Si fortificò nell'Eterno, il suo Dio | Fuggì in Egitto | Tornò da Saul | Si nascose in una caverna
+ar: S-a îmbărbătat sprijinindu-se pe Domnul, Dumnezeul lui | A fugit în Egipt | S-a întors la Saul | S-a ascuns într-o peșteră
+@ besor | 9 30:10
+it: Duecento uomini, troppo stanchi, restarono al torrente Besor; gli altri quattrocento continuarono.
+ro: Două sute de oameni, prea obosiți, au rămas la pârâul Besor; ceilalți patru sute au mers mai departe.
+? domanda | 9 30:24
+qi: Come divise Davide il bottino fra chi combatté e chi restò ai bagagli?
+qr: Cum a împărțit David prada între cei ce au luptat și cei rămași la calabalâc?
+ai: In parti uguali | Tutto a chi combatté | Metà ai sacerdoti | Nulla a chi restò indietro
+ar: În părți deopotrivă | Totul celor ce au luptat | Jumătate preoților | Nimic celor rămași în urmă
+
+= saul_ghilboa | ⚔️ | Saul a En-Dor e sul Ghilboa | Saul la En-Dor și pe Ghilboa | 9 28:4
+@ ghilboa | 9 28:4
+it: I Filistei si accamparono a Shunem, e Saul radunò Israele sul Ghilboa; vedendo il nemico ebbe paura.
+ro: Filistenii au tăbărât la Sunem, iar Saul a strâns tot Israelul pe Ghilboa; când a văzut tabăra, s-a temut.
+@ endor | 9 28:8
+it: Saul si travestì e andò di notte a En-Dor da una donna che evocava i morti.
+ro: Saul s-a deghizat și s-a dus noaptea la En-Dor, la o femeie care chema morții.
+? domanda | 9 28:6
+qi: Perché Saul andò a En-Dor?
+qr: De ce s-a dus Saul la En-Dor?
+ai: L'Eterno non gli rispondeva né con sogni, né con l'Urim, né con i profeti | Voleva fare pace con i Filistei | Cercava Davide | Andava a comprare armi
+ar: Domnul nu-i răspundea nici prin vise, nici prin Urim, nici prin proroci | Voia să facă pace cu filistenii | Îl căuta pe David | Mergea să cumpere arme
+@ ghilboa | 9 31:4 | la battaglia sul Ghilboa | lupta de pe Ghilboa
+it: Israele fuggì; Gionathan e i suoi fratelli caddero, e Saul, ferito, si gettò sulla propria spada.
+ro: Israel a fugit; Ionatan și frații lui au căzut, iar Saul, rănit, s-a aruncat în sabia lui.
+? personaggio | 9 31:2
+qi: Quale figlio di Saul, amico di Davide, cadde sul Ghilboa?
+qr: Care fiu al lui Saul, prieten cu David, a căzut pe Ghilboa?
+ai: Gionathan | Ish-Bosceth | Abner | Mefibosceth
+ar: Ionatan | Iș-Boșet | Abner | Mefiboșet
+@ betsean | 9 31:10 | Beth-Shan | Bet-Șean
+it: I Filistei appesero il corpo di Saul alle mura di Beth-Shan.
+ro: Filistenii au spânzurat trupul lui Saul pe zidurile Bet-Șeanului.
+? luogo | 9 31:10
+qi: Su quali mura i Filistei appesero il corpo di Saul?
+qr: Pe zidurile cărei cetăți au spânzurat filistenii trupul lui Saul?
+ai: Beth-Shan | Gath | Gerusalemme | Jezreel
+ar: Bet-Șean | Gat | Ierusalim | Izreel
+@ jabesh | 9 31:13
+it: Gli uomini di Jabesh camminarono tutta la notte, presero i corpi e seppellirono le ossa sotto il tamarisco.
+ro: Oamenii din Iabes au mers toată noaptea, au luat trupurile și au îngropat oasele sub tamarisc.
+? domanda | 9 31:13
+qi: Per quanti giorni digiunarono gli uomini di Jabesh?
+qr: Câte zile au postit oamenii din Iabes?
+ai: 7 | 3 | 40 | 1
+ar: 7 | 3 | 40 | 1
+
+= davide_re | 🏰 | Davide re a Hebron e a Gerusalemme | David împărat la Hebron și la Ierusalim | 10 2:1
+@ ziklag | 10 2:1
+it: Dopo la morte di Saul, Davide consultò l'Eterno: «Devo salire in una delle città di Giuda?».
+ro: După moartea lui Saul, David a întrebat pe Domnul: „Să mă sui într-una din cetățile lui Iuda?”
+@ ebron | 10 2:4
+it: A Hebron gli uomini di Giuda unsero Davide re sulla casa di Giuda.
+ro: La Hebron, oamenii lui Iuda l-au uns pe David împărat peste casa lui Iuda.
+? domanda | 10 2:11
+qi: Quanto tempo regnò Davide a Hebron sulla casa di Giuda?
+qr: Cât timp a domnit David la Hebron peste casa lui Iuda?
+ai: 7 anni e 6 mesi | 40 anni | 3 anni | 33 anni
+ar: 7 ani și 6 luni | 40 de ani | 3 ani | 33 de ani
+@ gabaon | 10 2:13
+it: Presso la piscina di Gabaon gli uomini di Joab e quelli di Abner si affrontarono.
+ro: Lângă iazul Gabaonului s-au înfruntat oamenii lui Ioab și cei ai lui Abner.
+? personaggio | 10 2:8
+qi: Chi aveva fatto re d'Israele Ish-Bosceth, figlio di Saul?
+qr: Cine îl făcuse împărat al lui Israel pe Iș-Boșet, fiul lui Saul?
+ai: Abner | Joab | Samuele | Akish
+ar: Abner | Ioab | Samuel | Achiș
+@ ebron | 10 5:3 | Hebron, re di tutto Israele | Hebron, împărat peste tot Israelul
+it: Tutti gli anziani d'Israele vennero a Hebron e unsero Davide re d'Israele.
+ro: Toți bătrânii lui Israel au venit la Hebron și l-au uns pe David împărat peste Israel.
+? domanda | 10 5:4
+qi: Quanti anni aveva Davide quando cominciò a regnare?
+qr: Câți ani avea David când a început să domnească?
+ai: 30 | 17 | 40 | 25
+ar: 30 | 17 | 40 | 25
+@ sion | 10 5:7
+it: Davide prese la fortezza di Sion, che è la città di Davide, e vi abitò.
+ro: David a luat cetățuia Sionului, adică cetatea lui David, și a locuit în ea.
+? luogo | 10 5:7
+qi: Quale fortezza prese Davide a Gerusalemme?
+qr: Ce cetățuie a luat David la Ierusalim?
+ai: La fortezza di Sion | La torre di Babele | La fortezza di Gath | La rocca di Masada
+ar: Cetățuia Sionului | Turnul Babel | Cetățuia din Gat | Stânca Masada
+
+= arca_gerusalemme | 💃 | L'arca sale a Gerusalemme | Chivotul se suie la Ierusalim | 10 6:2
+@ kiriath | 10 6:2 | Baale di Giuda | Baale-Iuda
+it: Davide andò con trentamila uomini scelti a prendere l'arca di Dio e la mise su un carro nuovo.
+ro: David s-a dus cu treizeci de mii de oameni aleși să ia chivotul lui Dumnezeu și l-a pus pe un car nou.
+@ nakon | 10 6:6
+it: All'aia di Nakon i buoi inciamparono e Uzzah stese la mano verso l'arca per sostenerla.
+ro: La aria lui Nacon, boii s-au poticnit, iar Uza a întins mâna spre chivot ca să-l țină.
+? personaggio | 10 6:7
+qi: Chi morì per aver toccato l'arca all'aia di Nakon?
+qr: Cine a murit pentru că a atins chivotul la aria lui Nacon?
+ai: Uzzah | Obed-Edom | Ahio | Abinadab
+ar: Uza | Obed-Edom | Ahio | Abinadab
+@ obededom | 10 6:11
+it: Davide ebbe paura e fece portare l'arca in casa di Obed-Edom, che fu benedetto dall'Eterno.
+ro: David s-a temut și a dus chivotul în casa lui Obed-Edom, pe care l-a binecuvântat Domnul.
+? domanda | 10 6:11
+qi: Per quanto tempo l'arca restò in casa di Obed-Edom?
+qr: Cât timp a stat chivotul în casa lui Obed-Edom?
+ai: 3 mesi | 7 giorni | 1 anno | 20 anni
+ar: 3 luni | 7 zile | 1 an | 20 de ani
+@ sion | 10 6:14
+it: Davide portò l'arca nella città di Davide danzando con tutte le sue forze davanti all'Eterno.
+ro: David a adus chivotul în cetatea lui David, jucând din toată puterea înaintea Domnului.
+? evento | 10 6:14
+qi: Che cosa indossava Davide mentre danzava davanti all'arca?
+qr: Ce purta David când juca înaintea chivotului?
+ai: Un efod di lino | Il mantello reale | Un'armatura | Una veste di sacco
+ar: Un efod de in | Mantia împărătească | O armură | Un sac
+@ sion | 10 6:17 | la tenda per l'arca | cortul pentru chivot
+it: L'arca fu posta in mezzo alla tenda che Davide aveva preparato, e Davide distribuì cibo a tutto il popolo.
+ro: Chivotul a fost pus în mijlocul cortului pe care i-l pregătise David, iar David a împărțit mâncare întregului popor.
+? ordina | 10 6:17
+qi: Metti in ordine il viaggio dell'arca verso Gerusalemme.
+qr: Pune în ordine drumul chivotului spre Ierusalim.
+ai: L'arca sul carro nuovo | L'aia di Nakon | La casa di Obed-Edom | La danza di Davide | La tenda nella città di Davide
+ar: Chivotul pe carul nou | Aria lui Nacon | Casa lui Obed-Edom | Jocul lui David | Cortul din cetatea lui David
+
+= uria_rabba | 📜 | Uriah e l'assedio di Rabbah | Urie și împresurarea Rabei | 10 11:1
+@ gerusalemme | 10 11:1
+it: In primavera Davide mandò Joab con l'esercito ad assediare Rabbah, ma lui rimase a Gerusalemme.
+ro: Primăvara, David l-a trimis pe Ioab cu oastea să împresoare Raba, iar el a rămas la Ierusalim.
+@ rabba | 10 11:6
+it: Davide fece venire Uriah l'Hitteo dall'accampamento di Rabbah.
+ro: David l-a chemat pe Urie, hetitul, din tabăra de la Raba.
+? domanda | 10 11:9
+qi: Dove dormì Uriah invece di andare a casa sua?
+qr: Unde a dormit Urie în loc să se ducă acasă?
+ai: Alla porta della casa del re, con i servi | Nel tempio | Nella tenda di Joab | Nel deserto
+ar: La ușa casei împăratului, cu slujitorii | În templu | În cortul lui Ioab | În pustie
+@ rabba | 10 11:14 | la lettera a Joab | scrisoarea către Ioab
+it: Davide scrisse una lettera a Joab e la mandò per mezzo di Uriah stesso.
+ro: David i-a scris o scrisoare lui Ioab și i-a trimis-o prin Urie însuși.
+? domanda | 10 11:15
+qi: Che cosa chiedeva Davide a Joab nella lettera?
+qr: Ce îi cerea David lui Ioab în scrisoare?
+ai: Di mettere Uriah dove la battaglia era più aspra e poi ritirarsi | Di fare pace con Rabbah | Di tornare subito a Gerusalemme | Di dare a Uriah un comando
+ar: Să-l pună pe Urie unde era lupta mai aprigă și apoi să se retragă | Să facă pace cu Raba | Să se întoarcă îndată la Ierusalim | Să-i dea lui Urie o căpetenie
+@ gerusalemme | 10 12:7 | la parabola di Nathan | pilda lui Natan
+it: Il profeta Nathan raccontò a Davide la parabola della pecorella del povero e gli disse: «Tu sei quell'uomo!».
+ro: Prorocul Natan i-a spus lui David pilda cu mielușeaua săracului și i-a zis: „Tu ești omul acesta!”
+? personaggio | 10 12:1
+qi: Quale profeta mandò l'Eterno da Davide?
+qr: Ce proroc l-a trimis Domnul la David?
+ai: Nathan | Gad | Samuele | Elia
+ar: Natan | Gad | Samuel | Ilie
+@ rabba | 10 12:30 | la presa di Rabbah | luarea Rabei
+it: Davide prese Rabbah e la corona del loro re, del peso di un talento d'oro, fu posta sul suo capo.
+ro: David a luat Raba, iar cununa împăratului lor, grea de un talant de aur, a fost pusă pe capul lui.
+? domanda | 10 12:30
+qi: Quanto pesava la corona del re di Rabbah?
+qr: Cât cântărea cununa împăratului Rabei?
+ai: Un talento d'oro | Un siclo d'argento | Cento sicli di bronzo | Dieci mine d'oro
+ar: Un talant de aur | Un siclu de argint | O sută de sicli de aramă | Zece mine de aur
+
+= assalonne_ghesur | 💇 | Absalom esule e ribelle | Absalom, fugar și răsculat | 10 13:37
+@ baalhazor | 10 13:23
+it: A Baal-Hatsor, durante la tosatura delle pecore, Absalom fece uccidere suo fratello Amnon.
+ro: La Baal-Hațor, la tunsul oilor, Absalom l-a pus să-l omoare pe fratele său Amnon.
+@ ghesur | 10 13:38
+it: Absalom fuggì a Gheshur, dal re Talmai, e vi rimase tre anni.
+ro: Absalom a fugit la Gheșur, la împăratul Talmai, și a stat acolo trei ani.
+? domanda | 10 13:38
+qi: Quanti anni rimase Absalom a Gheshur?
+qr: Câți ani a stat Absalom la Gheșur?
+ai: 3 | 7 | 1 | 10
+ar: 3 | 7 | 1 | 10
+@ gerusalemme | 10 14:23
+it: Joab andò a Gheshur e riportò Absalom a Gerusalemme, ma il re non volle vederlo per due anni.
+ro: Ioab s-a dus la Gheșur și l-a adus pe Absalom la Ierusalim, dar împăratul n-a vrut să-l vadă doi ani.
+? personaggio | 10 14:23
+qi: Chi andò a Gheshur a riprendere Absalom?
+qr: Cine s-a dus la Gheșur să-l aducă înapoi pe Absalom?
+ai: Joab | Nathan | Abishai | Ahithofel
+ar: Ioab | Natan | Abișai | Ahitofel
+@ ebron | 10 15:10
+it: Absalom andò a Hebron e da lì fece proclamare: «Absalom è re a Hebron!».
+ro: Absalom s-a dus la Hebron și de acolo a vestit: „Absalom este împărat la Hebron!”
+? domanda | 10 15:6
+qi: Come conquistò Absalom il cuore degli uomini d'Israele?
+qr: Cum a câștigat Absalom inimile oamenilor lui Israel?
+ai: Li fermava alla porta promettendo giustizia | Distribuiva oro | Vinceva battaglie | Costruiva città
+ar: Îi oprea la poartă și le făgăduia dreptate | Le împărțea aur | Câștiga lupte | Zidea cetăți
+
+= davide_fugge_assalonne | 😢 | La fuga di Davide da Absalom | Fuga lui David de Absalom | 10 15:14
+@ gerusalemme | 10 15:14
+it: Davide disse ai suoi servi: «Fuggiamo, perché non potremo scampare davanti ad Absalom».
+ro: David a zis slujitorilor lui: „Să fugim, căci nu vom putea scăpa de Absalom”.
+@ chedron | 10 15:23
+it: Il re attraversò il torrente Kidron, e tutto il popolo piangeva; Ittai di Gath volle restare con lui.
+ro: Împăratul a trecut pârâul Chedron, și tot poporul plângea; Itai din Gat a vrut să rămână cu el.
+? personaggio | 10 15:21
+qi: Quale straniero di Gath giurò di restare con Davide in vita e in morte?
+qr: Care străin din Gat a jurat că va rămâne cu David și în viață și în moarte?
+ai: Ittai | Akish | Goliath | Uriah
+ar: Itai | Achiș | Goliat | Urie
+@ ulivi | 10 15:30
+it: Davide salì il monte degli Ulivi piangendo, a capo coperto e a piedi nudi.
+ro: David a suit dealul Măslinilor plângând, cu capul acoperit și cu picioarele goale.
+? personaggio | 10 15:34
+qi: Quale amico Davide rimandò in città per sventare il consiglio di Ahithofel?
+qr: Pe care prieten l-a trimis David înapoi în cetate ca să zădărnicească sfatul lui Ahitofel?
+ai: Hushai | Nathan | Joab | Tsiba
+ar: Hușai | Natan | Ioab | Țiba
+@ bahurim | 10 16:5
+it: A Bahurim Scimei, della famiglia di Saul, uscì maledicendo Davide e tirandogli pietre.
+ro: La Bahurim, Șimei, din familia lui Saul, a ieșit blestemându-l pe David și aruncând cu pietre în el.
+? personaggio | 10 16:5
+qi: Chi maledisse Davide a Bahurim?
+qr: Cine l-a blestemat pe David la Bahurim?
+ai: Scimei | Tsiba | Abner | Amasa
+ar: Șimei | Țiba | Abner | Amasa
+@ mahanaim | 10 17:27
+it: A Mahanaim Shobi, Makir e Barzillai portarono letti, grano, miele e formaggio a Davide e al suo popolo.
+ro: La Mahanaim, Șobi, Machir și Barzilai i-au adus lui David și poporului lui paturi, grâu, miere și brânză.
+? personaggio | 10 17:27
+qi: Quale anziano di Galaad provvide cibo a Davide a Mahanaim?
+qr: Care bătrân din Galaad i-a dat de mâncare lui David la Mahanaim?
+ai: Barzillai | Hushai | Ahithofel | Scimei
+ar: Barzilai | Hușai | Ahitofel | Șimei
+@ forestaefraim | 10 18:9
+it: Nella foresta di Efraim Absalom, fuggendo sul suo mulo, restò appeso per il capo ai rami di una quercia.
+ro: În pădurea lui Efraim, Absalom, fugind pe catârul lui, a rămas agățat cu capul de crengile unui stejar.
+? evento | 10 18:9
+qi: Che cosa accadde ad Absalom nella foresta di Efraim?
+qr: Ce i s-a întâmplat lui Absalom în pădurea lui Efraim?
+ai: Restò appeso per il capo ai rami di una quercia | Cadde in un burrone | Si perse nella notte | Fu morso da un serpente
+ar: A rămas agățat cu capul de crengile unui stejar | A căzut într-o prăpastie | S-a rătăcit în noapte | A fost mușcat de un șarpe
+@ mahanaim | 10 18:33 | il lamento del re | bocetul împăratului
+it: Alla notizia, il re pianse: «Figlio mio Absalom! Fossi morto io al tuo posto!».
+ro: La auzul veștii, împăratul a plâns: „Fiul meu Absalom! De ce n-am murit eu în locul tău!”
+? ordina | 10 18:33
+qi: Metti in ordine la fuga di Davide.
+qr: Pune în ordine fuga lui David.
+ai: Il torrente Kidron | Il monte degli Ulivi | Bahurim e Scimei | Mahanaim | La foresta di Efraim
+ar: Pârâul Chedron | Muntele Măslinilor | Bahurim și Șimei | Mahanaim | Pădurea lui Efraim
+
+= acqua_betlemme | 💧 | L'acqua del pozzo di Betlemme | Apa din fântâna Betleemului | 10 23:13
+@ adullam | 10 23:13
+it: Al tempo della mietitura Davide era nella caverna di Adullam, mentre i Filistei occupavano Betlemme.
+ro: La vremea secerișului, David era în peștera Adulam, iar filistenii erau la Betleem.
+@ betlemme | 10 23:16
+it: Tre prodi attraversarono il campo dei Filistei e attinsero acqua dal pozzo presso la porta di Betlemme.
+ro: Trei viteji au trecut prin tabăra filistenilor și au scos apă din fântâna de la poarta Betleemului.
+? domanda | 10 23:15
+qi: Che cosa desiderò Davide nella caverna?
+qr: Ce a dorit David în peșteră?
+ai: Bere l'acqua del pozzo di Betlemme | Mangiare del pane caldo | Tornare dal padre | Vedere Samuele
+ar: Să bea apă din fântâna Betleemului | Să mănânce pâine caldă | Să se întoarcă la tatăl lui | Să-l vadă pe Samuel
+@ adullam | 10 23:17 | il ritorno alla caverna | întoarcerea la peșteră
+it: Davide non volle berla e la versò come offerta all'Eterno: era il sangue di uomini che avevano rischiato la vita.
+ro: David n-a vrut s-o bea și a turnat-o înaintea Domnului: era sângele oamenilor care își puseseră viața în primejdie.
+? evento | 10 23:16
+qi: Che cosa fece Davide con l'acqua portata dai tre prodi?
+qr: Ce a făcut David cu apa adusă de cei trei viteji?
+ai: La versò come offerta all'Eterno | La bevve subito | La diede ai feriti | La conservò per il tempio
+ar: A turnat-o înaintea Domnului | A băut-o îndată | A dat-o răniților | A păstrat-o pentru templu
+
+= censimento | 📋 | Il censimento di Davide | Numărătoarea lui David | 10 24:2
+@ gerusalemme | 10 24:2
+it: Il re disse a Joab: «Percorri tutte le tribù d'Israele, da Dan a Beer-Sceba, e fa' il censimento del popolo».
+ro: Împăratul i-a zis lui Ioab: „Străbate toate semințiile lui Israel, de la Dan până la Beer-Șeba, și fă numărătoarea poporului”.
+@ aroer | 10 24:5
+it: Joab e i capi passarono il Giordano e si accamparono ad Aroer.
+ro: Ioab și căpeteniile au trecut Iordanul și au tăbărât la Aroer.
+? personaggio | 10 24:3
+qi: Chi cercò di dissuadere Davide dal fare il censimento?
+qr: Cine a încercat să-l oprească pe David de la numărătoare?
+ai: Joab | Nathan | Scimei | Abishai
+ar: Ioab | Natan | Șimei | Abișai
+@ dan | 10 24:6
+it: Poi andarono in Galaad, a Dan e nei dintorni di Sidone.
+ro: Apoi au mers în Galaad, la Dan și împrejurul Sidonului.
+? domanda | 10 24:8
+qi: Quanto tempo durò il censimento?
+qr: Cât a ținut numărătoarea?
+ai: 9 mesi e 20 giorni | 40 giorni | 1 anno | 3 mesi
+ar: 9 luni și 20 de zile | 40 de zile | 1 an | 3 luni
+@ beerseba | 10 24:7
+it: Andarono fino al Neghev di Giuda, a Beer-Sceba, e poi tornarono a Gerusalemme.
+ro: Au mers până la miazăzi de Iuda, la Beer-Șeba, și apoi s-au întors la Ierusalim.
+? personaggio | 10 24:11
+qi: Quale profeta, chiamato «il veggente di Davide», portò la parola dell'Eterno dopo il censimento?
+qr: Care proroc, numit „văzătorul lui David”, i-a adus cuvântul Domnului după numărătoare?
+ai: Gad | Nathan | Samuele | Ahijah
+ar: Gad | Natan | Samuel | Ahia
+@ araunah | 10 24:24
+it: Davide comprò l'aia di Araunah il Gebuseo e vi costruì un altare all'Eterno: la piaga si fermò.
+ro: David a cumpărat aria lui Aravna, iebusitul, și a zidit acolo un altar Domnului: urgia s-a oprit.
+? domanda | 10 24:24
+qi: Che cosa rispose Davide ad Araunah, che voleva regalargli l'aia?
+qr: Ce i-a răspuns David lui Aravna, care voia să-i dăruiască aria?
+ai: «Non offrirò all'Eterno olocausti che non mi costano nulla» | «Accetto il tuo dono» | «Tienila per te» | «Chiedi al sacerdote»
+ar: „Nu voi aduce Domnului arderi de tot care să nu mă coste nimic” | „Primesc darul tău” | „Păstreaz-o pentru tine” | „Întreabă-l pe preot”

@@ -1,0 +1,142 @@
+# Domande nuove — livello facile, secondo giro
+at|1|1 1:5
+IT|Come chiamò Dio la luce?|Giorno|Sole|Mattino|Stella|Dio chiamò la luce «giorno» e le tenebre «notte».
+RO|Cum a numit Dumnezeu lumina?|Zi|Soare|Dimineață|Stea|Dumnezeu a numit lumina „zi”, iar întunericul l-a numit „noapte”.
+at|1|1 1:5
+IT|Come chiamò Dio le tenebre?|Notte|Buio|Abisso|Ombra|Dio chiamò la luce «giorno» e le tenebre «notte».
+RO|Cum a numit Dumnezeu întunericul?|Noapte|Beznă|Adânc|Umbră|Dumnezeu a numit lumina „zi”, iar întunericul l-a numit „noapte”.
+at|1|1 1:8
+IT|Come chiamò Dio il firmamento?|Cielo|Terra|Mare|Aria|Dio chiamò il firmamento «cielo».
+RO|Cum a numit Dumnezeu întinderea?|Cer|Pământ|Mare|Văzduh|Dumnezeu a numit întinderea „cer”.
+at|1|1 1:31
+IT|Che cosa vide Dio alla fine del sesto giorno riguardo a tutto ciò che aveva fatto?|Che era molto buono|Che era da rifare|Che era incompleto|Che era triste|Dio vide tutto quello che aveva fatto, ed ecco, era molto buono.
+RO|Ce a văzut Dumnezeu la sfârșitul zilei a șasea despre tot ce făcuse?|Că era foarte bun|Că trebuia refăcut|Că era neterminat|Că era trist|Dumnezeu S-a uitat la tot ce făcuse; și iată că erau foarte bune.
+personaggi|1|1 4:1
+IT|Chi era il primo figlio di Adamo ed Eva?|Caino|Abele|Seth|Enok|Adamo conobbe Eva, sua moglie, che concepì e partorì Caino.
+RO|Cine era primul fiu al lui Adam și al Evei?|Cain|Abel|Set|Enoh|Adam s-a împreunat cu nevastă-sa Eva; ea a rămas însărcinată și a născut pe Cain.
+at|1|1 7:9
+IT|Come entrarono gli animali nell'arca?|A coppie, maschio e femmina|Tutti insieme di corsa|Uno alla volta|Non entrarono|Entrarono a due a due nell'arca con Noè, maschio e femmina, come Dio aveva comandato.
+RO|Cum au intrat animalele în corabie?|Câte două, parte bărbătească și parte femeiască|Toate deodată, alergând|Câte unul|N-au intrat|Au intrat în corabie la Noe, câte două, parte bărbătească și parte femeiască, cum poruncise Dumnezeu.
+personaggi|1|1 12:1
+IT|Che cosa disse Dio ad Abramo di lasciare?|Il suo paese, il suo parentado e la casa di suo padre|Solo la sua tenda|I suoi figli|Il suo gregge|L'Eterno disse ad Abramo: «Va' via dal tuo paese, dal tuo parentado e dalla casa di tuo padre».
+RO|Ce i-a spus Dumnezeu lui Avram să părăsească?|Țara, rudele și casa tatălui său|Numai cortul|Copiii|Turma|Domnul i-a zis lui Avram: „Ieși din țara ta, din rudenia ta și din casa tatălui tău.”
+personaggi|1|1 37:5
+IT|Che cosa fece Giuseppe che fece odiare ancora di più i suoi fratelli?|Raccontò loro un sogno|Rubò il loro gregge|Andò in Egitto|Sposò una straniera|Giuseppe fece un sogno e lo raccontò ai suoi fratelli, che lo odiarono ancora di più.
+RO|Ce a făcut Iosif de l-au urât frații lui și mai mult?|Le-a istorisit un vis|Le-a furat turma|A plecat în Egipt|S-a însurat cu o străină|Iosif a avut un vis și l-a istorisit fraților săi, care l-au urât și mai mult.
+personaggi|1|1 37:24
+IT|Dove gettarono i fratelli Giuseppe prima di venderlo?|In una cisterna vuota|In un fiume|In una caverna|In una prigione|Lo presero e lo gettarono nella cisterna; la cisterna era vuota, non c'era acqua.
+RO|Unde l-au aruncat frații pe Iosif înainte să-l vândă?|Într-o groapă goală|Într-un râu|Într-o peșteră|Într-o temniță|L-au luat și l-au aruncat în groapă; groapa era goală, fără apă.
+personaggi|1|2 2:10
+IT|Chi adottò Mosè come figlio?|La figlia del Faraone|La moglie del Faraone|Miriam|Tsipporah|Quando il bambino fu cresciuto, lo portò alla figlia del Faraone, ed egli fu per lei come un figlio.
+RO|Cine l-a înfiat pe Moise?|Fata lui Faraon|Nevasta lui Faraon|Maria|Sefora|Când a crescut copilul, l-a dus fetei lui Faraon, și el i-a fost ca un fiu.
+at|1|2 12:31
+IT|Che cosa disse il Faraone a Mosè dopo la morte dei primogeniti?|«Uscite dal mezzo del mio popolo»|«Restate in Egitto»|«Pagate un tributo»|«Tornate fra un anno»|Il Faraone chiamò Mosè e Aaronne di notte e disse: «Alzatevi, uscite dal mezzo del mio popolo».
+RO|Ce i-a spus Faraon lui Moise după moartea întâilor născuți?|„Ieșiți din mijlocul poporului meu”|„Rămâneți în Egipt”|„Plătiți un bir”|„Întoarceți-vă peste un an”|Faraon a chemat pe Moise și pe Aaron noaptea și a zis: „Sculați-vă, ieșiți din mijlocul poporului meu.”
+at|1|2 20:14
+IT|Che cosa dice il settimo comandamento?|Non commettere adulterio|Non rubare|Non uccidere|Non desiderare|«Non commettere adulterio».
+RO|Ce spune porunca a șaptea?|Să nu preacurvești|Să nu furi|Să nu ucizi|Să nu poftești|„Să nu preacurvești.”
+at|1|2 20:16
+IT|Che cosa dice il nono comandamento?|Non dire falsa testimonianza contro il tuo prossimo|Non rubare|Non uccidere|Onora il padre|«Non dire falsa testimonianza contro il tuo prossimo».
+RO|Ce spune porunca a noua?|Să nu mărturisești strâmb împotriva aproapelui tău|Să nu furi|Să nu ucizi|Cinstește pe tatăl tău|„Să nu mărturisești strâmb împotriva aproapelui tău.”
+at|1|2 20:4
+IT|Che cosa proibisce il secondo comandamento?|Farsi scultura o immagine per adorarla|Lavorare di sabato|Rubare|Mentire|«Non ti fare scultura alcuna né immagine alcuna… non ti prostrerai davanti a loro e non le servirai».
+RO|Ce oprește porunca a doua?|Să-ți faci chip cioplit ca să te închini lui|Să lucrezi în Sabat|Să furi|Să minți|„Să nu-ți faci chip cioplit, nici vreo înfățișare… Să nu te închini înaintea lor și să nu le slujești.”
+at|1|2 20:7
+IT|Che cosa proibisce il terzo comandamento?|Usare il nome dell'Eterno invano|Uccidere|Rubare|Desiderare la casa altrui|«Non userai il nome dell'Eterno, il tuo Dio, invano».
+RO|Ce oprește porunca a treia?|Să iei în deșert Numele Domnului|Să ucizi|Să furi|Să poftești casa altuia|„Să nu iei în deșert Numele Domnului, Dumnezeului tău.”
+personaggi|1|4 22:21
+IT|Su quale animale viaggiava Balaam?|Un'asina|Un cavallo|Un cammello|Un mulo|Balaam si alzò la mattina, sellò la sua asina e partì con i capi di Moab.
+RO|Pe ce animal călătorea Balaam?|O măgăriță|Un cal|O cămilă|Un catâr|Balaam s-a sculat dimineața, și-a pus șaua pe măgăriță și a plecat cu căpeteniile Moabului.
+miracoli|1|6 6:5
+IT|Che cosa doveva fare il popolo quando le trombe suonavano a lungo a Gerico?|Lanciare un grande grido|Stare in silenzio|Fuggire|Pregare in ginocchio|Quando udrete il suono della tromba, tutto il popolo lancerà un grande grido e le mura della città crolleranno.
+RO|Ce trebuia să facă poporul când sunau lung trâmbițele la Ierihon?|Să scoată mari strigăte|Să tacă|Să fugă|Să se roage în genunchi|Când veți auzi sunetul trâmbiței, tot poporul să scoată mari strigăte; atunci zidul cetății se va prăbuși.
+personaggi|1|7 6:12
+IT|Come chiamò l'angelo Gedeone quando gli apparve?|«Uomo forte e valoroso»|«Piccolo pastore»|«Figlio di Davide»|«Re d'Israele»|L'angelo dell'Eterno gli apparve e gli disse: «L'Eterno è con te, uomo forte e valoroso!».
+RO|Cum l-a numit îngerul pe Ghedeon când i s-a arătat?|„Om viteaz”|„Micul păstor”|„Fiul lui David”|„Împăratul lui Israel”|Îngerul Domnului i s-a arătat și i-a zis: „Domnul este cu tine, viteazule!”
+personaggi|1|8 2:2
+IT|Che cosa andò a fare Rut nei campi?|A spigolare|A pascolare le pecore|A cercare acqua|A vendere pane|Rut, la Moabita, disse a Noemi: «Lasciami andare nei campi a spigolare».
+RO|Ce s-a dus Rut să facă pe câmp?|Să strângă spice|Să pască oile|Să caute apă|Să vândă pâine|Rut, moabita, a zis Naomei: „Lasă-mă, te rog, să mă duc la câmp să strâng spice.”
+personaggi|1|9 3:8
+IT|Chi capì che era l'Eterno a chiamare il giovane Samuele?|Eli|Anna|Elkanah|Ofni|Eli comprese che era l'Eterno che chiamava il fanciullo.
+RO|Cine a înțeles că Domnul îl chema pe tânărul Samuel?|Eli|Ana|Elcana|Hofni|Eli a înțeles că Domnul chema pe copil.
+personaggi|1|9 17:4
+IT|Quale gigante filisteo sfidava gli eserciti d'Israele?|Goliath|Og|Sisera|Agag|Uscì dall'accampamento dei Filistei un campione di nome Goliath, di Gath.
+RO|Ce uriaș filistean sfida oștirile lui Israel?|Goliat|Og|Sisera|Agag|Din tabăra filistenilor a ieșit un om, Goliat, din Gat.
+personaggi|1|9 17:50
+IT|Con quale arma Davide vinse Goliath?|Una fionda e una pietra|Una spada|Una lancia|Un arco|Davide con una fionda e una pietra vinse il Filisteo.
+RO|Cu ce armă l-a biruit David pe Goliat?|Cu o praștie și o piatră|Cu o sabie|Cu o suliță|Cu un arc|Cu o praștie și cu o piatră, David a fost mai tare decât filisteanul.
+personaggi|1|11 3:10-12
+IT|Quale re d'Israele era famoso per la sua sapienza?|Salomone|Saul|Achab|Geroboamo|Dio disse a Salomone: «Ti do un cuore saggio e intelligente, tanto che non ci sarà stato alcuno simile a te».
+RO|Ce împărat al lui Israel era vestit pentru înțelepciunea lui?|Solomon|Saul|Ahab|Ieroboam|Dumnezeu i-a zis lui Solomon: „Îți dau o inimă înțeleaptă și pricepută, așa încât nu va fi fost nimeni ca tine.”
+profeti|1|11 17:1
+IT|Quale profeta annunciò ad Achab che non sarebbe piovuto per anni?|Elia|Eliseo|Isaia|Geremia|Elia il Tishbita disse ad Achab: «Non vi sarà né rugiada né pioggia».
+RO|Ce proroc i-a vestit lui Ahab că nu va ploua ani de zile?|Ilie|Elisei|Isaia|Ieremia|Ilie, tișbitul, i-a zis lui Ahab: „Nu va fi nici rouă, nici ploaie.”
+profeti|1|12 2:15
+IT|Su chi si posò lo spirito di Elia, secondo i figli dei profeti?|Su Eliseo|Su Ghehazi|Su Giona|Su Jehu|I figli dei profeti dissero: «Lo spirito di Elia si è posato su Eliseo».
+RO|Peste cine s-a odihnit duhul lui Ilie, după fiii prorocilor?|Peste Elisei|Peste Ghehazi|Peste Iona|Peste Iehu|Fiii prorocilor au zis: „Duhul lui Ilie s-a odihnit peste Elisei!”
+personaggi|1|17 4:16
+IT|Che cosa disse Ester prima di presentarsi al re senza essere chiamata?|«Se devo perire, che io perisca»|«Non andrò»|«Mandate Mardocheo»|«Aspetterò un anno»|«Poi entrerò dal re, benché ciò sia contro la legge; e se devo perire, che io perisca!».
+RO|Ce a spus Estera înainte să se înfățișeze împăratului fără să fie chemată?|„Dacă va trebui să pier, voi pieri”|„Nu mă voi duce”|„Trimiteți-l pe Mardoheu”|„Voi aștepta un an”|„Apoi voi intra la împărat, cu toate că este împotriva legii; și, dacă va fi să pier, voi pieri.”
+profeti|1|27 6:22
+IT|Che cosa disse Daniele al re dalla fossa dei leoni?|«Il mio Dio ha mandato il suo angelo»|«Aiutami, o re»|«Ho fame»|«Liberami subito»|«Il mio Dio ha mandato il suo angelo, che ha chiuso la bocca dei leoni, ed essi non mi hanno fatto alcun male».
+RO|Ce i-a spus Daniel împăratului din groapa cu lei?|„Dumnezeul meu a trimis pe îngerul Său”|„Ajută-mă, împărate”|„Mi-e foame”|„Scoate-mă îndată”|„Dumnezeul meu a trimis pe îngerul Său și a închis gura leilor, care nu mi-au făcut niciun rău.”
+profeti|1|32 2:10
+IT|Dove vomitò il pesce Giona?|Sull'asciutto|In una barca|A Ninive|In un fiume|L'Eterno parlò al pesce, e il pesce vomitò Giona sull'asciutto.
+RO|Unde l-a vărsat peștele pe Iona?|Pe pământ|Într-o corabie|La Ninive|Într-un râu|Domnul a vorbit peștelui, și peștele a vărsat pe Iona pe pământ.
+nt|1|40 2:2
+IT|Che cosa videro i magi in oriente, che li guidò da Gesù?|Una stella|Un angelo|Una nuvola|Una colonna di fuoco|«Abbiamo visto la sua stella in oriente e siamo venuti per adorarlo».
+RO|Ce au văzut magii la răsărit, care i-a călăuzit la Isus?|O stea|Un înger|Un nor|Un stâlp de foc|„I-am văzut steaua în răsărit și am venit să ne închinăm Lui.”
+nt|1|40 2:12
+IT|Perché i magi non tornarono da Erode?|Furono avvertiti in sogno|Si persero|Erode morì|Non volevano|Avvertiti in sogno di non ripassare da Erode, per altra via tornarono al loro paese.
+RO|De ce nu s-au mai întors magii la Irod?|Au fost înștiințați în vis|S-au rătăcit|Irod a murit|Nu voiau|Înștiințați în vis să nu se mai întoarcă la Irod, s-au dus în țara lor pe un alt drum.
+nt|1|40 4:1
+IT|Da chi fu tentato Gesù nel deserto?|Dal diavolo|Dai farisei|Dai soldati|Da Giuda|Gesù fu condotto dallo Spirito nel deserto per essere tentato dal diavolo.
+RO|De cine a fost ispitit Isus în pustie?|De diavolul|De farisei|De ostași|De Iuda|Isus a fost dus de Duhul în pustie, ca să fie ispitit de diavolul.
+nt|1|40 4:18
+IT|Che mestiere facevano Pietro e Andrea quando Gesù li chiamò?|I pescatori|I pastori|I falegnami|I soldati|Erano pescatori; Gesù disse loro: «Seguitemi».
+RO|Ce meserie aveau Petru și Andrei când i-a chemat Isus?|Pescari|Păstori|Tâmplari|Ostași|Erau pescari; Isus le-a zis: „Veniți după Mine.”
+nt|1|40 5:1
+IT|Dove salì Gesù per il famoso Sermone con le beatitudini?|Sul monte|In barca|Nel tempio|Nel deserto|Gesù, vedendo le folle, salì sul monte; si sedette e i suoi discepoli si accostarono a lui.
+RO|Unde S-a suit Isus pentru vestita Predică cu fericirile?|Pe munte|În corabie|În templu|În pustie|Isus, când a văzut noroadele, S-a suit pe munte; S-a așezat jos, și ucenicii Lui s-au apropiat de El.
+nt|1|40 6:11
+IT|Che cosa chiediamo a Dio nel Padre nostro «per oggi»?|Il nostro pane quotidiano|La ricchezza|La vittoria|La pioggia|«Dacci oggi il nostro pane quotidiano».
+RO|Ce Îi cerem lui Dumnezeu în Tatăl nostru „astăzi”?|Pâinea noastră cea de toate zilele|Bogăția|Biruința|Ploaia|„Pâinea noastră cea de toate zilele dă-ne-o nouă astăzi.”
+nt|1|40 13:3
+IT|Con quale parabola cominciò Gesù a insegnare in parabole sulla barca?|Il seminatore|Il figlio prodigo|Il buon Samaritano|Le dieci vergini|«Ecco, il seminatore uscì a seminare».
+RO|Cu ce pildă a început Isus să învețe în pilde din corabie?|Semănătorul|Fiul risipitor|Samariteanul milostiv|Cele zece fecioare|„Iată, semănătorul a ieșit să semene.”
+nt|1|40 21:2
+IT|Su quale animale entrò Gesù a Gerusalemme?|Un'asina e un puledro|Un cavallo bianco|Un cammello|Un carro|«Troverete un'asina legata e un puledro con essa; scioglieteli e conduceteli a me».
+RO|Pe ce animal a intrat Isus în Ierusalim?|O măgăriță și un mânz|Un cal alb|O cămilă|Un car|„Veți găsi o măgăriță legată și un mânz împreună cu ea; dezlegați-i și aduceți-i la Mine.”
+nt|1|40 21:8
+IT|Che cosa stendevano sulla strada le folle quando Gesù entrò a Gerusalemme?|I mantelli e dei rami|Tappeti d'oro|Fiori soltanto|Nulla|La folla stese i mantelli sulla via; altri tagliavano rami dagli alberi e li stendevano sulla via.
+RO|Ce așterneau noroadele pe drum când a intrat Isus în Ierusalim?|Hainele și ramuri|Covoare de aur|Numai flori|Nimic|Norodul și-a așternut hainele pe drum; alții tăiau ramuri din copaci și le așterneau pe drum.
+nt|1|40 26:47
+IT|Chi arrivò con una grande folla armata per arrestare Gesù?|Giuda|Pietro|Pilato|Erode|Giuda, uno dei dodici, arrivò e con lui una grande folla con spade e bastoni.
+RO|Cine a venit cu o mare gloată înarmată ca să-L prindă pe Isus?|Iuda|Petru|Pilat|Irod|Iuda, unul din cei doisprezece, a venit și, cu el, o gloată mare cu săbii și cu ciomege.
+nt|1|40 27:2
+IT|A quale governatore romano fu consegnato Gesù?|Pilato|Felice|Festo|Erode|Lo legarono, lo condussero via e lo consegnarono a Pilato, il governatore.
+RO|Cărui dregător roman a fost dat Isus?|Lui Pilat|Lui Felix|Lui Festus|Lui Irod|L-au legat, L-au dus și L-au dat în mâinile dregătorului Pilat.
+nt|1|40 27:29
+IT|Che cosa misero i soldati sulla testa di Gesù per deriderlo?|Una corona di spine|Un elmo|Una corona d'oro|Un velo|Intrecciarono una corona di spine, gliela misero sul capo e gli misero una canna nella mano destra.
+RO|Ce I-au pus ostașii lui Isus pe cap ca să-și bată joc de El?|O cunună de spini|Un coif|O cunună de aur|Un văl|Au împletit o cunună de spini, I-au pus-o pe cap și I-au pus o trestie în mâna dreaptă.
+nt|1|40 27:60
+IT|Dove fu posto il corpo di Gesù?|In una tomba nuova scavata nella roccia|In un campo|In una grotta di Betlemme|Nel tempio|Giuseppe lo depose nella sua tomba nuova, che aveva fatto scavare nella roccia.
+RO|Unde a fost pus trupul lui Isus?|Într-un mormânt nou săpat în stâncă|Într-un câmp|Într-o peșteră din Betleem|În templu|Iosif L-a pus într-un mormânt nou al lui, pe care-l săpase în stâncă.
+nt|1|40 28:1
+IT|In quale giorno della settimana le donne andarono al sepolcro di Gesù?|Il primo giorno della settimana|Il sabato|Il venerdì|Il settimo giorno|Passato il sabato, all'alba del primo giorno della settimana, Maria Maddalena e l'altra Maria andarono a vedere il sepolcro.
+RO|În ce zi a săptămânii s-au dus femeile la mormântul lui Isus?|În ziua întâi a săptămânii|În Sabat|Vineri|În ziua a șaptea|După Sabat, când se revărsa zorile zilei dintâi a săptămânii, Maria Magdalena și cealaltă Marie au venit să vadă mormântul.
+nt|1|42 2:12
+IT|Quale segno diede l'angelo ai pastori per trovare Gesù?|Un bambino fasciato e coricato in una mangiatoia|Una stella sopra la casa|Una luce nel tempio|Un agnello bianco|«Questo vi servirà di segno: troverete un bambino avvolto in fasce e coricato in una mangiatoia».
+RO|Ce semn le-a dat îngerul păstorilor ca să-L găsească pe Isus?|Un prunc înfășat și culcat într-o iesle|O stea deasupra casei|O lumină în templu|Un miel alb|„Iată semnul după care-L veți cunoaște: veți găsi un prunc înfășat în scutece și culcat într-o iesle.”
+nt|1|42 2:14
+IT|Che cosa cantavano gli angeli ai pastori?|«Gloria a Dio nei luoghi altissimi e pace in terra»|«Osanna al Figlio di Davide»|«Santo, santo, santo»|«Alleluia»|«Gloria a Dio nei luoghi altissimi, e pace in terra agli uomini, verso i quali egli è benevolo».
+RO|Ce cântau îngerii păstorilor?|„Slavă lui Dumnezeu în locurile preaînalte și pace pe pământ”|„Osana, Fiul lui David”|„Sfânt, sfânt, sfânt”|„Aleluia”|„Slavă lui Dumnezeu în locurile preaînalte și pace pe pământ între oamenii plăcuți Lui!”
+nt|1|43 10:14
+IT|Come si definì Gesù, che conosce le sue pecore?|Il buon pastore|Il re dei pastori|Il guardiano|Il servo|«Io sono il buon pastore, conosco le mie pecore e le mie pecore conoscono me».
+RO|Cum S-a numit Isus, care Își cunoaște oile?|Păstorul cel bun|Împăratul păstorilor|Paznicul|Robul|„Eu sunt Păstorul cel bun. Eu Îmi cunosc oile Mele, și ele Mă cunosc pe Mine.”
+nt|1|43 15:1
+IT|Che cosa disse Gesù di sé in Giovanni 15:1?|«Io sono la vera vite»|«Io sono il pane»|«Io sono la porta»|«Io sono la luce»|«Io sono la vera vite e il Padre mio è il vignaiuolo».
+RO|Ce a spus Isus despre Sine în Ioan 15:1?|„Eu sunt adevărata Viță”|„Eu sunt Pâinea”|„Eu sunt Ușa”|„Eu sunt Lumina”|„Eu sunt adevărata Viță, și Tatăl Meu este vierul.”
+nt|1|44 1:9-11
+IT|Dove andò Gesù quaranta giorni dopo la risurrezione, davanti ai discepoli?|Salì al cielo|Tornò in Galilea|Andò a Roma|Andò nel deserto|Detto questo, mentre lo guardavano, fu elevato; e una nuvola lo accolse.
+RO|Unde S-a dus Isus la patruzeci de zile după înviere, înaintea ucenicilor?|S-a înălțat la cer|S-a întors în Galileea|S-a dus la Roma|S-a dus în pustie|După ce a spus aceste lucruri, S-a înălțat la cer pe când se uitau ei la El.

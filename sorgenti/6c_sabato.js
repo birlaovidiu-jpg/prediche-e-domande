@@ -1,5 +1,5 @@
 /* ================= SCUOLA DEL SABATO — lezionari ================= */
-const FL={ lg:'tutte', anno:0, q:'', scelto:'' };
+const FL={ lg:'', anno:0, q:'' };
 const TRIM=[['1','Gen–Mar','gennaio · febbraio · marzo'],['2','Apr–Giu','aprile · maggio · giugno'],
             ['3','Lug–Set','luglio · agosto · settembre'],['4','Ott–Dic','ottobre · novembre · dicembre']];
 const TRIM_RO=['Ian–Mar','Apr–Iun','Iul–Sep','Oct–Dec'];
@@ -25,42 +25,48 @@ function vSabato(){
   ricontrollaDate();
   const tutti=lezionari();
   const anni=[...new Set(tutti.map(l=>+l.anno||0))].filter(Boolean).sort((a,b)=>b-a);
-  if(FL.anno && !anni.includes(FL.anno)) FL.anno=0;
+  /* sempre UN anno e UNA lingua alla volta: mai «tutte/tutti» */
+  if(FL.lg!=='it' && FL.lg!=='ro') FL.lg = stato.imp.lingua==='ro' ? 'ro' : 'it';
+  if(!anni.includes(FL.anno)) FL.anno = anni[0] || new Date().getFullYear();
   const q=ck(FL.q);
-  const filtro=l=> (FL.lg==='tutte'||l.lg===FL.lg) && (!FL.anno || +l.anno===FL.anno) &&
-    (!q || ck((l.titolo||'')+' '+l.anno+' '+(l.mesi||'')+' '+(l.testo||[]).join(' ')).includes(q));
-  const elenco=tutti.filter(filtro).sort((a,b)=> (b.anno-a.anno)||(b.trim-a.trim));
-  const diOggi=lezionarioDiOggi();
-  const aMano = FL.scelto ? elenco.find(x=>x.i===FL.scelto) : null;
-  const inEvidenza = q ? null : aMano || (elenco.includes(diOggi)?diOggi:null) || elenco[0];
+  const corrisponde=l=> !q || ck((l.titolo||'')+' '+l.anno+' '+(l.mesi||'')+' '+(l.testo||[]).join(' ')).includes(q);
+  /* «contiene il sabato di oggi» va cercato DENTRO alla lingua che sto
+     guardando: «lezionarioDiOggi()» sceglie una sola lingua per tutto il
+     programma (quella di stato.imp.lingua) e in rumeno restava sempre
+     vuoto, perché l'italiano vinceva sempre il confronto. */
+  const sabatoDiOggi=prossimoSabato();
+  const contieneOggi=l=>{
+    const lez=(l.lezioni||[]).filter(x=>x.data);
+    if(!lez.length) return false;
+    const s=iso(sabatoDiOggi);
+    return lez.some(x=>x.data===s) || (lez.some(x=>x.data<=s) && lez.some(x=>x.data>=s));
+  };
+  /* se le date dentro a un lezionario mancano o non tornano (succede coi lezionari messi dentro
+     tempo fa, soprattutto in italiano, dove le lezioni non hanno l'anno scritto), conta il posto
+     in cui è messo: l'anno e il trimestre del sabato che viene */
+  const delTrimestreDiOggi=l=>+l.anno===sabatoDiOggi.getFullYear() && +l.trim===Math.floor(sabatoDiOggi.getMonth()/3)+1;
+  const delFiltro=tutti.filter(l=>l.lg===FL.lg && +l.anno===FL.anno);
+  /* (fra due dello stesso trimestre, quello con più pagine: non una copertina sola) */
+  const diOggiFiltro = delFiltro.find(contieneOggi)
+    || delFiltro.filter(delTrimestreDiOggi).sort((a,b)=>(b.pagine||0)-(a.pagine||0))[0] || null;
+  const inEvidenza = diOggiFiltro || delFiltro.slice().sort((a,b)=>b.trim-a.trim)[0] || null;
   const lezOggi = inEvidenza ? lezioneDelSabato(inEvidenza) : null;
 
   document.body.classList.add('sab-fissa');
   pinta(`
   <div class="sab-pagina">
   <div class="sab-testa">
-    <div><span class="occhiello">Studio</span><h1>Scuola del Sabato</h1></div>
-    <p class="sotto">I lezionari in italiano e in rumeno. Puoi leggerli, evidenziare,
-      scrivere e cambiare i colori, come fai con uPDF.</p>
+    <div><h1>Scuola del Sabato</h1></div>
   </div>
 
   ${inEvidenza?`
   <div class="lez-hero">
-    <div class="lez-cop" onclick="apriLez('${inEvidenza.i}')">
+    <div class="lez-cop" data-i="${inEvidenza.i}" data-apre="1">
       ${inEvidenza.cop?`<img src="${inEvidenza.cop}" alt="">`:`<div class="lez-noco">📘</div>`}
     </div>
     <div class="lez-info">
-      <div class="occhiello">${esc(inEvidenza.lg==='ro'?'Școala de Sabat':'Lezionario della Scuola del Sabato')}</div>
       <h2 class="lez-tit">${esc(inEvidenza.titolo||('Lezionario '+inEvidenza.anno))}</h2>
       <div class="lez-anno">${esc(inEvidenza.anno)}</div>
-      <div class="lez-tri">${TRIM.map(([n,br,mesi])=>{
-        const qui=tutti.filter(x=>+x.anno===+inEvidenza.anno && +x.trim===+n);
-        return `<div class="tri ${String(inEvidenza.trim)===n?'on':''}${qui.length?' c-e':''}">
-          <b>${inEvidenza.lg==='ro'?TRIM_RO[+n-1]:br}</b><span>${esc(mesi)}</span>
-          ${qui.length?`<div class="tri-lg">${qui.map(x=>
-            `<button class="${x.i===inEvidenza.i?'on':''}" title="${esc(x.titolo||'')}"
-              onclick="event.stopPropagation();scegliLez('${x.i}')">${x.lg==='ro'?'🇷🇴':'🇮🇹'}</button>`).join('')}</div>`:''}
-        </div>`;}).join('')}</div>
       ${lezOggi?`<div class="lez-sabato" onclick="apriLez('${inEvidenza.i}',${lezOggi.pag})">
         <span>Lezione di questo sabato</span>
         <b>${lezOggi.n}. ${esc(lezOggi.tit)}</b>
@@ -73,46 +79,150 @@ function vSabato(){
         <button class="bt pi" style="color:#ff8b9c" onclick="eliminaLez('${inEvidenza.i}')">🗑 Elimina</button>
       </div>
       <div class="lez-pie">
-        ${inEvidenza.pagine||'?'} pagine${inEvidenza.note&&Object.keys(inEvidenza.note).length?` · ${Object.keys(inEvidenza.note).length} pagine con appunti`:''}
-        <span class="tag ${inEvidenza.lg==='it'?'it':'ro'}" style="margin-left:8px">${inEvidenza.lg==='it'?'Italiano':'Română'}</span></div>
+        ${inEvidenza.pagine||'?'} pagine${inEvidenza.note&&Object.keys(inEvidenza.note).length?` · ${Object.keys(inEvidenza.note).length} pagine con appunti`:''}</div>
     </div>
   </div>`:''}
 
   <div class="filtri sab-filtri">
     <div class="campo" style="flex:0 0 auto"><label>Lingua</label>
       <div class="segm">
-        <button class="${FL.lg==='tutte'?'on':''}" onclick="setL('lg','tutte')">Tutte</button>
-        <button class="${FL.lg==='it'?'on':''}" onclick="setL('lg','it')">🇮🇹</button>
-        <button class="${FL.lg==='ro'?'on':''}" onclick="setL('lg','ro')">🇷🇴</button></div></div>
-    ${anni.length?`<div class="campo" style="flex:0 0 auto"><label>Anno</label>
-      <div class="segm" style="flex-wrap:wrap">
-        <button class="${!FL.anno?'on':''}" onclick="setL('anno',0)">Tutti</button>
-        ${anni.map(a=>`<button class="${FL.anno===a?'on':''}" onclick="setL('anno',${a})">${a}</button>`).join('')}
-      </div></div>`:''}
-    <div class="campo" style="flex:1 1 150px;max-width:420px"><label>Cerca</label>
-      <div class="cerca"><input type="search" placeholder="Anno, trimestre o una parola dentro al lezionario…"
+        <button class="${FL.lg==='it'?'on':''}" onclick="setL('lg','it')">🇮🇹 Italiano</button>
+        <button class="${FL.lg==='ro'?'on':''}" onclick="setL('lg','ro')">🇷🇴 Română</button></div></div>
+    <div class="campo" style="flex:0 0 auto"><label>Anno</label>
+      <select class="tendina" onchange="setL('anno',+this.value)">
+        ${anni.length?anni.map(a=>`<option value="${a}" ${FL.anno===a?'selected':''}>${a}</option>`).join('')
+          :`<option value="${FL.anno}" selected>${FL.anno}</option>`}
+      </select></div>
+    <div class="campo sab-cerca-campo" style="flex:1 1 150px;max-width:320px"><label>Cerca</label>
+      <div class="cerca senza-lente"><input type="search" placeholder="Una parola dentro al lezionario…"
         value="${esc(FL.q)}" oninput="FL.q=this.value; clearTimeout(window._tl); window._tl=setTimeout(vSabato,300)"></div></div>
-    <button class="bt pr" onclick="nuovoLez()">✚ Aggiungi lezionario</button>
+    <button class="bt pr" style="margin-left:auto" onclick="nuovoLez()">✚ Aggiungi lezionario</button>
   </div>
 
-  ${elenco.length?`<div class="sab-elenco">
-    <h2>Tutti i lezionari <span class="pill">${elenco.length}</span></h2>
-    <div class="griglia g4 sab-griglia">${elenco.map(l=>`
-      <div class="tess lez-carta" style="padding:0" onclick="apriLez('${l.i}')">
-        <div class="lez-mini">${l.cop?`<img src="${l.cop}" alt="">`:'<div class="lez-noco">📘</div>'}
-          <span class="lez-bollo">${esc(l.lg.toUpperCase())}</span></div>
-        <div style="padding:10px 12px;position:relative">
-          <b class="lez-nome">${esc(l.titolo||('Lezionario '+l.anno))}</b>
-          <span style="font-size:11.5px;color:var(--tx3)">${esc(l.anno)} · ${esc(l.lg==='ro'?TRIM_RO[(+l.trim||1)-1]:(TRIM[(+l.trim||1)-1]||[])[1]||'')}</span>
-          <button class="lez-cest" title="Elimina" onclick="event.stopPropagation();eliminaLez('${l.i}')">🗑</button>
-        </div></div>`).join('')}</div></div>`
-   :`<div class="vuoto"><span class="em">📚</span>${q?'Nessun lezionario trovato.':"Non c'è ancora nessun lezionario."}<br>
-     ${q?'':'<button class="bt pr" style="margin-top:16px" onclick="nuovoLez()">✚ Aggiungi il primo</button>'}</div>`}
+  <div class="sab-elenco">
+    <div class="griglia g4 sab-griglia">${TRIM.map(([n,br,mesi])=>{
+      const etichetta=FL.lg==='ro'?TRIM_RO[+n-1]:br;
+      /* se nello stesso trimestre ce n'è più di uno, mostro quello di oggi (non una copertina sola) */
+      const stessi=delFiltro.filter(x=>+x.trim===+n);
+      const l=stessi.find(x=>diOggiFiltro && x.i===diOggiFiltro.i) || stessi[0];
+      if(!l || !corrisponde(l)) return `
+        <div class="tess lez-carta lez-vuota" onclick="nuovoLezPer(${FL.anno},'${FL.lg}',${n})"
+          title="Aggiungi il lezionario di ${esc(etichetta)}">
+          <span class="lv-piu">✚</span><b>${esc(etichetta)}</b><span>${esc(mesi)}</span></div>`;
+      const oggi=diOggiFiltro && diOggiFiltro.i===l.i;
+      return `
+        <div class="tess lez-carta${oggi?' oggi':''}" style="padding:0" data-i="${l.i}" data-apre="1"${oggi?' data-oggi="1"':''}>
+          <div class="lez-mini">${l.cop?`<img src="${l.cop}" alt="">`:'<div class="lez-noco">📘</div>'}
+            <span class="lez-bollo">${esc(etichetta)}</span>${oggi?'<span class="lez-oggi">Oggi</span>':''}
+            <div class="lez-piede">
+              <span class="lez-pt"><b class="lez-nome">${esc(l.titolo||('Lezionario '+l.anno))}</b>
+                <span>${l.pagine||'?'} pagine</span></span>
+              <button class="lez-cest" title="Elimina" onclick="event.stopPropagation();eliminaLez('${l.i}')">🗑</button>
+            </div>
+          </div></div>`;
+    }).join('')}</div>
+  </div>
   </div>`);
+  attaccaPressioneLunga();
+  copertineSoloFronte();
+}
+/* Le copertine messe dentro prima erano la pagina intera: se il file era doppio (retro e
+   fronte affiancati) si vedeva un pezzo di qua e un pezzo di là. Le rifaccio col solo
+   fronte, una volta sola per lezionario. Prima subito, ritagliando l'immagine che ho
+   (così l'errore sparisce all'istante); poi con calma, dal PDF della copertina se c'è
+   ancora, per averla nitida. Il PDF lo provo UNA volta sola: se un file enorme mandasse in
+   crisi l'iPad, non lo riprovo a ogni apertura. */
+let _copertineInCorso=false;
+const _rapportoImmagine=src=>new Promise(ok=>{ const i=new Image();
+  i.onload=()=>ok(i.naturalWidth/i.naturalHeight); i.onerror=()=>ok(0); i.src=src; });
+async function copertineSoloFronte(){
+  if(_copertineInCorso) return 0;
+  const vecchie=lezionari().filter(l=>l.cop && !l.copFronte);
+  const daAffinare=()=>lezionari().filter(l=>l.copRifare && !l.copProve);
+  if(!vecchie.length && !daAffinare().length) return 0;
+  _copertineInCorso=true;
+  const aggiorna=()=>{ if(sezione==='sabato' && !nelLettore() && $('.sab-pagina')) vSabato(); };
+  let rifatte=0;
+  try{
+    for(const l of vecchie){
+      try{
+        if(await _rapportoImmagine(l.cop)>COP_DOPPIA){
+          l.cop=await fronteDaImmagine(l.cop); rifatte++;
+          if(l.cid||l.fid) l.copRifare=true;
+        }
+      }catch(e){}
+      l.copFronte=true;
+    }
+    salva();
+    if(rifatte) aggiorna();
+    for(const l of daAffinare()){
+      l.copProve=1; salva();
+      try{
+        await caricaPdfJs();
+        let nuova=null;
+        for(const id of [l.cid,l.fid]){
+          if(!id || nuova) continue;
+          const b=await kvGet('all:'+id); if(!b) continue;
+          const doc=await pdfjsLib.getDocument({data:new Uint8Array(await b.arrayBuffer())}).promise;
+          const img=await copertinaInImmagine(doc,520);
+          try{ doc.destroy(); }catch(e){}
+          if(await _rapportoImmagine(img)<=COP_DOPPIA) nuova=img;
+        }
+        if(nuova) l.cop=nuova;
+      }catch(e){}
+      l.copRifare=false; salva();
+      aggiorna();
+    }
+  }finally{ _copertineInCorso=false; }
+  return rifatte;
 }
 function setL(k,v){ FL[k]=v; vSabato(); }
-/* toccando la bandiera dentro al trimestre si passa a quel lezionario */
-function scegliLez(i){ FL.scelto=i; vSabato(); }
+/* clicco su un trimestre vuoto: apro «Aggiungi lezionario» già pronto */
+function nuovoLezPer(anno,lg,trim){
+  nuovoLez();
+  const l=$('#nlL'), a=$('#nlA'), t=$('#nlT');
+  if(l) l.value=lg; if(a) a.value=anno; if(t) t.value=trim;
+}
+/* Tocco per aprire, pressione lunga per condividere — su una copertina
+   (in griglia o nel riquadro grande). Niente più «onclick» in linea qui:
+   con l'onclick in linea il tocco apriva SEMPRE il lezionario prima ancora
+   che questo listener potesse fermarlo, perché l'attributo scatta per primo.
+   Il tocco del cestino resta suo (il touchstart lo salta, `stato_='mossa'`),
+   così il tap sul 🗑 non fa partire anche l'apertura del lezionario. */
+function attaccaPressioneLunga(){
+  $$('[data-apre][data-i]').forEach(el=>{
+    const i=el.dataset.i, oggi=el.dataset.oggi==='1';
+    interazioneCarta(el, ()=>oggi?apriLezDiOggi(i):apriLez(i), ()=>condividiLez(i));
+  });
+}
+/* la carta con «Oggi» apre il lezionario proprio alla pagina del giorno di oggi
+   (il riquadro verde in alto, invece, apre la lezione di questo sabato) */
+function apriLezDiOggi(i){
+  const l=trovaLez(i); if(!l) return;
+  const p=paginaDiOggi(l), g=giornoDiOggi(l);
+  if(p) apriLez(i,p,(g&&g.pag===p)?{giorno:g.data,quale:g.k}:{giorno:new Date()}); else apriLez(i);
+}
+function interazioneCarta(el,tocco,lunga,ms){
+  let timer=null, stato_='pronta';
+  const via=()=>clearTimeout(timer);
+  el.addEventListener('touchstart',e=>{
+    if(e.target.closest('button')){ stato_='mossa'; return; }
+    stato_='pronta';
+    timer=setTimeout(()=>{ stato_='lunga';
+      if(navigator.vibrate) try{ navigator.vibrate(12); }catch(err){} lunga(); },ms||550);
+  },{passive:true});
+  el.addEventListener('touchmove',()=>{ stato_='mossa'; via(); },{passive:true});
+  el.addEventListener('touchend',e=>{ via();
+    if(stato_==='pronta'){ e.preventDefault(); tocco(); } });
+  el.addEventListener('touchcancel',()=>{ via(); stato_='mossa'; });
+  el.addEventListener('click',e=>{
+    if(e.target.closest('button')) return;
+    if(stato_==='lunga'){ stato_='pronta'; return; }
+    if(stato_==='mossa') return;
+    tocco();
+  });
+  el.addEventListener('contextmenu',e=>{ e.preventDefault(); lunga(); });
+}
 /* l'indice si può guardare anche senza entrare nel lezionario */
 function apriIndiceDaFuori(i){
   const l=trovaLez(i); if(!l) return;
@@ -122,15 +232,46 @@ function apriIndiceDaFuori(i){
 }
 function trovaLez(i){ return lezionari().find(l=>l.i===i); }
 
+/* ---------- si può trascinare un PDF dal desktop, in qualsiasi momento
+   mentre si è nella Scuola del Sabato: se il dialogo è già aperto lo
+   prendo lì, altrimenti lo apro io con il file già scelto ---------- */
+function nelLettore(){ const b=$('#lettore'); return !!(b&&b.classList.contains('on')); }
+function assegnaFileScelti(files){
+  const inp=$('#nlF'); if(!inp) return;
+  try{
+    const dt=new DataTransfer(); files.forEach(f=>dt.items.add(f));
+    inp.files=dt.files;
+    anteprimaLez();
+  }catch(e){ avvisa('Qui il trascinamento non funziona: tocca l\'immagine per scegliere il file','no'); }
+}
+document.addEventListener('dragover',e=>{
+  if(sezione!=='sabato' || nelLettore()) return;
+  e.preventDefault();
+  if(e.dataTransfer) e.dataTransfer.dropEffect='copy';
+  document.body.classList.add('sab-trascina');
+});
+document.addEventListener('dragleave',e=>{
+  if(!e.relatedTarget || e.relatedTarget.nodeName==='HTML') document.body.classList.remove('sab-trascina');
+});
+document.addEventListener('drop',e=>{
+  if(sezione!=='sabato' || nelLettore()){ document.body.classList.remove('sab-trascina'); return; }
+  e.preventDefault();
+  document.body.classList.remove('sab-trascina');
+  const f=[...(e.dataTransfer&&e.dataTransfer.files||[])].filter(x=>x.type==='application/pdf'||/\.pdf$/i.test(x.name));
+  if(!f.length){ avvisa('Trascina un file PDF','no'); return; }
+  if($('#nlF')) assegnaFileScelti(f);
+  else { nuovoLez(); setTimeout(()=>assegnaFileScelti(f),0); }
+});
 /* ---------- inserimento: lezionario + copertina uniti ---------- */
 function nuovoLez(){
   const a=new Date().getFullYear();
   apri('Aggiungi un lezionario',`
    <div class="griglia" style="gap:13px">
     <div class="campo"><label>File PDF — puoi sceglierne due insieme: la copertina e il lezionario.
-      Li unisco io in un solo lezionario.</label>
-      <input type="file" id="nlF" accept="application/pdf" multiple onchange="anteprimaLez()"></div>
-    <div class="nl-ant"><div class="nl-cop" id="nlCop"><span>📘</span></div>
+      Li unisco io in un solo lezionario. Tocca l'immagine qui sotto, oppure trascina i file dal desktop.</label>
+      <input type="file" id="nlF" accept="application/pdf" multiple onchange="anteprimaLez()" style="display:none"></div>
+    <div class="nl-ant"><div class="nl-cop" id="nlCop" onclick="$('#nlF').click()" title="Tocca per scegliere il PDF">
+        <span>📘</span><i>Tocca qui<br>o trascina<br>il PDF</i></div>
       <div id="nlAnt" style="font-size:12.5px;color:var(--tx3);flex:1"></div></div>
     <div class="fila">
       <div class="campo" style="flex:0 0 130px"><label>Lingua</label><select id="nlL">
@@ -150,8 +291,12 @@ async function anteprimaLez(){
   ant.innerHTML = f.length? f.map(x=>`📄 ${esc(x.name)} — ${Math.round(x.size/1024)} KB`).join('<br>')
     + (f.length>1?'<br><span style="color:var(--verde-c)">Il file con meno pagine sarà usato come copertina e messo davanti.</span>':'') : '';
   if(!f.length) return;
-  const m=/(20\d\d)[^\d]{0,3}([1-4])?/.exec(f[0].name);
-  if(m){ $('#nlA').value=m[1]; if(m[2]) $('#nlT').value=m[2]; }
+  /* il nome del file dice spesso qualcosa («Lec RO 4-26», «T4 2026»): lo metto subito nei campi,
+     poi leggo il file e correggo */
+  const hint=suggerimentiDaiNomi(f.map(x=>x.name));
+  if(hint.anno) $('#nlA').value=hint.anno;
+  if(hint.trim) $('#nlT').value=hint.trim;
+  if(hint.lg) $('#nlL').value=hint.lg;
   /* leggo davvero le prime pagine e capisco lingua, anno e trimestre */
   ant.innerHTML+='<br>Leggo il file per capire di che lezionario si tratta…';
   try{
@@ -160,7 +305,8 @@ async function anteprimaLez(){
     for(const x of f){
       const doc=await pdfjsLib.getDocument({data:new Uint8Array(await x.arrayBuffer())}).promise;
       docs.push({nome:x.name,doc,n:doc.numPages});
-      for(let n=1;n<=Math.min(4,doc.numPages);n++){
+      /* otto pagine: bastano per arrivare alla prima lezione e ai suoi sabati */
+      for(let n=1;n<=Math.min(8,doc.numPages);n++){
         const tc=await (await doc.getPage(n)).getTextContent();
         testo+=' '+tc.items.map(z=>z.str).join(' ');
       }
@@ -169,19 +315,32 @@ async function anteprimaLez(){
     docs.sort((a,b)=>a.n-b.n);
     const cop=docs.length>1?docs[0]:docs[0];
     try{
-      const img=await paginaInImmagine(cop.doc,1,300);
+      const img=await copertinaInImmagine(cop.doc,300);
       const box=$('#nlCop'); if(box) box.innerHTML=`<img src="${img}" alt="">`;
     }catch(e){}
     if(docs.length>1) ant.dataset.unione=`Copertina: ${docs[0].nome} (${docs[0].n} pag.) · Lezionario: ${docs[docs.length-1].nome} (${docs[docs.length-1].n} pag.)`;
     else ant.dataset.unione='';
-    const lg=linguaDelTesto(testo);
-    const an=annoDelTesto(testo)||+$('#nlA').value;
-    const tr=trimestreDelTesto(testo,lg)||+$('#nlT').value;
+    /* la lingua si legge dal testo; se dentro non c'è testo (copertina fatta di immagine) mi
+       fido del nome del file, e solo in fondo scelgo «italiano» */
+    const sicuraLg=linguaSicura(testo);
+    const lg = sicuraLg ? linguaDelTesto(testo) : (hint.lg || linguaDelTesto(testo));
+    const per=leggiPeriodo(testo,lg,hint);
+    const an=per.anno||hint.anno||+$('#nlA').value;
+    const tr=per.trim||hint.trim||+$('#nlT').value;
     const de=deduciTitolo(testo);
     $('#nlL').value=lg; $('#nlA').value=an; $('#nlT').value=tr;
+    ant.dataset.auto=lg+'|'+an+'|'+tr;         /* per sapere, quando salvi, se li hai cambiati tu */
     if(!$('#nlTi').value.trim() && de.titolo) $('#nlTi').value=de.titolo;
+    const dubbi=[];
+    if(!sicuraLg && !hint.lg) dubbi.push('la lingua');
+    if(!per.trim && !hint.trim) dubbi.push('il trimestre');
+    if(!per.anno && !hint.anno) dubbi.push('l\'anno');
+    const elencoDubbi=dubbi.length>1 ? dubbi.slice(0,-1).join(', ')+' e '+dubbi[dubbi.length-1] : dubbi.join('');
     ant.innerHTML=ant.innerHTML.replace('Leggo il file per capire di che lezionario si tratta…',
-      `<b style="color:var(--verde-c)">Riconosciuto:</b> ${lg==='ro'?'română':'italiano'} · ${an} · ${tr}º trimestre${de.titolo?' · '+esc(de.titolo):''}`
+      (dubbi.length===3
+        ? '<span style="color:var(--oro)">Non sono riuscito a leggerlo da solo: controlla lingua, anno e trimestre qui sotto.</span>'
+        : `<b style="color:var(--verde-c)">Riconosciuto:</b> ${lg==='ro'?'română':'italiano'} · ${an} · ${tr}º trimestre${de.titolo?' · '+esc(de.titolo):''}`
+          + (dubbi.length?`<br><span style="color:var(--oro)">⚠ Nel file non ho trovato ${elencoDubbi}: controlla qui sotto.</span>`:''))
       + (ant.dataset.unione?`<br><span style="color:var(--oro)">🔗 ${esc(ant.dataset.unione)} — diventano un lezionario solo</span>`:''));
   }catch(e){ ant.innerHTML=ant.innerHTML.replace('Leggo il file per capire di che lezionario si tratta…',
       '<span style="color:var(--oro)">Non sono riuscito a leggerlo da solo: controlla lingua, anno e trimestre qui sotto.</span>'); }
@@ -215,7 +374,7 @@ async function salvaLez(){
     /* copertina: prima pagina del file copertina, altrimenti del lezionario */
     bt.textContent='Preparo la copertina…';
     const copDoc = cop?cop.doc:corpo.doc;
-    const cimg = await paginaInImmagine(copDoc,1,520);
+    const cimg = await copertinaInImmagine(copDoc,520);
     /* testo di tutte le pagine, per la ricerca */
     bt.textContent='Indicizzo il testo…';
     const testo=[];
@@ -226,16 +385,36 @@ async function salvaLez(){
       }catch(e){ testo.push(''); }
     }
     const dedotto = deduciTitolo(testo[0]||'');
+    /* Ora che ho tutto il testo ricontrollo dove va messo: se lingua, anno e trimestre sono ancora
+       quelli che avevo riconosciuto io (non li hai cambiati tu) e le date di tutte le lezioni dicono
+       un'altra cosa, credo al testo. Se li hai cambiati tu, restano i tuoi. */
+    let lgS=$('#nlL').value, anS=+$('#nlA').value, trS=+$('#nlT').value, corretto=false;
+    const ant0=$('#nlAnt');
+    if(ant0 && ant0.dataset.auto && ant0.dataset.auto===lgS+'|'+anS+'|'+trS){
+      const tutto=testo.join(' ');
+      const hint=suggerimentiDaiNomi(f.map(x=>x.name));
+      const lgT=linguaSicura(tutto)?linguaDelTesto(tutto):lgS;
+      const per=leggiPeriodo(tutto,lgT,hint);
+      if(lgT!==lgS){ lgS=lgT; corretto=true; }
+      if(per.peso>=5 && per.margine>=3){
+        if(per.trim && per.trim!==trS){ trS=per.trim; corretto=true; }
+        if(per.anno && per.anno!==anS){ anS=per.anno; corretto=true; }
+      }
+    }
     stato.lezionari=stato.lezionari||[];
-    stato.lezionari.push({ i:id, lg:$('#nlL').value, anno:+$('#nlA').value, trim:+$('#nlT').value,
+    stato.lezionari.push({ i:id, lg:lgS, anno:anS, trim:trS, trimRifatto:true,
       titolo:$('#nlTi').value.trim()||dedotto.titolo, mesi:dedotto.mesi||'', vol:dedotto.vol||'',
-      fid, cid, cop:cimg, pagine:corpo.n + (cop?cop.n:0), pagCop:cop?cop.n:0,
+      fid, cid, cop:cimg, copFronte:true, pagine:corpo.n + (cop?cop.n:0), pagCop:cop?cop.n:0,
       testo, note:{}, ultimaPag:1, quando:new Date().toISOString() });
     const nuovo=stato.lezionari[stato.lezionari.length-1];
     bt.textContent='Cerco le lezioni…';
     try{ analizzaLezionario(nuovo); }catch(e){}
+    /* mi sposto sull'anno e sulla lingua di quello appena aggiunto: altrimenti,
+       con un anno e una lingua alla volta, sparirebbe dalla vista */
+    FL.anno=nuovo.anno; FL.lg=nuovo.lg;
     salva(); chiudi(); vSabato();
-    avvisa(nuovo.lezioni&&nuovo.lezioni.length ? `Lezionario aggiunto — trovate ${nuovo.lezioni.length} lezioni` : 'Lezionario aggiunto','ok');
+    avvisa((corretto?`Messo nel ${trS}º trimestre ${anS} (${lgS==='ro'?'română':'italiano'}), come dice il testo — `:'')
+      + (nuovo.lezioni&&nuovo.lezioni.length ? `Lezionario aggiunto — trovate ${nuovo.lezioni.length} lezioni` : 'Lezionario aggiunto'),'ok');
   }catch(e){ console.error(e); avvisa('Non riesco a leggere il PDF: '+e.message,'no'); bt.disabled=false; bt.textContent='Salva'; }
 }
 function deduciTitolo(t){
@@ -283,7 +462,7 @@ async function metticopertina(i){
     /* le pagine della copertina vanno davanti: le lezioni si spostano in avanti */
     const prima=l.pagCop||0, adesso=doc.numPages, sposta=adesso-prima;
     l.cid=cid; l.pagCop=adesso; l.pagine=(l.pagine||0)-prima+adesso;
-    l.cop=await paginaInImmagine(doc,1,520);
+    l.cop=await copertinaInImmagine(doc,520); l.copFronte=true; l.copRifare=false;
     if(sposta && l.lezioni) l.lezioni.forEach(x=>{ x.pag+=sposta; if(x.fine) x.fine+=sposta;
       (x.giorni||[]).forEach(g=>g.pag+=sposta); });
     if(l.ultimaPag) l.ultimaPag+=sposta;
@@ -326,6 +505,7 @@ function salvaModLez(i){
   l.lg=$('#mlL').value; l.anno=+$('#mlA').value;
   if(+l.trim!==+$('#mlT').value) l.trimMano=true;
   l.trim=+$('#mlT').value; l.titolo=$('#mlTi').value.trim();
+  FL.anno=l.anno; FL.lg=l.lg;
   salva(); chiudi(); vSabato(); avvisa('Salvato','ok');
 }
 function eliminaLez(i){
@@ -335,23 +515,60 @@ function eliminaLez(i){
     stato.lezionari=lezionari().filter(x=>x.i!==i); salva(); chiudi(); vSabato(); avvisa('Eliminato','ok');
   },'Elimina');
 }
-function condividiLez(i){
-  const l=trovaLez(i); if(!l) return;
-  const u=fileUrl[l.fid];
-  apri('Condividi il lezionario',`
-    <p class="sotto" style="margin-top:0">${esc(l.titolo||'')} — ${l.anno}, trimestre ${l.trim}</p>
-    <div class="griglia g2">
-      <div class="tess" onclick="chiudi();salvaLezUnito('${i}')"><span class="ti">📄</span>
-        <b>Un solo PDF</b><span>Copertina e lezionario uniti, con i tuoi appunti stampati sopra.</span></div>
-      <div class="tess" onclick="chiudi();salvaLezOriginale('${i}')"><span class="ti">💾</span>
-        <b>File originale</b><span>Il PDF come l'hai caricato, senza appunti.</span></div>
-    </div>`,`<button class="bt pi" onclick="chiudi()">Chiudi</button>`,560);
+/* tutti i pdf dei lezionari (originale + copertina) in un solo file .zip da
+   scaricare — servono fuori dal programma, per esempio per pubblicarli sul
+   sito (pubblica.py li va a cercare in una cartella apposta, vedi lì) —
+   i pdf stanno solo dentro a questo dispositivo (IndexedDB), un programma
+   scritto in Python come pubblica.py non può leggerli da solo */
+function nomeFilePdfLez(l,cosa){
+  const pulito=s=>String(s||'').replace(/[\/\\:*?"<>|]/g,' ').replace(/\s+/g,' ').trim();
+  const base=pulito(`${l.anno||''}-T${l.trim||''} ${l.lg==='ro'?'RO':'IT'} ${pulito(l.titolo)||'lezionario'}`);
+  return base+(cosa==='cop'?' (copertina)':'')+'.pdf';
 }
-function salvaLezOriginale(i){
-  const l=trovaLez(i), u=fileUrl[l.fid];
-  if(!u){ avvisa('File non disponibile','no'); return; }
-  const a=document.createElement('a'); a.href=u; a.download=`${l.titolo||'Lezionario'} ${l.anno}-${l.trim}.pdf`;
-  document.body.appendChild(a); a.click(); setTimeout(()=>a.remove(),600);
+async function esportaLezionariPdf(){
+  const ll=lezionari();
+  if(!ll.length){ avvisa('Non hai ancora nessun lezionario','no'); return; }
+  await salvaFile('Lezionari PDF.zip','application/zip',async()=>{
+    const usati={};
+    const nomeUnico=base=>{ usati[base]=(usati[base]||0)+1;
+      return usati[base]===1?base:base.replace(/\.pdf$/,` (${usati[base]}).pdf`); };
+    const file=[];
+    for(const l of ll){
+      if(!l.fid) continue;
+      try{
+        const b=await kvGet('all:'+l.fid);
+        if(b) file.push({nome:nomeUnico(nomeFilePdfLez(l)), dati:new Uint8Array(await b.arrayBuffer())});
+        if(l.cid){
+          const bc=await kvGet('all:'+l.cid);
+          if(bc) file.push({nome:nomeUnico(nomeFilePdfLez(l,'cop')), dati:new Uint8Array(await bc.arrayBuffer())});
+        }
+      }catch(e){}
+    }
+    if(!file.length) throw new Error('non ho trovato nessun file da esportare');
+    return zip(file);
+  });
+}
+/* Condividi: si apre SUBITO il foglio del sistema (Mail, WhatsApp, Cartelle,
+   Stampa…), senza nessuna finestra mia in mezzo — sia dal pulsante sia
+   tenendo premuto sulla copertina. Leggere il file dall'archivio è cosa da
+   millisecondi, quindi il tocco è ancora «vivo» quando chiedo il foglio:
+   è la condizione che iPad e iPhone pretendono. Se il foglio non c'è
+   (browser che non lo sa fare) o va storto, salva il file come prima. */
+async function condividiLez(i){
+  const l=trovaLez(i); if(!l) return;
+  let blob=null, nome=`${l.titolo||'Lezionario'} ${l.anno}-${l.trim}.pdf`;
+  try{ blob=await kvGet('all:'+l.fid); }catch(e){}
+  if(!blob){ avvisa('Il file di questo lezionario non è più disponibile','no'); return; }
+  try{
+    const file=new File([blob],nome,{type:'application/pdf'});
+    if(navigator.canShare && navigator.canShare({files:[file]})){
+      /* SOLO il file, senza titolo: con il titolo l'iPad salva accanto al PDF
+         un secondo file, «Testo.txt» (come succedeva col backup) */
+      await navigator.share({files:[file]});
+      return;
+    }
+  }catch(e){ if(e && e.name==='AbortError') return; }
+  await scarica(blob,nome,'application/pdf');
 }
 
 /* ================= riconoscere il lezionario da solo ================= */
@@ -365,50 +582,168 @@ function ricuci(s){ return (s||'').replace(/(\S) ([ăâîşșţțĂÂÎŞȘŢȚ]
 /* una parola che si lascia trovare anche se è scritta con le lettere staccate */
 function elastica(p){ return p.split('').map(c=>c.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('\\s*'); }
 /* la lingua: la riconosco dalle parole e dalle lettere con i segni */
-function linguaDelTesto(t){
+function _provaLingua(t){
   t=(t||'').slice(0,60000);
-  const segni=(t.match(/[ăâîşșţț]/gi)||[]).length;
-  const paroleRo=(t.match(/\b(şi|și|pentru|este|Dumnezeu|Domnul|Sabat|lecţia|lecția|studiul|săptămâna|către|nostru)\b/gi)||[]).length;
-  const paroleIt=(t.match(/\b(che|della|degli|dalla|Dio|Signore|sabato|lezione|settimana|nostro|perché|questo)\b/gi)||[]).length;
-  return (segni*0.5 + paroleRo*3) > (paroleIt*3) ? 'ro' : 'it';
+  return {
+    segni:(t.match(/[ăâîşșţț]/gi)||[]).length,
+    ro:(t.match(/\b(şi|și|pentru|este|Dumnezeu|Domnul|Sabat|lecţia|lecția|studiul|săptămâna|către|nostru)\b/gi)||[]).length,
+    it:(t.match(/\b(che|della|degli|dalla|Dio|Signore|sabato|lezione|settimana|nostro|perché|questo)\b/gi)||[]).length };
 }
-/* il trimestre: dai mesi scritti sulla copertina o nelle prime pagine */
-function trimestreDelTesto(t,lg){
-  const grezzo=ricuci((t||'').slice(0,20000));
-  const b=ckl(grezzo);
-  const m=/trimestrul\s*(i{1,3}v?|iv|[1-4])/.exec(b) || /([1-4])\s*trimestre/.exec(b);
-  if(m){ const r={i:1,ii:2,iii:3,iv:4}[m[1]] || +m[1]; if(r>=1&&r<=4) return r; }
-  const lista=MESI_LEZ[lg]||MESI_LEZ.it;
-  const senza=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
-  const testo=senza(grezzo);
-  const rxMese=n2=>'(?:'+senza(n2).split('').join('\\s*')+')';
-  const tutti='(?:'+lista.map(rxMese).join('|')+')';
-  /* 1) sulle copertine c'è quasi sempre l'intervallo: «IULIE - SEPTEMBRIE» */
-  const inter=new RegExp('(^|[^a-z])('+tutti+')\\s*[-–—]\\s*('+tutti+')([^a-z]|$)').exec(testo);
-  if(inter){
-    const k=lista.findIndex(m=>senza(m)===inter[2].replace(/\s+/g,''));
-    if(k>=0) return Math.floor(k/3)+1;
+function linguaDelTesto(t){
+  const p=_provaLingua(t);
+  return (p.segni*0.5 + p.ro*3) > (p.it*3) ? 'ro' : 'it';
+}
+/* con poco testo (una copertina fatta di immagine) la lingua non si può leggere: meglio dirlo
+   che indovinare «italiano» */
+function linguaSicura(t){ const p=_provaLingua(t); return (p.ro+p.it)>=4 || p.segni>=8; }
+
+/* i mesi come si scrivono davvero sui lezionari — per esteso e abbreviati, nelle due lingue
+   (e in inglese: sulle copertine c'è anche «OCT–DEC»): parola → numero del mese */
+const MESE_DA_PAROLA=(()=>{
+  const m={};
+  const dai=(n,...p)=>p.forEach(x=>{ m[x]=n; });
+  dai(1,'gennaio','gen','ianuarie','ian','january','jan');
+  dai(2,'febbraio','feb','februarie','february');
+  dai(3,'marzo','mar','martie','march');
+  dai(4,'aprile','apr','aprilie','april');
+  dai(5,'maggio','mag','mai','may');
+  dai(6,'giugno','giu','iunie','iun','june','jun');
+  dai(7,'luglio','lug','iulie','iul','july','jul');
+  dai(8,'agosto','ago','august','aug');
+  dai(9,'settembre','set','sett','septembrie','sep','sept','september');
+  dai(10,'ottobre','ott','octombrie','oct','october');
+  dai(11,'novembre','nov','noiembrie','november');
+  dai(12,'dicembre','dic','decembrie','dec','december');
+  return m;
+})();
+/* le stesse parole, che si lasciano trovare anche con le lettere staccate («I U L I E») */
+const RX_MESE=Object.keys(MESE_DA_PAROLA).sort((a,b)=>b.length-a.length).map(elastica).join('|');
+function _senzaAccenti(s){
+  return String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[șşŞȘ]/g,'s').replace(/[țţŢȚ]/g,'t').toLowerCase();
+}
+function _meseDi(tok){ return MESE_DA_PAROLA[String(tok||'').replace(/[\s.]+/g,'')]||0; }
+const _trimDelMese=m=>Math.floor((m-1)/3)+1;
+
+/* Leggo il trimestre e l'anno di un lezionario da TUTTO quello che il testo dice, e li faccio
+   votare — così una scritta sbagliata non decide da sola:
+   · l'intervallo dei mesi con il suo anno, anche abbreviato («2026 APR - GIU», «OTT-DIC»,
+     «IULIE - SEPTEMBRIE, 2026»); a ogni intervallo si dà l'anno più vicino, e ogni anno serve
+     a un intervallo solo (sulla copertina di «2 trim» ci sono «2025 OCT–DEC» e «2026 APR - GIU»);
+   · «Vol. 102, N. 4» (il numero è il trimestre);
+   · le parole «trimestre», «trimestrul»;
+   · i SABATI scritti sulle lezioni («SABATO, 4 APRILE 2026», «SÂMBĂTĂ, 26 SEPTEMBRIE»): sono
+     la prova più solida, perché le lezioni vanno di sabato in sabato;
+   · come ultima risorsa il primo mese scritto per intero.
+   `hint` = quello che dice il nome del file (peso piccolo). Torna anche quanto è sicuro. */
+function leggiPeriodo(t,lg,hint){
+  const testo=_senzaAccenti(ricuci(t||''));
+  const testa=testo.slice(0,30000);
+  const voti={1:0,2:0,3:0,4:0}, coppie={}, soloAnno={};
+  const aggiungiCoppia=(y,q,p)=>{ coppie[y+'-'+q]=(coppie[y+'-'+q]||0)+p; };
+  /* gli anni scritti nelle prime pagine, con dove stanno */
+  const anni=[]; let m;
+  const rxA=/(^|[^0-9])(20[2-9]\d)(?![0-9])/g;
+  while((m=rxA.exec(testa))) anni.push({y:+m[2],ini:m.index+m[1].length});
+  /* 1) gli intervalli di mesi («luglio - settembre», «OTT-DIC»): devono essere un trimestre preciso */
+  const rxI=new RegExp('(^|[^a-z])('+RX_MESE+')\\.?\\s*[-–—]\\s*('+RX_MESE+')(?![a-z])','g');
+  const intervalli=[];
+  while((m=rxI.exec(testa))){
+    const m1=_meseDi(m[2]), m2=_meseDi(m[3]);
+    if(m1&&m2 && m1%3===1 && m2===m1+2) intervalli.push({q:_trimDelMese(m1), ini:m.index+m[1].length, fin:m.index+m[0].length});
   }
-  /* 2) altrimenti il primo mese scritto per intero, saltando «mai»,
-        che in rumeno è anche una parola comune («mai mult») */
-  const dubbi = lg==='ro' ? ['mai'] : [];
-  const cerca=(salta)=>{
+  const usati=new Set();
+  intervalli.map(iv=>{
+    const c=[];
+    anni.forEach((a,k)=>{
+      const dist = a.ini<iv.ini ? iv.ini-(a.ini+4) : a.ini-iv.fin;
+      if(dist>=0 && dist<=12) c.push({k,dist,y:a.y});
+    });
+    c.sort((x,y)=>x.dist-y.dist);
+    return {iv,c};
+  }).sort((x,y)=>x.c.length-y.c.length).forEach(o=>{
+    const sc=o.c.find(z=>!usati.has(z.k));
+    if(sc){ usati.add(sc.k); aggiungiCoppia(sc.y,o.iv.q,3); } else voti[o.iv.q]+=2;
+  });
+  /* 2) «Vol. 102, N. 4»: il numero è il trimestre, il volume dice l'anno (102 = 2026) */
+  const mv=/vol\.?\s*(\d{2,3})\s*[,.;]?\s*n\.?\s*([1-4])(?![0-9])/.exec(testa);
+  if(mv){ voti[+mv[2]]+=3; const ay=1924+(+mv[1]); if(ay>=2020&&ay<=2099) soloAnno[ay]=(soloAnno[ay]||0)+1; }
+  /* 3) le parole «trimestre» / «trimestrul» */
+  const romani={i:1,ii:2,iii:3,iv:4};
+  let mt=/trimestrul\s*(?:al\s*)?(iv|iii|ii|i)(?![a-z])/.exec(testa) || /trimestrul\s*(?:al\s*)?([1-4])(?![0-9])/.exec(testa)
+      || /([1-4])\s*[°º.]?\s*trimestre/.exec(testa) || /trimestre\s*([1-4])(?![0-9])/.exec(testa);
+  if(mt){ const k=romani[mt[1]]||+mt[1]; if(k>=1&&k<=4) voti[k]+=3; }
+  else { const mo=/(primo|secondo|terzo|quarto)\s+trimestre/.exec(testa);
+    if(mo) voti[{primo:1,secondo:2,terzo:3,quarto:4}[mo[1]]]+=3; }
+  /* 4) i sabati scritti sulle lezioni (i primi otto, tutte date diverse) */
+  const rxS=new RegExp('(?:sabato|sabat|sambata)[,:.\\s]+(\\d{1,2})\\s*('+RX_MESE+')\\.?(?![a-z])\\s*(20[2-9]\\d)?','g');
+  const viste=new Set();
+  while((m=rxS.exec(testo)) && viste.size<8){
+    const g=+m[1], me=_meseDi(m[2]);
+    if(!me||g<1||g>31) continue;
+    const k=g+'-'+me+'-'+(m[3]||'');
+    if(viste.has(k)) continue;
+    viste.add(k);
+    voti[_trimDelMese(me)]+=2;
+    if(m[3]) aggiungiCoppia(+m[3],_trimDelMese(me),2);
+  }
+  /* 5) senza altro: il primo mese scritto per intero, saltando «mai» in rumeno (vuol dire «più») */
+  const nessuno=!voti[1]&&!voti[2]&&!voti[3]&&!voti[4]&&!Object.keys(coppie).length;
+  if(nessuno){
+    const lista=MESI_LEZ[lg]||MESI_LEZ.it, dubbi=lg==='ro'?['mai']:[];
     let primo=-1, dove=1e9;
     lista.forEach((nome,k)=>{
-      if(salta && dubbi.includes(senza(nome))) return;
-      const rx=new RegExp('(^|[^a-z])'+rxMese(nome)+'([^a-z]|$)');
-      const i=testo.search(rx);
+      if(dubbi.includes(_senzaAccenti(nome))) return;
+      const i=testa.search(new RegExp('(^|[^a-z])'+elastica(_senzaAccenti(nome))+'([^a-z]|$)'));
       if(i>=0&&i<dove){ dove=i; primo=k; }
     });
-    return primo;
-  };
-  let primo=cerca(true);
-  if(primo<0) primo=cerca(false);
-  return primo>=0 ? Math.floor(primo/3)+1 : 0;
+    if(primo<0 && dubbi.length){
+      const i=testa.search(/(^|[^a-z])m\s*a\s*i([^a-z]|$)/); if(i>=0) primo=4;
+    }
+    if(primo>=0) voti[Math.floor(primo/3)+1]+=0.5;
+  }
+  /* 6) quello che dice il nome del file, con poco peso */
+  if(hint && hint.trim) voti[hint.trim]+=2;
+  if(hint && hint.anno){ soloAnno[hint.anno]=(soloAnno[hint.anno]||0)+1; if(hint.trim) aggiungiCoppia(hint.anno,hint.trim,1); }
+  /* il verdetto: il trimestre con più voti, l'anno più votato PER QUEL trimestre */
+  const tot={1:voti[1],2:voti[2],3:voti[3],4:voti[4]};
+  /* (a parità, un pizzico in più all'anno più recente: un anno vecchio sulla copertina è quasi sempre
+     un avanzo del modello del trimestre prima) */
+  Object.keys(coppie).forEach(k=>{ const [y,q]=k.split('-'); tot[+q]+=coppie[k]+(+y-2000)*0.001; });
+  let trim=0, primo=0, secondo=0;
+  [1,2,3,4].forEach(k=>{
+    if(tot[k]>primo){ secondo=primo; primo=tot[k]; trim=k; } else if(tot[k]>secondo) secondo=tot[k];
+  });
+  let anno=0, pa=0;
+  Object.keys(coppie).forEach(k=>{
+    const [y,q]=k.split('-');
+    if(+q===trim && coppie[k]>pa){ pa=coppie[k]; anno=+y; }
+  });
+  if(!anno){ Object.keys(soloAnno).forEach(y=>{ if(soloAnno[y]>pa){ pa=soloAnno[y]; anno=+y; } }); }
+  if(!anno && anni.length) anno=anni[0].y;
+  return {trim, anno, peso:Math.floor(primo), margine:Math.floor(primo-secondo)};
 }
-function annoDelTesto(t){
-  const m=/(20[2-9]\d)/.exec((t||'').slice(0,20000));
-  return m?+m[1]:0;
+function trimestreDelTesto(t,lg){ return leggiPeriodo(t,lg).trim; }
+function annoDelTesto(t){ return leggiPeriodo(t).anno; }
+/* il nome del file dice spesso lingua, trimestre e anno («Lec RO 4-26», «Lezionario T4 2026»,
+   «2 trim», «Coperta Ro 3-2026»): serve quando dentro al file non c'è testo (copertine fatte
+   di immagine) e come conferma */
+function suggerimentiDalNome(nome){
+  const n=_senzaAccenti(nome).replace(/\.pdf$/,'');
+  const h={lg:'',trim:0,anno:0};
+  if(/(^|[^a-z])(ro|rum|rumeno|romana|lec|lectia|lectii|coperta|scoala)([^a-z]|$)/.test(n)) h.lg='ro';
+  else if(/(^|[^a-z])(it|ita|italiano|lezionario|copertina|scuola)([^a-z]|$)/.test(n)) h.lg='it';
+  let mq=/(^|[^a-z0-9])[tq]\s*([1-4])(?![0-9])/.exec(n) || /([1-4])\s*[°º]?\s*trim/.exec(n) || /trim\w*\s*([1-4])(?![0-9])/.exec(n)
+      || /lec\w*\s*([1-4])(?![0-9])/.exec(n);
+  if(mq) h.trim=+mq[mq.length-1];
+  const mc=/(^|[^0-9])([1-4])\s*[-_./]\s*((?:20)?[2-9]\d)(?![0-9])/.exec(n);
+  if(mc){ if(!h.trim) h.trim=+mc[2]; h.anno=mc[3].length===2?2000+(+mc[3]):+mc[3]; }
+  if(!h.anno){ const ma=/(20[2-9]\d)/.exec(n); if(ma) h.anno=+ma[1]; }
+  return h;
+}
+function suggerimentiDaiNomi(nomi){
+  const h={lg:'',trim:0,anno:0};
+  (nomi||[]).forEach(n=>{ const x=suggerimentiDalNome(n); ['lg','trim','anno'].forEach(k=>{ if(!h[k]&&x[k]) h[k]=x[k]; }); });
+  return h;
 }
 /* le lezioni: numero, titolo, pagina e il sabato in cui si studiano */
 function analizzaLezionario(l){
@@ -537,13 +872,13 @@ function ricontrollaDate(){
   return toccati;
 }
 /* il sabato che conta adesso: oggi se è sabato e il sole non è ancora tramontato */
-function prossimoSabato(){
-  const d=new Date();
+function prossimoSabato(adesso){
+  const d=adesso||new Date();
   const oggi=new Date(d.getFullYear(),d.getMonth(),d.getDate());
   if(d.getDay()===6){
     const l=luogoAttuale();
     if(!l) return oggi;
-    const la=l.la!=null?l.la:l.lat, lo=l.lo!=null?l.lo:l.lon;
+    const la=l.lat!=null?l.lat:l.la, lo=l.lon!=null?l.lon:l.lo;      /* il punto vero dove sei, non il paese più vicino dell'elenco */
     const s=calcolaSole(d,la,lo);
     if(s.sempre||d<s.tramonto) return oggi;
   }
@@ -551,15 +886,89 @@ function prossimoSabato(){
   return new Date(d.getFullYear(),d.getMonth(),d.getDate()+q);
 }
 function iso(d){ return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'); }
-function lezioneDelSabato(l){
+function lezioneDelSabato(l,adesso){
   const lez=(l.lezioni||[]).filter(x=>x.data);
   if(!lez.length) return null;
-  const s=iso(prossimoSabato());
+  const s=iso(prossimoSabato(adesso));
   const date=lez.map(x=>x.data).sort();
   /* se il sabato che viene non cade dentro a questo lezionario
      (per esempio è un trimestre futuro) non c'è nessuna lezione da mostrare */
   if(s<date[0] || s>date[date.length-1]) return null;
   return lez.find(x=>x.data===s) || lez.filter(x=>x.data<=s).pop() || null;
+}
+/* La pagina del GIORNO di oggi. Dentro alla lezione di questo sabato cerco la pagina dove è
+   scritta la data di oggi: sui lezionari sta in cima a ogni giorno («20 Set», «DUMINICĂ, 20
+   SEPTEMBRIE», «23 SEPT.»). Se la data non c'è uso il giorno della settimana e, in fondo,
+   la prima pagina della lezione. Una data con un altro anno («22 ottobre 1844») non conta. */
+function _rxDataDiOggi(g,mese0){
+  const nomi=Object.keys(MESE_DA_PAROLA).filter(k=>MESE_DA_PAROLA[k]===mese0+1).sort((a,b)=>b.length-a.length);
+  return new RegExp('(^|[^0-9])0?'+g+'\\s*(?:'+nomi.map(elastica).join('|')+')\\.?(?![a-z])(?:\\s*(\\d{4})(?![0-9]))?','g');
+}
+/* Il GIORNO di oggi dentro alla lezione: la pagina, la data stampata sul suo titolo e, se in quella
+   pagina la stessa data c'è più di una volta, quale delle due (0 = la prima). Di solito è la data di
+   oggi. Ma a volte il lezionario sbaglia la data di un giorno (luglio-settembre 2026: giovedì 24 è
+   stampato «Mer, 23 Set», uguale al mercoledì): allora conto i titoli dei giorni in ordine, dal primo
+   della settimana — quello di oggi è il quinto se il primo è domenica e oggi è giovedì. null se non so. */
+function giornoDiOggi(l,adesso){
+  adesso=adesso||new Date();
+  const q=lezioneDelSabato(l,adesso); if(!q) return null;
+  const tot=l.pagine||((l.testo||[]).length+(l.pagCop||0));
+  const fine=Math.min(q.fine||tot+1,tot+1);
+  const oggi=new Date(adesso.getFullYear(),adesso.getMonth(),adesso.getDate());
+  /* tutte le date da domenica a venerdì di questa settimana, dove sono scritte, in ordine */
+  const settimana=[];
+  for(let g=0;g<6;g++) settimana.push(new Date(oggi.getFullYear(),oggi.getMonth(),oggi.getDate()-oggi.getDay()+g));
+  const teste=[];
+  for(let n=q.pag;n<fine;n++){
+    const t=_senzaAccenti(ricuci((l.testo||[])[n-1-(l.pagCop||0)]||'')); if(!t) continue;
+    const qui=[];
+    settimana.forEach(d=>{
+      const rx=_rxDataDiOggi(d.getDate(),d.getMonth()); let m;
+      while((m=rx.exec(t))){ if(!m[2] || +m[2]===d.getFullYear()) qui.push({pag:n,d,pos:m.index}); }
+    });
+    qui.sort((a,b)=>a.pos-b.pos).forEach(x=>{
+      x.k=teste.filter(y=>y.pag===n && +y.d===+x.d).length; teste.push(x);
+    });
+  }
+  if(!teste.length) return null;
+  const esatta=teste.find(x=>+x.d===+oggi);
+  if(esatta) return {pag:esatta.pag,data:esatta.d,k:esatta.k};
+  /* la data di oggi non c'è: il titolo che per ordine è quello di oggi, se porta la data di un giorno prima */
+  const quanti=Math.round((oggi-teste[0].d)/864e5), h=teste[quanti];
+  if(quanti>0 && h && h.d<oggi) return {pag:h.pag,data:h.d,k:h.k};
+  return null;
+}
+function paginaDiOggi(l,adesso){
+  adesso=adesso||new Date();
+  const gOggi=giornoDiOggi(l,adesso); if(gOggi) return gOggi.pag;
+  const q=lezioneDelSabato(l,adesso);
+  const tot=l.pagine||((l.testo||[]).length+(l.pagCop||0));
+  /* senza la lezione (date mancanti o sbagliate) cerco la data di oggi in tutto il lezionario */
+  const da=q?q.pag:1+(l.pagCop||0);
+  const fine=q?Math.min(q.fine||tot+1,tot+1):tot+1;
+  const testi={};
+  for(let n=da;n<fine;n++) testi[n]=_senzaAccenti(ricuci((l.testo||[])[n-1-(l.pagCop||0)]||''));
+  /* le pagine dove sta scritta una data (ne restano fuori le date di altri anni) */
+  const pagineDel=d=>{
+    const rx=_rxDataDiOggi(d.getDate(),d.getMonth()), trovate=[];
+    for(let n=da;n<fine;n++){
+      if(!testi[n]) continue;
+      rx.lastIndex=0; let m;
+      while((m=rx.exec(testi[n]))){ if(!m[2] || +m[2]===d.getFullYear()){ trovate.push(n); break; } }
+    }
+    return trovate;
+  };
+  const oggi=pagineDel(adesso);
+  if(oggi.length) return oggi[0];
+  if(!q) return null;
+  /* la data di oggi non c'è (un giorno senza titolo, o stampato con la data sbagliata): il giorno
+     più vicino prima di oggi che c'è nella lezione — e ne prendo l'ultima pagina di seguito */
+  for(let k=1;k<7;k++){
+    const pp=pagineDel(new Date(adesso.getFullYear(),adesso.getMonth(),adesso.getDate()-k));
+    if(pp.length){ let ult=pp[0]; for(const x of pp.slice(1)){ if(x===ult+1) ult=x; else break; } return ult; }
+  }
+  const g=(q.giorni||[]).find(x=>x.k===adesso.getDay());
+  return g ? g.pag : q.pag;
 }
 function paginaDaAprire(l){
   /* se stavo leggendo oggi, riprendo esattamente da dove ero rimasto */

@@ -1,0 +1,476 @@
+# Viaggi dei Vangeli (prima parte)
+
+= maria_elisabetta | 🕊️ | Maria va da Elisabetta | Maria merge la Elisabeta | 42 1:39
+@ nazaret | 42 1:26
+it: L'angelo Gabriele fu mandato da Dio a Nazaret, a una vergine di nome Maria, promessa sposa di Giuseppe.
+ro: Îngerul Gabriel a fost trimis de Dumnezeu la Nazaret, la o fecioară numită Maria, logodită cu Iosif.
+@ montiGiuda | 42 1:41
+it: Maria andò in fretta in una città di Giuda; al suo saluto il bambino sobbalzò nel grembo di Elisabetta.
+ro: Maria a plecat în grabă într-o cetate a lui Iuda; la salutul ei, pruncul a săltat în pântecele Elisabetei.
+? personaggio | 42 1:26
+qi: Quale angelo portò l'annuncio a Maria?
+qr: Care înger i-a adus vestea Mariei?
+ai: Gabriele | Michele | Raffaele | Un angelo senza nome
+ar: Gabriel | Mihail | Rafael | Un înger fără nume
+@ montiGiuda | 42 1:56 | la casa di Zaccaria | casa lui Zaharia
+it: Maria rimase con Elisabetta alcuni mesi, poi tornò a casa sua.
+ro: Maria a rămas cu Elisabeta câteva luni, apoi s-a întors acasă.
+? domanda | 42 1:56
+qi: Per quanto tempo Maria rimase con Elisabetta?
+qr: Cât a rămas Maria cu Elisabeta?
+ai: Circa tre mesi | Una settimana | Un anno | Quaranta giorni
+ar: Cam trei luni | O săptămână | Un an | Patruzeci de zile
+@ nazaret | 42 1:56 | il ritorno a Nazaret | întoarcerea la Nazaret
+it: Poco dopo la partenza di Maria nacque Giovanni, il figlio di Elisabetta e di Zaccaria.
+ro: Curând după plecarea Mariei s-a născut Ioan, fiul Elisabetei și al lui Zaharia.
+? personaggio | 42 1:63
+qi: Chi scrisse su una tavoletta: «Il suo nome è Giovanni»?
+qr: Cine a scris pe o tăbliță: „Numele lui este Ioan”?
+ai: Zaccaria | Elisabetta | Maria | Giuseppe
+ar: Zaharia | Elisabeta | Maria | Iosif
+
+= nascita_gesu | ⭐ | Da Nazaret a Betlemme | De la Nazaret la Betleem | 42 2:4
+@ nazaret | 42 2:4
+it: Per il censimento Giuseppe salì da Nazaret a Betlemme, la città di Davide, con Maria.
+ro: Pentru înscriere, Iosif s-a suit din Nazaret la Betleem, cetatea lui David, cu Maria.
+@ betlemme | 42 2:7
+it: A Betlemme Maria diede alla luce il suo figlio primogenito e lo pose in una mangiatoia.
+ro: La Betleem, Maria a născut pe Fiul ei cel întâi născut și L-a culcat într-o iesle.
+? domanda | 42 2:7
+qi: Perché Maria mise il bambino in una mangiatoia?
+qr: De ce L-a culcat Maria pe prunc într-o iesle?
+ai: Perché non c'era posto nell'albergo | Perché era più caldo | Perché lo chiese l'angelo | Perché erano poveri pastori
+ar: Pentru că nu era loc de găzduit | Pentru că era mai cald | Pentru că așa a cerut îngerul | Pentru că erau păstori săraci
+@ campipastori | 42 2:12
+it: Ai pastori che vegliavano di notte l'angelo annunciò la nascita del Salvatore.
+ro: Păstorilor care vegheau noaptea, îngerul le-a vestit nașterea Mântuitorului.
+? domanda | 42 2:12
+qi: Quale segno diede l'angelo ai pastori?
+qr: Ce semn le-a dat îngerul păstorilor?
+ai: Un bambino fasciato, coricato in una mangiatoia | Una stella sopra una casa | Un agnello bianco | Una luce sulla montagna
+ar: Un prunc înfășat și culcat într-o iesle | O stea deasupra unei case | Un miel alb | O lumină pe munte
+@ tempio | 42 2:24
+it: Quaranta giorni dopo, Gesù fu presentato al tempio; il vecchio Simeone lo prese in braccio e benedisse Dio.
+ro: După patruzeci de zile, Isus a fost adus la Templu; bătrânul Simeon L-a luat în brațe și a binecuvântat pe Dumnezeu.
+? domanda | 42 2:24
+qi: Che cosa offrirono Giuseppe e Maria al tempio?
+qr: Ce au adus jertfă Iosif și Maria la Templu?
+ai: Un paio di tortore o due giovani colombi | Un agnello | Un vitello | Dell'oro
+ar: O pereche de turturele sau doi pui de porumbel | Un miel | Un vițel | Aur
+@ nazaret | 42 2:39
+it: Compiuto tutto secondo la legge, tornarono in Galilea, a Nazaret, la loro città.
+ro: După ce au împlinit totul după Lege, s-au întors în Galileea, în cetatea lor, Nazaret.
+? ordina | 42 2:39
+qi: Metti in ordine il viaggio della nascita.
+qr: Pune în ordine călătoria nașterii.
+ai: Partenza da Nazaret per il censimento | La nascita a Betlemme | L'annuncio ai pastori | La presentazione al tempio | Il ritorno a Nazaret
+ar: Plecarea din Nazaret pentru înscriere | Nașterea la Betleem | Vestea către păstori | Aducerea la Templu | Întoarcerea la Nazaret
+
+= magi | 🎁 | Il viaggio dei magi | Călătoria magilor | 40 2:1
+@ oriente | 40 2:2
+it: Dei magi videro sorgere la stella del re dei Giudei e partirono dall'Oriente per adorarlo.
+ro: Niște magi au văzut răsărind steaua Împăratului iudeilor și au plecat din Răsărit ca să I se închine.
+@ gerusalemme | 40 2:5
+it: A Gerusalemme il re Erode interrogò i capi dei sacerdoti e gli scribi: dove doveva nascere il Cristo?
+ro: La Ierusalim, împăratul Irod i-a întrebat pe preoții cei mai de seamă și pe cărturari unde trebuia să Se nască Hristosul.
+? luogo | 40 2:5
+qi: Dove doveva nascere il Cristo, secondo gli scribi?
+qr: Unde trebuia să Se nască Hristosul, după cărturari?
+ai: A Betlemme di Giudea | A Gerusalemme | A Nazaret | A Hebron
+ar: În Betleemul din Iudeea | La Ierusalim | La Nazaret | La Hebron
+@ betlemme | 40 2:11
+it: La stella si fermò sopra il luogo dov'era il bambino; entrati nella casa, i magi lo adorarono.
+ro: Steaua s-a oprit deasupra locului unde era Pruncul; au intrat în casă și I s-au închinat.
+? domanda | 40 2:11
+qi: Quali doni offrirono i magi?
+qr: Ce daruri I-au adus magii?
+ai: Oro, incenso e mirra | Pane, vino e olio | Argento, lana e lino | Agnelli e colombe
+ar: Aur, tămâie și smirnă | Pâine, vin și untdelemn | Argint, lână și in | Miei și porumbei
+@ oriente | 40 2:12 | il ritorno per un'altra via | întoarcerea pe alt drum
+it: Avvertiti in sogno di non tornare da Erode, i magi tornarono al loro paese per un'altra via.
+ro: Înștiințați în vis să nu se mai întoarcă la Irod, magii s-au întors în țara lor pe alt drum.
+? evento | 40 2:12
+qi: Perché i magi non tornarono da Erode?
+qr: De ce nu s-au mai întors magii la Irod?
+ai: Furono avvertiti in sogno | Erode era morto | Si persero nel deserto | Giuseppe lo chiese loro
+ar: Au fost înștiințați în vis | Irod murise | S-au rătăcit în pustie | Le-a cerut Iosif
+
+= fuga_egitto | 🌙 | La fuga in Egitto | Fuga în Egipt | 40 2:13
+@ betlemme | 40 2:13
+it: Un angelo apparve in sogno a Giuseppe: «Prendi il bambino e sua madre e fuggi in Egitto».
+ro: Un înger i s-a arătat în vis lui Iosif: „Ia Pruncul și pe mama Lui și fugi în Egipt”.
+@ egitto | 40 2:15
+it: La famiglia restò in Egitto fino alla morte di Erode, perché si adempisse: «Dall'Egitto chiamai mio figlio».
+ro: Familia a rămas în Egipt până la moartea lui Irod, ca să se împlinească: „Am chemat pe Fiul Meu din Egipt”.
+? domanda | 40 2:14
+qi: Quando partì Giuseppe per l'Egitto?
+qr: Când a plecat Iosif în Egipt?
+ai: Di notte, subito | Dopo un anno | Dopo la festa | La domenica mattina
+ar: Noaptea, îndată | După un an | După praznic | Duminică dimineața
+@ nazaret | 40 2:23
+it: Morto Erode, Giuseppe non andò in Giudea, dove regnava Archelao, ma si stabilì a Nazaret, in Galilea.
+ro: După moartea lui Irod, Iosif nu s-a dus în Iudeea, unde domnea Arhelau, ci s-a așezat la Nazaret, în Galileea.
+? personaggio | 40 2:22
+qi: Chi regnava in Giudea, tanto che Giuseppe ebbe paura di andarci?
+qr: Cine domnea în Iudeea, de i-a fost frică lui Iosif să meargă acolo?
+ai: Archelao | Erode Antipa | Pilato | Cesare Augusto
+ar: Arhelau | Irod Antipa | Pilat | Cezarul August
+
+= gesu_dodici_anni | 📜 | Gesù dodicenne a Gerusalemme | Isus la doisprezece ani la Ierusalim | 42 2:41
+@ nazaret | 42 2:41
+it: Ogni anno i genitori di Gesù andavano a Gerusalemme per la festa di Pasqua.
+ro: Părinții lui Isus se duceau în fiecare an la Ierusalim, la praznicul Paștelui.
+@ gerusalemme | 42 2:43
+it: Finiti i giorni della festa, il fanciullo Gesù rimase a Gerusalemme senza che i genitori se ne accorgessero.
+ro: După ce s-au sfârșit zilele praznicului, copilul Isus a rămas în Ierusalim fără să știe părinții Lui.
+? domanda | 42 2:42
+qi: Quanti anni aveva Gesù in quel viaggio?
+qr: Câți ani avea Isus în călătoria aceea?
+ai: 12 | 7 | 30 | 3
+ar: 12 | 7 | 30 | 3
+@ stradagalilea | 42 2:44
+it: Credendolo nella comitiva, fecero una giornata di cammino e poi lo cercarono fra parenti e conoscenti.
+ro: Crezând că este cu tovarășii de drum, au mers cale de o zi și apoi L-au căutat printre rude și cunoscuți.
+? domanda | 42 2:44
+qi: Quanto cammino fecero Giuseppe e Maria prima di accorgersi che Gesù mancava?
+qr: Cât au mers Iosif și Maria până să-și dea seama că Isus lipsea?
+ai: Una giornata | Una settimana | Un'ora | Tre giorni
+ar: Cale de o zi | O săptămână | Un ceas | Trei zile
+@ tempio | 42 2:46
+it: Dopo tre giorni lo trovarono nel tempio, seduto fra i dottori, che li ascoltava e faceva domande.
+ro: După trei zile L-au găsit în Templu, șezând în mijlocul învățătorilor, ascultându-i și punându-le întrebări.
+? domanda | 42 2:49
+qi: Che cosa rispose Gesù ai genitori che lo cercavano?
+qr: Ce le-a răspuns Isus părinților care Îl căutau?
+ai: «Non sapevate che devo occuparmi delle cose del Padre mio?» | «Mi ero perso» | «Tornate senza di me» | «Resterò qui per sempre»
+ar: „Nu știați că trebuie să fiu în casa Tatălui Meu?” | „M-am rătăcit” | „Întoarceți-vă fără Mine” | „Voi rămâne aici pentru totdeauna”
+@ nazaret | 42 2:51
+it: Gesù tornò con loro a Nazaret e stava loro sottomesso; cresceva in sapienza, statura e grazia.
+ro: Isus S-a întors cu ei la Nazaret și le era supus; creștea în înțelepciune, în statură și în har.
+? ordina | 42 2:51
+qi: Metti in ordine il viaggio di Gesù a dodici anni.
+qr: Pune în ordine călătoria lui Isus la doisprezece ani.
+ai: La festa di Pasqua | I genitori partono senza di lui | Lo cercano fra i parenti | Lo trovano nel tempio | Il ritorno a Nazaret
+ar: Praznicul Paștelui | Părinții pleacă fără El | Îl caută printre rude | Îl găsesc în Templu | Întoarcerea la Nazaret
+
+= battesimo_tentazioni | 🕊️ | Il battesimo e le tentazioni | Botezul și ispitirea | 40 3:13
+@ nazaret | 41 1:9
+it: Gesù venne da Nazaret di Galilea e fu battezzato da Giovanni nel Giordano.
+ro: Isus a venit din Nazaretul Galileii și a fost botezat de Ioan în Iordan.
+@ giordano | 40 3:16
+it: Uscito dall'acqua, Gesù vide lo Spirito di Dio scendere come una colomba, e una voce dal cielo parlò.
+ro: Ieșind din apă, Isus a văzut Duhul lui Dumnezeu pogorându-Se în chip de porumbel, și un glas din cer a vorbit.
+? domanda | 40 3:17
+qi: Che cosa disse la voce dal cielo al battesimo di Gesù?
+qr: Ce a spus glasul din cer la botezul lui Isus?
+ai: «Questi è il mio amato Figlio, nel quale mi sono compiaciuto» | «Ecco l'Agnello di Dio» | «Preparate la via» | «Pentitevi»
+ar: „Acesta este Fiul Meu preaiubit, în care Îmi găsesc plăcerea” | „Iată Mielul lui Dumnezeu” | „Pregătiți calea” | „Pocăiți-vă”
+@ desertogiuda | 40 4:2
+it: Lo Spirito condusse Gesù nel deserto per essere tentato dal diavolo.
+ro: Duhul L-a dus pe Isus în pustie, ca să fie ispitit de diavolul.
+? domanda | 40 4:2
+qi: Per quanti giorni digiunò Gesù nel deserto?
+qr: Câte zile a postit Isus în pustie?
+ai: 40 giorni e 40 notti | 7 giorni | 3 giorni | 12 giorni
+ar: 40 de zile și 40 de nopți | 7 zile | 3 zile | 12 zile
+@ tempio | 40 4:5 | l'orlo del tempio | streașina Templului
+it: Il diavolo lo portò nella santa città, sull'orlo del tempio: «Gettati giù».
+ro: Diavolul L-a dus în sfânta cetate, pe streașina Templului: „Aruncă-Te jos”.
+? domanda | 40 4:4
+qi: Con quali parole Gesù rispose alla prima tentazione?
+qr: Cu ce cuvinte a răspuns Isus la prima ispită?
+ai: «L'uomo non vive di solo pane» | «Vattene, Satana» | «Il mio regno non è di questo mondo» | «Ho sete»
+ar: „Omul nu trăiește numai cu pâine” | „Înapoia Mea, Satano” | „Împărăția Mea nu este din lumea aceasta” | „Mi-e sete”
+@ monteregni | 40 4:8
+it: Da un monte altissimo il diavolo gli mostrò tutti i regni del mondo e la loro gloria.
+ro: De pe un munte foarte înalt, diavolul I-a arătat toate împărățiile lumii și strălucirea lor.
+? ordina | 40 4:11
+qi: Metti in ordine gli inizi del ministero di Gesù.
+qr: Pune în ordine începutul lucrării lui Isus.
+ai: Il battesimo nel Giordano | Il digiuno nel deserto | La tentazione sull'orlo del tempio | La tentazione sul monte altissimo
+ar: Botezul în Iordan | Postul din pustie | Ispita de pe streașina Templului | Ispita de pe muntele înalt
+
+= primi_discepoli | 🍷 | I primi discepoli e Cana | Primii ucenici și Cana | 43 1:35
+@ betabara | 43 1:29
+it: Giovanni vide Gesù che veniva verso di lui e disse: «Ecco l'Agnello di Dio».
+ro: Ioan L-a văzut pe Isus venind la el și a zis: „Iată Mielul lui Dumnezeu”.
+@ betabara | 43 1:42 | la casa dove Gesù abitava | casa unde locuia Isus
+it: Andrea condusse suo fratello Simone da Gesù, che gli diede un nome nuovo.
+ro: Andrei l-a adus pe fratele său Simon la Isus, care i-a dat un nume nou.
+? domanda | 43 1:42
+qi: Quale nome diede Gesù a Simone?
+qr: Ce nume i-a dat Isus lui Simon?
+ai: Cefa, che vuol dire sasso | Boanerges | Didimo | Barnaba
+ar: Chifa, adică Petru | Boanerghes | Geamăn | Barnaba
+@ betsaida | 43 1:44
+it: In Galilea Gesù trovò Filippo, di Betsaida, la città di Andrea e di Pietro; Filippo chiamò Natanaele.
+ro: În Galileea, Isus l-a găsit pe Filip, din Betsaida, cetatea lui Andrei și a lui Petru; Filip l-a chemat pe Natanael.
+? luogo | 43 1:44
+qi: Da quale città venivano Filippo, Andrea e Pietro?
+qr: Din ce cetate erau Filip, Andrei și Petru?
+ai: Betsaida | Nazaret | Cana | Magdala
+ar: Betsaida | Nazaret | Cana | Magdala
+@ cana | 43 2:6
+it: A Cana, a una festa di nozze, Gesù cambiò l'acqua in vino: fu il primo dei suoi segni.
+ro: La Cana, la o nuntă, Isus a prefăcut apa în vin: a fost cel dintâi dintre semnele Lui.
+? domanda | 43 2:6
+qi: Quanti recipienti di pietra fece riempire Gesù a Cana?
+qr: Câte vase de piatră a pus Isus să se umple la Cana?
+ai: 6 | 12 | 3 | 7
+ar: 6 | 12 | 3 | 7
+@ capernaum | 43 2:12
+it: Dopo le nozze Gesù scese a Capernaum con sua madre, i suoi fratelli e i discepoli.
+ro: După nuntă, Isus S-a pogorât la Capernaum cu mama Lui, cu frații Lui și cu ucenicii.
+? ordina | 43 2:12
+qi: Metti in ordine l'inizio della storia dei discepoli.
+qr: Pune în ordine începutul istoriei ucenicilor.
+ai: «Ecco l'Agnello di Dio» | Andrea porta Simone | Filippo chiama Natanaele | Le nozze di Cana | La discesa a Capernaum
+ar: „Iată Mielul lui Dumnezeu” | Andrei îl aduce pe Simon | Filip îl cheamă pe Natanael | Nunta din Cana | Pogorârea la Capernaum
+
+= prima_pasqua | 🐑 | La prima Pasqua di Gesù | Primul Paște al lui Isus | 43 2:13
+@ capernaum | 43 2:13
+it: Si avvicinava la Pasqua dei Giudei, e Gesù salì a Gerusalemme.
+ro: Paștele iudeilor era aproape, și Isus S-a suit la Ierusalim.
+@ tempio | 43 2:15
+it: Nel tempio Gesù trovò venditori e cambiamonete e li scacciò.
+ro: În Templu, Isus a găsit pe vânzători și pe schimbătorii de bani și i-a scos afară.
+? evento | 43 2:15
+qi: Con che cosa scacciò Gesù i venditori dal tempio?
+qr: Cu ce i-a scos Isus pe vânzători din Templu?
+ai: Con una frusta di cordicelle | Con un bastone | Con la sua voce soltanto | Con l'aiuto delle guardie
+ar: Cu un bici de ștreanguri | Cu un toiag | Numai cu glasul | Cu ajutorul străjerilor
+@ gerusalemme | 43 3:3 | di notte, con Nicodemo | noaptea, cu Nicodim
+it: Un capo dei Giudei, Nicodemo, venne da Gesù di notte.
+ro: Un fruntaș al iudeilor, Nicodim, a venit la Isus noaptea.
+? domanda | 43 3:3
+qi: Che cosa disse Gesù a Nicodemo?
+qr: Ce i-a spus Isus lui Nicodim?
+ai: Che bisogna nascere di nuovo per vedere il regno di Dio | Che doveva vendere tutto | Che doveva andare al Giordano | Che doveva tacere
+ar: Că trebuie să te naști din nou ca să vezi Împărăția lui Dumnezeu | Că trebuia să vândă tot | Că trebuia să meargă la Iordan | Că trebuia să tacă
+@ enon | 43 3:23
+it: Intanto Giovanni battezzava a Enon, vicino a Salim, perché là c'era molta acqua.
+ro: În acest timp, Ioan boteza la Enon, aproape de Salim, pentru că acolo erau ape multe.
+? luogo | 43 3:23
+qi: Perché Giovanni battezzava a Enon?
+qr: De ce boteza Ioan la Enon?
+ai: Perché là c'era abbondanza di acqua | Perché era vicino al tempio | Perché era la sua città | Perché era sul mare
+ar: Pentru că acolo erau ape multe | Pentru că era aproape de Templu | Pentru că era cetatea lui | Pentru că era pe mare
+@ montiGiuda | 43 3:22 | le campagne della Giudea | ținutul Iudeii
+it: Gesù rimase con i discepoli nelle campagne della Giudea e battezzava.
+ro: Isus a rămas cu ucenicii Săi în ținutul Iudeii și boteza.
+? domanda | 43 3:30
+qi: Che cosa disse Giovanni Battista di Gesù?
+qr: Ce a spus Ioan Botezătorul despre Isus?
+ai: «Bisogna che egli cresca e che io diminuisca» | «Io sono più grande di lui» | «Non lo conosco» | «Anche lui è un profeta come me»
+ar: „Trebuie ca El să crească, iar eu să mă micșorez” | „Eu sunt mai mare decât El” | „Nu-L cunosc” | „Și El e proroc ca mine”
+
+= samaritana | 💧 | La donna di Samaria | Femeia samariteană | 43 4:3
+@ montiGiuda | 43 4:3 | la Giudea | Iudeea
+it: Gesù lasciò la Giudea e tornò verso la Galilea; doveva passare per la Samaria.
+ro: Isus a părăsit Iudeea și S-a întors în Galileea; trebuia să treacă prin Samaria.
+@ sicar | 43 4:6
+it: Stanco del viaggio, Gesù si sedette presso il pozzo di Giacobbe, verso mezzogiorno.
+ro: Ostenit de călătorie, Isus S-a așezat lângă fântâna lui Iacov, pe la amiază.
+? domanda | 43 4:14
+qi: Che cosa promise Gesù alla donna di Samaria?
+qr: Ce i-a făgăduit Isus femeii samaritene?
+ai: Un'acqua che diventa una fonte che zampilla in vita eterna | Un secchio nuovo | Una casa a Sichar | Un marito
+ar: O apă care se face izvor de apă ce țâșnește în viața veșnică | O găleată nouă | O casă în Sihar | Un bărbat
+@ sicar | 43 4:28 | la città di Sichar | cetatea Sihar
+it: La donna lasciò la sua secchia, corse in città e disse: «Venite a vedere un uomo che mi ha detto tutto».
+ro: Femeia și-a lăsat găleata, a alergat în cetate și a zis: „Veniți de vedeți un om care mi-a spus tot”.
+? evento | 43 4:28
+qi: Che cosa lasciò la donna al pozzo correndo in città?
+qr: Ce a lăsat femeia la fântână când a alergat în cetate?
+ai: Il suo secchio | Il suo mantello | Una moneta | I suoi sandali
+ar: Găleata | Haina | O monedă | Sandalele
+@ cana | 43 4:46
+it: A Cana un funzionario del re lo pregò di scendere a guarire suo figlio, malato a Capernaum.
+ro: La Cana, un slujbaș împărătesc L-a rugat să Se pogoare să-i vindece fiul, bolnav la Capernaum.
+? domanda | 43 4:52
+qi: A che ora la febbre lasciò il figlio del funzionario?
+qr: La ce ceas l-au lăsat frigurile pe fiul slujbașului?
+ai: All'ora settima | All'ora terza | A mezzanotte | All'alba
+ar: În ceasul al șaptelea | În ceasul al treilea | La miezul nopții | În zori
+@ capernaum | 43 4:53
+it: Il funzionario capì che era l'ora in cui Gesù gli aveva detto: «Tuo figlio vive»; credette con tutta la sua casa.
+ro: Slujbașul a înțeles că era ceasul în care îi spusese Isus: „Fiul tău trăiește”; a crezut el și toată casa lui.
+? ordina | 43 4:54
+qi: Metti in ordine il viaggio verso la Galilea.
+qr: Pune în ordine drumul spre Galileea.
+ai: La partenza dalla Giudea | Il pozzo di Giacobbe | La donna corre in città | Il funzionario a Cana | Il figlio guarito a Capernaum
+ar: Plecarea din Iudeea | Fântâna lui Iacov | Femeia aleargă în cetate | Slujbașul la Cana | Fiul vindecat la Capernaum
+
+= nazaret_capernaum | 📖 | Da Nazaret a Capernaum | De la Nazaret la Capernaum | 42 4:16
+@ nazaret | 42 4:17
+it: Nella sinagoga di Nazaret gli fu dato il libro del profeta Isaia, e Gesù lesse il passo sullo Spirito del Signore.
+ro: În sinagoga din Nazaret I s-a dat cartea prorocului Isaia, iar Isus a citit locul despre Duhul Domnului.
+@ nazaret | 42 4:29 | il ciglio del monte | sprânceana muntelui
+it: Pieni d'ira, lo condussero fino al ciglio del monte per gettarlo giù; ma egli passò in mezzo a loro.
+ro: Plini de mânie, L-au dus până pe sprânceana muntelui ca să-L arunce jos; dar El a trecut prin mijlocul lor.
+? personaggio | 42 4:17
+qi: Di quale profeta lesse Gesù nella sinagoga di Nazaret?
+qr: Din care proroc a citit Isus în sinagoga din Nazaret?
+ai: Isaia | Geremia | Daniele | Elia
+ar: Isaia | Ieremia | Daniel | Ilie
+@ capernaum | 42 4:35
+it: Nella sinagoga di Capernaum Gesù scacciò uno spirito immondo, e tutti restarono stupiti.
+ro: În sinagoga din Capernaum, Isus a scos un duh necurat, și toți au rămas uimiți.
+? domanda | 42 4:32
+qi: Perché la gente di Capernaum restava stupita del suo insegnamento?
+qr: De ce rămâneau uimiți oamenii din Capernaum de învățătura Lui?
+ai: Perché parlava con autorità | Perché parlava in greco | Perché leggeva a voce alta | Perché era giovane
+ar: Pentru că vorbea cu putere | Pentru că vorbea grecește | Pentru că citea tare | Pentru că era tânăr
+@ capernaum | 42 4:38 | la casa di Simone | casa lui Simon
+it: Nella casa di Simone, Gesù sgridò la febbre della suocera, che si alzò subito a servirli.
+ro: În casa lui Simon, Isus a certat frigurile soacrei lui, iar ea s-a sculat îndată și i-a slujit.
+? personaggio | 42 4:38
+qi: Chi guarì Gesù dalla febbre nella casa di Simone?
+qr: Pe cine a vindecat Isus de friguri în casa lui Simon?
+ai: La suocera di Simone | La moglie di Simone | La figlia di Giairo | La madre di Giacomo
+ar: Soacra lui Simon | Nevasta lui Simon | Fiica lui Iair | Mama lui Iacov
+
+= pesca_paralitico | 🎣 | La pesca miracolosa e il paralitico | Pescuirea minunată și ologul | 42 5:1
+@ genezaret | 42 5:1
+it: Presso il lago di Gennesaret, Gesù salì sulla barca di Simone e insegnava alla folla.
+ro: Lângă lacul Ghenezaret, Isus S-a suit în corabia lui Simon și învăța noroadele.
+@ mareGalilea | 42 5:6 | il largo del lago | largul lacului
+it: Dopo una notte senza pescare nulla, sulla sua parola gettarono le reti e presero moltissimi pesci.
+ro: După o noapte fără nimic, la cuvântul Lui au aruncat mrejele și au prins foarte mult pește.
+? evento | 42 5:6
+qi: Che cosa accadde alle reti gettate sulla parola di Gesù?
+qr: Ce s-a întâmplat cu mrejele aruncate la cuvântul lui Isus?
+ai: Presero tanti pesci che la rete si rompeva | Restarono vuote | Si impigliarono negli scogli | Presero un solo grande pesce
+ar: Au prins atât de mult pește încât se rupea mreaja | Au rămas goale | S-au agățat de stânci | Au prins un singur pește mare
+@ genezaret | 42 5:10 | la riva | țărmul
+it: Gesù disse a Simone: «Non temere, d'ora in avanti sarai pescatore di uomini». Lasciarono tutto e lo seguirono.
+ro: Isus i-a zis lui Simon: „Nu te teme, de acum încolo vei fi pescar de oameni”. Au lăsat totul și au mers după El.
+? domanda | 42 5:10
+qi: Che cosa promise Gesù a Simone dopo la pesca?
+qr: Ce i-a făgăduit Isus lui Simon după pescuire?
+ai: «Sarai pescatore di uomini» | «Avrai una barca nuova» | «Sarai re d'Israele» | «Non lavorerai più»
+ar: „Vei fi pescar de oameni” | „Vei avea o corabie nouă” | „Vei fi împărat al lui Israel” | „Nu vei mai lucra”
+@ capernaum | 41 2:4
+it: A Capernaum, per la folla, quattro uomini scoperchiarono il tetto e calarono un paralitico davanti a Gesù.
+ro: La Capernaum, din pricina mulțimii, patru oameni au desfăcut acoperișul și l-au coborât pe un olog înaintea lui Isus.
+? evento | 41 2:4
+qi: Come arrivò il paralitico davanti a Gesù?
+qr: Cum a ajuns ologul înaintea lui Isus?
+ai: Lo calarono dal tetto scoperchiato | Entrò dalla porta | Lo portarono in barca | Camminò da solo
+ar: L-au coborât prin acoperișul desfăcut | A intrat pe ușă | L-au adus cu corabia | A mers singur
+
+= discorso_monte | ⛰️ | Il discorso sul monte | Predica de pe munte | 40 5:1
+@ capernaum | 40 4:23
+it: Gesù percorreva la Galilea insegnando e guarendo, e grandi folle lo seguivano.
+ro: Isus străbătea Galileea, învățând și vindecând, și noroade mari mergeau după El.
+@ montebeatitudini | 40 5:1
+it: Vedendo le folle, Gesù salì sul monte, si mise a sedere e insegnava: «Beati i poveri in spirito…».
+ro: Când a văzut noroadele, Isus S-a suit pe munte, a șezut și învăța: „Ferice de cei săraci în duh…”
+? domanda | 40 5:14
+qi: Come chiamò Gesù i suoi discepoli nel discorso sul monte?
+qr: Cum i-a numit Isus pe ucenicii Săi în predica de pe munte?
+ai: La luce del mondo | I pastori del gregge | I re della terra | I figli del tuono
+ar: Lumina lumii | Păstorii turmei | Împărații pământului | Fiii tunetului
+@ montebeatitudini | 40 8:3 | la discesa dal monte | pogorârea de pe munte
+it: Scendendo dal monte, un lebbroso gli disse: «Signore, se vuoi, tu puoi mondarmi»; Gesù lo toccò e lo guarì.
+ro: Când S-a pogorât de pe munte, un lepros I-a zis: „Doamne, dacă vrei, poți să mă curățești”; Isus S-a atins de el și l-a vindecat.
+? domanda | 40 7:24
+qi: A chi paragonò Gesù chi ascolta le sue parole e le mette in pratica?
+qr: Cu cine l-a asemănat Isus pe cel ce aude cuvintele Lui și le face?
+ai: A un uomo saggio che costruì la casa sulla roccia | A un pastore | A un seminatore | A un mercante di perle
+ar: Cu un om cu judecată, care și-a zidit casa pe stâncă | Cu un păstor | Cu un semănător | Cu un negustor de mărgăritare
+@ capernaum | 40 8:8 | il centurione | sutașul
+it: A Capernaum un centurione chiese a Gesù di guarire il suo servo, dicendo che bastava una parola.
+ro: La Capernaum, un sutaș L-a rugat pe Isus să-i vindece robul, spunând că este de ajuns un cuvânt.
+? domanda | 40 8:8
+qi: Che cosa disse il centurione a Gesù?
+qr: Ce I-a zis sutașul lui Isus?
+ai: «Non son degno che tu entri sotto il mio tetto; di' soltanto una parola» | «Vieni subito a casa mia» | «Il mio servo è già morto» | «Chiederò ai sacerdoti»
+ar: „Nu sunt vrednic să intri sub acoperământul meu; ci zi numai un cuvânt” | „Vino îndată la mine acasă” | „Robul meu a murit” | „Voi întreba pe preoți”
+
+= nain | ⚰️ | Il figlio della vedova di Nain | Fiul văduvei din Nain | 42 7:11
+@ capernaum | 42 7:1
+it: Dopo aver finito di parlare al popolo, Gesù entrò in Capernaum.
+ro: După ce a isprăvit de vorbit poporului, Isus a intrat în Capernaum.
+@ nain | 42 7:12
+it: Alla porta di Nain veniva portato fuori un morto, figlio unico di una vedova.
+ro: La poarta cetății Nain era scos un mort, singurul fiu al unei văduve.
+? evento | 42 7:13
+qi: Che cosa disse Gesù alla madre vedendola?
+qr: Ce i-a zis Isus mamei când a văzut-o?
+ai: «Non piangere» | «Seppellitelo presto» | «Hai peccato» | «Torna domani»
+ar: „Nu plânge!” | „Îngropați-l repede” | „Ai păcătuit” | „Vino mâine”
+@ nain | 42 7:16 | la città di Nain | cetatea Nain
+it: Il giovane si alzò e cominciò a parlare, e Gesù lo restituì a sua madre.
+ro: Tânărul s-a ridicat și a început să vorbească, iar Isus l-a dat mamei lui.
+? domanda | 42 7:16
+qi: Che cosa diceva la gente dopo il miracolo di Nain?
+qr: Ce spuneau oamenii după minunea din Nain?
+ai: «Un grande profeta è sorto fra noi» | «Chiamate i sacerdoti» | «È un fantasma» | «Andiamo a Gerusalemme»
+ar: „Un mare proroc s-a ridicat între noi” | „Chemați preoții” | „Este o nălucă” | „Să mergem la Ierusalim”
+
+= tempesta_gadara | 🌊 | La tempesta e il paese dei Gadareni | Furtuna și ținutul gadarenilor | 41 4:35
+@ capernaum | 41 4:35
+it: La sera Gesù disse ai discepoli: «Passiamo all'altra riva».
+ro: Seara, Isus le-a zis ucenicilor: „Să trecem în partea cealaltă”.
+@ mareGalilea | 41 4:38
+it: Scoppiò una grande tempesta; Gesù dormiva a poppa su un guanciale. Egli sgridò il vento e si fece gran bonaccia.
+ro: S-a stârnit o furtună mare; Isus dormea la cârmă pe căpătâi. El a certat vântul și s-a făcut o liniște mare.
+? domanda | 41 4:38
+qi: Dove dormiva Gesù durante la tempesta?
+qr: Unde dormea Isus în timpul furtunii?
+ai: A poppa, su un guanciale | Sulla riva | Nella stiva | A prua, avvolto nella vela
+ar: La cârmă, pe căpătâi | Pe țărm | În fundul corabiei | La prova, învelit în pânză
+@ gerasa | 41 5:9
+it: Nel paese dei Gadareni un uomo posseduto da molti demoni gli corse incontro.
+ro: În ținutul gadarenilor, un om stăpânit de mulți draci I-a alergat înainte.
+? personaggio | 41 5:9
+qi: Come disse di chiamarsi lo spirito immondo?
+qr: Cum a spus că se numește duhul necurat?
+ai: Legione | Belzebù | Satana | Mammona
+ar: Legiune | Beelzebul | Satana | Mamona
+@ decapoli | 41 5:20
+it: L'uomo guarito cominciò a predicare nella Decapoli quanto Gesù aveva fatto per lui.
+ro: Omul vindecat a început să vestească în Decapole tot ce făcuse Isus pentru el.
+? domanda | 41 5:13
+qi: Circa quanti porci si precipitarono nel mare?
+qr: Cam câți porci s-au aruncat în mare?
+ai: 2000 | 200 | 20 | 12
+ar: 2000 | 200 | 20 | 12
+@ capernaum | 41 5:42 | la casa di Giairo | casa lui Iair
+it: Tornato indietro, Gesù guarì una donna malata da dodici anni e risuscitò la figlia di Giairo.
+ro: Întors înapoi, Isus a vindecat o femeie bolnavă de doisprezece ani și a înviat-o pe fiica lui Iair.
+? domanda | 41 5:42
+qi: Quanti anni aveva la figlia di Giairo?
+qr: Câți ani avea fiica lui Iair?
+ai: 12 | 7 | 3 | 20
+ar: 12 | 7 | 3 | 20
+
+= moltiplicazione | 🐟 | I pani e il cammino sulle acque | Pâinile și umblarea pe mare | 41 6:31
+@ capernaum | 41 6:31
+it: I discepoli tornarono dalla missione; Gesù disse: «Venite in disparte in un luogo solitario e riposatevi un po'».
+ro: Ucenicii s-au întors din misiune; Isus le-a zis: „Veniți singuri la o parte, într-un loc pustiu, și odihniți-vă puțin”.
+@ betsaida | 42 9:10 | un luogo deserto presso Betsaida | un loc pustiu lângă Betsaida
+it: La folla li seguì; Gesù sfamò tutti con pochi pani e pesci, e avanzarono dodici ceste.
+ro: Mulțimea i-a urmat; Isus i-a săturat pe toți cu câteva pâini și pești, și au rămas douăsprezece coșuri.
+? domanda | 41 6:38
+qi: Quanti pani e quanti pesci avevano i discepoli?
+qr: Câte pâini și câți pești aveau ucenicii?
+ai: Cinque pani e due pesci | Sette pani e pochi pesci | Due pani e cinque pesci | Dodici pani e un pesce
+ar: Cinci pâini și doi pești | Șapte pâini și câțiva pești | Două pâini și cinci pești | Douăsprezece pâini și un pește
+@ mareGalilea | 41 6:48 | il lago di notte | lacul noaptea
+it: Verso la quarta vigilia della notte Gesù andò verso i discepoli camminando sul mare.
+ro: Pe la a patra strajă din noapte, Isus a venit la ucenici umblând pe mare.
+? domanda | 41 6:44
+qi: Quanti uomini mangiarono dei pani?
+qr: Câți bărbați au mâncat din pâini?
+ai: 5000 | 4000 | 500 | 12 000
+ar: 5000 | 4000 | 500 | 12 000
+@ genezaret | 41 6:56
+it: Sbarcati a Gennesaret, la gente gli portava i malati e chi toccava il lembo del suo mantello era guarito.
+ro: Când au ajuns la Ghenezaret, oamenii Îi aduceau bolnavii, și cei ce se atingeau de poala hainei Lui se vindecau.
+? evento | 40 14:29
+qi: Quale discepolo camminò per un momento sulle acque verso Gesù?
+qr: Care ucenic a umblat o clipă pe ape spre Isus?
+ai: Pietro | Giovanni | Tommaso | Giuda
+ar: Petru | Ioan | Toma | Iuda

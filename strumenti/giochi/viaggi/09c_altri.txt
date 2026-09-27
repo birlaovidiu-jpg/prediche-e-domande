@@ -1,0 +1,183 @@
+# Altri viaggi dell'Antico Testamento (3)
+
+= abner_hebron | 🤝 | Abner va da Davide a Hebron | Abner merge la David la Hebron | 10 3:20
+@ mahanaim | 10 3:12
+it: Abner, capo dell'esercito di Ish-Bosceth, mandò messaggeri a Davide per fare alleanza con lui.
+ro: Abner, căpetenia oștirii lui Iș-Boșet, a trimis soli la David ca să facă legământ cu el.
+@ ebron | 10 3:20
+it: Abner giunse a Hebron con venti uomini, e Davide fece un banchetto per loro.
+ro: Abner a venit la David la Hebron cu douăzeci de oameni, și David le-a făcut un ospăț.
+? domanda | 10 3:20
+qi: Con quanti uomini arrivò Abner a Hebron?
+qr: Cu câți oameni a venit Abner la Hebron?
+ai: 20 | 400 | 12 | 3
+ar: 20 | 400 | 12 | 3
+@ pozzosira | 10 3:26
+it: Joab, senza che Davide lo sapesse, mandò a far tornare Abner dalla cisterna di Sirah.
+ro: Ioab, fără să știe David, a trimis să-l aducă înapoi pe Abner de la fântâna Sira.
+? personaggio | 10 3:26
+qi: Chi fece richiamare Abner senza che Davide lo sapesse?
+qr: Cine a trimis să-l aducă înapoi pe Abner fără știrea lui David?
+ai: Joab | Abishai | Ish-Bosceth | Asahel
+ar: Ioab | Abișai | Iș-Boșet | Asael
+@ ebron | 10 3:27 | la porta di Hebron | poarta Hebronului
+it: Alla porta di Hebron Joab prese Abner in disparte e lo uccise, per vendicare Asahel suo fratello.
+ro: La poarta Hebronului, Ioab l-a luat pe Abner deoparte și l-a omorât, ca să răzbune pe fratele său Asael.
+? evento | 10 3:32
+qi: Che cosa fece Davide alla sepoltura di Abner?
+qr: Ce a făcut David la îngroparea lui Abner?
+ai: Pianse ad alta voce presso il sepolcro | Organizzò una festa | Non si presentò | Condannò Abner
+ar: A plâns cu glas tare lângă mormânt | A făcut un ospăț | Nu s-a arătat | L-a osândit pe Abner
+
+= ossa_saul | ⚱️ | Le ossa di Saul e di Gionathan | Oasele lui Saul și ale lui Ionatan | 10 21:12
+@ gerusalemme | 10 21:12
+it: Davide andò a prendere le ossa di Saul e di Gionathan dagli abitanti di Jabesh di Galaad.
+ro: David s-a dus să ia oasele lui Saul și ale lui Ionatan de la locuitorii din Iabesul Galaadului.
+@ jabesh | 10 21:12
+it: Gli uomini di Jabesh le avevano prese dalla piazza di Beth-Shan, dove i Filistei le avevano appese.
+ro: Oamenii din Iabes le luaseră din piața din Bet-Șean, unde le spânzuraseră filistenii.
+? luogo | 10 21:12
+qi: Da quale città gli uomini di Jabesh avevano preso le ossa di Saul?
+qr: Din ce cetate luaseră oamenii din Iabes oasele lui Saul?
+ai: Beth-Shan | Gath | Ghibeah | Ekron
+ar: Bet-Șean | Gat | Ghibea | Ecron
+@ tselah | 10 21:14
+it: Le ossa furono sepolte nel paese di Beniamino, a Tselah, nel sepolcro di Kish, padre di Saul.
+ro: Oasele au fost îngropate în țara lui Beniamin, la Țela, în mormântul lui Chis, tatăl lui Saul.
+? personaggio | 10 21:14
+qi: Nel sepolcro di chi furono sepolte le ossa di Saul?
+qr: În mormântul cui au fost îngropate oasele lui Saul?
+ai: Di Kish, padre di Saul | Di Samuele | Di Abner | Di Rachele
+ar: Al lui Chis, tatăl lui Saul | Al lui Samuel | Al lui Abner | Al Rahelei
+@ tselah | 10 21:14 | la preghiera per il paese | rugăciunea pentru țară
+it: Dopo di ciò Dio fu placato verso il paese.
+ro: După aceea, Dumnezeu a fost îmblânzit față de țară.
+? ordina | 10 21:14
+qi: Metti in ordine il viaggio delle ossa di Saul.
+qr: Pune în ordine drumul oaselor lui Saul.
+ai: Le mura di Beth-Shan | Il tamarisco di Jabesh | Davide va a riprenderle | Il sepolcro di Kish a Tselah
+ar: Zidul Bet-Șeanului | Tamariscul din Iabes | David se duce să le ia | Mormântul lui Chis la Țela
+
+= sunamita_filistea | 🏡 | La Shunamita torna dal paese dei Filistei | Sunamita se întoarce din țara filistenilor | 12 8:1
+@ sunem | 12 8:1
+it: Eliseo disse alla Shunamita di partire con la famiglia, perché sarebbe venuta una carestia di sette anni.
+ro: Elisei i-a spus sunamitei să plece cu familia ei, pentru că avea să vină o foamete de șapte ani.
+@ asdod | 12 8:2 | il paese dei Filistei | țara filistenilor
+it: La donna andò con la sua famiglia nel paese dei Filistei e vi abitò sette anni.
+ro: Femeia s-a dus cu familia ei în țara filistenilor și a locuit acolo șapte ani.
+? domanda | 12 8:2
+qi: Per quanti anni la Shunamita abitò nel paese dei Filistei?
+qr: Câți ani a locuit sunamita în țara filistenilor?
+ai: 7 | 3 | 40 | 12
+ar: 7 | 3 | 40 | 12
+@ samaria | 12 8:5
+it: Tornata, andò dal re a reclamare casa e terre, proprio mentre Ghehazi raccontava come Eliseo aveva risuscitato suo figlio.
+ro: Când s-a întors, s-a dus la împărat să-și ceară casa și ogorul, tocmai când Ghehazi povestea cum Elisei îi înviase fiul.
+? personaggio | 12 8:5
+qi: Chi stava raccontando al re i miracoli di Eliseo quando arrivò la donna?
+qr: Cine îi povestea împăratului minunile lui Elisei când a venit femeia?
+ai: Ghehazi | Naaman | Hazael | Jehu
+ar: Ghehazi | Naaman | Hazael | Iehu
+@ sunem | 12 8:6 | la casa restituita | casa dată înapoi
+it: Il re le fece restituire tutto ciò che le apparteneva, con i prodotti dei campi di quei sette anni.
+ro: Împăratul a poruncit să i se dea înapoi tot ce era al ei, cu tot venitul ogorului din acei șapte ani.
+? domanda | 12 8:6
+qi: Che cosa ordinò il re per la Shunamita?
+qr: Ce a poruncit împăratul pentru sunamită?
+ai: Di restituirle tutto, con i prodotti dei campi | Di darle una casa nuova a Samaria | Di mandarla da Eliseo | Di pagarle un talento d'oro
+ar: Să i se dea înapoi tot, cu venitul ogorului | Să i se dea o casă nouă în Samaria | S-o trimită la Elisei | Să i se plătească un talant de aur
+
+= pasqua_ezechia | 📯 | I corrieri della Pasqua di Ezechia | Solii Paștelui lui Ezechia | 14 30:1
+@ gerusalemme | 14 30:1
+it: Ezechia mandò messaggeri e lettere a tutto Israele e Giuda, perché venissero a celebrare la Pasqua a Gerusalemme.
+ro: Ezechia a trimis soli și scrisori în tot Israelul și Iuda, ca să vină să prăznuiască Paștele la Ierusalim.
+@ monteefraim | 14 30:10
+it: I corrieri passarono di città in città nel paese di Efraim e Manasse, ma la gente li derideva.
+ro: Solii au trecut din cetate în cetate prin țara lui Efraim și Manase, dar oamenii își băteau joc de ei.
+? domanda | 14 30:10
+qi: Come accolse la gente di Efraim e Manasse i corrieri?
+qr: Cum i-au primit oamenii din Efraim și Manase pe soli?
+ai: Li derideva e si faceva beffe di loro | Li accolse con feste | Li imprigionò | Li seguì subito a Gerusalemme
+ar: Își băteau joc de ei | I-au primit cu sărbătoare | I-au pus în temniță | I-au urmat îndată la Ierusalim
+@ tabor | 14 30:11 | fino a Zabulon | până la Zabulon
+it: Alcuni uomini di Ascer, di Manasse e di Zabulon si umiliarono e vennero a Gerusalemme.
+ro: Câțiva oameni din Așer, din Manase și din Zabulon s-au smerit și au venit la Ierusalim.
+? domanda | 14 30:6
+qi: Che cosa proclamavano i corrieri?
+qr: Ce vesteau solii?
+ai: «Figli d'Israele, tornate all'Eterno» | «Pagate il tributo al re» | «Preparatevi alla guerra» | «Fuggite in Egitto»
+ar: „Copii ai lui Israel, întoarceți-vă la Domnul” | „Plătiți birul împăratului” | „Pregătiți-vă de război” | „Fugiți în Egipt”
+@ gerusalemme | 14 30:26 | la grande gioia | bucuria cea mare
+it: Ci fu una grande gioia a Gerusalemme: dal tempo di Salomone non c'era stato nulla di simile.
+ro: A fost o mare bucurie la Ierusalim: de pe vremea lui Solomon nu mai fusese așa ceva.
+? domanda | 14 30:26
+qi: Da quale re non c'era stata una gioia simile a Gerusalemme?
+qr: De pe vremea cărui împărat nu mai fusese o asemenea bucurie la Ierusalim?
+ai: Da Salomone | Da Davide | Da Saul | Da Giosafat
+ar: De la Solomon | De la David | De la Saul | De la Iosafat
+
+= uzziah | 🔥 | Uzziah, dalle vittorie alla lebbra | Ozia, de la biruințe la lepră | 14 26:6
+@ gerusalemme | 14 26:3
+it: Uzziah aveva sedici anni quando cominciò a regnare, e regnò a lungo a Gerusalemme.
+ro: Ozia avea șaisprezece ani când a ajuns împărat, și a domnit multă vreme la Ierusalim.
+@ gat | 14 26:6
+it: Uzziah fece guerra ai Filistei e abbatté le mura di Gath, di Jabneh e di Ashdod.
+ro: Ozia a pornit război împotriva filistenilor și a dărâmat zidurile Gatului, Iabneei și Asdodului.
+? domanda | 14 26:3
+qi: Quanti anni aveva Uzziah quando cominciò a regnare?
+qr: Câți ani avea Ozia când a ajuns împărat?
+ai: 16 | 8 | 25 | 30
+ar: 16 | 8 | 25 | 30
+@ asdod | 14 26:6 | le città presso Ashdod | cetățile de lângă Asdod
+it: Costruì città nelle vicinanze di Ashdod e fra i Filistei; la sua fama giunse fino all'Egitto.
+ro: A zidit cetăți lângă Asdod și printre filisteni; faima lui a ajuns până la intrarea Egiptului.
+? luogo | 14 26:6
+qi: Di quale di queste città Uzziah abbatté le mura?
+qr: Căreia dintre aceste cetăți i-a dărâmat Ozia zidurile?
+ai: Ashdod | Ninive | Damasco | Babilonia
+ar: Asdod | Ninive | Damasc | Babilon
+@ tempio | 14 26:19
+it: Divenuto potente, Uzziah entrò nel tempio per bruciare l'incenso; sulla sua fronte scoppiò la lebbra.
+ro: Când a ajuns puternic, Ozia a intrat în Templu să ardă tămâie; pe fruntea lui a izbucnit lepra.
+? evento | 14 26:19
+qi: Che cosa accadde a Uzziah mentre voleva offrire l'incenso?
+qr: Ce i s-a întâmplat lui Ozia când a vrut să ardă tămâie?
+ai: Gli scoppiò la lebbra sulla fronte | Diventò cieco | Cadde morto | Perse la voce
+ar: I-a izbucnit lepra pe frunte | A orbit | A căzut mort | A amuțit
+@ gerusalemme | 14 26:21 | la casa isolata | casa deosebită
+it: Uzziah restò lebbroso fino alla morte e visse in una casa isolata; suo figlio Jotham governava.
+ro: Ozia a rămas lepros până la moarte și a locuit într-o casă deosebită; fiul său Iotam cârmuia.
+? personaggio | 14 26:21
+qi: Quale figlio di Uzziah governava al suo posto?
+qr: Care fiu al lui Ozia cârmuia în locul lui?
+ai: Jotham | Achaz | Ezechia | Manasse
+ar: Iotam | Ahaz | Ezechia | Manase
+
+= opposizione_tempio | ✉️ | Le lettere contro la ricostruzione | Scrisorile împotriva zidirii | 15 4:17
+@ gerusalemme | 15 4:12
+it: I nemici di Giuda scrissero al re che i Giudei stavano ricostruendo la città ribelle.
+ro: Vrăjmașii lui Iuda i-au scris împăratului că iudeii zideau din nou cetatea cea răzvrătită.
+@ samaria | 15 4:17
+it: Il re Artaserse rispose al governatore Rehum e al segretario Scimshai, che abitavano in Samaria.
+ro: Împăratul Artaxerxe a răspuns dregătorului Rehum și logofătului Șimșai, care locuiau în Samaria.
+? personaggio | 15 4:17
+qi: Chi era il governatore che scrisse contro Gerusalemme?
+qr: Cine era dregătorul care a scris împotriva Ierusalimului?
+ai: Rehum | Tobiah | Sanballat | Mardocheo
+ar: Rehum | Tobia | Sanbalat | Mardoheu
+@ susa | 15 4:19 | la corte del re | curtea împăratului
+it: Il re fece fare ricerche negli archivi e trovò che Gerusalemme si era ribellata in passato.
+ro: Împăratul a poruncit să se cerceteze în cărți și a găsit că Ierusalimul se răsculase odinioară.
+? domanda | 15 4:19
+qi: Dove fece cercare il re per verificare le accuse?
+qr: Unde a poruncit împăratul să se cerceteze ca să vadă dacă învinuirile erau adevărate?
+ai: Negli archivi, nei libri delle cronache | Nel tempio | Fra i profeti | Nelle tende dell'esercito
+ar: În cărțile cronicilor | În Templu | Printre proroci | În corturile oștirii
+@ gerusalemme | 15 4:24 | il lavoro sospeso | lucrarea oprită
+it: Il lavoro alla casa di Dio fu sospeso fino al secondo anno del regno di Dario.
+ro: Lucrarea la Casa lui Dumnezeu a fost oprită până în anul al doilea al domniei lui Darius.
+? domanda | 15 4:24
+qi: Fino a quando rimase sospeso il lavoro del tempio?
+qr: Până când a rămas oprită lucrarea Templului?
+ai: Fino al secondo anno del re Dario | Per sempre | Fino alla morte di Ciro | Per quaranta giorni
+ar: Până în anul al doilea al împăratului Darius | Pentru totdeauna | Până la moartea lui Cirus | Patruzeci de zile

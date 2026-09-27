@@ -1,0 +1,326 @@
+# Genesi 37–43: Giuseppe
+
+== giuseppe_venduto | 🕳️ | 1 | deserto | 🕳️ 🐪 🧥 | 1 37:12-36
+T Venti sicli d'argento || Douăzeci de sicli de argint
+S Un pozzo vuoto e una veste insanguinata || O groapă goală și o haină însângerată
+R Genesi 37:12-36 || Geneza 37:12-36
+I Un ragazzo mandato dal padre a cercare i fratelli li trova a Dothan. Da lontano lo riconoscono. Quella sera il padre riceve una veste macchiata di sangue. Scopri che cosa è successo davvero.
+I Un băiat trimis de tatăl său să-și caute frații îi găsește la Dotan. De departe ei îl recunosc. În seara aceea tatăl primește o haină pătată de sânge. Descoperă ce s-a întâmplat de fapt.
+E t fratelli 😠 | I fratelli || Frații
+. I fratelli che lo vedono arrivare || Frații care îl văd venind
+. Ecco, arriva il sognatore! Uccidiamolo, gettiamolo in una cisterna e diremo che una bestia feroce l'ha divorato; vedremo che ne sarà dei suoi sogni. || Iată că vine făuritorul de vise! Haidem să-l omorâm, să-l aruncăm într-o groapă și vom zice că l-a mâncat o fiară; și vom vedea ce se va alege de visele lui.
+. «Ecco il sognatore: uccidiamolo» || „Iată făuritorul de vise: să-l omorâm”
+E i cisterna 🕳️ | La cisterna || Groapa
+. Il fratello maggiore convinse gli altri a non versare sangue e a gettarlo in una cisterna vuota, senz'acqua, con l'idea di liberarlo più tardi. || Fratele cel mai mare i-a convins pe ceilalți să nu verse sânge și să-l arunce într-o groapă goală, fără apă, cu gândul să-l scape mai târziu.
+. Ruben lo salva gettandolo in una cisterna vuota || Ruben îl scapă aruncându-l într-o groapă goală
+E i veste 🧥 | La veste || Haina
+. Prima di gettarlo nella cisterna gli tolsero la lunga veste che portava. || Înainte să-l arunce în groapă, i-au scos haina cea deosebită pe care o purta.
+. Spogliato della sua veste || Dezbrăcat de haina lui
+E i carovana 🐪 | La carovana || Ceata de negustori
+. Mentre mangiavano passò una carovana di Ismaeliti da Galaad, con cammelli carichi di spezie, balsamo e mirra, diretta in Egitto. || Pe când mâncau, a trecut o ceată de ismaeliți din Galaad, cu cămile încărcate cu tămâie, leac alinător și smirnă, care mergea în Egipt.
+. Mercanti verso l'Egitto || Negustori spre Egipt
+E t giuda 💰 | Un fratello pratico || Un frate practic
+. Il fratello che propone un'altra soluzione || Fratele care propune altă soluție
+. Che guadagno avremo a uccidere nostro fratello? Venite, vendiamolo agli Ismaeliti, perché è nostro fratello, nostra carne. || Ce vom câștiga să ucidem pe fratele nostru? Veniți mai bine să-l vindem ismaeliților, căci este fratele nostru, carne din carnea noastră.
+. Venduto per venti sicli d'argento || Vândut cu douăzeci de sicli de argint
+E i capro 🐐 | Il capro || Țapul
+. Uccisero un capro, intinsero la veste nel sangue e la mandarono al padre, che disse: «Una bestia feroce l'ha divorato!» e pianse per molti giorni. || Au junghiat un țap, au înmuiat haina în sânge și i-au trimis-o tatălui, care a zis: „L-a mâncat o fiară!” și l-a plâns multe zile.
+. La veste insanguinata inganna il padre || Haina însângerată îl înșală pe tată
+E f bisaccia 🎒 | Una bisaccia || O traistă
+. La bisaccia del pranzo dei pastori. Nessun indizio. || Traista cu mâncare a păstorilor. Niciun indiciu.
+A Tornando alla cisterna, il fratello maggiore la trovò vuota e si stracciò le vesti. || Întorcându-se la groapă, fratele cel mare a găsit-o goală și și-a rupt hainele.
+A In Egitto fu venduto a Potifar, capo delle guardie del Faraone. || În Egipt a fost vândut lui Potifar, căpetenia străjerilor lui Faraon.
+A È Giuseppe venduto dai fratelli (Genesi 37). || Este Iosif vândut de frații lui (Geneza 37).
+Q Per quanto fu venduto Giuseppe? || Cu cât a fost vândut Iosif?
++ Venti sicli d'argento || Douăzeci de sicli de argint
+- Trenta sicli d'argento || Treizeci de sicli de argint
+- Un cammello || O cămilă
+- Cento pezzi d'oro || O sută de bucăți de aur
+Q Quale fratello propose di venderlo? || Care frate a propus să-l vândă?
++ Giuda || Iuda
+- Ruben || Ruben
+- Simeone || Simeon
+- Levi || Levi
+O
+> Giacobbe manda Giuseppe dai fratelli || Iacov îl trimite pe Iosif la frați
+> I fratelli lo vedono arrivare a Dothan || Frații îl văd venind la Dotan
+> Lo gettano nella cisterna || Îl aruncă în groapă
+> Lo vendono agli Ismaeliti || Îl vând ismaeliților
+> Portano al padre la veste insanguinata || Îi duc tatălui haina însângerată
+V
+v Ruben voleva salvare Giuseppe || Ruben voia să-l scape pe Iosif
+v La cisterna era senz'acqua || Groapa era fără apă
+x I fratelli dissero la verità al padre || Frații i-au spus tatălui adevărul
+v Giacobbe rifiutò di essere consolato || Iacov n-a vrut să fie mângâiat
+H Era Giuseppe venduto dai fratelli. Giacobbe lo mandò dai fratelli, che lo videro arrivare a Dothan: «Ecco il sognatore, uccidiamolo!». Ruben li convinse a gettarlo in una cisterna vuota, sperando di salvarlo. Gli tolsero la veste; poi, vedendo una carovana di Ismaeliti diretta in Egitto, Giuda propose di venderlo, e lo vendettero per venti sicli d'argento. Intinsero la veste nel sangue di un capro e la mandarono a Giacobbe, che pianse il figlio come divorato da una bestia. || Era Iosif vândut de frații lui. Iacov l-a trimis la frați, care l-au văzut venind la Dotan: „Iată făuritorul de vise, să-l omorâm!” Ruben i-a convins să-l arunce într-o groapă goală, cu nădejdea să-l scape. I-au scos haina; apoi, văzând o ceată de ismaeliți care mergea în Egipt, Iuda a propus să-l vândă, și l-au vândut cu douăzeci de sicli de argint. Au înmuiat haina în sângele unui țap și i-au trimis-o lui Iacov, care și-a plâns fiul ca mâncat de o fiară.
+
+== potifar | 🏛️ | 2 | palazzo | 🏛️ 🧥 ⛓️ | 1 39:1-23
+T Una veste rimasta in mano || O haină rămasă în mână
+S Innocente, eppure in prigione || Nevinovat, și totuși în temniță
+R Genesi 39 || Geneza 39
+I Uno schiavo straniero diventa l'amministratore di tutta la casa di un ufficiale egiziano. Tutto quello che fa riesce. Poi viene accusato ingiustamente e finisce in prigione. Scopri chi è.
+I Un rob străin ajunge îngrijitorul întregii case a unui dregător egiptean. Tot ce face îi merge bine. Apoi este învinuit pe nedrept și ajunge în temniță. Descoperă cine este.
+E i padrone 🏛️ | Il padrone || Stăpânul
+. Il giovane fu comprato da Potifar, ufficiale del Faraone e capo delle guardie. || Tânărul a fost cumpărat de Potifar, dregătorul lui Faraon și căpetenia străjerilor.
+. Schiavo di Potifar, capo delle guardie || Rob al lui Potifar, căpetenia străjerilor
+E i benedizione ✨ | La benedizione || Binecuvântarea
+. Il Signore era con lui e faceva prosperare tutto ciò che faceva; il padrone gli affidò tutta la casa, e il Signore benedisse la casa dell'Egiziano per causa sua. || Domnul era cu el și îi mergea bine în tot ce făcea; stăpânul i-a încredințat toată casa, iar Domnul a binecuvântat casa egipteanului din pricina lui.
+. Tutto prospera: il Signore era con lui || Totul îi merge bine: Domnul era cu el
+E t giovane 🙅 | Il giovane servo || Tânărul rob
+. Un servo tentato ogni giorno || Un rob ispitit în fiecare zi
+. Il mio padrone non mi ha proibito nulla, tranne te, perché sei sua moglie. Come potrei fare questo grande male e peccare contro Dio? || Stăpânul meu nu mi-a oprit nimic, afară de tine, pentru că ești nevasta lui. Cum aș putea să fac eu un rău atât de mare și să păcătuiesc împotriva lui Dumnezeu?
+. «Come potrei peccare contro Dio?» || „Cum aș putea să păcătuiesc împotriva lui Dumnezeu?”
+E i veste 🧥 | La veste || Haina
+. Un giorno la moglie del padrone lo afferrò per la veste; egli gliela lasciò in mano e fuggì fuori. || Într-o zi nevasta stăpânului l-a apucat de haină; el i-a lăsat haina în mână și a fugit afară.
+. Fuggì lasciando la veste || A fugit lăsând haina
+E t moglie 🗣️ | La moglie del padrone || Nevasta stăpânului
+. Una donna che mostra la veste come prova || O femeie care arată haina ca dovadă
+. Guardate, ci hanno portato un Ebreo per farsi beffe di noi! Ha lasciato la sua veste accanto a me ed è fuggito. || Vedeți, ne-a adus un evreu ca să-și bată joc de noi! Și-a lăsat haina lângă mine și a fugit.
+. Un'accusa falsa con la veste in mano || O învinuire mincinoasă cu haina în mână
+E i prigione ⛓️ | La prigione || Temnița
+. Il padrone si adirò e lo mise nella prigione dei prigionieri del re. Ma il Signore fu con lui, e il capo della prigione gli affidò tutti i prigionieri. || Stăpânul s-a mâniat și l-a aruncat în temnița unde erau închiși întemnițații împăratului. Dar Domnul a fost cu el, și mai-marele temniței i-a încredințat pe toți întemnițații.
+. In prigione, ma Dio era con lui || În temniță, dar Dumnezeu era cu el
+E f anfora 🏺 | Un'anfora || O amforă
+. Un'anfora decorata nel salone. Nessun indizio. || O amforă împodobită în sală. Niciun indiciu.
+A Era stato venduto dai suoi fratelli. || Fusese vândut de frații lui.
+A Il racconto ripete molte volte: «Il Signore era con lui». || Istoria spune de multe ori: „Domnul era cu el.”
+A È Giuseppe in casa di Potifar (Genesi 39). || Este Iosif în casa lui Potifar (Geneza 39).
+Q Che cosa lasciò Giuseppe nelle mani della donna? || Ce a lăsat Iosif în mâinile femeii?
++ La sua veste || Haina lui
+- Il suo anello || Inelul lui
+- Una lettera || O scrisoare
+- Le chiavi di casa || Cheile casei
+Q Chi era Potifar? || Cine era Potifar?
++ Il capo delle guardie del Faraone || Căpetenia străjerilor lui Faraon
+- Il panettiere del re || Pitarul împăratului
+- Un sacerdote di On || Un preot din On
+- Un mercante ismaelita || Un negustor ismaelit
+O
+> Giuseppe è comprato da Potifar || Iosif este cumpărat de Potifar
+> Diventa amministratore della casa || Ajunge îngrijitorul casei
+> Rifiuta di peccare contro Dio || Refuză să păcătuiască împotriva lui Dumnezeu
+> Fugge lasciando la veste || Fuge lăsându-și haina
+> Finisce in prigione || Ajunge în temniță
+> Il capo della prigione gli affida tutto || Mai-marele temniței îi încredințează totul
+V
+v Il Signore benedisse la casa di Potifar per causa di Giuseppe || Domnul a binecuvântat casa lui Potifar din pricina lui Iosif
+x Giuseppe si difese davanti a Potifar e fu liberato || Iosif s-a apărat înaintea lui Potifar și a fost slobozit
+v Giuseppe fuggì invece di cedere || Iosif a fugit în loc să cedeze
+v Anche in prigione Giuseppe ebbe il favore del capo || Și în temniță Iosif a căpătat bunăvoința mai-marelui
+H Era Giuseppe in casa di Potifar. Venduto in Egitto, divenne amministratore della casa del capo delle guardie, perché il Signore era con lui. La moglie del padrone lo tentava ogni giorno, ma egli rispose: «Come potrei fare questo grande male e peccare contro Dio?». Un giorno lei lo afferrò per la veste; Giuseppe fuggì lasciandola in mano, e lei lo accusò falsamente. Finì in prigione, ma anche lì il Signore fu con lui e il capo della prigione gli affidò tutti i prigionieri. || Era Iosif în casa lui Potifar. Vândut în Egipt, a ajuns îngrijitorul casei căpeteniei străjerilor, pentru că Domnul era cu el. Nevasta stăpânului îl ispitea în fiecare zi, dar el a răspuns: „Cum aș putea să fac un rău atât de mare și să păcătuiesc împotriva lui Dumnezeu?” Într-o zi ea l-a apucat de haină; Iosif a fugit lăsându-i-o în mână, iar ea l-a învinuit mincinos. A ajuns în temniță, dar și acolo Domnul a fost cu el, și mai-marele temniței i-a încredințat pe toți întemnițații.
+
+== coppiere_panettiere | 🍇 | 2 | prigione | 🍇 🥖 ⛓️ | 1 40:1-23
+T Tre tralci e tre canestri || Trei mlădițe și trei coșuri
+S Due sogni nella stessa notte || Două vise în aceeași noapte
+R Genesi 40 || Geneza 40
+I In prigione, due alti servitori del re si svegliano tristi: hanno fatto un sogno e nessuno sa spiegarlo. Un giovane ebreo si offre di aiutarli. Fra tre giorni tutto si avvererà. Scopri chi sono.
+I În temniță, doi dregători ai împăratului se trezesc triști: au visat un vis și nimeni nu li-l poate tălmăci. Un tânăr evreu se oferă să-i ajute. Peste trei zile totul se va împlini. Descoperă cine sunt.
+E i offesa 👑 | L'offesa || Greșeala
+. Il capo dei coppieri e il capo dei panettieri del Faraone avevano offeso il loro signore e furono messi in prigione, affidati al giovane ebreo. || Mai-marele paharnicilor și mai-marele pitarilor lui Faraon au greșit față de stăpânul lor și au fost aruncați în temniță, dați în grija tânărului evreu.
+. Due servitori del re in prigione || Doi dregători ai împăratului în temniță
+E t giovane 🙂 | Il giovane interprete || Tânărul tălmaci
+. Un giovane prigioniero che nota la loro tristezza || Un tânăr întemnițat care le vede întristarea
+. Perché avete oggi un aspetto così triste? Le interpretazioni non appartengono forse a Dio? Raccontatemi i vostri sogni. || Pentru ce aveți fețele așa de triste azi? Nu este tălmăcirea viselor treaba lui Dumnezeu? Istorisiți-mi visele voastre.
+. «Le interpretazioni appartengono a Dio» || „Tălmăcirea viselor este a lui Dumnezeu”
+E i vite 🍇 | La vite || Vița
+. Il coppiere sognò una vite con tre tralci che germogliava e maturava l'uva; spremeva l'uva nella coppa del Faraone e gliela porgeva. || Paharnicul a visat o viță cu trei mlădițe care înmugurea și făcea struguri copți; storcea strugurii în paharul lui Faraon și i-l dădea în mână.
+. Tre tralci: fra tre giorni tornerà al suo posto || Trei mlădițe: peste trei zile va fi pus la loc
+E i canestri 🥖 | I canestri || Coșurile
+. Il panettiere sognò tre canestri di pane bianco sulla testa; gli uccelli mangiavano i cibi del canestro più alto. || Pitarul a visat trei coșuri cu pâine albă pe cap; păsările mâncau bucatele din coșul de deasupra.
+. Tre canestri: fra tre giorni sarà ucciso || Trei coșuri: peste trei zile va fi omorât
+E i compleanno 🎂 | Il compleanno del re || Ziua de naștere a împăratului
+. Il terzo giorno, compleanno del Faraone, il coppiere fu rimesso al suo posto e il panettiere fu impiccato, come il giovane aveva detto. || A treia zi, ziua de naștere a lui Faraon, paharnicul a fost pus la loc, iar pitarul a fost spânzurat, cum spusese tânărul.
+. Tutto avvenne come detto || Totul s-a întâmplat cum se spusese
+E i dimenticato 😔 | La dimenticanza || Uitarea
+. Il giovane aveva chiesto al coppiere: «Ricordati di me quando starai bene». Ma il coppiere non si ricordò di lui e lo dimenticò. || Tânărul îi ceruse paharnicului: „Adu-ți aminte de mine când îți va merge bine.” Dar paharnicul nu s-a mai gândit la el și l-a uitat.
+. Il coppiere lo dimenticò || Paharnicul l-a uitat
+E f ciotola 🥣 | Una ciotola || O strachină
+. La ciotola della prigione. Nessun indizio. || Strachina din temniță. Niciun indiciu.
+A Il giovane era stato messo in prigione per un'accusa falsa. || Tânărul fusese aruncat în temniță pe nedrept.
+A Due anni dopo il coppiere si ricordò di lui, quando il Faraone fece dei sogni. || Doi ani mai târziu, paharnicul și-a adus aminte de el, când Faraon a visat niște vise.
+A È Giuseppe che interpreta i sogni del coppiere e del panettiere (Genesi 40). || Este Iosif care tălmăcește visele paharnicului și pitarului (Geneza 40).
+Q Che cosa vide il coppiere nel sogno? || Ce a văzut paharnicul în vis?
++ Una vite con tre tralci || O viță cu trei mlădițe
+- Tre canestri di pane || Trei coșuri cu pâine
+- Sette vacche || Șapte vaci
+- Undici stelle || Unsprezece stele
+Q Che cosa fece il coppiere dopo essere stato liberato? || Ce a făcut paharnicul după ce a fost slobozit?
++ Dimenticò Giuseppe || L-a uitat pe Iosif
+- Parlò subito di Giuseppe al Faraone || I-a vorbit îndată lui Faraon despre Iosif
+- Liberò Giuseppe || L-a slobozit pe Iosif
+- Fuggì dall'Egitto || A fugit din Egipt
+O
+> Coppiere e panettiere sono messi in prigione || Paharnicul și pitarul sunt aruncați în temniță
+> Fanno un sogno nella stessa notte || Visează în aceeași noapte
+> Giuseppe spiega i sogni || Iosif tălmăcește visele
+> Nel compleanno del Faraone si avverano || La ziua de naștere a lui Faraon se împlinesc
+> Il coppiere dimentica Giuseppe || Paharnicul îl uită pe Iosif
+V
+v Giuseppe disse che le interpretazioni appartengono a Dio || Iosif a spus că tălmăcirea este a lui Dumnezeu
+v Nel sogno del panettiere gli uccelli mangiavano il pane || În visul pitarului păsările mâncau pâinea
+x Il panettiere fu liberato come il coppiere || Pitarul a fost slobozit ca și paharnicul
+v Tutto avvenne il terzo giorno || Totul s-a întâmplat a treia zi
+H Erano il coppiere e il panettiere del Faraone. In prigione fecero un sogno nella stessa notte. Giuseppe disse che le interpretazioni appartengono a Dio. I tre tralci del coppiere significavano che fra tre giorni sarebbe tornato al suo posto; i tre canestri del panettiere che fra tre giorni sarebbe stato ucciso. Nel compleanno del Faraone tutto avvenne così. Giuseppe aveva chiesto al coppiere di ricordarsi di lui, ma il coppiere lo dimenticò. || Erau paharnicul și pitarul lui Faraon. În temniță au visat un vis în aceeași noapte. Iosif a spus că tălmăcirea este a lui Dumnezeu. Cele trei mlădițe ale paharnicului însemnau că peste trei zile va fi pus la loc; cele trei coșuri ale pitarului, că peste trei zile va fi omorât. La ziua de naștere a lui Faraon totul s-a întâmplat așa. Iosif îi ceruse paharnicului să-și aducă aminte de el, dar paharnicul l-a uitat.
+
+== sogni_faraone | 🐄 | 1 | palazzo | 🐄 🌾 👑 | 1 41:1-57
+T Sette vacche grasse, sette vacche magre || Șapte vaci grase, șapte vaci slabe
+S Dalla prigione al secondo carro del re || Din temniță în al doilea car al împăratului
+R Genesi 41 || Geneza 41
+I Un re sogna animali che escono dal fiume e spighe di grano. Nessun mago del paese sa spiegarlo. Allora qualcuno si ricorda di un giovane dimenticato in prigione. Scopri chi è e che cosa succede.
+I Un împărat visează animale care ies din râu și spice de grâu. Niciun vrăjitor din țară nu-l poate tălmăci. Atunci cineva își aduce aminte de un tânăr uitat în temniță. Descoperă cine este și ce se întâmplă.
+E i vacche 🐄 | Le vacche || Vacile
+. Dal fiume uscirono sette vacche belle e grasse, poi sette brutte e magre, che divorarono le grasse. || Din râu au ieșit șapte vaci frumoase și grase, apoi șapte urâte și slabe, care le-au mâncat pe cele grase.
+. Sette magre divorano sette grasse || Șapte slabe mănâncă șapte grase
+E i spighe 🌾 | Le spighe || Spicele
+. Poi sette spighe piene e belle su un solo stelo, e sette spighe vuote e bruciate dal vento orientale, che inghiottirono le piene. || Apoi șapte spice pline și frumoase pe un singur fir, și șapte spice goale și arse de vântul de răsărit, care le-au înghițit pe cele pline.
+. Sette spighe vuote inghiottono le piene || Șapte spice goale le înghit pe cele pline
+E t coppiere 😳 | Il coppiere || Paharnicul
+. Un servitore che si ricorda di qualcosa || Un dregător care își aduce aminte de ceva
+. Ricordo oggi le mie colpe. In prigione c'era con noi un giovane ebreo che ci interpretò i sogni, e tutto avvenne come aveva detto. || Îmi aduc aminte azi de greșelile mele. În temniță era cu noi un tânăr evreu, care ne-a tălmăcit visele, și totul s-a întâmplat cum ne-a spus.
+. Finalmente si ricorda del giovane || În sfârșit își aduce aminte de tânăr
+E t interprete 🙏 | Il giovane dalla prigione || Tânărul din temniță
+. Un giovane appena rasato e cambiato d'abito || Un tânăr abia ras și schimbat în haine noi
+. Non sono io: sarà Dio a dare al Faraone una risposta favorevole. Sette anni di grande abbondanza, poi sette anni di carestia. Il sogno è ripetuto due volte perché la cosa è decisa da Dio. || Nu eu, ci Dumnezeu va da un răspuns liniștitor lui Faraon. Șapte ani de mare belșug, apoi șapte ani de foamete. Visul s-a repetat de două ori pentru că lucrul este hotărât de Dumnezeu.
+. Sette anni di abbondanza, sette di carestia || Șapte ani de belșug, șapte de foamete
+E i anello 💍 | L'anello || Inelul
+. Il re gli diede il suo anello, vesti di lino fine, una collana d'oro e lo fece salire sul suo secondo carro; davanti a lui si gridava: «In ginocchio!». || Împăratul i-a dat inelul lui, haine de in subțire, un lanț de aur și l-a suit în al doilea car al lui; înaintea lui se striga: „În genunchi!”
+. Anello, collana e secondo carro del re || Inel, lanț și al doilea car al împăratului
+E i granai 🏚️ | I granai || Grânarele
+. Nei sette anni di abbondanza raccolse tanto grano, come la sabbia del mare, che si smise di contarlo. Poi venne la carestia e tutti i paesi andavano in Egitto a comprare grano. || În cei șapte ani de belșug a strâns grâu atât de mult, ca nisipul mării, încât au încetat să-l mai numere. Apoi a venit foametea, și toate țările veneau în Egipt să cumpere grâu.
+. Grano come la sabbia del mare || Grâu ca nisipul mării
+E f scettro 🪄 | Un ventaglio di piume || Un evantai de pene
+. Un ventaglio di piume del palazzo. Nessun indizio. || Un evantai de pene din palat. Niciun indiciu.
+A Il giovane aveva trent'anni quando si presentò al re. || Tânărul avea treizeci de ani când s-a înfățișat înaintea împăratului.
+A Il re gli diede un nome egiziano e in moglie Asenath, figlia del sacerdote di On. || Împăratul i-a dat un nume egiptean și de nevastă pe Asnat, fata preotului din On.
+A È Giuseppe che interpreta i sogni del Faraone (Genesi 41). || Este Iosif care tălmăcește visele lui Faraon (Geneza 41).
+Q Che cosa significavano le sette vacche grasse? || Ce însemnau cele șapte vaci grase?
++ Sette anni di abbondanza || Șapte ani de belșug
+- Sette re d'Egitto || Șapte împărați ai Egiptului
+- Sette figli del Faraone || Șapte fii ai lui Faraon
+- Sette giorni di festa || Șapte zile de sărbătoare
+Q Quanti anni aveva Giuseppe quando si presentò al Faraone? || Câți ani avea Iosif când s-a înfățișat înaintea lui Faraon?
++ Trenta || Treizeci
+- Diciassette || Șaptesprezece
+- Venti || Douăzeci
+- Quaranta || Patruzeci
+O
+> Il Faraone sogna vacche e spighe || Faraon visează vaci și spice
+> I maghi non sanno spiegare || Vrăjitorii nu pot tălmăci
+> Il coppiere si ricorda di Giuseppe || Paharnicul își aduce aminte de Iosif
+> Giuseppe spiega: abbondanza e carestia || Iosif tălmăcește: belșug și foamete
+> Giuseppe è messo a capo dell'Egitto || Iosif este pus peste Egipt
+> Raccoglie grano nei granai || Strânge grâu în grânare
+V
+v Giuseppe disse che la risposta veniva da Dio || Iosif a spus că răspunsul vine de la Dumnezeu
+v Il sogno fu doppio perché la cosa era decisa da Dio || Visul a fost îndoit pentru că lucrul era hotărât de Dumnezeu
+x Giuseppe chiese di tornare subito in Canaan || Iosif a cerut să se întoarcă îndată în Canaan
+v Tutti i paesi andavano in Egitto a comprare grano || Toate țările veneau în Egipt să cumpere grâu
+H Erano i sogni del Faraone. Il re sognò sette vacche magre che divoravano sette grasse, e sette spighe vuote che inghiottivano sette piene. Nessun mago sapeva spiegarlo, finché il coppiere si ricordò di Giuseppe. Giuseppe, trentenne, disse: «Non sono io: Dio darà la risposta», e annunciò sette anni di abbondanza e sette di carestia. Il Faraone lo mise a capo dell'Egitto con il suo anello e il secondo carro. Giuseppe raccolse grano come la sabbia del mare, e nella carestia tutti venivano in Egitto a comprarlo. || Erau visele lui Faraon. Împăratul a visat șapte vaci slabe care mâncau șapte grase și șapte spice goale care înghițeau șapte pline. Niciun vrăjitor nu le putea tălmăci, până când paharnicul și-a adus aminte de Iosif. Iosif, de treizeci de ani, a zis: „Nu eu, ci Dumnezeu va da răspunsul”, și a vestit șapte ani de belșug și șapte de foamete. Faraon l-a pus peste Egipt, cu inelul lui și cu al doilea car. Iosif a strâns grâu ca nisipul mării, iar în foamete toți veneau în Egipt să cumpere.
+
+== fratelli_spie | 🕵️ | 2 | palazzo | 🌾 ⛓️ 💰 | 1 42:1-38
+T «Voi siete spie!» || „Voi sunteți iscoade!”
+S Dieci fratelli davanti al governatore || Zece frați înaintea dregătorului
+R Genesi 42 || Geneza 42
+I Dieci uomini stranieri si inchinano davanti al governatore d'Egitto per comprare grano. Lui li riconosce, loro no. Li accusa di essere spie e ne tiene uno prigioniero. Scopri chi sono.
+I Zece bărbați străini se pleacă înaintea dregătorului Egiptului ca să cumpere grâu. El îi recunoaște, ei pe el nu. Îi învinuiește că sunt iscoade și îl oprește pe unul prizonier. Descoperă cine sunt.
+E t padre 👴 | Il padre anziano || Tatăl bătrân
+. Un padre in Canaan durante la carestia || Un tată din Canaan în vremea foametei
+. Perché state a guardarvi l'un l'altro? Ho sentito che in Egitto c'è grano: scendete a comprarne. Ma il più piccolo resterà con me. || De ce vă uitați unul la altul? Am auzit că în Egipt este grâu: pogorâți-vă să ne cumpărați. Dar cel mai mic să rămână cu mine.
+. Dieci fratelli in Egitto, il più piccolo a casa || Zece frați în Egipt, cel mai mic acasă
+E i inchino 🙇 | L'inchino || Plecăciunea
+. I fratelli si inchinarono con la faccia a terra davanti al governatore. Egli li riconobbe e si ricordò dei sogni che aveva fatto. || Frații s-au plecat cu fața la pământ înaintea dregătorului. El i-a recunoscut și și-a adus aminte de visele pe care le visase.
+. Si inchinarono: i sogni si avverano || S-au plecat: visele se împlinesc
+E t governatore 😠 | Il governatore || Dregătorul
+. Un governatore che parla con un interprete || Un dregător care vorbește printr-un tălmaci
+. Voi siete spie! Siete venuti a vedere i punti deboli del paese. Così sarete messi alla prova: portatemi il vostro fratello più giovane. || Voi sunteți iscoade! Ați venit să vedeți locurile slabe ale țării. Iată cum veți fi încercați: aduceți-mi pe fratele vostru cel mai tânăr.
+. «Siete spie: portate il fratello minore» || „Sunteți iscoade: aduceți-l pe fratele cel mic”
+E i colpa 😔 | La colpa ricordata || Vina adusă aminte
+. I fratelli dissero fra loro: «Siamo colpevoli verso nostro fratello: vedemmo la sua angoscia quando ci supplicava, e non lo ascoltammo». Il governatore li capiva, si allontanò e pianse. || Frații au zis între ei: „Da, am fost vinovați față de fratele nostru: i-am văzut neliniștea sufletului când ne ruga, și nu l-am ascultat.” Dregătorul îi înțelegea, s-a depărtat de ei și a plâns.
+. Il rimorso, e il governatore piange di nascosto || Mustrarea, și dregătorul plânge pe ascuns
+E i simeone ⛓️ | L'ostaggio || Ostaticul
+. Il governatore prese Simeone e lo fece legare davanti ai loro occhi. || Dregătorul l-a luat pe Simeon și l-a legat înaintea ochilor lor.
+. Simeone resta legato in Egitto || Simeon rămâne legat în Egipt
+E i denaro 💰 | Il denaro nei sacchi || Banii din saci
+. Il governatore fece rimettere il denaro di ciascuno nel suo sacco. Quando lo trovarono, il loro cuore venne meno: «Che cosa ci ha fatto Dio?». || Dregătorul a poruncit să li se pună banii fiecăruia înapoi în sac. Când i-au găsit, le-a pierit inima: „Ce ne-a făcut Dumnezeu?”
+. Il denaro ritrovato nei sacchi || Banii găsiți în saci
+E f sacco 🧺 | Un sacco vuoto || Un sac gol
+. Un sacco vuoto nel magazzino. Nessun indizio. || Un sac gol în magazie. Niciun indiciu.
+A Il governatore era il fratello che avevano venduto vent'anni prima. || Dregătorul era fratele pe care îl vânduseră cu vreo douăzeci de ani înainte.
+A Il padre disse: «Giuseppe non c'è più, Simeone non c'è più, e volete prendere anche Beniamino!». || Tatăl a zis: „Iosif nu mai este, Simeon nu mai este, și vreți să-l luați și pe Beniamin!”
+A Sono i fratelli di Giuseppe al primo viaggio in Egitto (Genesi 42). || Sunt frații lui Iosif la prima călătorie în Egipt (Geneza 42).
+Q Quale fratello rimase prigioniero in Egitto? || Care frate a rămas prizonier în Egipt?
++ Simeone || Simeon
+- Ruben || Ruben
+- Giuda || Iuda
+- Beniamino || Beniamin
+Q Di che cosa li accusò il governatore? || De ce i-a învinuit dregătorul?
++ Di essere spie || Că sunt iscoade
+- Di aver rubato una coppa || Că au furat un pahar
+- Di non pagare il grano || Că nu plătesc grâul
+- Di adorare idoli || Că se închină la idoli
+O
+> Giacobbe manda dieci figli in Egitto || Iacov trimite zece fii în Egipt
+> Si inchinano davanti al governatore || Se pleacă înaintea dregătorului
+> Sono accusati di essere spie || Sunt învinuiți că sunt iscoade
+> Simeone è legato davanti a loro || Simeon este legat înaintea lor
+> Trovano il denaro nei sacchi || Găsesc banii în saci
+V
+v I fratelli non riconobbero Giuseppe || Frații nu l-au recunoscut pe Iosif
+v Giuseppe parlava con loro per mezzo di un interprete || Iosif le vorbea printr-un tălmaci
+x Beniamino andò in Egitto al primo viaggio || Beniamin a mers în Egipt la prima călătorie
+v Ruben offrì i suoi due figli come garanzia || Ruben și-a dat cei doi fii drept chezășie
+H Erano i fratelli di Giuseppe al primo viaggio in Egitto. Per la carestia Giacobbe mandò dieci figli a comprare grano, tenendo a casa Beniamino. Si inchinarono davanti al governatore senza riconoscerlo. Giuseppe li accusò di essere spie e chiese di vedere il fratello minore. I fratelli ricordarono la loro colpa, e Giuseppe si allontanò a piangere. Tenne Simeone legato, fece rimettere il denaro nei sacchi, e i fratelli tornarono spaventati dal padre, che non voleva lasciar partire Beniamino. || Erau frații lui Iosif la prima călătorie în Egipt. Din pricina foametei, Iacov a trimis zece fii să cumpere grâu, oprindu-l acasă pe Beniamin. S-au plecat înaintea dregătorului fără să-l recunoască. Iosif i-a învinuit că sunt iscoade și a cerut să-l vadă pe fratele cel mic. Frații și-au adus aminte de vina lor, iar Iosif s-a depărtat ca să plângă. L-a oprit legat pe Simeon, a pus banii înapoi în saci, iar frații s-au întors înspăimântați la tatăl lor, care nu voia să-l lase pe Beniamin să plece.
+
+== beniamino_egitto | 🍽️ | 2 | palazzo | 🍽️ 🍯 😢 | 1 43:1-34
+T Una porzione cinque volte più grande || O porție de cinci ori mai mare
+S Seduti in ordine di età || Așezați după vârstă
+R Genesi 43 || Geneza 43
+I Undici fratelli sono invitati a pranzo nella casa del governatore d'Egitto. Hanno paura. Il governatore, vedendo il più giovane, esce di corsa a piangere. Poi li fa sedere in un ordine che li lascia a bocca aperta. Scopri perché.
+I Unsprezece frați sunt chemați la masă în casa dregătorului Egiptului. Le este frică. Dregătorul, văzându-l pe cel mai tânăr, iese în grabă să plângă. Apoi îi așază într-o ordine care îi lasă cu gura căscată. Descoperă de ce.
+E t giuda 🤝 | Il garante || Chezașul
+. Il fratello che si fa garante per il più piccolo || Fratele care se pune chezaș pentru cel mic
+. Lascia venire il ragazzo con me: io ne sono garante, chiedine conto a me. Se non te lo riporto, sarò colpevole verso di te per sempre. || Lasă băiatul să vină cu mine: eu mă pun chezaș pentru el, de la mine să-l ceri. Dacă nu ți-l voi aduce înapoi, voi fi vinovat față de tine pe vecie.
+. Giuda si fa garante di Beniamino || Iuda se pune chezaș pentru Beniamin
+E i doni 🍯 | I doni || Darurile
+. Il padre li mandò con un dono: balsamo, miele, spezie, mirra, pistacchi e mandorle, e con il doppio del denaro. || Tatăl i-a trimis cu un dar: leac alinător, miere, tămâie, smirnă, fistic și migdale, și cu îndoit argint.
+. Balsamo, miele, mandorle e doppio denaro || Leac alinător, miere, migdale și îndoit argint
+E t intendente 🧑‍💼 | L'intendente || Îngrijitorul casei
+. L'uomo che amministra la casa del governatore || Omul care îngrijește casa dregătorului
+. State in pace, non temete: il vostro Dio, il Dio di vostro padre, vi ha messo un tesoro nei sacchi; il vostro denaro l'ho ricevuto io. || Fiți liniștiți, nu vă temeți: Dumnezeul vostru, Dumnezeul tatălui vostru, v-a dat o comoară în saci; argintul vostru l-am primit eu.
+. «Il vostro Dio vi ha messo un tesoro nei sacchi» || „Dumnezeul vostru v-a dat o comoară în saci”
+E i lacrime 😢 | Le lacrime || Lacrimile
+. Vedendo il fratello, figlio di sua madre, il governatore disse: «Dio ti sia propizio, figlio mio», poi corse in camera a piangere; si lavò il viso e si trattenne. || Văzându-l pe fratele său, fiul mamei sale, dregătorul a zis: „Dumnezeu să Se îndure de tine, fiule!”, apoi a intrat în grabă în odaie să plângă; s-a spălat pe față și s-a stăpânit.
+. «Dio ti sia propizio, figlio mio» || „Dumnezeu să Se îndure de tine, fiule”
+E i posti 🪑 | I posti a tavola || Locurile la masă
+. I fratelli furono fatti sedere davanti a lui dal primogenito al più giovane, secondo l'età, e si guardavano meravigliati. || Frații au fost așezați înaintea lui de la cel întâi născut până la cel mai tânăr, după vârstă, și se uitau unii la alții mirați.
+. Seduti dal maggiore al minore: stupore || Așezați de la cel mare la cel mic: uimire
+E i porzione 🍽️ | La porzione || Porția
+. Il governatore mangiava a parte, perché gli Egiziani non mangiavano con gli Ebrei; mandò a tutti porzioni dalla sua tavola, ma quella del più giovane era cinque volte più grande. || Dregătorul mânca deosebit, pentru că egiptenii nu mâncau cu evreii; le-a trimis tuturor porții de pe masa lui, dar porția celui mai tânăr era de cinci ori mai mare.
+. La porzione di Beniamino cinque volte più grande || Porția lui Beniamin de cinci ori mai mare
+E f tovaglia 🧻 | Una tovaglia || O față de masă
+. Una tovaglia di lino ricamata. Nessun indizio. || O față de masă de in cusută. Niciun indiciu.
+A Il più giovane era l'unico fratello di madre del governatore. || Cel mai tânăr era singurul frate de mamă al dregătorului.
+A Nel viaggio precedente uno dei fratelli era rimasto prigioniero in Egitto. || La călătoria dinainte, unul dintre frați rămăsese prizonier în Egipt.
+A È il secondo viaggio dei fratelli di Giuseppe, con Beniamino (Genesi 43). || Este a doua călătorie a fraților lui Iosif, cu Beniamin (Geneza 43).
+Q Chi si fece garante per Beniamino? || Cine s-a pus chezaș pentru Beniamin?
++ Giuda || Iuda
+- Ruben || Ruben
+- Simeone || Simeon
+- Levi || Levi
+Q Quanto era grande la porzione di Beniamino? || Cât de mare era porția lui Beniamin?
++ Cinque volte più delle altre || De cinci ori mai mare decât celelalte
+- Il doppio || Îndoită
+- Uguale alle altre || La fel ca celelalte
+- Dieci volte più delle altre || De zece ori mai mare decât celelalte
+O
+> Giuda si fa garante di Beniamino || Iuda se pune chezaș pentru Beniamin
+> Partono con doni e doppio denaro || Pleacă cu daruri și îndoit argint
+> L'intendente li tranquillizza e libera Simeone || Îngrijitorul îi liniștește și îl aduce pe Simeon
+> Giuseppe vede Beniamino e piange || Iosif îl vede pe Beniamin și plânge
+> Sono fatti sedere in ordine di età || Sunt așezați după vârstă
+V
+v Gli Egiziani non mangiavano con gli Ebrei || Egiptenii nu mâncau cu evreii
+v Giuseppe chiese se il loro padre stava bene || Iosif a întrebat dacă tatăl lor e sănătos
+x Giuseppe si fece riconoscere durante il pranzo || Iosif s-a făcut cunoscut în timpul mesei
+v I fratelli si meravigliarono di essere seduti per età || Frații s-au mirat că erau așezați după vârstă
+H Era il secondo viaggio dei fratelli di Giuseppe, con Beniamino. Giuda si fece garante del fratello minore, e Giacobbe li mandò con doni e doppio denaro. In Egitto l'intendente li rassicurò sul denaro e riportò Simeone. Giuseppe, vedendo Beniamino, disse: «Dio ti sia propizio, figlio mio» e corse a piangere di nascosto. A tavola i fratelli furono fatti sedere dal maggiore al minore, con loro grande stupore, e la porzione di Beniamino era cinque volte più grande. || Era a doua călătorie a fraților lui Iosif, cu Beniamin. Iuda s-a pus chezaș pentru fratele cel mic, iar Iacov i-a trimis cu daruri și îndoit argint. În Egipt, îngrijitorul i-a liniștit în privința banilor și l-a adus pe Simeon. Iosif, văzându-l pe Beniamin, a zis: „Dumnezeu să Se îndure de tine, fiule!” și a alergat să plângă pe ascuns. La masă frații au fost așezați de la cel mare la cel mic, spre marea lor mirare, iar porția lui Beniamin era de cinci ori mai mare.

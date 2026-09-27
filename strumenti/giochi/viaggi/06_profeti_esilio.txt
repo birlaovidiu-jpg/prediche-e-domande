@@ -1,0 +1,413 @@
+# Viaggi dei profeti, dell'esilio e del ritorno
+
+= giona | 🐋 | Il viaggio di Giona | Călătoria lui Iona | 32 1:3
+@ gathefer | 12 14:25
+it: Giona, figlio di Amittai, era un profeta di Gath-Hefer; l'Eterno lo mandò a predicare contro Ninive.
+ro: Iona, fiul lui Amitai, era un proroc din Gat-Hefer; Domnul l-a trimis să strige împotriva Ninivei.
+@ joppe | 32 1:3 | Giaffa | Iafo
+it: Giona fuggì lontano dall'Eterno: scese a Giaffa e salì su una nave diretta a Tarshish.
+ro: Iona a fugit de la fața Domnului: s-a coborât la Iafo și s-a suit într-o corabie care mergea la Tars.
+? luogo | 32 1:3
+qi: Dove voleva fuggire Giona invece di andare a Ninive?
+qr: Unde voia să fugă Iona în loc să meargă la Ninive?
+ai: A Tarshish | In Egitto | A Babilonia | A Damasco
+ar: La Tars | În Egipt | La Babilon | La Damasc
+@ marejona | 32 1:7
+it: Una grande tempesta scosse la nave; i marinai tirarono a sorte e la sorte cadde su Giona.
+ro: O furtună mare a zguduit corabia; corăbierii au aruncat sorți, și sorțul a căzut pe Iona.
+? evento | 32 1:15
+qi: Che cosa fecero i marinai per calmare il mare?
+qr: Ce au făcut corăbierii ca să se liniștească marea?
+ai: Gettarono Giona in mare | Tornarono a Giaffa | Gettarono tutto l'oro | Pregarono i loro dèi e basta
+ar: L-au aruncat pe Iona în mare | S-au întors la Iafo | Au aruncat tot aurul | S-au rugat doar dumnezeilor lor
+@ marejona | 32 1:17 | nel ventre del pesce | în pântecele peștelui
+it: L'Eterno aveva preparato un grosso pesce che inghiottì Giona; nel ventre del pesce Giona pregò.
+ro: Domnul trimisese un pește mare, care l-a înghițit pe Iona; în pântecele peștelui, Iona s-a rugat.
+? domanda | 32 1:17
+qi: Per quanto tempo Giona restò nel ventre del pesce?
+qr: Cât timp a stat Iona în pântecele peștelui?
+ai: Tre giorni e tre notti | Sette giorni | Un giorno | Quaranta giorni
+ar: Trei zile și trei nopți | Șapte zile | O zi | Patruzeci de zile
+@ ninive | 32 3:4
+it: Giona predicò a Ninive: «Ancora quaranta giorni e Ninive sarà distrutta»; la città si pentì.
+ro: Iona a strigat la Ninive: „Încă patruzeci de zile și Ninive va fi nimicită!”; cetatea s-a pocăit.
+? domanda | 32 3:4
+qi: Quanti giorni annunciò Giona prima della distruzione di Ninive?
+qr: Câte zile a vestit Iona până la nimicirea Ninivei?
+ai: 40 | 3 | 7 | 100
+ar: 40 | 3 | 7 | 100
+@ ninive | 32 4:6 | fuori dalla città | afară din cetate
+it: Fuori dalla città l'Eterno fece crescere una pianta per dare ombra a Giona, e poi la fece seccare.
+ro: Afară din cetate, Domnul a făcut să crească o plantă ca să-i dea umbră lui Iona, și apoi a făcut-o să se usuce.
+? domanda | 32 4:11
+qi: Quante persone c'erano a Ninive che non sapevano distinguere la destra dalla sinistra?
+qr: Câți oameni erau în Ninive care nu știau să deosebească dreapta de stânga?
+ai: Più di 120 000 | 40 000 | 12 000 | 1000
+ar: Peste 120 000 | 40 000 | 12 000 | 1000
+
+= geremia_cintura | 🎗️ | Geremia e la cintura di lino | Ieremia și brâul de in | 24 13:1
+@ anatot | 24 1:1
+it: Geremia, figlio di Hilkiah, era uno dei sacerdoti di Anathoth, nel paese di Beniamino.
+ro: Ieremia, fiul lui Hilchia, era unul dintre preoții din Anatot, în țara lui Beniamin.
+@ eufrate | 24 13:4
+it: L'Eterno disse a Geremia di andare verso l'Eufrate e nascondere la cintura nella fessura di una roccia.
+ro: Domnul i-a spus lui Ieremia să meargă la Eufrat și să ascundă brâul în crăpătura unei stânci.
+? domanda | 24 13:1
+qi: Di che cosa era fatta la cintura di Geremia?
+qr: Din ce era făcut brâul lui Ieremia?
+ai: Di lino | Di cuoio | Di lana | D'oro
+ar: De in | De piele | De lână | De aur
+@ eufrate | 24 13:7 | la fessura della roccia | crăpătura stâncii
+it: Molti giorni dopo Geremia tornò a prendere la cintura: era marcita e non serviva più a nulla.
+ro: După multe zile, Ieremia s-a întors să ia brâul: era putred și nu mai era bun de nimic.
+? evento | 24 13:7
+qi: In che stato era la cintura quando Geremia la riprese?
+qr: În ce stare era brâul când l-a luat Ieremia înapoi?
+ai: Marcita, non buona a nulla | Nuova come prima | Trasformata in oro | Sparita
+ar: Putred, nu mai era bun de nimic | Nou ca înainte | Prefăcut în aur | Dispărut
+@ gerusalemme | 24 13:9
+it: L'Eterno spiegò: così avrebbe fatto marcire l'orgoglio di Giuda e il grande orgoglio di Gerusalemme.
+ro: Domnul a lămurit: tot așa va nimici mândria lui Iuda și mândria cea mare a Ierusalimului.
+? domanda | 24 13:9
+qi: Che cosa rappresentava la cintura marcita?
+qr: Ce închipuia brâul putrezit?
+ai: L'orgoglio di Giuda e di Gerusalemme che sarebbe stato distrutto | La ricchezza di Babilonia | La forza dell'Egitto | La pace di Israele
+ar: Mândria lui Iuda și a Ierusalimului, care avea să fie nimicită | Bogăția Babilonului | Puterea Egiptului | Pacea lui Israel
+
+= geremia_vasaio | 🏺 | Geremia dal vasaio | Ieremia la olar | 24 18:2
+@ tempio | 24 18:1
+it: La parola dell'Eterno fu rivolta a Geremia: «Alzati e scendi alla casa del vasaio».
+ro: Cuvântul Domnului i-a vorbit lui Ieremia: „Scoală-te și pogoară-te în casa olarului”.
+@ casavasaio | 24 18:4
+it: Il vaso che il vasaio faceva si guastò nelle sue mani, ed egli ne fece un altro, come gli parve bene.
+ro: Vasul pe care-l făcea olarul s-a stricat în mâna lui, iar el a făcut din el un alt vas, cum a găsit cu cale.
+? domanda | 24 18:6
+qi: Che cosa volle insegnare l'Eterno con il vasaio?
+qr: Ce a vrut să învețe Domnul prin olar?
+ai: Che Israele è nelle sue mani come l'argilla nella mano del vasaio | Che bisogna comprare vasi nuovi | Che l'argilla è preziosa | Che Babilonia sarà distrutta
+ar: Că Israel este în mâna Lui ca lutul în mâna olarului | Că trebuie cumpărate vase noi | Că lutul este scump | Că Babilonul va fi nimicit
+@ beninnom | 24 19:2
+it: Geremia uscì verso la valle del figlio di Hinnom, all'ingresso della porta dei Cocci, con una brocca di terracotta.
+ro: Ieremia a ieșit în valea Ben-Hinom, la intrarea porții olăriei, cu un urcior de pământ.
+? evento | 24 19:10
+qi: Che cosa fece Geremia davanti agli anziani nella valle di Hinnom?
+qr: Ce a făcut Ieremia înaintea bătrânilor, în valea lui Hinom?
+ai: Spezzò la brocca | Riempì la brocca d'acqua | La regalò al sacerdote | La seppellì
+ar: A spart urciorul | A umplut urciorul cu apă | L-a dăruit preotului | L-a îngropat
+@ tempio | 24 20:2 | la porta di Beniamino | poarta lui Beniamin
+it: Tornato nel cortile del tempio, Geremia fu percosso da Pashhur e messo in ceppi presso la porta superiore di Beniamino.
+ro: Întors în curtea Templului, Ieremia a fost bătut de Pașhur și pus în butuci la poarta de sus a lui Beniamin.
+? personaggio | 24 20:2
+qi: Chi percosse Geremia e lo mise in ceppi?
+qr: Cine l-a bătut pe Ieremia și l-a pus în butuci?
+ai: Pashhur | Baruk | Ghedaliah | Hanania
+ar: Pașhur | Baruc | Ghedalia | Hanania
+
+= geremia_egitto | 🧱 | Geremia portato in Egitto | Ieremia dus în Egipt | 24 43:7
+@ rama | 24 40:1
+it: Dopo la caduta di Gerusalemme, Geremia fu liberato dalle catene a Ramah dal capo delle guardie.
+ro: După căderea Ierusalimului, Ieremia a fost dezlegat de lanțuri la Rama de căpetenia străjerilor.
+@ mizpa | 24 40:6
+it: Geremia andò a Mitspah da Ghedaliah e restò con il popolo rimasto nel paese.
+ro: Ieremia s-a dus la Mițpa, la Ghedalia, și a rămas cu poporul rămas în țară.
+? personaggio | 24 40:6
+qi: Da chi andò Geremia a Mitspah?
+qr: La cine s-a dus Ieremia la Mițpa?
+ai: Ghedaliah, figlio di Ahikam | Sedekia | Baruk | Nebuzaradan
+ar: Ghedalia, fiul lui Ahicam | Zedechia | Baruc | Nebuzaradan
+@ geruth | 24 41:17
+it: Dopo l'uccisione di Ghedaliah, il popolo si fermò a Geruth-Kimham, presso Betlemme, deciso ad andare in Egitto.
+ro: După uciderea lui Ghedalia, poporul s-a oprit la Gherut-Chimham, lângă Betleem, hotărât să meargă în Egipt.
+? domanda | 24 42:19
+qi: Che cosa disse l'Eterno per mezzo di Geremia al popolo che voleva andare in Egitto?
+qr: Ce a spus Domnul prin Ieremia poporului care voia să meargă în Egipt?
+ai: «Non andate in Egitto» | «Andate subito in Egitto» | «Tornate a Babilonia» | «Fuggite a Moab»
+ar: „Nu vă duceți în Egipt!” | „Duceți-vă îndată în Egipt” | „Întoarceți-vă la Babilon” | „Fugiți în Moab”
+@ tahpanhes | 24 43:7
+it: Il popolo non ubbidì e arrivò fino a Tahpanhes, portando con sé anche Geremia.
+ro: Poporul n-a ascultat și a ajuns până la Tahpanhes, luându-l cu el și pe Ieremia.
+? evento | 24 43:9
+qi: Che cosa nascose Geremia all'ingresso della casa del Faraone a Tahpanhes?
+qr: Ce a ascuns Ieremia la intrarea casei lui Faraon din Tahpanhes?
+ai: Grosse pietre nell'argilla della fornace | Un rotolo scritto | Una cintura di lino | Dell'oro del tempio
+ar: Pietre mari în lutul cuptorului de cărămidă | Un sul scris | Un brâu de in | Aur din Templu
+@ tahpanhes | 24 43:10 | la casa del Faraone | casa lui Faraon
+it: Su quelle pietre, annunciò Geremia, Nebukadnetsar avrebbe posto il suo trono.
+ro: Pe pietrele acelea, a vestit Ieremia, Nebucadnețar își va așeza scaunul de domnie.
+? ordina | 24 43:10
+qi: Metti in ordine il viaggio di Geremia.
+qr: Pune în ordine drumul lui Ieremia.
+ai: Liberato a Ramah | Da Ghedaliah a Mitspah | La sosta a Geruth-Kimham | L'arrivo a Tahpanhes
+ar: Dezlegat la Rama | La Ghedalia, la Mițpa | Popasul de la Gherut-Chimham | Sosirea la Tahpanhes
+
+= ezechiele_chebar | 👁️ | Ezechiele presso il fiume Kebar | Ezechiel lângă râul Chebar | 26 1:1
+@ gerusalemme | 12 24:15
+it: Con il re Jehoiakin furono deportati a Babilonia molti uomini di Gerusalemme, fra cui il sacerdote Ezechiele.
+ro: Cu împăratul Ioiachin au fost duși la Babilon mulți oameni din Ierusalim, printre care și preotul Ezechiel.
+@ chebar | 26 1:1
+it: Presso il fiume Kebar, fra i deportati, i cieli si aprirono ed Ezechiele ebbe visioni da parte di Dio.
+ro: Lângă râul Chebar, între robi, s-au deschis cerurile și Ezechiel a avut vedenii dumnezeiești.
+? domanda | 26 1:10
+qi: Quali facce avevano gli esseri viventi della visione?
+qr: Ce fețe aveau făpturile vii din vedenie?
+ai: Di uomo, di leone, di bue e di aquila | Di agnello, di colomba, di cervo e di pesce | Di angelo e di serpente | Di re e di sacerdote
+ar: De om, de leu, de bou și de vultur | De miel, de porumbel, de cerb și de pește | De înger și de șarpe | De împărat și de preot
+@ telabib | 26 3:15
+it: A Tel-abib, presso il Kebar, Ezechiele rimase sette giorni in mezzo ai deportati, stordito.
+ro: La Tel-Abib, lângă Chebar, Ezechiel a stat șapte zile în mijlocul robilor, înmărmurit.
+? domanda | 26 3:15
+qi: Per quanti giorni rimase Ezechiele a Tel-abib, stordito?
+qr: Câte zile a stat Ezechiel la Tel-Abib, înmărmurit?
+ai: 7 | 3 | 40 | 1
+ar: 7 | 3 | 40 | 1
+@ gerusalemme | 26 8:3 | in visione a Gerusalemme | în vedenie la Ierusalim
+it: In visione lo Spirito sollevò Ezechiele fra terra e cielo e lo portò a Gerusalemme, all'ingresso del tempio.
+ro: În vedenie, Duhul l-a ridicat pe Ezechiel între pământ și cer și l-a dus la Ierusalim, la intrarea Templului.
+? evento | 26 8:3
+qi: Come fu portato Ezechiele a Gerusalemme nella visione?
+qr: Cum a fost dus Ezechiel la Ierusalim în vedenie?
+ai: Lo Spirito lo afferrò per una ciocca di capelli e lo sollevò | Su un carro di fuoco | In nave | A piedi, in quaranta giorni
+ar: Duhul l-a apucat de un smoc de păr și l-a ridicat | Într-un car de foc | Cu corabia | Pe jos, în patruzeci de zile
+@ chebar | 26 11:24 | il ritorno fra i deportati | întoarcerea între robi
+it: Poi lo Spirito lo riportò in Caldea, fra i deportati, e la visione scomparve.
+ro: Apoi Duhul l-a adus înapoi în Haldeea, între robi, și vedenia s-a depărtat de la el.
+? ordina | 26 11:24
+qi: Metti in ordine il viaggio di Ezechiele.
+qr: Pune în ordine drumul lui Ezechiel.
+ai: La deportazione da Gerusalemme | Le visioni presso il Kebar | Sette giorni a Tel-abib | In visione al tempio | Il ritorno fra i deportati
+ar: Robia de la Ierusalim | Vedeniile de lângă Chebar | Șapte zile la Tel-Abib | În vedenie la Templu | Întoarcerea între robi
+
+= ezechiele_fiume | 🌊 | Il fiume che esce dal tempio | Râul care iese din Templu | 26 47:1
+@ tempio | 26 47:1
+it: In visione Ezechiele vide delle acque uscire da sotto la soglia del tempio, verso oriente.
+ro: În vedenie, Ezechiel a văzut ape ieșind de sub pragul Templului, spre răsărit.
+@ ulivi | 26 47:3 | a oriente del tempio | la răsăritul Templului
+it: L'uomo con la corda misurò mille cubiti alla volta: l'acqua saliva alle caviglie, poi alle ginocchia, poi ai fianchi.
+ro: Omul cu funia a măsurat câte o mie de coți: apa venea până la glezne, apoi până la genunchi, apoi până la coapse.
+? domanda | 26 47:5
+qi: Che cosa divenne l'acqua dopo le prime tre misure?
+qr: Ce s-a făcut apa după primele trei măsurători?
+ai: Un fiume che non si poteva attraversare | Un lago tranquillo | Una sorgente secca | Un mare salato
+ar: Un râu care nu se putea trece | Un lac liniștit | Un izvor uscat | O mare sărată
+@ arabah | 26 47:8
+it: Le acque scendevano nell'Arabah ed entravano nel mare, e le sue acque erano risanate.
+ro: Apele se coborau în Araba și intrau în mare, iar apele ei se însănătoșeau.
+? evento | 26 47:9
+qi: Che cosa accadeva dovunque arrivava il fiume?
+qr: Ce se întâmpla oriunde ajungea râul?
+ai: Ogni essere vivente viveva, e c'era abbondanza di pesce | Tutto seccava | Nasceva il deserto | Scendeva la neve
+ar: Tot ce trăia prindea viață, și era mult pește | Totul se usca | Se făcea pustie | Cădea zăpadă
+@ engedi | 26 47:10
+it: Da En-ghedi fino a Eneglaim i pescatori avrebbero steso le loro reti.
+ro: De la En-Ghedi până la En-Eglaim, pescarii își vor întinde mrejele.
+? domanda | 26 47:12
+qi: Che cosa crescerà lungo le sponde del fiume?
+qr: Ce va crește pe malurile râului?
+ai: Alberi che portano frutto ogni mese e foglie per guarire | Solo canne | Spine e rovi | Palme senza frutti
+ar: Pomi care vor face rod în fiecare lună și frunze de vindecare | Numai trestii | Spini și mărăcini | Finici fără rod
+
+= daniele | 🦁 | Daniele da Gerusalemme a Babilonia | Daniel de la Ierusalim la Babilon | 27 1:1
+@ gerusalemme | 27 1:1
+it: Nel terzo anno di Jehoiakim, Nebukadnetsar assediò Gerusalemme e portò via alcuni giovani della famiglia reale.
+ro: În al treilea an al lui Ioiachim, Nebucadnețar a împresurat Ierusalimul și a luat câțiva tineri din neamul împărătesc.
+@ babilonia | 27 1:12
+it: A Babilonia Daniele chiese di non contaminarsi con i cibi del re: legumi e acqua per dieci giorni.
+ro: În Babilon, Daniel a cerut să nu se spurce cu bucatele împăratului: zarzavaturi și apă zece zile.
+? domanda | 27 1:12
+qi: Per quanti giorni Daniele chiese di essere messo alla prova con legumi e acqua?
+qr: Câte zile a cerut Daniel să fie încercat cu zarzavaturi și apă?
+ai: 10 | 3 | 7 | 40
+ar: 10 | 3 | 7 | 40
+@ dura | 27 3:1
+it: Nella pianura di Dura il re eresse una statua d'oro; i tre compagni di Daniele non si inchinarono.
+ro: În valea Dura, împăratul a ridicat un chip de aur; cei trei tovarăși ai lui Daniel nu s-au închinat.
+? domanda | 27 3:1
+qi: Quanto era alta la statua d'oro nella pianura di Dura?
+qr: Cât de înalt era chipul de aur din valea Dura?
+ai: 60 cubiti | 6 cubiti | 12 cubiti | 100 cubiti
+ar: 60 de coți | 6 coți | 12 coți | 100 de coți
+@ babilonia | 27 5:25 | il banchetto di Belshatsar | ospățul lui Belșațar
+it: Daniele lesse e spiegò la scritta sulla parete: «MENE, MENE, TEKEL UFARSIN».
+ro: Daniel a citit și a tâlcuit scrisul de pe perete: „Numărat, numărat, cântărit și împărțit”.
+? evento | 27 5:25
+qi: Quali parole erano scritte sulla parete del palazzo?
+qr: Ce cuvinte erau scrise pe peretele palatului?
+ai: MENE, MENE, TEKEL UFARSIN | SANTO, SANTO, SANTO | ALFA E OMEGA | GLORIA A DIO
+ar: „Numărat, numărat, cântărit și împărțit” | „Sfânt, sfânt, sfânt” | „Alfa și Omega” | „Slavă lui Dumnezeu”
+@ babilonia | 27 6:10 | la casa di Daniele | casa lui Daniel
+it: Sotto Dario Daniele continuò a pregare con le finestre aperte verso Gerusalemme, e fu gettato nella fossa dei leoni.
+ro: Sub Darius, Daniel a continuat să se roage cu ferestrele deschise spre Ierusalim și a fost aruncat în groapa cu lei.
+? domanda | 27 6:10
+qi: Quante volte al giorno pregava Daniele?
+qr: De câte ori pe zi se ruga Daniel?
+ai: 3 | 1 | 7 | 12
+ar: 3 | 1 | 7 | 12
+@ ulai | 27 8:2
+it: In visione Daniele si trovò nella cittadella di Susa, presso il fiume Ulai, e vide un montone e un capro.
+ro: În vedenie, Daniel s-a văzut în capitala Susa, lângă râul Ulai, și a văzut un berbec și un țap.
+? domanda | 27 8:3
+qi: Quali animali vide Daniele presso il fiume Ulai?
+qr: Ce animale a văzut Daniel lângă râul Ulai?
+ai: Un montone e un capro | Un leone e un'aquila | Quattro cavalli | Un orso e un leopardo
+ar: Un berbec și un țap | Un leu și un vultur | Patru cai | Un urs și un leopard
+
+= amos | 🌳 | Amos, dal gregge a Bethel | Amos, de la turmă la Betel | 30 1:1
+@ tekoa | 30 1:1
+it: Amos era uno dei mandriani di Tekoa quando l'Eterno lo chiamò a profetizzare contro Israele.
+ro: Amos era unul dintre păstorii din Tecoa când Domnul l-a chemat să prorocească împotriva lui Israel.
+@ betel | 30 7:13
+it: A Bethel il sacerdote Amatsiah gli disse: «Non profetizzare più a Bethel, perché è il santuario del re».
+ro: La Betel, preotul Amația i-a zis: „Nu mai proroci la Betel, căci este un locaș sfânt al împăratului”.
+? personaggio | 30 7:10
+qi: Chi era il sacerdote di Bethel che si oppose ad Amos?
+qr: Cine era preotul din Betel care i s-a împotrivit lui Amos?
+ai: Amatsiah | Hilkiah | Pashhur | Eli
+ar: Amația | Hilchia | Pașhur | Eli
+@ betel | 30 7:14 | la risposta di Amos | răspunsul lui Amos
+it: Amos rispose: «Io non ero profeta né figlio di profeta, ma un mandriano e coltivavo i sicomori».
+ro: Amos a răspuns: „Eu nu sunt nici proroc, nici fiu de proroc, ci sunt păstor și strângător de smochine de Egipt”.
+? domanda | 30 7:14
+qi: Che lavoro faceva Amos prima di essere chiamato?
+qr: Ce lucru făcea Amos înainte de a fi chemat?
+ai: Mandriano e coltivatore di sicomori | Sacerdote del tempio | Soldato del re | Scriba
+ar: Păstor și strângător de smochine de Egipt | Preot în Templu | Ostaș al împăratului | Cărturar
+@ tekoa | 30 7:15 | il gregge di Tekoa | turma din Tecoa
+it: «L'Eterno mi prese da dietro al gregge e mi disse: Va', profetizza al mio popolo d'Israele».
+ro: „Domnul m-a luat de la oi și mi-a zis: Du-te și proorocește poporului Meu Israel!”
+? puzzle | 30 1:1
+qi: Ricomponi il nome della città di Amos.
+qr: Refă numele cetății lui Amos.
+ai: TEKOA
+ar: TECOA
+
+= ritorno_zorobabel | 🏗️ | Il ritorno da Babilonia | Întoarcerea din Babilon | 15 1:1
+@ babilonia | 15 1:1
+it: Nel primo anno di Ciro, re di Persia, l'Eterno destò il suo spirito ed egli permise di ricostruire la casa di Dio.
+ro: În anul întâi al lui Cirus, împăratul perșilor, Domnul i-a trezit duhul, iar el a îngăduit zidirea Casei lui Dumnezeu.
+@ gerusalemme | 15 1:11
+it: Sceshbatsar riportò a Gerusalemme gli oggetti d'oro e d'argento del tempio insieme agli esuli.
+ro: Șeșbațar a adus la Ierusalim vasele de aur și de argint ale Templului, împreună cu robii.
+? personaggio | 15 1:1
+qi: Quale re di Persia permise ai Giudei di tornare?
+qr: Care împărat al Perșilor le-a îngăduit iudeilor să se întoarcă?
+ai: Ciro | Dario | Artaserse | Nebukadnetsar
+ar: Cirus | Darius | Artaxerxe | Nebucadnețar
+@ tempio | 15 3:2
+it: Jeshua e Zorobabel costruirono l'altare del Dio d'Israele per offrirvi olocausti.
+ro: Iosua și Zorobabel au zidit altarul Dumnezeului lui Israel, ca să aducă pe el arderi de tot.
+? domanda | 15 1:11
+qi: Quanti erano gli oggetti d'oro e d'argento riportati a Gerusalemme?
+qr: Câte vase de aur și de argint au fost aduse înapoi la Ierusalim?
+ai: 5400 | 1000 | 70 | 120
+ar: 5400 | 1000 | 70 | 120
+@ tempio | 15 3:12 | le fondamenta del tempio | temelia Templului
+it: Quando furono gettate le fondamenta, molti anziani che avevano visto il primo tempio piangevano ad alta voce.
+ro: Când s-a pus temelia, mulți bătrâni care văzuseră Templul dintâi plângeau în gura mare.
+? evento | 15 3:12
+qi: Che cosa fecero gli anziani che avevano visto il primo tempio?
+qr: Ce au făcut bătrânii care văzuseră Templul dintâi?
+ai: Piansero ad alta voce | Suonarono le trombe | Se ne andarono | Danzarono
+ar: Au plâns în gura mare | Au sunat din trâmbițe | Au plecat | Au jucat
+@ tempio | 15 6:15 | il tempio finito | Templul isprăvit
+it: Il tempio fu ultimato il terzo giorno del mese di Adar, nel sesto anno del regno di Dario.
+ro: Templul a fost isprăvit în ziua a treia a lunii Adar, în al șaselea an al domniei lui Darius.
+? ordina | 15 6:15
+qi: Metti in ordine il ritorno dall'esilio.
+qr: Pune în ordine întoarcerea din robie.
+ai: L'editto di Ciro | Il ritorno con gli oggetti del tempio | L'altare ricostruito | Le fondamenta del tempio | Il tempio finito sotto Dario
+ar: Porunca lui Cirus | Întoarcerea cu vasele Templului | Altarul zidit din nou | Temelia Templului | Templul isprăvit sub Darius
+
+= esdra | 📜 | Il viaggio di Esdra | Călătoria lui Ezra | 15 7:6
+@ babilonia | 15 7:6
+it: Esdra, scriba esperto nella legge di Mosè, partì da Babilonia con il permesso del re Artaserse.
+ro: Ezra, cărturar priceput în legea lui Moise, a plecat din Babilon cu voia împăratului Artaxerxe.
+@ ahava | 15 8:15
+it: Esdra radunò la carovana presso il fiume che scorre verso Ahava e vi rimase accampato tre giorni.
+ro: Ezra a strâns ceata lângă râul care curge spre Ahava și a tăbărât acolo trei zile.
+? evento | 15 8:21
+qi: Che cosa proclamò Esdra presso il fiume Ahava?
+qr: Ce a vestit Ezra lângă râul Ahava?
+ai: Un digiuno, per chiedere a Dio un viaggio sicuro | Una festa | Una guerra | Un censimento
+ar: Un post, ca să ceară de la Dumnezeu o călătorie fericită | O sărbătoare | Un război | O numărătoare
+@ ahava | 15 8:22 | la partenza da Ahava | plecarea de la Ahava
+it: Esdra ebbe vergogna di chiedere al re una scorta di soldati, perché aveva detto che la mano di Dio protegge chi lo cerca.
+ro: Lui Ezra i-a fost rușine să ceară împăratului o oaste de ostași, căci spusese că mâna lui Dumnezeu îi ocrotește pe cei ce-L caută.
+? domanda | 15 8:22
+qi: Perché Esdra non chiese una scorta al re?
+qr: De ce nu i-a cerut Ezra împăratului o oaste?
+ai: Aveva detto al re che la mano di Dio protegge chi lo cerca | Il viaggio era breve | Aveva già molti soldati | Il re era lontano
+ar: Îi spusese împăratului că mâna lui Dumnezeu îi ocrotește pe cei ce-L caută | Drumul era scurt | Avea deja mulți ostași | Împăratul era departe
+@ gerusalemme | 15 7:9
+it: Esdra arrivò a Gerusalemme il primo giorno del quinto mese, perché la mano benefica di Dio era su di lui.
+ro: Ezra a ajuns la Ierusalim în ziua întâi a lunii a cincea, căci mâna cea bună a Dumnezeului său era peste el.
+? domanda | 15 7:9
+qi: Quanto durò il viaggio di Esdra da Babilonia a Gerusalemme?
+qr: Cât a ținut călătoria lui Ezra de la Babilon la Ierusalim?
+ai: Circa quattro mesi | Tre giorni | Un anno | Quaranta giorni
+ar: Cam patru luni | Trei zile | Un an | Patruzeci de zile
+
+= neemia_mura | 🧱 | Neemia e le mura di Gerusalemme | Neemia și zidurile Ierusalimului | 16 2:1
+@ susa | 16 2:1
+it: A Susa Neemia serviva il vino al re Artaserse; il re vide il suo volto triste e gli chiese perché.
+ro: La Susa, Neemia îi dădea vin împăratului Artaxerxe; împăratul i-a văzut fața tristă și l-a întrebat de ce.
+@ oltrefiume | 16 2:9
+it: Neemia consegnò le lettere del re ai governatori della regione oltre il Fiume; il re gli aveva dato una scorta.
+ro: Neemia a dat scrisorile împăratului dregătorilor de dincolo de Râu; împăratul îi dăduse o oaste.
+? domanda | 16 2:1
+qi: Quale servizio svolgeva Neemia per il re?
+qr: Ce slujbă avea Neemia la împărat?
+ai: Era il coppiere del re | Era il capo dell'esercito | Era il tesoriere | Era il cuoco
+ar: Era paharnicul împăratului | Era căpetenia oștirii | Era vistiernicul | Era bucătarul
+@ gerusalemme | 16 2:11
+it: Neemia arrivò a Gerusalemme e vi rimase tre giorni senza dire a nessuno ciò che Dio gli aveva messo in cuore.
+ro: Neemia a ajuns la Ierusalim și a stat acolo trei zile fără să spună nimănui ce-i pusese Dumnezeu în inimă.
+? personaggio | 16 2:1
+qi: Quale re di Persia mandò Neemia a Gerusalemme?
+qr: Care împărat al Perșilor l-a trimis pe Neemia la Ierusalim?
+ai: Artaserse | Ciro | Dario | Serse
+ar: Artaxerxe | Cirus | Darius | Xerxe
+@ portavalle | 16 2:13
+it: Di notte Neemia uscì per la porta della Valle e ispezionò le mura piene di brecce.
+ro: Noaptea, Neemia a ieșit pe poarta Văii și a cercetat zidurile pline de spărturi.
+? ordina | 16 2:13
+qi: Metti in ordine il giro notturno di Neemia.
+qr: Pune în ordine drumul de noapte al lui Neemia.
+ai: La porta della Valle | La sorgente del Dragone | La porta del Letame
+ar: Poarta Văii | Izvorul Balaurului | Poarta Gunoiului
+@ gerusalemme | 16 6:15 | le mura finite | zidurile isprăvite
+it: Nonostante le minacce dei nemici, le mura furono terminate il venticinquesimo giorno del mese di Elul.
+ro: Cu toate amenințările vrăjmașilor, zidul a fost isprăvit în ziua a douăzeci și cincea a lunii Elul.
+? domanda | 16 6:15
+qi: In quanti giorni furono ricostruite le mura?
+qr: În câte zile au fost zidite din nou zidurile?
+ai: 52 | 40 | 7 | 120
+ar: 52 | 40 | 7 | 120
+
+= neemia_ritorno | 🚪 | Il secondo viaggio di Neemia | A doua călătorie a lui Neemia | 16 13:6
+@ gerusalemme | 16 13:6
+it: Nell'anno trentaduesimo di Artaserse, Neemia tornò dal re.
+ro: În al treizeci și doilea an al lui Artaxerxe, Neemia s-a întors la împărat.
+@ babilonia | 16 13:6 | alla corte del re | la curtea împăratului
+it: Qualche tempo dopo, Neemia ottenne dal re il permesso di tornare a Gerusalemme.
+ro: După câtăva vreme, Neemia a căpătat voie de la împărat să se întoarcă la Ierusalim.
+? domanda | 16 13:6
+qi: Dove era andato Neemia dopo il suo primo periodo a Gerusalemme?
+qr: Unde se dusese Neemia după prima lui ședere la Ierusalim?
+ai: Presso il re | In Egitto | A Tiro | A Samaria
+ar: La împărat | În Egipt | La Tir | În Samaria
+@ tempio | 16 13:8
+it: Neemia trovò Tobiah installato in una camera del tempio e fece gettare fuori le sue masserizie.
+ro: Neemia l-a găsit pe Tobia așezat într-o odaie a Templului și i-a aruncat afară toate lucrurile.
+? personaggio | 16 13:7
+qi: Chi si era sistemato in una camera del tempio in assenza di Neemia?
+qr: Cine se așezase într-o odaie a Templului în lipsa lui Neemia?
+ai: Tobiah | Sanballat | Esdra | Ghesem
+ar: Tobia | Sanbalat | Ezra | Gheșem
+@ gerusalemme | 16 13:19 | le porte della città | porțile cetății
+it: Neemia ordinò di chiudere le porte di Gerusalemme al calar della sera, prima che cominciasse il sabato.
+ro: Neemia a poruncit să se închidă porțile Ierusalimului când începea să se întunece, înainte de Sabat.
+? domanda | 16 13:19
+qi: Quando faceva chiudere le porte Neemia?
+qr: Când poruncea Neemia să se închidă porțile?
+ai: Prima che cominciasse il sabato | A mezzogiorno | Durante la Pasqua | Solo in tempo di guerra
+ar: Înainte să înceapă Sabatul | La amiază | La Paști | Numai în vreme de război

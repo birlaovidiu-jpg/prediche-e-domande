@@ -1,4 +1,7 @@
 /* ================= PDF DELLA PREDICA ================= */
+/* la pagina resta della stessa misura di sempre: raddoppio solo i pixel
+   veri dentro (massima qualità, per stampare o leggere da vicino) */
+const SCALA_STAMPA=2;
 function pdfPredica(i){
   const p=trovaPredica(i); if(!p) return;
   apri('Salva la predica in PDF',
@@ -72,20 +75,23 @@ function telaSlidePredica(s,tema,L,H){
 function pdfPredicaSlide(i){
   const p=trovaPredica(i); if(!p) return;
   salvaFile(`${p.tit} — diapositive.pdf`,'application/pdf',async()=>{
-      const L=1600,H=900;
-      const imgs=slidePredica(p).map(s=>telaSlidePredica(s,p.sfondo||'notte',L,H).toDataURL('image/jpeg',0.85));
+      const L=1600,H=900, E=SCALA_STAMPA;
+      const imgs=slidePredica(p).map(s=>telaSlidePredica(s,p.sfondo||'notte',L*E,H*E).toDataURL('image/jpeg',1));
       avvisa(`PDF pronto — ${imgs.length} diapositive`,'ok');
-      return pdfDaImmagini(imgs,L,H);
+      return pdfDaImmagini(imgs,L,H,L*E,H*E);
   });
 }
 /* --- A4 da leggere --- */
 function pdfPredicaFoglio(i){
   const p=trovaPredica(i); if(!p) return;
   salvaFile(`${p.tit}.pdf`,'application/pdf',async()=>{
-      const L=1240,H=1754, M=110, LARG=L-2*M;
+      const L=1240,H=1754, M=110, LARG=L-2*M, E=SCALA_STAMPA;
       const pagine=[]; let c,x,y;
-      const nuova=()=>{ c=document.createElement('canvas'); c.width=L; c.height=H;
-        x=c.getContext('2d'); x.fillStyle='#fff'; x.fillRect(0,0,L,H); x.textBaseline='top'; y=M; pagine.push(c); };
+      /* la tela vera è più grande (alta risoluzione): x.scale(E,E) ingrandisce
+         da sola ogni tratto, così tutto il disegno sotto resta con le stesse
+         misure di sempre, invariato */
+      const nuova=()=>{ c=document.createElement('canvas'); c.width=L*E; c.height=H*E;
+        x=c.getContext('2d'); x.scale(E,E); x.fillStyle='#fff'; x.fillRect(0,0,L,H); x.textBaseline='top'; y=M; pagine.push(c); };
       const spazio=n=>{ if(y+n>H-M-40) nuova(); };
       nuova();
       /* testata */
@@ -121,6 +127,6 @@ function pdfPredicaFoglio(i){
         q.fillText(stato.imp.chiesa||'',M,H-52);
         q.textAlign='right'; q.fillText(`${k+1} / ${pagine.length}`,L-M,H-52); q.textAlign='left'; });
       avvisa(`PDF pronto — ${pagine.length} pagine`,'ok');
-      return pdfDaImmagini(pagine.map(pg=>pg.toDataURL('image/jpeg',0.92)),L,H);
+      return pdfDaImmagini(pagine.map(pg=>pg.toDataURL('image/jpeg',1)),L,H,L*E,H*E);
   });
 }

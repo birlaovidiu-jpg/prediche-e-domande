@@ -1,0 +1,145 @@
+# Domande nuove — luoghi, secondo giro
+luoghi|2|1 2:10
+IT|Che cosa usciva da Eden per irrigare il giardino?|Un fiume|Una sorgente di vino|Un ruscello di latte|Una nube|Un fiume usciva da Eden per irrigare il giardino, e di là si divideva in quattro bracci.
+RO|Ce ieșea din Eden ca să ude grădina?|Un râu|Un izvor de vin|Un pârâu de lapte|Un nor|Un râu ieșea din Eden și uda grădina; de acolo se despărțea în patru brațe.
+luoghi|3|1 2:14
+IT|Quale fiume dell'Eden scorreva a oriente dell'Assiria?|Il Tigri|L'Eufrate|Il Pishon|Il Ghihon|Il nome del terzo fiume è Tigri; esso scorre a oriente dell'Assiria.
+RO|Care râu al Edenului curgea la răsărit de Asiria?|Hidechel|Eufratul|Pison|Ghihon|Numele râului al treilea este Hidechel; el curge la răsărit de Asiria.
+luoghi|3|1 4:16
+IT|In quale paese andò ad abitare Caino, a oriente di Eden?|Nel paese di Nod|In Egitto|In Canaan|A Babele|Caino si allontanò dalla presenza dell'Eterno e dimorò nel paese di Nod, a oriente di Eden.
+RO|În ce țară s-a dus să locuiască Cain, la răsărit de Eden?|În țara Nod|În Egipt|În Canaan|În Babel|Cain a ieșit dinaintea Domnului și a locuit în țara Nod, la răsărit de Eden.
+luoghi|3|1 12:6
+IT|Presso quale quercia si fermò Abramo a Sichem, entrando in Canaan?|La quercia di Moreh|La quercia di Mamre|La quercia di Ofrah|La quercia di Jabesh|Abramo attraversò il paese fino a Sichem, fino alla quercia di Moreh.
+RO|La ce stejar s-a oprit Avram la Sihem, când a intrat în Canaan?|Stejarul lui More|Stejarul lui Mamre|Stejarul din Ofra|Stejarul din Iabes|Avram a străbătut țara până la locul numit Sihem, până la stejarul lui More.
+luoghi|3|1 21:31
+IT|Perché quel luogo fu chiamato Beer-Sceba?|Perché lì Abrahamo e Abimelek fecero giuramento|Perché vi nacque Isacco|Perché vi morì Sara|Perché vi apparve un angelo|Perciò quel luogo fu chiamato Beer-Sceba, perché là entrambi avevano fatto giuramento.
+RO|De ce a fost numit locul acela Beer-Șeba?|Pentru că acolo au jurat Avraam și Abimelec|Pentru că acolo s-a născut Isaac|Pentru că acolo a murit Sara|Pentru că acolo s-a arătat un înger|De aceea locul acela se numește Beer-Șeba, căci acolo au jurat amândoi.
+luoghi|3|1 23:19
+IT|Dove fu sepolta Sara?|Nella spelonca di Makpelah|A Betel|A Beer-Sceba|Sul monte Moriah|Abrahamo seppellì Sara sua moglie nella spelonca del campo di Makpelah, di fronte a Mamre.
+RO|Unde a fost îngropată Sara?|În peștera din Macpela|La Betel|La Beer-Șeba|Pe muntele Moria|Avraam a îngropat pe nevasta sa Sara în peștera din ogorul Macpela, în fața lui Mamre.
+luoghi|3|1 26:22
+IT|Come chiamò Isacco il pozzo per cui i pastori non litigarono?|Rehoboth|Esek|Sitnah|Beer-Lahai-Roi|Scavò un altro pozzo, per il quale non litigarono; e lo chiamò Rehoboth, dicendo: «Ora l'Eterno ci ha messi al largo».
+RO|Cum a numit Isaac fântâna pentru care păstorii nu s-au certat?|Rehobot|Esec|Sitna|Beer-Lahai-Roi|A săpat o altă fântână, pentru care nu s-au mai certat; și i-a pus numele Rehobot, căci a zis: „Domnul ne-a pus acum la larg.”
+luoghi|4|1 32:30
+IT|Come chiamò Giacobbe il luogo dove lottò con Dio?|Peniel|Betel|Mahanaim|Galaad|Giacobbe chiamò quel luogo Peniel, perché disse: «Ho visto Dio faccia a faccia».
+RO|Cum a numit Iacov locul unde s-a luptat cu Dumnezeu?|Peniel|Betel|Mahanaim|Galaad|Iacov a numit locul acela Peniel, „căci”, a zis el, „am văzut pe Dumnezeu față în față.”
+luoghi|3|1 35:19
+IT|Sulla via per quale città morì e fu sepolta Rachele?|Efrata, cioè Betlemme|Hebron|Sichem|Betel|Rachele morì e fu sepolta sulla via di Efrata, cioè Betlemme.
+RO|Pe drumul spre ce cetate a murit și a fost îngropată Rahela?|Efrata, adică Betleem|Hebron|Sihem|Betel|Rahela a murit și a fost îngropată pe drumul spre Efrata, adică Betleem.
+luoghi|3|1 47:11
+IT|Quale territorio d'Egitto diede Giuseppe a suo padre e ai suoi fratelli?|Il paese di Ramses|Il paese di Menfi|Il paese di Tebe|Il paese di Cush|Giuseppe diede loro un possesso nel paese d'Egitto, nella parte migliore del paese, nel territorio di Ramses.
+RO|Ce ținut al Egiptului le-a dat Iosif tatălui și fraților săi?|Ținutul Ramses|Ținutul Memfis|Ținutul Teba|Ținutul Cuș|Iosif le-a dat o moșie în țara Egiptului, în partea cea mai bună a țării, în ținutul lui Ramses.
+luoghi|3|2 15:23
+IT|Come fu chiamato il luogo dove l'acqua era amara?|Marah|Elim|Massa|Refidim|Giunsero a Marah, ma non potevano bere le acque di Marah perché erano amare; perciò quel luogo fu chiamato Marah.
+RO|Cum a fost numit locul unde apa era amară?|Mara|Elim|Masa|Refidim|Au ajuns la Mara, dar n-au putut să bea apa de la Mara, pentru că era amară. De aceea locul acesta a fost numit Mara.
+luoghi|3|2 17:7
+IT|Quali nomi diede Mosè al luogo dove il popolo contese per l'acqua a Refidim?|Massa e Meribah|Marah ed Elim|Peniel e Betel|Gilgal e Scilo|Chiamò quel luogo Massa e Meribah, per la contesa dei figli d'Israele.
+RO|Ce nume a dat Moise locului unde poporul s-a certat pentru apă la Refidim?|Masa și Meriba|Mara și Elim|Peniel și Betel|Ghilgal și Silo|A dat locului aceluia numele Masa și Meriba, pentru că copiii lui Israel se certaseră.
+luoghi|3|4 13:23
+IT|In quale valle gli esploratori tagliarono il grappolo d'uva portato da due uomini?|La valle di Eshkol|La valle di Akor|La valle di Elah|La valle di Refaim|Giunsero fino alla valle di Eshkol e tagliarono un tralcio con un grappolo d'uva, che portarono in due con una stanga.
+RO|În ce vale au tăiat iscoadele ciorchinele de strugure purtat de doi oameni?|Valea Eșcol|Valea Acor|Valea Terebinților|Valea Refaim|Au ajuns până la valea Eșcol; acolo au tăiat o ramură de viță cu un ciorchine de strugure, pe care l-au dus doi inși cu o prăjină.
+luoghi|3|4 20:1
+IT|Dove morì e fu sepolta Miriam?|A Kadesh|Sul monte Hor|A Marah|A Elim|Il popolo si fermò a Kadesh; là morì Miriam e là fu sepolta.
+RO|Unde a murit și a fost îngropată Maria, sora lui Moise?|La Cades|Pe muntele Hor|La Mara|La Elim|Poporul s-a oprit la Cades. Acolo a murit Maria și acolo a fost îngropată.
+luoghi|4|4 33:9
+IT|Quante sorgenti d'acqua e quante palme c'erano a Elim?|Dodici sorgenti e settanta palme|Sette sorgenti e cento palme|Tre sorgenti e dieci palme|Una sorgente e dodici palme|Giunsero a Elim; a Elim c'erano dodici sorgenti d'acqua e settanta palme.
+RO|Câte izvoare de apă și câți finici erau la Elim?|Douăsprezece izvoare și șaptezeci de finici|Șapte izvoare și o sută de finici|Trei izvoare și zece finici|Un izvor și doisprezece finici|Au ajuns la Elim; la Elim erau douăsprezece izvoare de apă și șaptezeci de finici.
+luoghi|3|5 3:11
+IT|Di quale materiale era il letto del gigante Og, re di Bashan?|Di ferro|D'oro|D'avorio|Di cedro|Il suo letto era un letto di ferro; lungo nove cubiti e largo quattro.
+RO|Din ce era patul uriașului Og, împăratul Basanului?|Din fier|Din aur|Din fildeș|Din cedru|Patul lui era un pat de fier; lung de nouă coți și lat de patru coți.
+luoghi|3|5 11:29
+IT|Su quale monte doveva essere pronunciata la benedizione?|Il monte Gherizim|Il monte Ebal|Il monte Sinai|Il monte Carmel|Porrai la benedizione sul monte Gherizim e la maledizione sul monte Ebal.
+RO|Pe ce munte trebuia rostită binecuvântarea?|Muntele Garizim|Muntele Ebal|Muntele Sinai|Muntele Carmel|Să rostești binecuvântarea pe muntele Garizim și blestemul pe muntele Ebal.
+luoghi|3|6 5:9
+IT|Perché il luogo dove Israele fu circonciso si chiamò Ghilgal?|Perché Dio vi rotolò via l'infamia d'Egitto|Perché vi caddero le mura|Perché vi si fermò il sole|Perché vi fu posta l'arca|L'Eterno disse a Giosuè: «Oggi ho rotolato via da voi l'infamia d'Egitto». E quel luogo fu chiamato Ghilgal.
+RO|De ce locul unde a fost tăiat împrejur Israel s-a numit Ghilgal?|Pentru că Dumnezeu a ridicat ocara Egiptului|Pentru că acolo au căzut zidurile|Pentru că acolo s-a oprit soarele|Pentru că acolo a fost pus chivotul|Domnul a zis lui Iosua: „Astăzi am abătut de la voi ocara Egiptului.” Și locul acela s-a numit Ghilgal.
+luoghi|3|6 7:26
+IT|Come fu chiamato il luogo dove fu lapidato Acan?|La valle di Akor|La valle di Eshkol|La valle di Elah|La valle di Hinnom|Per questo quel luogo è stato chiamato fino ad oggi: valle di Akor.
+RO|Cum a fost numit locul unde a fost ucis cu pietre Acan?|Valea Acor|Valea Eșcol|Valea Terebinților|Valea Hinom|De aceea locul acela a fost numit până în ziua de azi valea Acor.
+luoghi|3|6 18:1
+IT|In quale luogo l'assemblea d'Israele eresse la tenda di convegno al tempo di Giosuè?|A Scilo|A Ghilgal|A Gerusalemme|A Sichem|Tutta l'assemblea dei figli d'Israele si radunò a Scilo, e vi eresse la tenda di convegno.
+RO|Unde a așezat adunarea lui Israel cortul întâlnirii pe vremea lui Iosua?|La Silo|La Ghilgal|La Ierusalim|La Sihem|Toată adunarea copiilor lui Israel s-a strâns la Silo și a așezat acolo cortul întâlnirii.
+luoghi|3|6 20:7
+IT|Quale di queste era una città di rifugio?|Hebron|Gerico|Ai|Scilo|Consacrarono Kedesh in Galilea, Sichem nella regione montuosa di Efraim e Kiriath-Arba, cioè Hebron.
+RO|Care dintre acestea era o cetate de scăpare?|Hebron|Ierihon|Ai|Silo|Au pus deoparte Chedeș în Galileea, Sihem în muntele lui Efraim și Chiriat-Arba, adică Hebron.
+luoghi|3|7 1:23
+IT|Come si chiamava prima la città di Betel?|Luz|Salem|Kiriath-Arba|Jebus|La casa di Giuseppe mandò a esplorare Betel; il nome di quella città era prima Luz.
+RO|Cum se numea mai înainte cetatea Betel?|Luz|Salem|Chiriat-Arba|Iebus|Casa lui Iosif a trimis să iscodească Betelul, care se numea mai înainte Luz.
+luoghi|3|7 4:5
+IT|Sotto quale albero sedeva la profetessa Debora per giudicare?|Una palma, fra Ramah e Betel|Una quercia a Sichem|Un fico a Scilo|Un terebinto a Hebron|Ella sedeva sotto la palma di Debora, fra Ramah e Betel, sui monti di Efraim.
+RO|Sub ce copac stătea prorocița Debora ca să judece?|Un finic, între Rama și Betel|Un stejar la Sihem|Un smochin la Silo|Un terebint la Hebron|Ea stătea sub finicul Deborei, între Rama și Betel, în muntele lui Efraim.
+luoghi|3|7 7:1
+IT|Presso quale sorgente si accampò Gedeone prima della battaglia contro Madian?|La sorgente di Harod|La sorgente di Ghihon|La sorgente di En-Ghedi|La sorgente di Marah|Gedeone e tutta la gente con lui si accamparono presso la sorgente di Harod.
+RO|Lângă ce izvor și-a așezat tabăra Ghedeon înainte de lupta cu Madianul?|Izvorul Harod|Izvorul Ghihon|Izvorul En-Ghedi|Izvorul Mara|Ghedeon și tot poporul care era cu el și-au așezat tabăra la izvorul Harod.
+luoghi|3|7 16:4
+IT|In quale valle abitava Delilah?|La valle di Sorek|La valle di Elah|La valle di Akor|La valle di Jezreel|Sansone s'innamorò di una donna della valle di Sorek, che si chiamava Delilah.
+RO|În ce vale locuia Dalila?|Valea Sorec|Valea Terebinților|Valea Acor|Valea Izreel|Samson a iubit o femeie din valea Sorec. Ea se numea Dalila.
+luoghi|3|7 20:1
+IT|Quale espressione indica tutto Israele «da un capo all'altro» nel libro dei Giudici?|Da Dan fino a Beer-Sceba|Da Gerico a Gerusalemme|Dal Libano all'Egitto|Da Sichem a Hebron|Tutti i figli d'Israele uscirono, da Dan fino a Beer-Sceba, e l'assemblea si radunò come un solo uomo.
+RO|Ce expresie arată tot Israelul „de la un capăt la altul” în cartea Judecătorilor?|De la Dan până la Beer-Șeba|De la Ierihon la Ierusalim|De la Liban la Egipt|De la Sihem la Hebron|Toți copiii lui Israel au ieșit, de la Dan până la Beer-Șeba, și adunarea s-a strâns ca un singur om.
+luoghi|3|9 7:12
+IT|Come chiamò Samuele la pietra eretta dopo la vittoria sui Filistei?|Eben-Ezer|Betel|Ghilgal|Galed|Samuele prese una pietra e la pose… e la chiamò Eben-Ezer, dicendo: «Fin qui l'Eterno ci ha soccorsi».
+RO|Cum a numit Samuel piatra înălțată după biruința asupra filistenilor?|Eben-Ezer|Betel|Ghilgal|Galed|Samuel a luat o piatră… și i-a pus numele Eben-Ezer, zicând: „Până aici Domnul ne-a ajutat.”
+luoghi|3|9 17:2
+IT|In quale valle si accampò Israele davanti ai Filistei al tempo di Golia?|La valle dei terebinti|La valle di Sorek|La valle di Akor|La valle di Hinnom|Saul e gli uomini d'Israele si accamparono nella valle dei terebinti.
+RO|În ce vale și-a așezat Israel tabăra împotriva filistenilor pe vremea lui Goliat?|Valea Terebinților|Valea Sorec|Valea Acor|Valea Hinom|Saul și oamenii lui Israel s-au strâns și și-au așezat tabăra în valea Terebinților.
+luoghi|4|9 24:1
+IT|In quale deserto si nascose Davide quando risparmiò Saul nella spelonca?|Il deserto di En-Ghedi|Il deserto di Paran|Il deserto di Sin|Il deserto di Zin|Davide è nel deserto di En-Ghedi.
+RO|În ce pustie se ascundea David când l-a cruțat pe Saul în peșteră?|Pustia En-Ghedi|Pustia Paran|Pustia Sin|Pustia Țin|David este în pustia En-Ghedi.
+luoghi|3|9 28:7
+IT|In quale luogo abitava la negromante consultata da Saul?|A En-Dor|A Mitspah|A Nob|A Ghibeah|I suoi servi gli dissero: «Ecco, a En-Dor c'è una donna che evoca gli spiriti».
+RO|Unde locuia femeia care chema morții, la care a mers Saul?|La En-Dor|La Galaad|La Nob|La Ghibeea|Slujitorii lui i-au zis: „Iată că la En-Dor este o femeie care cheamă morții.”
+luoghi|3|9 31:10
+IT|Su quali mura appesero i Filistei il corpo di Saul?|Le mura di Beth-Shan|Le mura di Gath|Le mura di Gaza|Le mura di Ashdod|Appesero il suo corpo alle mura di Beth-Shan.
+RO|Pe zidurile cărei cetăți au atârnat filistenii trupul lui Saul?|Bet-Șan|Gat|Gaza|Asdod|Trupul lui l-au atârnat pe zidul Bet-Șanului.
+luoghi|3|10 5:9
+IT|Come chiamò Davide la fortezza di Sion dopo averla presa?|Città di Davide|Salem|Moriah|Ofel|Davide si stabilì nella fortezza e la chiamò Città di Davide.
+RO|Cum a numit David cetățuia Sionului după ce a luat-o?|Cetatea lui David|Salem|Moria|Ofel|David s-a așezat în cetățuie și a numit-o cetatea lui David.
+luoghi|3|11 12:29
+IT|In quali due città Geroboamo pose i vitelli d'oro?|Betel e Dan|Sichem e Scilo|Samaria e Jezreel|Ghilgal e Hebron|Ne pose uno a Betel e l'altro lo mise a Dan.
+RO|În ce două cetăți a pus Ieroboam vițeii de aur?|Betel și Dan|Sihem și Silo|Samaria și Izreel|Ghilgal și Hebron|A pus unul la Betel, iar pe celălalt l-a pus la Dan.
+luoghi|3|11 16:24
+IT|Da chi comprò Omri il monte di Samaria?|Da Scemer|Da Nabot|Da Araunah|Da Efron|Comprò da Scemer il monte di Samaria per due talenti d'argento.
+RO|De la cine a cumpărat Omri muntele Samariei?|De la Șemer|De la Nabot|De la Aravna|De la Efron|A cumpărat de la Șemer muntele Samaria cu doi talanți de argint.
+luoghi|3|11 17:9
+IT|In quale città fu mandato Elia presso una vedova durante la siccità?|Sarepta di Sidone|Samaria|Betel|Gerico|«Levati, va' a Sarepta di Sidone e rimani là; ecco, io ho ordinato a una vedova di laggiù di darti da mangiare».
+RO|În ce cetate a fost trimis Ilie la o văduvă în timpul secetei?|Sarepta Sidonului|Samaria|Betel|Ierihon|„Scoală-te, du-te la Sarepta, care ține de Sidon, și rămâi acolo. Iată, am poruncit acolo unei femei văduve să te hrănească.”
+luoghi|3|12 2:23
+IT|Salendo verso quale città Eliseo fu schernito dai giovani che gli gridavano «testa pelata»?|Bethel|Gerico|Samaria|Ghilgal|Poi di là Eliseo salì a Bethel; mentre saliva per la strada, uscirono dalla città alcuni giovani e si misero a schernirlo.
+RO|Urcând spre ce cetate a fost batjocorit Elisei de copiii care-i ziceau „pleșuvule”?|Betel|Ierihon|Samaria|Ghilgal|De acolo s-a suit la Betel. Pe când mergea pe drum, niște băieți au ieșit din cetate și și-au bătut joc de el.
+luoghi|3|12 18:4
+IT|Come veniva chiamato il serpente di bronzo di Mosè che il re Ezechia fece a pezzi?|Nehushtan|Baal|Moloc|Dagon|Frantumò il serpente di bronzo che Mosè aveva fatto… e lo chiamò Nehushtan.
+RO|Cum era numit șarpele de aramă al lui Moise pe care l-a sfărâmat împăratul Ezechia?|Nehuștan|Baal|Moloh|Dagon|A sfărâmat șarpele de aramă pe care-l făcuse Moise… Îl numeau Nehuștan.
+luoghi|3|12 20:20
+IT|Che cosa fece Ezechia per portare l'acqua in città?|Il serbatoio e il condotto|Un ponte sul Giordano|Una nave|Un altare nuovo|Ezechia fece il serbatoio e il condotto e portò l'acqua nella città.
+RO|Ce a făcut Ezechia ca să aducă apa în cetate?|Iazul și canalul|Un pod peste Iordan|O corabie|Un altar nou|Ezechia a făcut iazul și canalul și a adus apa în cetate.
+luoghi|3|12 23:10
+IT|Quale luogo nella valle di Ben-Hinnom profanò il re Giosia perché nessuno vi sacrificasse figli a Moloc?|Tofet|Betel|Ghilgal|Beth-Shan|Profanò Tofet, che era nella valle dei figli di Hinnom, perché nessuno facesse più passare il proprio figlio per il fuoco in onore di Moloc.
+RO|Ce loc din valea lui Ben-Hinom a spurcat împăratul Iosia ca nimeni să nu mai treacă pe fiul său prin foc în cinstea lui Moloh?|Tofet|Betel|Ghilgal|Bet-Șan|A spurcat Tofetul în valea fiilor lui Hinom, ca nimeni să nu-și mai treacă fiul sau fiica prin foc în cinstea lui Moloh.
+luoghi|3|16 3:1
+IT|Quale porta di Gerusalemme ricostruirono il sommo sacerdote Eliascib e i sacerdoti?|La porta delle Pecore|La porta dei Pesci|La porta delle Acque|La porta del Letame|Il sommo sacerdote Eliascib si levò con i suoi fratelli sacerdoti e costruirono la porta delle Pecore.
+RO|Ce poartă a Ierusalimului au zidit marele preot Eliașib și preoții?|Poarta Oilor|Poarta Peștilor|Poarta Apelor|Poarta Gunoiului|Marele preot Eliașib s-a sculat cu frații săi, preoții, și au zidit poarta Oilor.
+luoghi|3|40 2:23
+IT|In quale città andò ad abitare Giuseppe con Maria e il bambino, tornati dall'Egitto?|Nazaret|Betlemme|Capernaum|Gerusalemme|Andò ad abitare in una città chiamata Nazaret, affinché si adempisse ciò che era stato detto: «Egli sarà chiamato Nazareno».
+RO|În ce cetate s-a dus să locuiască Iosif cu Maria și Pruncul, la întoarcerea din Egipt?|Nazaret|Betleem|Capernaum|Ierusalim|S-a dus să locuiască într-o cetate numită Nazaret, ca să se împlinească ce fusese vestit: „El va fi chemat Nazarinean.”
+luoghi|4|40 16:13
+IT|Nei dintorni di quale città Gesù chiese ai discepoli: «Chi dice la gente che io sia?»|Cesarea di Filippo|Tiberiade|Cana|Gerico|Giunto Gesù nei dintorni di Cesarea di Filippo, domandò ai suoi discepoli: «Chi dice la gente che sia il Figlio dell'uomo?».
+RO|În părțile cărei cetăți i-a întrebat Isus pe ucenici: „Cine zic oamenii că sunt Eu?”|Cezareea lui Filip|Tiberiada|Cana|Ierihon|Isus a venit în părțile Cezareii lui Filip și a întrebat pe ucenicii Săi: „Cine zic oamenii că sunt Eu, Fiul omului?”
+luoghi|3|40 26:36
+IT|In quale luogo Gesù pregò con i discepoli prima di essere arrestato?|Getsemani|Betania|Golgota|Il Cenacolo|Allora Gesù andò con loro in un luogo detto Getsemani.
+RO|În ce loc S-a rugat Isus cu ucenicii înainte de a fi prins?|Ghetsimani|Betania|Golgota|Odaia de sus|Atunci Isus a venit cu ei într-un loc numit Ghetsimani.
+luoghi|3|43 4:5
+IT|Presso quale città di Samaria si trovava il pozzo di Giacobbe?|Sichar|Sichem|Samaria|Sebaste|Giunse dunque a una città della Samaria, chiamata Sichar, vicina al podere che Giacobbe aveva dato a Giuseppe.
+RO|Lângă ce cetate a Samariei era fântâna lui Iacov?|Sihar|Sihem|Samaria|Sebaste|A ajuns lângă o cetate din Samaria, numită Sihar, aproape de ogorul pe care-l dăduse Iacov fiului său Iosif.
+luoghi|3|43 5:2
+IT|Presso quale porta di Gerusalemme si trovava la vasca di Betesda?|La porta delle Pecore|La porta dei Pesci|La porta Bella|La porta delle Acque|A Gerusalemme, presso la porta delle Pecore, c'è una vasca, chiamata in ebraico Betesda, che ha cinque portici.
+RO|Lângă ce poartă a Ierusalimului era scăldătoarea Betesda?|Poarta Oilor|Poarta Peștilor|Poarta Frumoasă|Poarta Apelor|În Ierusalim, lângă poarta oilor, este o scăldătoare, numită în evreiește Betesda, care are cinci pridvoare.
+luoghi|3|43 19:13
+IT|Come si chiamava in ebraico il luogo del Lastricato dove Pilato sedette in tribunale?|Gabbatha|Golgota|Getsemani|Betesda|Pilato… si sedette in tribunale, nel luogo detto il Lastricato, e in ebraico Gabbatha.
+RO|Cum se numea în evreiește locul numit Pardosit cu pietre, unde a șezut Pilat pe scaunul de judecată?|Gabata|Golgota|Ghetsimani|Betesda|Pilat… a șezut pe scaunul de judecată, în locul numit „Pardosit cu pietre”, iar evreiește „Gabata”.
+luoghi|3|44 9:11
+IT|In quale via di Damasco abitava Giuda, nella cui casa si trovava Saulo?|La via detta Diritta|La via del Tempio|La via Reale|La via dei Mercanti|«Alzati, va' nella via detta Diritta e cerca in casa di Giuda un uomo di Tarso, chiamato Saulo».
+RO|Pe ce stradă din Damasc locuia Iuda, în casa căruia era Saul?|Ulița numită Dreaptă|Ulița Templului|Ulița Împărătească|Ulița Negustorilor|„Scoală-te, du-te pe ulița care se cheamă Dreaptă și caută în casa lui Iuda pe unul numit Saul, un om din Tars.”
+luoghi|3|44 16:14
+IT|Da quale città veniva Lidia, commerciante di porpora?|Tiatiri|Efeso|Filippi|Corinto|Una donna di nome Lidia, commerciante di porpora, della città di Tiatiri, che temeva Dio.
+RO|Din ce cetate era Lidia, vânzătoarea de purpură?|Tiatira|Efes|Filipi|Corint|O femeie numită Lidia, vânzătoare de purpură, din cetatea Tiatira; era o femeie temătoare de Dumnezeu.

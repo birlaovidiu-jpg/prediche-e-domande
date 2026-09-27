@@ -1,0 +1,46 @@
+# Coppie da abbinare (Tempio della conoscenza). Prima riga: un riferimento. Poi IT| e RO| con quattro coppie «sinistra = destra».
+1 6:14
+IT|Noè = L'arca|Mosè = Il pruno ardente|Davide = Goliath|Daniele = La fossa dei leoni
+RO|Noe = Corabia|Moise = Rugul aprins|David = Goliat|Daniel = Groapa cu lei
+40 4:18
+IT|Pietro = Pescatore|Matteo = Esattore delle tasse|Luca = Medico|Paolo = Fabbricante di tende
+RO|Petru = Pescar|Matei = Vameș|Luca = Doctor|Pavel = Făcea corturi
+12 2:11
+IT|Elia = Il carro di fuoco|Eliseo = Il ferro che galleggia|Giona = Il grande pesce|Ezechiele = Le ossa secche
+RO|Ilie = Carul de foc|Elisei = Fierul care plutește|Iona = Peștele cel mare|Ezechiel = Oasele uscate
+1 24:67
+IT|Abrahamo = Sara|Isacco = Rebecca|Giacobbe = Rachele|Boaz = Rut
+RO|Avraam = Sara|Isaac = Rebeca|Iacov = Rahela|Boaz = Rut
+40 2:1
+IT|Betlemme = La nascita di Gesù|Cana = Le nozze|Getsemani = La preghiera|Golgota = La croce
+RO|Betleem = Nașterea lui Isus|Cana = Nunta|Ghetsimani = Rugăciunea|Golgota = Crucea
+2 31:18
+IT|Sinai = Le tavole della legge|Carmelo = Il fuoco dal cielo|Ararat = L'arca|Nebo = Mosè vede la terra promessa
+RO|Sinai = Tablele Legii|Carmel = Focul din cer|Ararat = Corabia|Nebo = Moise vede țara făgăduită
+1 4:8
+IT|Caino = Abele|Giacobbe = Esaù|Mosè = Aaronne|Pietro = Andrea
+RO|Cain = Abel|Iacov = Esau|Moise = Aaron|Petru = Andrei
+11 6:14
+IT|Saul = Il primo re|Salomone = Il tempio|Ezechia = Quindici anni in più|Giosia = Il libro della legge ritrovato
+RO|Saul = Primul împărat|Solomon = Templul|Ezechia = Încă cincisprezece ani|Iosia = Cartea Legii găsită
+1 1:1
+IT|Genesi = La creazione|Esodo = L'uscita dall'Egitto|Atti = La chiesa dei primi cristiani|Apocalisse = Le visioni di Giovanni
+RO|Geneza = Creația|Exodul = Ieșirea din Egipt|Faptele Apostolilor = Biserica primilor creștini|Apocalipsa = Vedeniile lui Ioan
+27 1:1
+IT|Nabucodonosor = Babilonia|Faraone = Egitto|Ciro = Persia|Erode = Giudea
+RO|Nebucadnețar = Babilon|Faraon = Egipt|Cirus = Persia|Irod = Iudeea
+7 7:7
+IT|Gedeone = Trecento uomini|Sansone = La forza|Debora = La palma|Jefte = Il voto
+RO|Ghedeon = Trei sute de oameni|Samson = Puterea|Debora = Finicul|Iefta = Juruința
+42 19:4
+IT|Zaccheo = Il sicomoro|Nicodemo = Di notte|Bartimeo = Il cieco di Gerico|Lazzaro = Uscì dal sepolcro
+RO|Zacheu = Dudul|Nicodim = Noaptea|Bartimeu = Orbul din Ierihon|Lazăr = A ieșit din mormânt
+6 2:1
+IT|Rahab = Le spie|Jael = Sisera|Ester = La regina|Rut = La moabita
+RO|Rahav = Iscoadele|Iael = Sisera|Estera = Împărăteasa|Rut = Moabita
+44 7:59
+IT|Stefano = Il primo martire|Barnaba = Compagno di Paolo|Timoteo = Il giovane discepolo|Lidia = Venditrice di porpora
+RO|Ștefan = Primul martir|Barnaba = Tovarășul lui Pavel|Timotei = Tânărul ucenic|Lidia = Vânzătoare de purpură
+40 14:17
+IT|Cinque pani = Cinquemila uomini|Sette pani = Quattromila uomini|Dodici ceste = Gli avanzi|Due pesci = Con i cinque pani
+RO|Cinci pâini = Cinci mii de bărbați|Șapte pâini = Patru mii de bărbați|Douăsprezece coșuri = Firimiturile rămase|Doi pești = Cu cele cinci pâini
